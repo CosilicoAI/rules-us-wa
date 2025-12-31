@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.200"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_200">
+        <num>RCW 74.09.200</num>
+        <heading>Audits and investigations—Legislative declaration—State authority</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.200
+74.09.195
+&lt;&lt; 
+        74.09.200 &gt;&gt;
+74.09.210
+PDF
+RCW
+74.09.200
+Audits and investigations
+—
+Legislative declaration
+—
+State authority.
+The legislature finds and declares it to be in the public interest and for the protection of the health and welfare of the residents of the state of Washington that a proper regulatory and inspection program be instituted in connection with the providing of medical, dental, and other health services to recipients of public assistance and medically indigent persons. In order to effectively accomplish such purpose and to assure that the recipient of such services receives such services as are paid for by the state of Washington, the acceptance by the recipient of such services, and by practitioners of reimbursement for performing such services, shall authorize the secretary or director, to inspect and audit all records in connection with the providing of such services.
+[
+2011 1st sp.s. c 15 s 14
+;
+1979 ex.s. c 152 s 1
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.38.061"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.061"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.38.061/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.061/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.38.061/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.061/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_38_061">
+        <num>RCW 74.38.061</num>
+        <heading>Expansion of federal programs authorized</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.38
+&gt;
+Section 74.38.061
+74.38.060
+&lt;&lt; 
+        74.38.061 &gt;&gt;
+74.38.070
+PDF
+RCW
+74.38.061
+Expansion of federal programs authorized.
+The department may expand the foster grandparent, senior companion, and retired senior volunteer programs funded under the Federal Volunteer Agency (ACTION) (P.L. 93-113 Title II), or its successor agency, which provide senior citizens with volunteer stipends, out-of-pocket expenses, or wages to perform services in the community.
+[
+1977 ex.s. c 321 s 5
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

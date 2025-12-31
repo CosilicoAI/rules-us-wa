@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.400"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.400"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.400/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.400/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.400/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.400/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_400">
+        <num>RCW 74.39A.400</num>
+        <heading>Personal care services—Community first choice option</heading>
+        <subsection eId="sec_74_39A_400__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department of social and health services shall refinance medicaid personal care services under the community first choice option. Beginning July 1, 2014, the department shall seek stakeholder input on program and system design prior to the submission of a proposal to the center for medicaid and medicare [centers for medicare and medicaid] services. The community first choice option shall be designed in such a way to meet the federal minimum maintenance of effort requirements and all service requirements as specified in federal rule. Optional services may also be included in the benefit package. In the first full year of implementation, the increase in per capita cost of services directly resulting from meeting the federal requirements of the community first choice option, as well as the cost of new optional services, shall not exceed a three percent increase over the per capita costs of personal care services in the fiscal year prior to full implementation of the community first choice option. The three percent limit on new expenditures shall not apply to cost increases that are not the result of implementing the community first choice option, including case load growth, case mix changes, inflation, vendor rate changes, expenditures necessary to meet state and federal law requirements, and any adjustments made pursuant to collective bargaining. The community first choice option must be fully implemented no later than August 30, 2015.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_400__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall use general fund
+—
+state savings from the refinance in this section to offset additional caseload, per capita cost increases, and staff resources necessary to implement the community first choice option. Any remaining general fund
+—
+state savings from the refinance shall be reserved for potential investments in home and community-based services for individuals with developmental disabilities or individuals with long-term care needs, including investments recommended by the joint legislative executive committee on aging and disability and the development and implementation council that the department must convene prior to submitting the proposed community first choice option to the centers for medicare and medicaid services. At a minimum, the final report to the legislature from the joint legislative executive committee on aging and disability must explore the cost and benefit of rate enhancements for providers of long-term services and supports, restoration of hours for in-home clients, additional investment in the family caregiver support program, and additional investment in the individual and family services program or other medicaid services to support individuals with developmental disabilities.
+[
+2014 c 166 s 2
+.]
+NOTES:
+Findings
+—
+2014 c 166:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_400__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the July 31, 2013, state auditor's report on developmental disabilities in Washington indicates that fifteen thousand individuals with developmental disabilities who meet the financial and physical eligibility requirements do not currently receive any services from the state. For that reason, the legislature finds that it is necessary to take action that will increase the number of eligible individuals who may access personal care services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_400__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that by 2030, nearly twenty percent or one out of five people in our state will be age sixty-five or older and our state is not prepared for the growing demand for long-term services and supports. Washington must plan for the future long-term services and supports needs of its residents by utilizing alternative long-term care financing options.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_400__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature further finds that personal care services allow individuals with significant care needs to live in their own homes and communities. By utilizing the community first choice option, an enhanced federal matching percentage would increase the funding available for these services. Further, the community first choice option may increase the self-sufficiency of clients by emphasizing the acquisition, maintenance, and enhancement of skills to complete health-related tasks. For these reasons, the legislature finds that the department of social and health services must refinance personal care services through the community first choice option.&quot; [
+2014 c 166 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_010">
+        <num>RCW 82.50.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_50_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Mobile home&quot; means a mobile home as defined by RCW
+46.04.302
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Park trailer&quot; means a park trailer as defined by RCW
+46.04.622
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Travel trailer&quot; means a travel trailer as defined by RCW
+46.04.623
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Modular home&quot; means a modular home as defined by RCW
+46.04.303
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Camper&quot; means a camper as defined by RCW
+46.04.085
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Motor home&quot; means a motor home as defined by RCW
+46.04.305
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Director&quot; means the director of licensing of the state.
+[
+1989 c 337 s 20
+;
+1979 c 107 s 11
+;
+1977 ex.s. c 22 s 6
+;
+1971 ex.s. c 299 s 35
+;
+1967 ex.s. c 149 s 44
+;
+1961 c 15 s 82.50.010
+. Prior:
+1957 c 269 s 1
+;
+1955 c 139 s 1
+.]
+NOTES:
+Reviser's note:
+Restored to the RCW November 1, 2000, under the Washington supreme court decision in
+Amalgamated Transit v. State
+, 142 Wash.2d 183, 11 P.3d 762</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

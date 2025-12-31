@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.032"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.032"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.032/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.032/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.032/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.032/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_032">
+        <num>RCW 82.08.032</num>
+        <heading>Exemption—Sales, rental, or lease of used park model trailers</heading>
+        <subsection eId="sec_82_08_032__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sales of used park model trailers, as defined in RCW
+82.45.032
+;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_032__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The renting or leasing of used park model trailers, as defined in RCW
+82.45.032
+, when the rental agreement or lease exceeds thirty days in duration.
+[
+2001 c 282 s 3
+.]
+NOTES:
+Intent
+—
+2001 c 282:
+&quot;It is the intent of the legislature to promote fairness in the application of tax. Therefore, for the purposes of excise tax, park model trailers will be taxed in the same manner as mobile homes.&quot; [
+2001 c 282 s 1
+.]
+Effective date
+—
+2001 c 282:
+&quot;This act takes effect August 1, 2001.&quot; [
+2001 c 282 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

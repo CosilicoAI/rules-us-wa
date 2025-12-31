@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0278"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0278"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0278/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0278/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0278/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0278/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0278">
+        <num>RCW 82.08.0278</num>
+        <heading>Exemptions—Sales between political subdivisions resulting from annexation or incorporation. (&lt;i&gt;Effective until January 1, 2030.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_08_0278__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sales to one political subdivision by another political subdivision directly or indirectly arising out of or resulting from the annexation, merger, or incorporation of any part of the territory of one political subdivision by another; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0278__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sales to one political subdivision by another political subdivision pursuant to the terms of a contractual consolidation under which the taxpayers that originally paid a sales or use tax continue to benefit from the personal property.
+[
+2019 c 188 s 1
+;
+1980 c 37 s 44
+. Formerly RCW
+82.08.030</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

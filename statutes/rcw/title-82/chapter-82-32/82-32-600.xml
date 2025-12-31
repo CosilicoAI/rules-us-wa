@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.600"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.600"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.600/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.600/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.600/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.600/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_600">
+        <num>RCW 82.32.600</num>
+        <heading>Annual tax performance reports—Electronic filing</heading>
+        <subsection eId="sec_82_32_600__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Persons required to file annual tax performance reports under RCW
+82.32.534
+must electronically file with the department all reports, returns, and any other forms or information the department requires in an electronic format as provided or approved by the department. As used in this section, &quot;returns&quot; has the same meaning as &quot;return&quot; in RCW
+82.32.050
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_600__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any report, return, or any other form or information required to be filed in an electronic format under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_600__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section is not filed until received by the department in an electronic format.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_600__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may waive the electronic filing requirement in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_600__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section for good cause shown.
+[
+2017 c 135 s 4
+;
+2010 c 114 s 136
+;
+2009 c 461 s 8
+. Prior:
+2008 c 81 s 14
+;
+2008 c 15 s 8
+; prior:
+2007 c 54 s 23
+;
+2007 c 54 s 22
+; prior:
+2006 c 354 s 16
+;
+2006 c 300 s 11
+;
+2006 c 178 s 9
+;
+2006 c 177 s 9
+;
+2006 c 84 s 8
+;
+2005 c 514 s 1002
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+Contingent effective date
+—
+2009 c 461:
+See note following RCW
+82.04.280
+.
+Findings
+—
+Savings
+—
+Effective date
+—
+2008 c 81:
+See notes following RCW
+82.08.975
+.
+Effective date
+—
+2008 c 15:
+See note following RCW
+82.82.010
+.
+Severability
+—
+2007 c 54:
+See note following RCW
+82.04.050
+.
+Effective dates
+—
+2006 c 354:
+See note following RCW
+82.04.4268
+.
+Effective dates
+—
+Contingent effective date
+—
+2006 c 300:
+See note following RCW
+82.04.261
+.
+Effective date
+—
+Severability
+—
+2006 c 178:
+See notes following RCW
+82.75.010
+.
+Effective date
+—
+2006 c 177 ss 1-9:
+See note following RCW
+82.04.250
+.
+Effective date
+—
+2006 c 84 ss 2-8:
+See note following RCW
+82.04.2404
+.
+Findings
+—
+Intent
+—
+2006 c 84:
+See note following RCW
+82.04.2404
+.
+Effective date
+—
+2005 c 514 ss 501 and 1002:
+See note following RCW
+82.04.4463
+.
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

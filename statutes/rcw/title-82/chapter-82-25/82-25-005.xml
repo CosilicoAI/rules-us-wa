@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.25.005"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.25.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.25.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_25_005">
+        <num>RCW 82.25.005</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_25_005__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Accessible container&quot; means a container that is intended to be opened. The term does not mean a closed cartridge or closed container that is not intended to be opened such as a disposable e-cigarette.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Affiliated&quot; means related in any way by virtue of any form or amount of common ownership, control, operation, or management.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Board&quot; means the Washington state liquor and cannabis board.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Business&quot; means any trade, occupation, activity, or enterprise engaged in selling or distributing vapor products in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Distributor&quot; means any person:</p>
+          </content>
+          <subsection eId="sec_82_25_005__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Engaged in the business of selling vapor products in this state who brings, or causes to be brought, into this state from outside the state any vapor products for sale;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_005__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Who makes, manufactures, fabricates, or stores vapor products in this state for sale in this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_005__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Engaged in the business of selling vapor products outside this state who ships or transports vapor products to retailers or consumers in this state; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_005__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Engaged in the business of selling vapor products in this state who handles for sale any vapor products that are within this state but upon which tax has not been imposed.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Indian country&quot; has the same meaning as provided in RCW
+82.24.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Manufacturer&quot; has the same meaning as provided in RCW
+70.345.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Manufacturer's representative&quot; means a person hired by a manufacturer to sell or distribute the manufacturer's vapor products and includes employees and independent contractors.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Person&quot; means: Any individual, receiver, administrator, executor, assignee, trustee in bankruptcy, trust, estate, firm, copartnership, joint venture, club, company, joint stock company, business trust, municipal corporation, corporation, limited liability company, association, or society; the state and its departments and institutions; any political subdivision of the state of Washington; and any group of individuals acting as a unit, whether mutual, cooperative, fraternal, nonprofit, or otherwise. Except as provided otherwise in this chapter, &quot;person&quot; does not include any person immune from state taxation, including the United States or its instrumentalities, and federally recognized Indian tribes and enrolled tribal members, conducting business within Indian country.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Place of business&quot; means any place where vapor products are sold or where vapor products are manufactured, stored, or kept for the purpose of sale, including any vessel, vehicle, airplane, or train.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Retail outlet&quot; has the same meaning as provided in RCW
+70.345.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Retailer&quot; has the same meaning as provided in RCW
+70.345.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Sale&quot; has the same meaning as provided in RCW
+70.345.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Taxpayer&quot; means a person liable for the tax imposed by this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_005__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Vapor product&quot; means any noncombustible product containing a solution or other consumable substance, regardless of whether it contains nicotine, which employs a mechanical heating element, battery, or electronic circuit regardless of shape or size that can be used to produce vapor from the solution or other substance, including an electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe, or similar product or device. The term also includes any cartridge or other container of liquid nicotine, solution, or other consumable substance, regardless of whether it contains nicotine, that is intended to be used with or in a device that can be used to deliver aerosolized or vaporized nicotine to a person inhaling from the device and is sold for such purpose.</p>
+          </content>
+          <subsection eId="sec_82_25_005__subsec_15__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_005__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any product approved by the United States food and drug administration for sale as a tobacco cessation product, medical device, or for other therapeutic purposes when such product is marketed and sold solely for such an approved purpose;</p>
+            </content>
+            <subsection eId="sec_82_25_005__subsec_15__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Any product that will become an ingredient or component in a vapor product manufactured by a distributor; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_25_005__subsec_15__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Any product that meets the definition of cannabis, useable cannabis, cannabis concentrates, cannabis-infused products, cigarette, or tobacco products.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_25_005__subsec_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_005__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Cigarette&quot; has the same meaning as provided in RCW
+82.24.010
+; and</p>
+            </content>
+            <subsection eId="sec_82_25_005__subsec_15__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Cannabis,&quot; &quot;useable cannabis,&quot; &quot;cannabis concentrates,&quot; and &quot;cannabis-infused products&quot; have the same meaning as provided in RCW
+69.50.101
+.
+[
+2022 c 16 s 163
+;
+2019 c 445 s 101
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.745"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.745"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.745/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.745/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.745/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.745/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_745">
+        <num>RCW 82.32.745</num>
+        <heading>Software certification by department—Classifications—Liability—Streamlined sales and use tax agreement</heading>
+        <subsection eId="sec_82_32_745__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall review software submitted to the governing board of the agreement for certification as a certified automated system under the terms of the agreement. The review shall include a determination of whether the software adequately classifies this state's product-based sales tax exemptions. Upon completing the review, the department shall certify to the governing board its acceptance or rejection of the classifications made by the system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_745__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Certified service providers and model 2 sellers shall be held harmless and are not liable for sales or use taxes, nor interest or penalties on those taxes, not collected due to reliance on the certification of the department under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_745__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_745__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The relief from liability provided to certified service providers and model 2 sellers under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_745__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section does not apply with respect to the incorrect classification of an item or transaction into a product-based exemption certified by the department unless that item or transaction is contained in a listing of items or transactions within a product definition approved by the governing board or the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_745__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If the department determines that an item or transaction is incorrectly classified as to its taxability, it shall notify the certified service provider or model 2 seller of the incorrect classification. The certified service provider or model 2 seller has ten days to revise the classification after receipt of notice from the department. Upon the expiration of the ten days, the certified service provider or model 2 seller is liable for the failure to collect the correct amount of sales or use taxes.
+[
+2007 c 6 s 702
+.]
+NOTES:
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

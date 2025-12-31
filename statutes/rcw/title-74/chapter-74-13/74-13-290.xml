@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.290"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_290">
+        <num>RCW 74.13.290</num>
+        <heading>Fewest possible placements for children—Preferred placements</heading>
+        <subsection eId="sec_74_13_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To provide stability to children in out-of-home care, placement selection shall be made with a view toward the fewest possible placements for each child. If possible, the initial placement shall be viewed as the only placement for the child. Pursuant to RCW
+13.34.060
+and
+13.34.130
+, placement of the child with a relative or other suitable person is the preferred option. The use of short-term interim placements of thirty days or less to protect the child's health or safety while the placement of choice is being arranged is not a violation of this principle.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If a child has been previously placed in out-of-home care and is subsequently returned to out-of-home care, and the department cannot locate an appropriate and available relative or other suitable person, the preferred placement for the child is in a foster family home where the child previously was placed, if the following conditions are met:</p>
+          </content>
+          <subsection eId="sec_74_13_290__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The foster family home is available and willing to care for the child;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The foster family is appropriate and able to meet the child's needs; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_290__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The placement is in the best interest of the child.
+[
+2009 c 482 s 1
+;
+1990 c 284 s 11
+.]
+NOTES:
+Finding
+—
+Effective date
+—
+1990 c 284:
+See notes following RCW
+74.13.250
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

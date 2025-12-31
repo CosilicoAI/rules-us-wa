@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.610"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.610"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.610/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.610/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.610/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.610/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_610">
+        <num>RCW 82.04.610</num>
+        <heading>Exemptions—Import or export commerce</heading>
+        <subsection eId="sec_82_04_610__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to:</p>
+          </content>
+          <subsection eId="sec_82_04_610__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The sale of tangible personal property in export commerce; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The wholesale sale of tangible personal property in import commerce, but only when the wholesale sale is:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A sale of unroasted coffee beans; or</p>
+            </content>
+            <subsection eId="sec_82_04_610__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Between a parent company and its wholly owned subsidiary.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_610__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Tangible personal property is in import commerce while the property is in the process of import transportation. Except as provided in</p>
+          </content>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection, property is in the process of import transportation from the time the property begins its transportation at a point outside of the United States until the time that the property is delivered to the buyer in this state. Property is also in the process of import transportation if it is merely flowing through this state on its way to a destination in some other state or country. However, property is no longer in the process of import transportation when the property is:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Put to actual use in any state, territory, or possession of the United States for any purpose;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Resold by the importer or any other person after the property has arrived in this state or any other state, territory, or possession of the United States, regardless of whether the property is in its original unbroken package or container; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Processed, handled, or otherwise stopped in transit for a business purpose other than shipping needs, if the processing, handling or other stoppage of transit occurs within the United States, including any of its possessions or territories, or the territorial waters of this state or any other state, regardless of whether the processing, handling, or other stoppage of transit occurs within a foreign trade zone.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Tangible personal property is in export commerce when the seller delivers the property to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The buyer at a destination in a foreign country;</p>
+            </content>
+            <subsection eId="sec_82_04_610__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A carrier consigned to and for transportation to a destination in a foreign country;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_610__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The buyer at shipside or aboard the buyer's vessel or other vehicle of transportation under circumstances where it is clear that the process of exportation of the property has begun; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_610__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The buyer in this state if the property is capable of being transported to a foreign destination under its own power, the seller files a shipper's export declaration with respect to the property listing the seller as the exporter, and the buyer immediately transports the property directly to a destination in a foreign country. This subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_610__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>does not apply to sales of motor vehicles as defined in RCW
+46.04.320
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_610__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The exemption under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_610__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>applies with respect to property delivered to the buyer in this state if, at the time of delivery, there is a certainty of export, and the process of export has begun. The process of exportation will not be deemed to have begun if the property is merely in storage awaiting shipment, even though there is reasonable certainty that the property will be exported. The intention to export, as evidenced for example, by financial and contractual relationships does not indicate certainty of export. The process of exportation begins when the property starts its final and certain continuous movement to a destination in a foreign country.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_610__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Persons claiming an exemption under this section must keep and maintain records for the period required by RCW
+82.32.070
+establishing their right to the exemption.
+[
+2019 c 8 s 501
+;
+2007 c 477 s 2
+.]
+NOTES:
+Effective date
+—
+2019 c 8 ss 101, 104, 106, 201, 402-405, and 501:
+See note following RCW
+82.02.250
+.
+Existing rights and liability
+—
+Retroactive application
+—
+2019 c 8:
+See notes following RCW
+82.02.250
+.
+Intent
+—
+Purpose
+—
+2007 c 477:
+&quot;Because of the uncertainty regarding the constitutional limitations on the taxation of import and export sales of tangible personal property, the legislature recognizes the need to provide clarity in the taxation of imports and exports. It is the legislature's intent to provide a statutory tax exemption for the sale of tangible personal property in import or export commerce, which is not dependent on future interpretation of the constitutional limitations on the taxation of imports and exports by the courts. The sole purpose of the legislature in enacting RCW
+82.04.610
+and
+82.08.990
+is to codify current department practice in the taxation of import and export sales of tangible personal property consistent with WAC 458-20-193C. It is not the intent of the legislature in enacting RCW
+82.04.610
+and
+82.08.990
+to eliminate, narrow, or expand existing exemptions under WAC 458-20-193C.&quot; [
+2007 c 477 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

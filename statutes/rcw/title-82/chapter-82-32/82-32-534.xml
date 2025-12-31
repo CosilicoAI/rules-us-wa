@@ -1,0 +1,274 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.534"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.534"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.534/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.534/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.534/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.534/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_534">
+        <num>RCW 82.32.534</num>
+        <heading>Annual report requirement for tax preferences</heading>
+        <subsection eId="sec_82_32_534__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>must indicate on the annual report the quantity of product produced in this state during the time period covered by the report.</p>
+          </content>
+          <subsection eId="sec_82_32_534__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If a person filing a report under this section did not file a report with the department in the previous calendar year, the report filed under this section must also include employment and wage information for the calendar year immediately preceding the calendar year for which a tax preference was claimed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_534__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>As part of the annual report, the department and the joint legislative audit and review committee may request additional information necessary to measure the results of, or determine eligibility for, the tax preference.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_534__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The report must include the amount of the tax preference claimed for the calendar year covered by the report. For a person that claimed an exemption provided in RCW
+82.08.025651
+or
+82.12.025651
+, the report must include the amount of tax exempted under those sections in the prior calendar year for each general area or category of research and development for which exempt machinery and equipment and labor and services were acquired in the prior calendar year.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Other than information requested under subsection</p>
+          </content>
+          <subsection eId="sec_82_32_534__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the information contained in an annual report filed under this section is not subject to the confidentiality provisions of RCW
+82.32.330
+and may be disclosed to the public upon request.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_534__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided by law, if a person claims a tax preference that requires an annual report under this section but fails to submit a complete report by the due date or any extension under RCW
+82.32.590
+, the department must declare:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_534__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Thirty-five percent of the amount of the tax preference claimed for the previous calendar year to be immediately due and payable;</p>
+            </content>
+            <subsection eId="sec_82_32_534__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An additional fifteen percent of the amount of the tax preference claimed for the previous calendar year to be immediately due and payable if the person has previously been assessed under this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>for failure to submit a report under this section for the same tax preference; and
+(iii) If the tax preference is a deferral of tax, the amount immediately due under this subsection is the deferred tax divided by the number of years in the repayment period. If the economic benefits of the deferral are passed to a lessee, the lessee is responsible for payment to the extent the lessee has received the economic benefit.</p>
+          </content>
+          <subsection eId="sec_82_32_534__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may not assess interest or penalties on amounts due under this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department must use the information from this section to prepare summary descriptive statistics by category. No fewer than three taxpayers may be included in any category. The department must report these statistics to the legislature each year by December 31st.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_82_32_534__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Person&quot; has the meaning provided in RCW
+82.04.030
+and also includes the state and its departments and institutions.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_534__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Tax preference&quot; has the meaning provided in RCW
+43.136.021
+and includes only the tax preferences requiring a report under this section.
+[
+2022 c 56 s 10
+;
+2021 c 145 s 19
+;
+2017 c 135 s 1
+;
+2016 c 175 s 1
+;
+2014 c 97 s 102
+;
+2010 c 114 s 103
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+&quot;This act takes effect January 1, 2018.&quot; [
+2017 c 135 s 48
+.]
+Effective date
+—
+2016 c 175:
+&quot;This act takes effect July 1, 2016.&quot; [
+2016 c 175 s 4
+.]
+Application
+—
+Prospective and retroactive
+—
+2016 c 175:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In addition to applying prospectively, sections 1</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>and 2</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this act apply retroactively for a taxpayer who has filed an appeal regarding taxes, penalties, and interest owed under RCW
+82.32.534
+or *
+82.32.585
+before January 1, 2016, and the appeal is pending before the department of revenue or the board of tax appeals as of July 1, 2016.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except for taxpayers described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, sections 1</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>and 2</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this act apply to amounts due and payable under sections 1</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>and 2</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this act on or after July 1, 2017.&quot; [
+2016 c 175 s 3
+.]
+*Reviser's note:
+RCW
+82.32.585
+was repealed by 2017 c 135 s 2, effective January 1, 2018.
+Annual surveys and reports
+—
+Recommendations to update and improve
+—
+2013 2nd sp.s. c 13:
+&quot;By December 1, 2013, the department of revenue, in consultation with the joint legislative audit and review committee, must make recommendations to the appropriate fiscal committees of the legislature on ways to update and improve the annual report and annual survey. The recommendations must include suggested revisions to the report and survey that would make the data more relevant and reduce the administrative burden on the taxpayer.&quot; [
+2013 2nd sp.s. c 13 s 1801
+.]
+Application
+—
+2010 c 114:
+&quot;Those provisions of sections 101 through 103, 105 through 109, 111 through 116, 118 through 122, 124, 126 through 128, 130, 132 through 149, and 151 through 153 of this act that relate to annual surveys and annual reports apply beginning with annual surveys and annual reports due in 2011 and thereafter.&quot; [
+2010 c 114 s 203
+.]
+Finding
+—
+Intent
+—
+2010 c 114:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that accountability and effectiveness are important aspects of setting tax policy. In order to make policy choices regarding the best use of limited state resources, the legislature needs information on how a tax preference is used. In recent years, the legislature has enacted or extended numerous tax preferences that require the reporting of information to the department of revenue. Although there are many similarities in the requirements, and only two distinct accountability documents, there is a lack of uniformity in the information reported, penalties for failure to file, due dates, filing extensions, and filing requirements. Greater uniformity in the data reported is necessary to adequately compare tax preference programs. The legislature intends to create two sets of uniform reporting requirements that apply to the existing tax preferences and can be used in future legislation granting additional tax preferences.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_534__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislative fiscal committees or the department of revenue are required to study many of the existing tax preferences and report to the legislature at least once. Because chapter
+43.136
+RCW now requires the joint legislative audit and review committee, with support from the department of revenue, to comprehensively review most tax preferences every ten years and provide a report to the legislature, a number of redundant studies by the legislative fiscal committees and the department of revenue have been eliminated. However, the department of revenue will continue to prepare summary descriptive statistics by category and report the statistics to the legislature each year.&quot; [
+2010 c 114 s 101
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

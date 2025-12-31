@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.741"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.741"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.741/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.741/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.741/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.741/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_741">
+        <num>RCW 74.09.741</num>
+        <heading>Adjudicative proceedings</heading>
+        <subsection eId="sec_74_09_741__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The following persons have the right to an adjudicative proceeding:</p>
+          </content>
+          <subsection eId="sec_74_09_741__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any applicant or recipient who is aggrieved by a decision of the authority or an authorized agency of the authority; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A current or former recipient who is aggrieved by the authority's claim that he or she owes a debt for overpayment of assistance.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section:</p>
+          </content>
+          <subsection eId="sec_74_09_741__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Applicant&quot; means any person who has made a request, or on behalf of whom a request has been made to the authority for any medical services program established under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Recipient&quot; means a person who is receiving benefits from the authority for any medical services program established in this chapter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>An applicant or recipient has no right to an adjudicative proceeding when the sole basis for the authority's decision is a federal or state law requiring an assistance adjustment for a class of applicants or recipients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>An applicant or recipient may file an application for an adjudicative proceeding with either the authority or the department and must do so within 90 calendar days after receiving notice of the aggrieving decision unless good cause is shown, to the extent allowable under federal law. The authority shall determine which agency is responsible for representing the state of Washington in the hearing, in accordance with agreements entered pursuant to RCW
+41.05.021
+.</p>
+          </content>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purpose of this subsection, good cause is defined as a substantive reason or legal justification for failing to meet a hearing deadline. Good cause to fail to meet a hearing deadline may include, but is not limited to: Military deployment, medical reasons, housing instability, language barriers, or domestic violence.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The authority or the department shall not grant a request for a hearing for good cause if the request is filed more than one year after the aggrieving decision.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The adjudicative proceeding is governed by the administrative procedure act, chapter
+34.05
+RCW, and this subsection. The following requirements shall apply to adjudicative proceedings in which an appellant seeks review of decisions made by more than one agency. When an appellant files a single application for an adjudicative proceeding seeking review of decisions by more than one agency, this review shall be conducted initially in one adjudicative proceeding. The presiding officer may sever the proceeding into multiple proceedings on the motion of any of the parties, when:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>All parties consent to the severance; or</p>
+            </content>
+            <subsection eId="sec_74_09_741__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Either party requests severance without another party's consent, and the presiding officer finds there is good cause for severing the matter and that the proposed severance is not likely to prejudice the rights of an appellant who is a party to any of the severed proceedings.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If there are multiple adjudicative proceedings involving common issues or parties where there is one appellant and both the authority and the department are parties, upon motion of any party or upon his or her own motion, the presiding offer may consolidate the proceedings if he or she finds that the consolidation is not likely to prejudice the rights of the appellant who is a party to any of the consolidated proceedings.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The adjudicative proceeding shall be conducted at the local community services office or other location in Washington convenient to the applicant or recipient and, upon agreement by the applicant or recipient, may be conducted telephonically.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The applicant or recipient, or his or her representative, has the right to inspect his or her file from the authority and, upon request, to receive copies of authority documents relevant to the proceedings free of charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The applicant or recipient has the right to a copy of the audio recording of the adjudicative proceeding free of charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>If a final adjudicative order is issued in favor of an applicant, medical services benefits must be provided from the date of earliest eligibility, the date of denial of the application for assistance, or 45 days following the date of application, whichever is soonest. If a final adjudicative order is issued in favor of a recipient, medical services benefits must be provided from the effective date of the authority's decision.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_4__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The authority is limited to recovering an overpayment arising from assistance being continued pending the adjudicative proceeding to the amount recoverable up to the 60th day after the director's receipt of the application for an adjudicative proceeding.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If the director requires that a party seek administrative review of an initial order to an adjudicative proceeding governed by this section, in order for the party to exhaust administrative remedies pursuant to RCW
+34.05.534
+, the director shall adopt and implement rules in accordance with this subsection.</p>
+          </content>
+          <subsection eId="sec_74_09_741__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director, in consultation with the secretary, shall adopt rules to create a process for parties to seek administrative review of initial orders issued pursuant to RCW
+34.05.461
+in adjudicative proceedings governed by this subsection when multiple agencies are parties.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This process shall seek to minimize any procedural complexities imposed on appellants that result from multiple agencies being parties to the matter, without prejudicing the rights of parties who are public assistance applicants or recipients.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_741__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Nothing in this subsection shall impose or modify any legal requirement that a party seek administrative review of initial orders in order to exhaust administrative remedies pursuant to RCW
+34.05.534
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This subsection only applies to an adjudicative proceeding in which the appellant is an applicant for or recipient of medical services programs established under this chapter and the issue is his or her eligibility or ineligibility due to the assignment or transfer of a resource. The burden is on the authority or its authorized agency to prove by a preponderance of the evidence that the person knowingly and willingly assigned or transferred the resource at less than market value for the purpose of qualifying or continuing to qualify for medical services programs established under this chapter. If the prevailing party in the adjudicative proceeding is the applicant or recipient, he or she is entitled to reasonable attorneys' fees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>When an applicant or recipient files a petition for judicial review as provided in RCW
+34.05.514
+of an adjudicative order entered with respect to the medical services program, no filing fee may be collected from the person and no bond may be required on any appeal. In the event that the superior court, the court of appeals, or the supreme court renders a decision in favor of the applicant or recipient, the person is entitled to reasonable attorneys' fees and costs. If a decision of the court is made in favor of an applicant, assistance shall be paid from the date of earliest eligibility, the date of the denial of the application for assistance, or 45 days following the date of application, whichever is soonest. If a decision of the court is made in favor of a recipient, assistance shall be paid from the effective date of the authority's decision.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The provisions of RCW
+74.08.080
+do not apply to adjudicative proceedings requested or conducted with respect to the medical services program pursuant to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_741__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The authority shall adopt any rules it deems necessary to implement this section.
+[
+2022 c 163 s 2
+;
+2011 1st sp.s. c 15 s 53
+.]
+NOTES:
+Conflict with federal requirements
+—
+Effective date
+—
+2022 c 163:
+See notes following RCW
+74.08.080
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

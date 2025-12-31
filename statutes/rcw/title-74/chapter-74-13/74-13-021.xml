@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.021"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.021"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.021/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.021/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.021/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.021/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_021">
+        <num>RCW 74.13.021</num>
+        <heading>Developmentally disabled child—Defined</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.021
+74.13.020
+&lt;&lt; 
+        74.13.021 &gt;&gt;
+74.13.025
+PDF
+RCW
+74.13.021
+Developmentally disabled child
+—
+Defined.
+As used in this chapter, &quot; developmentally disabled child&quot; is a child who has a developmental disability as defined in RCW
+71A.10.020
+and whose parent, guardian, or legal custodian and with the department mutually agree that services appropriate to the child's needs cannot be provided in the home.
+[
+1998 c 229 s 3
+;
+1997 c 386 s 15
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

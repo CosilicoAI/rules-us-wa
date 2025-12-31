@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.060"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_060">
+        <num>RCW 74.15.060</num>
+        <heading>Health protection—Powers and duties of secretary of health</heading>
+        <subsection eId="sec_74_15_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To make or cause to be made such inspections and investigations of agencies as may be deemed necessary; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To issue to applicants for licenses hereunder who comply with the requirements adopted hereunder, a certificate of compliance, a copy of which shall be presented to the department before a license shall be issued, except that an initial license may be issued as provided in RCW
+74.15.120
+.
+[
+2017 3rd sp.s. c 6 s 410
+;
+1991 c 3 s 376
+;
+1989 1st ex.s. c 9 s 265
+;
+1987 c 524 s 14
+;
+1982 c 118 s 9
+;
+1970 ex.s. c 18 s 14
+;
+1967 c 172 s 6
+.]
+NOTES:
+Effective date
+—
+2017 3rd sp.s. c 6 ss 102, 104-115, 201-227, 301-337, 401-419, 501-513, 801-803, and 805-822:
+See note following RCW
+43.216.025
+.
+Conflict with federal requirements
+—
+2017 3rd sp.s. c 6:
+See RCW
+43.216.908
+.
+Effective date
+—
+Severability
+—
+1989 1st ex.s. c 9:
+See RCW
+43.70.910
+and
+43.70.920
+.
+Effective date
+—
+Severability
+—
+1970 ex.s. c 18:
+See notes following RCW
+43.20A.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

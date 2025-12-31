@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.200"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_200">
+        <num>RCW 74.39A.200</num>
+        <heading>Training curricula, materials—In public domain—Exceptions</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.39A
+&gt;
+Section 74.39A.200
+74.39A.180
+&lt;&lt; 
+        74.39A.200 &gt;&gt;
+74.39A.210
+PDF
+RCW
+74.39A.200
+Training curricula, materials
+—
+In public domain
+—
+Exceptions.
+All training curricula and material, except competency testing material, developed by or for the department and used in part or in whole for the purpose of improving provider and caregiver knowledge and skill are in the public domain unless otherwise protected by copyright law and are subject to disclosure under chapter
+42.56
+RCW. Any training curricula and material developed by a private entity through a contract with the department are also considered part of the public domain and shall be shared subject to copyright restrictions. Any proprietary curricula and material developed by a private entity for the purposes of training staff in facilities licensed under chapter
+18.20
+or
+70.128
+RCW or individual providers and home care agency providers under this chapter and approved for training by the department are not part of the public domain.
+[
+2005 c 274 s 355
+;
+2000 c 121 s 11
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

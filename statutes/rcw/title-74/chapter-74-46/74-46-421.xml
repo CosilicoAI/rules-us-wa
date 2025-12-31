@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.421"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.421"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.421/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.421/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.421/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.421/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_421">
+        <num>RCW 74.46.421</num>
+        <heading>Purpose of part E—Nursing facility medicaid payment rates</heading>
+        <subsection eId="sec_74_46_421__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The purpose of *part E of this chapter is to determine nursing facility medicaid payment rates that, in the aggregate for all participating nursing facilities, are in accordance with the biennial appropriations act.</p>
+          </content>
+          <subsection eId="sec_74_46_421__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall use the nursing facility medicaid payment rate methodologies described in this chapter to determine initial component rate allocations for each medicaid nursing facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_421__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The initial component rate allocations shall be subject to adjustment as provided in this section in order to assure that the statewide average payment rate to nursing facilities is less than or equal to the statewide average payment rate specified in the biennial appropriations act.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_46_421__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing in this chapter shall be construed as creating a legal right or entitlement to any payment that</p>
+          </content>
+          <subsection eId="sec_74_46_421__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>has not been adjusted under this section or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_421__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>would cause the statewide average payment rate to exceed the statewide average payment rate specified in the biennial appropriations act.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_421__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The statewide average payment rate for any state fiscal year under the nursing facility payment system, weighted by patient days, shall not exceed the annual statewide weighted average nursing facility payment rate identified for that fiscal year in the biennial appropriations act.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_421__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the department determines that the weighted average nursing facility payment rate calculated in accordance with this chapter is likely to exceed the weighted average nursing facility payment rate identified in the biennial appropriations act, then the department shall adjust all nursing facility payment rates proportional to the amount by which the weighted average rate allocations would otherwise exceed the budgeted rate amount. Any such adjustments for the current fiscal year shall only be made prospectively, not retrospectively, and shall be applied proportionately to each component rate allocation for each facility.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_421__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If any final order or final judgment, including a final order or final judgment resulting from an adjudicative proceeding or judicial review permitted by chapter
+34.05
+RCW, would result in an increase to a nursing facility's payment rate for a prior fiscal year or years, the department shall consider whether the increased rate for that facility would result in the statewide weighted average payment rate for all facilities for such fiscal year or years to be exceeded. If the increased rate would result in the statewide average payment rate for such year or years being exceeded, the department shall increase that nursing facility's payment rate to meet the final order or judgment only to the extent that it does not result in an increase to the statewide weighted average payment rate for all facilities.
+[
+2008 c 263 s 1
+;
+2001 1st sp.s. c 8 s 4
+;
+1999 c 353 s 3
+;
+1998 c 322 s 18
+.]
+NOTES:
+*Reviser's note:
+Chapter
+74.46
+RCW was previously divided by parts. Some of the sections that were included in Part E have since been repealed or have expired.
+Severability
+—
+Effective dates
+—
+2001 1st sp.s. c 8:
+See notes following RCW
+74.46.020
+.
+Effective dates
+—
+1999 c 353:
+See note following RCW
+74.46.020
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

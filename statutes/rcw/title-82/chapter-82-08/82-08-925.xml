@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.925"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.925"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.925/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.925/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.925/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.925/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_925">
+        <num>RCW 82.08.925</num>
+        <heading>Exemptions—Dietary supplements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.925
+82.08.920
+&lt;&lt; 
+        82.08.925 &gt;&gt;
+82.08.935
+PDF
+RCW
+82.08.925
+Exemptions
+—
+Dietary supplements.
+The tax levied by RCW
+82.08.020
+shall not apply to sales of dietary supplements for human use dispensed or to be dispensed to patients, pursuant to a prescription. &quot;Dietary supplement&quot; has the same meaning as in RCW
+82.08.0293
+.
+[
+2003 c 168 s 302
+.]
+NOTES:
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

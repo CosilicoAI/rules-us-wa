@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.350"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.350"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.350/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.350/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.350/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.350/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_350">
+        <num>RCW 74.04.350</num>
+        <heading>Federal surplus commodities—Not to be construed as public assistance, eligibility not affected</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.350
+74.04.340
+&lt;&lt; 
+        74.04.350 &gt;&gt;
+74.04.360
+PDF
+RCW
+74.04.350
+Federal surplus commodities
+—
+Not to be construed as public assistance, eligibility not affected.
+Federal surplus commodities shall not be deemed or construed to be public assistance and care or a substitute, in whole or in part, therefor; and the receipt of such commodities by eligible families and individuals shall not subject them, their legally responsible relatives, their property, or their estates to any demand, claim, or liability on account thereof. A person's need or eligibility for public assistance or care shall not be affected by his or her receipt of federal surplus commodities.
+[
+2013 c 23 s 195
+;
+1959 c 26 s 74.04.350
+. Prior:
+1957 c 187 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

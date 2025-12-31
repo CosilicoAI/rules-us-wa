@@ -1,0 +1,331 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4266"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4266"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4266/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4266/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4266/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4266/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4266">
+        <num>RCW 82.04.4266</num>
+        <heading>Exemptions—Fruit and vegetable businesses. (Expires July 1, 2035.)</heading>
+        <subsection eId="sec_82_04_4266__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to the value of products or the gross proceeds of sales derived from:</p>
+          </content>
+          <subsection eId="sec_82_04_4266__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Manufacturing fruits or vegetables by canning, preserving, freezing, processing, or dehydrating fresh fruits or vegetables; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4266__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Selling at wholesale fruits or vegetables manufactured by the seller by canning, preserving, freezing, processing, or dehydrating fresh fruits or vegetables and sold to purchasers who transport in the ordinary course of business the goods out of this state. A person taking an exemption under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4266__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>must keep and preserve records for the period required by RCW
+82.32.070
+establishing that the goods were transported by the purchaser in the ordinary course of business out of this state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;fruits&quot; and &quot;vegetables&quot; do not include cannabis, useable cannabis, or cannabis-infused products.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A person claiming the exemption provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2035.
+[
+2023 c 422 s 3
+;
+2022 c 16 s 142
+;
+2020 c 139 s 5
+;
+2015 3rd sp.s. c 6 s 202
+;
+2014 c 140 s 9
+;
+2012 2nd sp.s. c 6 s 201
+;
+2011 c 2 s 202
+(Initiative Measure No. 1107, approved November 2, 2010);
+2010 1st sp.s. c 23 s 504
+; (2010 1st sp.s. c 23 s 503 expired June 10, 2010);
+2010 c 114 s 111
+;
+2006 c 354 s 3
+;
+2005 c 513 s 1
+.]
+NOTES:
+Tax preference performance statement
+—
+2023 c 422 ss 2-5:
+See note following RCW
+82.04.4268
+.
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Effective dates
+—
+2020 c 272; 2017 c 323; 2015 3rd sp.s. c 6:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided otherwise in this part, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2015.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Parts IV, VI, VIII, and XIX of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect September 1, 2015.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Part X of this act takes effect October 1, 2016.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Section 1105 of this act takes effect January 1, 2016.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Except for section 2004 of this act, Part XX of this act takes effect January 1, 2019.&quot; [
+2020 c 272 s 5
+;
+2017 c 323 s 301
+;
+2015 3rd sp.s. c 6 s 2301
+.]
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 202-205:
+&quot;This section is the tax preference performance statement for the agricultural processor tax exemptions in sections 202 through 205 of this act. The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to accomplish the general purposes indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_04_4266__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and (e).</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to create and retain jobs and continue providing tax relief to the food processing industry.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To measure the effectiveness of the exemptions in sections 202 through 205 of this act in achieving the public policy objectives described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee must evaluate the following:</p>
+          </content>
+          <subsection eId="sec_82_04_4266__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The number of businesses that claim the exemptions in sections 202 through 205 of this act;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4266__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The change in total taxable income for taxpayers claiming the exemptions under sections 202 through 205 of this act;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4266__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The change in total employment for taxpayers claiming the exemptions under sections 202 through 205 of this act; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4266__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For each calendar year, the total amount of exemptions claimed under sections 202 through 205 of this act as a percentage of total taxable income for taxpayers within taxable income categories.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The information provided in the annual survey submitted by the taxpayers under *RCW
+82.32.585
+, tax data collected by the department of revenue, and data collected by the employment security department is intended to provide the informational basis for the evaluation under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In addition to the data sources described under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may use any other data it deems necessary in performing the evaluation under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4266__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.&quot; [
+2015 3rd sp.s. c 6 s 201
+.]
+*Reviser's note:
+RCW
+82.32.585
+was repealed by 2017 c 135 s 2, effective January 1, 2018.
+Existing rights, liabilities, or obligations
+—
+Effective dates
+—
+Contingent effective dates
+—
+2012 2nd sp.s. c 6:
+See notes following RCW
+82.04.29005
+.
+Findings
+—
+Construction
+—
+2011 c 2 (Initiative Measure No. 1107):
+See notes following RCW
+82.08.0293
+.
+Expiration date
+—
+2010 1st sp.s. c 23 ss 503, 505, and 514:
+&quot;Sections 503, 505, and 514 of this act expire June 10, 2010.&quot; [
+2010 1st sp.s. c 23 s 1711
+.]
+Effective date
+—
+2010 1st sp.s. c 23 ss 504, 506, and 515:
+&quot;Sections 504, 506, and 515 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect June 10, 2010.&quot; [
+2010 1st sp.s. c 23 s 1712
+.]
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective dates
+—
+2006 c 354:
+See note following RCW
+82.04.4268
+.
+Effective dates
+—
+2005 c 513:
+&quot;This act takes effect July 1, 2007, except for sections 1 through 3 of this act which are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2005, and section 5, chapter 513, Laws of 2005, which takes effect April 30, 2007.&quot; [
+2007 c 243 s 1
+;
+2005 c 513 s 14
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

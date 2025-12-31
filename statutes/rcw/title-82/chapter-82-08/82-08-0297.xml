@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0297"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0297"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0297/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0297/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0297/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0297/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0297">
+        <num>RCW 82.08.0297</num>
+        <heading>Exemptions—Sales of food purchased under the supplemental nutrition assistance program</heading>
+        <subsection eId="sec_82_08_0297__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of eligible foods that are purchased with benefits under the supplemental nutrition assistance program or successor program, notwithstanding anything to the contrary in RCW
+82.08.0293
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0297__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>When a purchase of eligible foods is made with a combination of benefits under the supplemental nutrition assistance program or successor program and cash, check, or similar payment, the cash, check, or similar payment must be applied first to food products exempt from tax under RCW
+82.08.0293
+whenever possible.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0297__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>As used in this section:</p>
+          </content>
+          <subsection eId="sec_82_08_0297__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Eligible foods&quot; means foods that are eligible for purchase with benefits under the supplemental nutrition assistance program or successor program.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0297__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Supplemental nutrition assistance program&quot; refers to a food assistance program that is administered, at the federal level, by the United States department of agriculture, and was formerly known as the food stamp program.
+[
+2011 c 174 s 103
+;
+1998 c 79 s 18
+;
+1987 c 28 s 1
+.]
+NOTES:
+Effective date
+—
+1987 c 28:
+&quot;This act shall take effect October 1, 1987.&quot; [
+1987 c 28 s 3
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

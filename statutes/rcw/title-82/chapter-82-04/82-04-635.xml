@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.635"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.635"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.635/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.635/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.635/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.635/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_635">
+        <num>RCW 82.04.635</num>
+        <heading>Exemptions—Nonprofits providing legal services to low-income persons</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.635
+82.04.628
+&lt;&lt; 
+        82.04.635 &gt;&gt;
+82.04.640
+PDF
+RCW
+82.04.635
+Exemptions
+—
+Nonprofits providing legal services to low-income persons.
+This chapter does not apply to nonprofit organizations primarily engaged in the provision of legal services to low-income individuals from whom no charge for services is collected. For the purpose of this section, &quot;nonprofit&quot; means an organization exempt from federal income tax under Title 26 U.S.C. Sec. 501(c) of the federal internal revenue code.
+[
+2009 c 508 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

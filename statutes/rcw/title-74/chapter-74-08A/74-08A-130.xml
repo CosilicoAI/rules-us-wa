@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.130"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_130">
+        <num>RCW 74.08A.130</num>
+        <heading>Immigrants—Naturalization facilitation</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.130
+74.08A.120
+&lt;&lt; 
+        74.08A.130 &gt;&gt;
+74.08A.210
+PDF
+RCW
+74.08A.130
+Immigrants
+—
+Naturalization facilitation.
+The department shall make an affirmative effort to identify and proactively contact legal immigrants receiving public assistance to facilitate their applications for naturalization. The department shall obtain a complete list of legal immigrants in Washington who are receiving correspondence regarding their eligibility from the social security administration. The department shall inform immigrants regarding how citizenship may be attained. In order to facilitate the citizenship process, the department shall coordinate and contract, to the extent necessary, with existing public and private resources and shall, within available funds, ensure that those immigrants who qualify to apply for naturalization are referred to or otherwise offered classes. The department shall assist eligible immigrants in obtaining appropriate test exemptions, and other exemptions in the naturalization process, to the extent permitted under federal law.
+[
+2009 c 518 s 6
+;
+1997 c 58 s 204
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

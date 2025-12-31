@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.197"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.197"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.197/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.197/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.197/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.197/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_197">
+        <num>RCW 82.45.197</num>
+        <heading>Exemptions—Inheritance—Documents required</heading>
+        <subsection eId="sec_82_45_197__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In order to receive an exemption under RCW
+82.45.010</p>
+          </content>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>from the tax in this chapter on real property transferred as a result of a devise by will or inheritance, the following documentation must be provided to the county treasurer:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the property is being transferred under the terms of a community property agreement, a copy of the recorded agreement and a certified copy of the death certificate;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the property is being transferred under the terms of a trust instrument, a certified copy of the death certificate and a copy of that portion of the trust instrument showing the authority of the grantor;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the property is being transferred under the terms of a probated will, a certified copy of the letters testamentary or in the case of intestate administration, a certified copy of the letters of administration showing that the grantor is the court-appointed executor, executrix, or administrator;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In the case of joint tenants with right of survivorship and remainder interests, a certified copy of the death certificate;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the property is being transferred pursuant to a court order, a certified copy of the court order requiring the transfer, and confirming that the grantor is required to do so under the terms of the order;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>If the community property interest of the decedent is being transferred to a surviving spouse or surviving domestic partner absent the documentation set forth in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this subsection, a certified copy of the death certificate and a signed lack of probate affidavit from the surviving spouse or surviving domestic partner affirming that he or she is the sole and rightful heir to the property;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>If the real property is transferred to one or more heirs by operation of law, or transferred under a will that has not been probated, but absent the documentation set forth in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this subsection, a certified copy of the death certificate and a signed lack of probate affidavit affirming that the affiant or affiants are the sole and rightful heirs to the property;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>When real property is transferred as described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_197__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and the decedent-transferor had also inherited the property from his or her spouse or domestic partner but never transferred title to the property into the decedent-transferor's name, the transferee or transferees must provide:</p>
+          </content>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A certified copy of the death certificates for the decedent-transferor and the spouse or domestic partner from whom the decedent-transferor inherited the real property; and</p>
+            </content>
+            <subsection eId="sec_82_45_197__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a lack of probate affidavit affirming that the affiant or affiants are the rightful heirs to the property; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the property is being transferred pursuant to a transfer on death deed, a certified copy of the death certificate.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_197__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The documentation provided to the county treasurer under this section must also be recorded with the county auditor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_197__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_45_197__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Heir&quot; has the same meaning as provided in RCW
+11.02.005
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Lack of probate affidavit&quot; means a signed and notarized document declaring that the affiant or affiants are the rightful heir or heirs to the property and containing the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The names of the affiant or affiants;</p>
+            </content>
+            <subsection eId="sec_82_45_197__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The relationship of the affiant or affiants to the decedent;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_197__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The names of all other heirs of the decedent living at the time of the decedent's death;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_197__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>A description of the real property;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_197__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Whether the decedent left a will that includes a devise of real property; and
+(vi) Any other information the department may require.
+[
+2016 c 174 s 2
+;
+2014 c 58 s 25
+;
+2008 c 269 s 1
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2016 c 174:
+&quot;The legislature finds that state and local real estate excise taxes apply to the sale of real property unless one of several statutory exceptions apply. The legislature further finds that one such exception involves real property transferred as a result of a devise by will or inheritance. The legislature further finds that RCW
+82.45.197
+requires specific types of documentation to be provided to qualify for this inheritance exemption. The legislature further finds that in some cases, property passes from a decedent to a devisee or an heir with no written documentation or court record that satisfies the requirements of RCW
+82.45.197
+. The legislature further finds that real estate excise tax does not apply to transfers of real property by operation of law, but that the process for documenting such transfers should be clarified. It is the legislature's intent to clarify that state and local real estate excise taxes do not apply when a devisee or an heir files a lack of probate affidavit where no additional documentation exists to substantiate that the devisee or heir is legally entitled to the property as a result of a will or inheritance.&quot; [
+2016 c 174 s 1
+.]
+Tax preference performance statement and expiration
+—
+2016 c 174:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2016 c 174 s 3
+.]
+Uniformity of application and construction
+—
+Relation to electronic signatures in global and national commerce act
+—
+2014 c 58:
+See RCW
+64.80.903
+and
+64.80.904
+.</p>
+            </content>
+            <subsection eId="sec_82_45_197__subsec_3__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Any other information the department may require.
+[
+2016 c 174 s 2
+;
+2014 c 58 s 25
+;
+2008 c 269 s 1
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2016 c 174:
+&quot;The legislature finds that state and local real estate excise taxes apply to the sale of real property unless one of several statutory exceptions apply. The legislature further finds that one such exception involves real property transferred as a result of a devise by will or inheritance. The legislature further finds that RCW
+82.45.197
+requires specific types of documentation to be provided to qualify for this inheritance exemption. The legislature further finds that in some cases, property passes from a decedent to a devisee or an heir with no written documentation or court record that satisfies the requirements of RCW
+82.45.197
+. The legislature further finds that real estate excise tax does not apply to transfers of real property by operation of law, but that the process for documenting such transfers should be clarified. It is the legislature's intent to clarify that state and local real estate excise taxes do not apply when a devisee or an heir files a lack of probate affidavit where no additional documentation exists to substantiate that the devisee or heir is legally entitled to the property as a result of a will or inheritance.&quot; [
+2016 c 174 s 1
+.]
+Tax preference performance statement and expiration
+—
+2016 c 174:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2016 c 174 s 3
+.]
+Uniformity of application and construction
+—
+Relation to electronic signatures in global and national commerce act
+—
+2014 c 58:
+See RCW
+64.80.903
+and
+64.80.904
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

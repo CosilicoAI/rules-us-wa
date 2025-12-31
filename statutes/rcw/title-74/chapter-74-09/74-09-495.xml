@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.495"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.495"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.495/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.495/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.495/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.495/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_495">
+        <num>RCW 74.09.495</num>
+        <heading>Access to children's behavioral health services—Report to legislature</heading>
+        <subsection eId="sec_74_09_495__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To better assure and understand issues related to network adequacy and access to services, the authority shall report to the appropriate committees of the legislature by December 1, 2017, and annually thereafter, on the status of access to behavioral health services for children from birth through age seventeen using data collected pursuant to RCW
+70.320.050
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_495__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>At a minimum, the report must include the following components broken down by age, gender, and race and ethnicity:</p>
+          </content>
+          <subsection eId="sec_74_09_495__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The percentage of discharges for patients ages six through seventeen who had a visit to the emergency room with a primary diagnosis of mental health or alcohol or other drug dependence during the measuring year and who had a follow-up visit with any provider with a corresponding primary diagnosis of mental health or alcohol or other drug dependence within thirty days of discharge;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_495__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The percentage of health plan members with an identified mental health need who received mental health services during the reporting period;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_495__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The percentage of children served by behavioral health administrative services organizations and managed care organizations, including the types of services provided;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_495__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The number of children's mental health providers available in the previous year, the languages spoken by those providers, and the overall percentage of children's mental health providers who were actively accepting new patients; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_495__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Data related to mental health and medical services for eating disorder treatment in children and youth by county, including the number of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_495__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Eating disorder diagnoses;</p>
+            </content>
+            <subsection eId="sec_74_09_495__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Patients treated in outpatient, residential, emergency, and inpatient care settings; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_495__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Contracted providers specializing in eating disorder treatment and the overall percentage of those providers who were actively accepting new patients during the reporting period.
+[
+2019 c 325 s 4002
+;
+2018 c 175 s 3
+;
+2017 c 226 s 6
+;
+2017 c 202 s 3
+;
+2016 c 96 s 3
+.]
+NOTES:
+Effective date
+—
+2019 c 325:
+See note following RCW
+71.24.011
+.
+Findings
+—
+Intent
+—
+2018 c 175:
+&quot;The legislature finds that the children's mental health work group established in chapter 96, Laws of 2016 reported recommendations in December 2016 related to increasing access to adequate, appropriate, and culturally and linguistically relevant mental health services for children and youth. The legislature further finds that legislation implementing many of the recommendations of the children's mental health work group was enacted in 2017. Despite these gains, barriers to service remain and additional work is required to assist children with securing adequate mental health treatment. The legislature further finds that by January 1, 2020, the community behavioral health program must be fully integrated in a managed care health system that provides behavioral and physical health care services to medicaid clients. Therefore, it is the intent of the legislature to reestablish the children's mental health work group through December 2020 and to implement additional recommendations from the work group in order to improve mental health care access for children and their families.&quot; [
+2018 c 175 s 1
+.]
+Sustainable solutions for the integration of behavioral and physical health
+—
+2017 c 226:
+See note following RCW
+74.09.497
+.
+Findings
+—
+Intent
+—
+2017 c 202:
+&quot;The legislature finds that children and their families face systemic barriers to accessing necessary mental health services. These barriers include a workforce shortage of mental health providers throughout the system of care. Of particular concern are shortages of providers in underserved rural areas of our state and a shortage of providers statewide wh</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_495__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature understands that adverse childhood experiences, such as family mental health issues, substance abuse, serious economic hardship, and domestic violence, all increase the likelihood of developmental delays and later health and mental health problems. The legislature further understands that early intervention services for children and families at high risk for adverse childhood experience help build secure parent-child attachment and bonding, which allows young children to thrive and form strong relationships in the future. The legislature finds that early identification and intervention are critical for children exhibiting aggressive or depressive behaviors indicative of early mental health problems. The legislature intends to improve access to adequate, appropriate, and culturally responsive mental health services for children and youth. The legislature further intends to encourage the use of behavioral health therapies and other therapies that are empirically supported or evidence-based and only prescribe medications for children and youth as a last resort.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_495__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that nearly half of Washington's children are enrolled in medicaid and have a higher incidence of serious health problems compared to children who have commercial insurance. The legislature recognizes that disparities also exist in the diagnosis and initiation of treatment services for children of color, with studies demonstrating that children of color are diagnosed and begin receiving early interventions at a later age. The legislature finds that within the current system of care, families face barriers to receiving a full range of services for children experiencing behavioral health problems. The legislature intends to identify what network adequacy requirements, if strengthened, would increase access, continuity, and coordination of behavioral health services for children and families. The legislature further intends to encourage managed care plans and behavioral health organizations to contract with the same providers that serve children so families are not required to duplicate mental health screenings, and to recommend provider rates for mental health services to children and youth which will ensure an adequate network and access to quality based care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_495__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature recognizes that early and accurate recognition of behavioral health issues coupled with appropriate and timely intervention enhances health outcomes while minimizing overall expenditures. The legislature intends to assure that annual depression screenings are done consistently with the highly vulnerable medicaid population and that children and families benefit from earlier access to services.&quot; [
+2016 c 96 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.150"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_150">
+        <num>RCW 74.39A.150</num>
+        <heading>Chore services for persons with disabilities—Eligibility</heading>
+        <subsection eId="sec_74_39A_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An otherwise eligible disabled person shall not be deemed ineligible for chore services under this chapter if the person's gross income from employment, adjusted downward by the cost of the chore services to be provided and the disabled person's work expenses, does not exceed the maximum eligibility standard established by the department for such chore services. The department shall establish a methodology for client participation that allows such disabled persons to be employed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_150__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If a disabled person arranges for chore services through an individual provider arrangement, the client's contribution shall be counted as first dollar toward the total amount owed to the provider for chore services rendered.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_150__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>As used in this section:</p>
+          </content>
+          <subsection eId="sec_74_39A_150__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Gross income&quot; means total earned wages, commissions, salary, and any bonus;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_150__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Work expenses&quot; includes:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_150__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Payroll deductions required by law or as a condition of employment, in amounts actually withheld;</p>
+            </content>
+            <subsection eId="sec_74_39A_150__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The necessary cost of transportation to and from the place of employment by the most economical means, except rental cars; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_150__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Expenses of employment necessary for continued employment, such as tools, materials, union dues, transportation to service customers if not furnished by the employer, and uniforms and clothing needed on the job and not suitable for wear away from the job;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_150__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Employment&quot; means any work activity for which a recipient receives monetary compensation;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_150__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot; Disabled&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_150__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Permanently and totally disabled as defined by the department and as such definition is approved by the federal social security administration for federal matching funds;</p>
+            </content>
+            <subsection eId="sec_74_39A_150__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Eighteen years of age or older;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_150__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A resident of the state of Washington; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_150__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Willing to submit to such examinations as are deemed necessary by the department to establish the extent and nature of the disability.
+[
+1995 1st sp.s. c 18 s 41
+;
+1989 c 427 s 7
+;
+1980 c 137 s 3
+. Formerly RCW
+74.08.570
+.]
+NOTES:
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

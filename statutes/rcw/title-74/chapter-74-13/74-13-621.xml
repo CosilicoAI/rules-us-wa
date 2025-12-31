@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.621"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.621"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.621/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.621/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.621/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.621/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_621">
+        <num>RCW 74.13.621</num>
+        <heading>Kinship care oversight committee</heading>
+        <subsection eId="sec_74_13_621__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Within existing resources, the department shall establish an oversight committee to monitor, guide, and report on kinship care recommendations and implementation activities. The committee shall:</p>
+          </content>
+          <subsection eId="sec_74_13_621__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Draft a kinship care definition that is restricted to persons related by blood, marriage, or adoption, including marriages that have been dissolved, or for a minor defined as an &quot;Indian child&quot; under the federal Indian child welfare act (25 U.S.C. Sec. 1901 et seq.), the definition of &quot;extended family member&quot; under the federal Indian child welfare act, and a set of principles. If the committee concludes that one or more programs or services would be more efficiently and effectively delivered under a different definition of kin, it shall state what definition is needed, and identify the program or service in the report. It shall also provide evidence of how the program or service will be more efficiently and effectively delivered under the different definition. The department shall not adopt rules or policies changing the definition of kin without authorizing legislation;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_621__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Monitor and provide consultation on the implementation of recommendations contained in the 2002 kinship care report, including but not limited to the recommendations relating to legal and respite care services and resources;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_621__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Partner with nonprofit organizations and private sector businesses to guide a public education awareness campaign;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_621__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Assist with developing future recommendations on kinship care issues; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_621__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Coordinate with the kinship care legal aid coordinator to develop, expand, and deliver training materials designed to help pro bono and low bono attorneys provide legal advice and assistance to kinship caregivers on matters that relate to their ability to meet physical, mental, social, educational, and other needs of children and youth in their care.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_621__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall consult with the oversight committee on its efforts to better collaborate and coordinate services to benefit kinship care families.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_621__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The oversight committee must consist of a minimum of thirty percent kinship caregivers, who shall represent a diversity of kinship families. Statewide representation with geographic, ethnic, and gender diversity is required. Other members shall include representatives of the department, representatives of relevant state agencies, representatives of the private nonprofit and business sectors, child advocates, representatives of Washington state Indian tribes as defined under the federal Indian welfare act (25 U.S.C. Sec. 1901 et seq.), and representatives of the legal or judicial field. Birth parents, foster parents, and others who have an interest in these issues may also be included.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_621__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To the extent funding is available, the department may reimburse nondepartmental members of the oversight committee for costs incurred in participating in the meetings of the oversight committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_621__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The kinship care oversight committee shall update the legislature and governor annually on committee activities, with each update due by December 1st.
+[
+2019 c 465 s 2
+;
+2017 3rd sp.s. c 1 s 982
+;
+2015 3rd sp.s. c 4 s 970
+;
+2013 2nd sp.s. c 4 s 996
+; (2011 1st sp.s. c 50 s 965 expired June 30, 2013);
+2009 c 564 s 954
+;
+2005 c 439 s 1
+.]
+NOTES:
+Effective date
+—
+2019 c 465:
+See note following RCW
+2.53.055
+.
+Effective date
+—
+2017 3rd sp.s. c 1:
+See note following RCW
+43.41.455
+.
+Effective dates
+—
+2015 3rd sp.s. c 4:
+See note following RCW
+28B.15.069
+.
+Effective dates
+—
+2013 2nd sp.s. c 4:
+See note following RCW
+2.68.020
+.
+Effective dates
+—
+2011 1st sp.s. c 50:
+See note following RCW
+15.76.115
+.
+Effective date
+—
+2009 c 564:
+See note following RCW
+2.68.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

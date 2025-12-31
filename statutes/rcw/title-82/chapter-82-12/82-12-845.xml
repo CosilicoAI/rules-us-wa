@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.845"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.845"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.845/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.845/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.845/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.845/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_845">
+        <num>RCW 82.12.845</num>
+        <heading>Use of motorcycles loaned to department of licensing</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.845
+82.12.834
+&lt;&lt; 
+        82.12.845 &gt;&gt;
+82.12.850
+PDF
+RCW
+82.12.845
+Use of motorcycles loaned to department of licensing.
+This chapter does not apply to the use of motorcycles that are loaned to the department of licensing exclusively for the provision of motorcycle training under RCW
+46.20.520
+, or to persons contracting with the department to provide this training.
+[
+2001 c 121 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

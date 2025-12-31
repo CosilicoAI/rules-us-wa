@@ -1,0 +1,321 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0273"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0273"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0273/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0273/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0273/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0273/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0273">
+        <num>RCW 82.08.0273</num>
+        <heading>Exemptions—Sales to nonresidents of tangible personal property, digital goods, and digital codes for use outside the state—Proof of nonresident status—Penalties</heading>
+        <subsection eId="sec_82_08_0273__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the conditions and limitations in this section, an exemption from the tax levied by RCW
+82.08.020
+in the form of a remittance from the department is provided for sales to nonresidents of this state of tangible personal property, digital goods, and digital codes. The exemption only applies if:</p>
+          </content>
+          <subsection eId="sec_82_08_0273__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The property is for use outside this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The purchaser is a bona fide resident of a province or territory of Canada or a state, territory, or possession of the United States, other than the state of Washington; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Such state, possession, territory, or province does not impose, or have imposed on its behalf, a generally applicable retail sales tax, use tax, value added tax, gross receipts tax on retailing activities, or similar generally applicable tax, of three percent or more; or</p>
+            </content>
+            <subsection eId="sec_82_08_0273__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If imposing a tax described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection, provides an exemption for sales to Washington residents by reason of their residence; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The purchaser agrees, when requested, to grant the department of revenue access to such records and other forms of verification at the purchaser's place of residence to assure that such purchases are not first used substantially in the state of Washington.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything to the contrary in this chapter, if parts or other tangible personal property are installed by the seller during the course of repairing, cleaning, altering, or improving motor vehicles, trailers, or campers and the seller makes a separate charge for the tangible personal property, the tax levied by RCW
+82.08.020
+does not apply to the separately stated charge to a nonresident purchaser for the tangible personal property but only if the seller certifies in writing to the purchaser that the separately stated charge does not exceed either the seller's current publicly stated retail price for the tangible personal property or, if no publicly stated retail price is available, the seller's cost for the tangible personal property. However, the exemption provided by this section does not apply if tangible personal property is installed by the seller during the course of repairing, cleaning, altering, or improving motor vehicles, trailers, or campers and the seller makes a single nonitemized charge for providing the tangible personal property and service. All of the provisions in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section apply to this subsection.</p>
+          </content>
+          <subsection eId="sec_82_08_0273__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person claiming exemption from retail sales tax under the provisions of this section must pay the state and local sales tax to the seller at the time of purchase and then request a remittance from the department in accordance with this subsection and subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section. A request for remittance must include proof of the person's status as a nonresident at the time of the purchase for which a remittance is requested. The request for a remittance must also include any additional information and documentation as required by the department, which may include a description of the item purchased for which a remittance is requested, the sales price of the item, the amount of sales tax paid on the item, the date of the purchase, the name of the seller and the physical address where the sale took place, and copies of sales receipts showing the qualified purchases.</p>
+          </content>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Acceptable proof of a nonresident person's status includes one piece of identification such as a valid driver's license from the jurisdiction in which the out-of-state residency is claimed or a valid identification card which has a photograph of the holder and is issued by the out-of-state jurisdiction. Identification under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>must show the holder's residential address and have as one of its legal purposes the establishment of residency in that out-of-state jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Beginning January 1, 2020, through December 31, 2020, a person may request a remittance from the department for state sales taxes paid by the person on qualified retail purchases made in Washington between July 1, 2019, and December 31, 2019.</p>
+            </content>
+            <subsection eId="sec_82_08_0273__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Beginning January 1, 2021, a person may request a remittance from the department during any calendar year for state sales taxes paid by the person on qualified retail purchases made in Washington during the immediately preceding calendar year only. No application may be made with respect to purchases made before the immediately preceding calendar year.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The remittance request, including proof of nonresident status and any other documentation and information required by the department, must be provided in a form and manner as prescribed by the department. Only one remittance request may be made by a person per calendar year.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The total amount of a remittance request must be at least twenty-five dollars. The department must deny any request for a remittance that is less than twenty-five dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department will examine the applicant's proof of nonresident status and any other documentation and information as required in the application to determine whether the applicant is entitled to a remittance under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person making fraudulent statements to the department, which includes the offer of fraudulent or fraudulently procured identification or fraudulent sales receipts, in order to receive a remittance of retail sales tax is guilty of perjury under chapter
+9A.72
+RCW and is ineligible to receive any further remittances from the department under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person obtaining a remittance of retail sales tax from the department by providing proof of identification or sales receipts not the person's own, or counterfeit identification or sales receipts is</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>liable for repayment of the remittance, including interest as provided in chapter
+82.32
+RCW from the date the remittance was transmitted to the person until repaid in full,</p>
+            </content>
+            <subsection eId="sec_82_08_0273__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>liable for a civil penalty equal to the greater of one hundred dollars or the amount of the remittance obtained in violation of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0273__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>ineligible to receive any further remittances from the department under this section.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any person assisting another person in obtaining a remittance of retail sales tax in violation of</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection is jointly and severally liable for amounts due under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0273__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection and is also ineligible to receive any further remittances from the department under this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A person who receives a refund of sales tax from the seller for any reason with respect to a purchase made in this state is not entitled to a remittance for the tax paid on the purchase. A person who receives both a remittance under this section and a refund of sales tax from the seller with respect to the same purchase must immediately repay the remittance to the department. Interest as provided in chapter
+82.32
+RCW applies to amounts due under this section from the date that the department made the remittance until the amount due under this subsection is paid to the department. A person who receives a remittance with respect to a purchase for which the person had, at the time the person submitted the application for a remittance, already received a refund of sales tax from the seller is also liable for a civil penalty equal to the greater of one hundred dollars or the amount of the remittance obtained in violation of this subsection and is ineligible to receive any further remittances from the department under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The exemption provided by this section is only for the state portion of the sales tax. For purposes of this section, the state portion of the sales tax is not reduced by any local sales tax that is deducted or credited against the state sales tax as provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The exemption in this section does not apply to sales of cannabis, useable cannabis, or cannabis-infused products.
+[
+2022 c 16 s 148
+;
+2019 c 423 s 101
+;
+2014 c 140 s 17
+;
+2011 c 7 s 1
+;
+2010 c 106 s 215
+;
+2009 c 535 s 512
+;
+2007 c 135 s 2
+;
+2003 c 53 s 399
+;
+1993 c 444 s 1
+;
+1988 c 96 s 1
+;
+1982 1st ex.s. c 5 s 1
+;
+1980 c 37 s 39
+. Formerly RCW
+82.08.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that counties that border other states and Canada experience a significant problem of residents of Washington state who evade taxes and fees by failing to register their vehicles, aircraft, and vessels in Washington state. According to a 2007 Washington State University study, the department of revenue lost eighty million dollars over the previous five years to persons avoiding taxes and fees in this manner. It was also estimated in the study that twenty thousand vehicles were illegally registered in Oregon to residents of Clark county, Washington. The problem has undoubtedly grown worse in the decade since the study was completed resulting in hundreds of millions of dollars in lost revenue to state and local coffers as these new residents fail to pay their fair share for public services. Moreover, a public safety risk is created when inaccurate information is provided to law enforcement or insurance companies in the event of an accident or infraction.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0273__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Current statutes contain monetarily significant penalties that are appropriate given the scope of the harm. It is the intent of the legislature that law enforcement and prosecutors proceed against violators to the fullest extent of the law. In order to give them more tools and ensure compliance with the law, it is the intent of the legislature to set up a deferred finding program consistent with other programs in the state that allows defendants to obtain dismissal of charges if they take certain remedial steps. It is the intent of the legislature that the punishment for those who do not comply with the deferred finding program remain in force and be fully implemented.&quot; [
+2019 c 423 s 201
+.]
+Effective date
+—
+2019 c 423:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2019.&quot; [
+2019 c 423 s 301
+.]
+Effective date
+—
+2011 c 7:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2011.&quot; [
+2011 c 7 s 2
+.]
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Intent
+—
+Effective date
+—
+2003 c 53:
+See notes following RCW
+2.48.180
+.
+Effective date
+—
+1988 c 96:
+&quot;This act shall take effect July 1, 1989.&quot; [
+1988 c 96 s 2
+.]
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

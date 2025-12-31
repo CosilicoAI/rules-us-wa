@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.060"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_060">
+        <num>RCW 82.14.060</num>
+        <heading>Distributions to counties, cities, transportation authorities, public facilities districts, and transportation benefit districts—Imposition at excess rates, effect</heading>
+        <subsection eId="sec_82_14_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In the event that any ordinance or resolution imposes a sales and use tax at a rate in excess of the applicable limits contained herein, such ordinance or resolution may not be considered void in toto, but only with respect to that portion of the rate which is in excess of the applicable limits contained herein.
+[
+2016 c 191 s 5
+;
+2014 c 216 s 404
+;
+2009 c 469 s 108
+;
+2005 c 336 s 21
+;
+1991 c 207 s 3
+;
+1990 2nd ex.s. c 1 s 202
+;
+1981 2nd ex.s. c 4 s 11
+;
+1971 ex.s. c 296 s 4
+;
+1970 ex.s. c 94 s 7
+.]
+NOTES:
+Effective date
+—
+2016 c 191:
+See note following RCW
+82.08.025661
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Effective date
+—
+2009 c 469:
+See note following RCW
+82.08.962
+.
+Effective date
+—
+2005 c 336:
+See note following RCW
+36.73.015
+.
+Applicability
+—
+1990 2nd ex.s. c 1:
+See note following RCW
+82.14.050
+.
+Severability
+—
+1990 2nd ex.s. c 1:
+See note following RCW
+82.14.300
+.
+Severability
+—
+1981 2nd ex.s. c 4:
+See note following RCW
+43.30.325
+.
+Legislative finding, declaration
+—
+Severability
+—
+1971 ex.s. c 296:
+See notes following RCW
+82.14.045
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

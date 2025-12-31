@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.240"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.240"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.240/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.240/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.240/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.240/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_240">
+        <num>RCW 74.09.240</num>
+        <heading>Bribes, kickbacks, rebates—Self-referrals—Penalties</heading>
+        <subsection eId="sec_74_09_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any person, including any corporation, that solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind</p>
+          </content>
+          <subsection eId="sec_74_09_240__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>in return for referring an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under this chapter or other applicable law, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, leasing, or ordering any goods, facility, service, or item for which payment may be made in whole or in part under this chapter or other applicable law,
+shall be guilty of a class C felony; however, the fine, if imposed, shall not be in an amount more than twenty-five thousand dollars, except as authorized by RCW
+9A.20.030
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any person, including any corporation, that offers or pays any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind to any person to induce such person</p>
+          </content>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>to refer an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made, in whole or in part, under this chapter or other applicable law, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any goods, facility, service, or item for which payment may be made in whole or in part under this chapter or other applicable law,
+shall be guilty of a class C felony; however, the fine, if imposed, shall not be in an amount more than twenty-five thousand dollars, except as authorized by RCW
+9A.20.030
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in 42 U.S.C. 1395 nn, physicians are prohibited from self-referring any client eligible under this chapter for the following designated health services to a facility in which the physician or an immediate family member has a financial relationship:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Clinical laboratory services;</p>
+            </content>
+            <subsection eId="sec_74_09_240__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Physical therapy services;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_240__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Occupational therapy services;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_240__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Radiology including magnetic resonance imaging, computerized axial tomography, and ultrasound services;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Durable medical equipment and supplies;
+(vi) Parenteral and enteral nutrients equipment and supplies;
+(vii) Prosthetics, orthotics, and prosthetic devices;
+(viii) Home health services;
+(ix) Outpatient prescription drugs;</p>
+            </content>
+            <subsection eId="sec_74_09_240__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Parenteral and enteral nutrients equipment and supplies;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_240__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Prosthetics, orthotics, and prosthetic devices;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_240__subsec_2__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>Home health services;
+(ix) Outpatient prescription drugs;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>Inpatient and outpatient hospital services;
+(xi) Radiation therapy services and supplies.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;financial relationship&quot; means the relationship between a physician and an entity that includes either:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An ownership or investment interest; or</p>
+            </content>
+            <subsection eId="sec_74_09_240__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A compensation arrangement.
+For purposes of this subsection, &quot;compensation arrangement&quot; means an arrangement involving remuneration between a physician, or an immediate family member of a physician, and an entity.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department or authority, as appropriate, is authorized to adopt by rule amendments to 42 U.S.C. 1395 nn enacted after July 23, 1995.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>This section shall not apply in any case covered by a general exception specified in 42 U.S.C. Sec. 1395 nn.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_240__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section shall not apply to:</p>
+          </content>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A discount or other reduction in price obtained by a provider of services or other entity under this chapter or other applicable law if the reduction in price is properly disclosed and appropriately reflected in the costs claimed or charges made by the provider or entity under this chapter or other applicable law; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_240__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any amount paid by an employer to an employee (who has a bona fide employment relationship with such employer) for employment in the provision of covered items or services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_240__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, if applicable to the conduct involved, shall supersede the criminal provisions of chapter
+19.68
+RCW, but shall not preclude administrative proceedings authorized by chapter
+19.68
+RCW.
+[
+2018 c 201 s 7012
+;
+2011 1st sp.s. c 15 s 16
+;
+1995 c 319 s 1
+;
+1979 ex.s. c 152 s 5
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

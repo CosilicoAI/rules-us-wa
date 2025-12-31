@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.910"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.910"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.910/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.910/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.910/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.910/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_910">
+        <num>RCW 74.42.910</num>
+        <heading>Construction—Conflict with federal requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.910
+74.42.640
+&lt;&lt; 
+        74.42.910 &gt;&gt;
+74.42.920
+PDF
+RCW
+74.42.910
+Construction
+—
+Conflict with federal requirements.
+If any part of this act is found to be in conflict with federal requirements which are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is hereby declared to be inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and such finding or determination shall not affect the operation of the remainder of this act in its application to the agencies concerned. The rules under this act shall meet federal requirements which are a necessary condition to the receipt of federal funds by the state.
+[
+1979 ex.s. c 211 s 70
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

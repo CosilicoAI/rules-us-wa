@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.25.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.25.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.25.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_25_080">
+        <num>RCW 82.25.080</num>
+        <heading>Distributor and retailer license requirements</heading>
+        <subsection eId="sec_82_25_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A retailer that obtains vapor products from an unlicensed distributor or any other person that is not licensed under chapter
+70.345
+RCW must be licensed both as a retailer and a distributor and is liable for the tax imposed under RCW
+82.25.010
+with respect to the vapor products acquired from the unlicensed person that are held for sale, handling, or distribution in this state. For the purposes of this subsection, &quot;person&quot; includes both persons defined in chapter 445, Laws of 2019 and any person immune from state taxation, such as the United States or its instrumentalities, and federally recognized Indian tribes and enrolled tribal members, conducting business within Indian country.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Every distributor licensed under chapter
+70.345
+RCW may sell vapor products to retailers located in Washington only if the retailer has a current retailer's license under chapter
+70.345
+RCW.
+[
+2019 c 445 s 116
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

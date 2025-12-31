@@ -1,0 +1,342 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.263"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.263"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.263/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.263/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.263/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.263/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_263">
+        <num>RCW 82.04.263</num>
+        <heading>Tax on cleaning up radioactive waste and other by-products of weapons production and nuclear research and development. (&lt;i&gt;Effective until January 1, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_263__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of cleaning up for the United States, or its instrumentalities, radioactive waste and other by-products of weapons production and nuclear research and development; as to such persons the amount of the tax with respect to such business shall be equal to the gross income of the business multiplied by the rate of 0.471 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this chapter, &quot;cleaning up radioactive waste and other by-products of weapons production and nuclear research and development&quot; means:</p>
+          </content>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The activities of handling, storing, treating, immobilizing, stabilizing, or disposing of radioactive waste, radioactive tank waste and capsules, nonradioactive hazardous solid and liquid wastes, or spent nuclear fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Spent nuclear fuel conditioning;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Removal of contamination in soils and groundwater;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Decontamination and decommissioning of facilities; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Services supporting the performance of cleanup. For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Is within the scope of work under a clean-up contract with the United States department of energy; or</p>
+            </content>
+            <subsection eId="sec_82_04_263__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Assists in the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy under a subcontract entered into with the prime contractor or another subcontractor in furtherance of a clean-up contract between the United States department of energy and a prime contractor.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A service does not assist in the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy if the same services are routinely provided to businesses not engaged in clean-up activities, except that the following services are always deemed to contribute to the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy:</p>
+          </content>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Information technology and computer support services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Services rendered in respect to infrastructure; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Security, safety, and health services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature intends that the examples provided in this subsection be used as a guideline when determining whether a service is &quot;routinely provided to businesses not engaged in clean-up activities&quot; as that phrase is used in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The radioactive waste clean-up classification does not apply to general accounting services but does apply to performance audits performed for persons cleaning up radioactive waste.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The radioactive waste clean-up classification does not apply to general legal services but does apply to those legal services that assist in the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy. Thus, legal services provided to contest any local, state, or federal tax liability or to defend a company against a workers' compensation claim arising from a worksite injury do not qualify for the radioactive waste clean-up classification. But, legal services related to the resolution of a contractual dispute between the parties to a clean-up contract between the United States department of energy and a prime contractor do qualify.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>General office janitorial services do not qualify for the radioactive waste clean-up classification, but the specialized cleaning of equipment exposed to radioactive waste does qualify.
+[
+2009 c 469 s 202
+;
+1996 c 112 s 3
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2009 c 469:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the cleaning up of radioactive waste at the Hanford site is crucial to the environment in this state. The legislature intends to include services supporting the cleanup within the radioactive waste clean-up business and occupation tax classification, but it is not the legislature's intent to extend the radioactive waste clean-up classification to all business activities conducted at the Hanford site or performed for persons engaged in the performance of cleanup.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's intent in enacting this legislation to ensure that the radioactive waste clean-up business and occupation tax classification applies to all services contributing to the performance of a clean-up project at the Hanford site other than services that are routinely provided to any business, including businesses that are not engaged in clean-up activities.&quot; [
+2009 c 469 s 201
+.]
+Effective date
+—
+1996 c 112:
+See note following RCW
+82.04.050
+.
+PDF
+RCW
+82.04.263
+Tax on cleaning up radioactive waste and other by-products of weapons production and nuclear research and development.
+(Effective January 1, 2027.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of cleaning up for the United States, or its instrumentalities, radioactive waste and other by-products of weapons production and nuclear research and development; as to such persons the amount of the tax with respect to such business shall be equal to the gross income of the business multiplied by the rate of 0.5 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this chapter, &quot;cleaning up radioactive waste and other by-products of weapons production and nuclear research and development&quot; means:</p>
+          </content>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The activities of handling, storing, treating, immobilizing, stabilizing, or disposing of radioactive waste, radioactive tank waste and capsules, nonradioactive hazardous solid and liquid wastes, or spent nuclear fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Spent nuclear fuel conditioning;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Removal of contamination in soils and groundwater;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Decontamination and decommissioning of facilities; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Services supporting the performance of cleanup. For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Is within the scope of work under a clean-up contract with the United States department of energy; or</p>
+            </content>
+            <subsection eId="sec_82_04_263__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Assists in the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy under a subcontract entered into with the prime contractor or another subcontractor in furtherance of a clean-up contract between the United States department of energy and a prime contractor.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A service does not assist in the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy if the same services are routinely provided to businesses not engaged in clean-up activities, except that the following services are always deemed to contribute to the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy:</p>
+          </content>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Information technology and computer support services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Services rendered in respect to infrastructure; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Security, safety, and health services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature intends that the examples provided in this subsection be used as a guideline when determining whether a service is &quot;routinely provided to businesses not engaged in clean-up activities&quot; as that phrase is used in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The radioactive waste clean-up classification does not apply to general accounting services but does apply to performance audits performed for persons cleaning up radioactive waste.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The radioactive waste clean-up classification does not apply to general legal services but does apply to those legal services that assist in the accomplishment of a requirement of a clean-up project undertaken by the United States department of energy. Thus, legal services provided to contest any local, state, or federal tax liability or to defend a company against a workers' compensation claim arising from a worksite injury do not qualify for the radioactive waste clean-up classification. But, legal services related to the resolution of a contractual dispute between the parties to a clean-up contract between the United States department of energy and a prime contractor do qualify.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_263__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>General office janitorial services do not qualify for the radioactive waste clean-up classification, but the specialized cleaning of equipment exposed to radioactive waste does qualify.
+[
+2025 c 420 s 105
+;
+2009 c 469 s 202
+;
+1996 c 112 s 3
+.]
+NOTES:
+Effective date
+—
+2025 c 420 ss 101-108 and 110-112:
+See note following RCW
+82.04.230
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Necessity of act
+—
+2025 c 420:
+See notes following RCW
+82.04.230
+.
+Finding
+—
+Intent
+—
+2009 c 469:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the cleaning up of radioactive waste at the Hanford site is crucial to the environment in this state. The legislature intends to include services supporting the cleanup within the radioactive waste clean-up business and occupation tax classification, but it is not the legislature's intent to extend the radioactive waste clean-up classification to all business activities conducted at the Hanford site or performed for persons engaged in the performance of cleanup.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_263__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's intent in enacting this legislation to ensure that the radioactive waste clean-up business and occupation tax classification applies to all services contributing to the performance of a clean-up project at the Hanford site other than services that are routinely provided to any business, including businesses that are not engaged in clean-up activities.&quot; [
+2009 c 469 s 201
+.]
+Effective date
+—
+1996 c 112:
+See note following RCW
+82.04.050
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

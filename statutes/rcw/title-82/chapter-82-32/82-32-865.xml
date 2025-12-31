@@ -1,0 +1,427 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.865"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.865"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.865/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.865/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.865/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.865/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_865">
+        <num>RCW 82.32.865</num>
+        <heading>Nonresident vessel permit. (&lt;i&gt;Effective until January 1, 2029.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_32_865__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A nonresident vessel owner that is not a natural person, or a nonresident vessel owner who intends to charter the vessel with a captain or crew as provided in RCW
+88.02.620</p>
+          </content>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The name of the record owner of the vessel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The name, address, and telephone number of the individual that applied for the permit;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The record owner's address and telephone number;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The vessel's hull identification number;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The vessel year, make, and model;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The vessel length;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The vessel's registration or numbering under the state of principal operation or the valid number under federal law;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Proof of the person's current nonresident status, including, as applicable, certified copies of the filed articles of incorporation, a certificate of formation, or similar filings;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Proof of the identity and current residency of the natural person owning the charter vessel or all principals of the nonresident person owning the vessel. Such proof may include a valid driver's license verifying out-of-state residency or a valid identification card that has a photograph of the holder and is issued by an out-of-state jurisdiction;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>An affidavit signed by the owner of the nonresident charter vessel, or by a principal of the entity owning the nonresident vessel, certifying that the owner is not a Washington resident or that no Washington residents are principals of the nonresident vessel owner, as the case may be; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Any other information the department may require.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must determine the nonresident vessel owner's eligibility for the permit, as provided in RCW
+88.02.620
+. The department may require additional proof of eligibility directly from the nonresident vessel owner.</p>
+          </content>
+          <subsection eId="sec_82_32_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the department determines that the nonresident vessel owner has established by clear, cogent, and convincing evidence that it is eligible for the permit, the department must provide written approval to the nonresident vessel owner that authorizes issuance of the permit and includes the name of the nonresident vessel owner, the name of the vessel, and the hull identification number. Otherwise, the department must refuse to authorize the issuance of the permit.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department must also provide the information in the written approval to the department of licensing.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If, after a permit has been issued under RCW
+88.02.620
+, the department has reason to believe that the nonresident vessel owner was not eligible for the permit approved under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department may request such information from the nonresident vessel owner as the department determines is necessary to conduct a review of the nonresident vessel owner's eligibility.</p>
+          </content>
+          <subsection eId="sec_82_32_865__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the department finds the nonresident person was not eligible for the permit, the department must assess against the nonresident person state and local use tax on the value of the vessel according to the &quot;value of the article used&quot; as defined in RCW
+82.12.010
+. The department must also assess against the nonresident person any watercraft excise tax due under chapter
+82.49
+RCW. Penalties and interest as provided in this chapter and chapter
+82.49
+RCW apply to taxes assessed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For purposes of this section, &quot;principal&quot; means a natural person that owns, directly or indirectly, including through any tiered ownership structure, more than a one percent interest in the nonresident person applying for a nonresident vessel permit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>By January 1, 2026, the department must submit a report to the governor and the transportation and fiscal committees of the legislature. The report must include:</p>
+          </content>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The number of nonresident vessel permits the department authorized for approval in each calendar year since September 1, 2015, and the length of such vessels;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The number of nonresident vessel permits the department authorized for approval in each calendar year since July 25, 2021, for vessels chartered with a captain or crew;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Information about the state or country where the vessels described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection are primarily operated;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The amount of use tax collected on vessels described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A discussion of any evidence of fraud or attempted fraud related to nonresident vessel permits or permit applications; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_6__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any other information the department determines may be relevant.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department may adopt rules to implement this section.
+[
+2021 c 150 s 3
+;
+2015 3rd sp.s. c 6 s 805
+.]
+NOTES:
+Expiration date
+—
+2021 c 150:
+See note following RCW
+88.02.620
+.
+Expiration date
+—
+2021 c 150; 2017 c 323; 2015 3rd sp.s. c 6 ss 802-805:
+See note following RCW
+88.02.620
+.
+Findings
+—
+Intent
+—
+Tax preference performance statement
+—
+2021 c 150; 2017 c 323; 2015 3rd sp.s. c 6 ss 802-805:
+See note following RCW
+88.02.640
+.
+Effective date
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+PDF
+RCW
+82.32.865
+Nonresident vessel permit.
+(Effective January 1, 2029, until January 1, 2031.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A nonresident vessel owner that is not a natural person must apply directly to the department for written approval to obtain a nonresident vessel permit under RCW
+88.02.620
+. The application must be made to the department in a form and manner prescribed by the department and must include:</p>
+          </content>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The name of the record owner of the vessel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The name, address, and telephone number of the individual that applied for the permit on behalf of the nonresident person;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The record owner's address and telephone number;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The vessel's hull identification number;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The vessel year, make, and model;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The vessel length;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The vessel's registration or numbering under the state of principal operation or the valid number under federal law;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Proof of the person's current nonresident status, including certified copies of the filed articles of incorporation, a certificate of formation, or similar filings;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Proof of the identity and current residency of all principals of the nonresident person. Such proof may include a valid driver's license verifying out-of-state residency or a valid identification card that has a photograph of the holder and is issued by an out-of-state jurisdiction;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>An affidavit signed by a principal of the nonresident vessel owner certifying that no Washington residents are principals of the nonresident vessel owner; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Any other information the department may require.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must determine the nonresident vessel owner's eligibility for the permit, as provided in RCW
+88.02.620
+, and may request additional information as needed directly from the nonresident vessel owner.</p>
+          </content>
+          <subsection eId="sec_82_32_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the nonresident vessel owner appears eligible for the permit, the department must provide written approval to the nonresident vessel owner that authorizes issuance of the permit and includes the name of the nonresident vessel owner, the name of the vessel, and the hull identification number. After November 30, 2025, the department may not provide written approval for any permits under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department must also provide the information in the written approval to the department of licensing.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If, after a permit has been issued under RCW
+88.02.620
+, the department has reason to believe that the nonresident vessel owner was not eligible for the permit approved under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department may request such information from the nonresident vessel owner as the department determines is necessary to conduct a review of the nonresident vessel owner's eligibility.</p>
+          </content>
+          <subsection eId="sec_82_32_865__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the department finds the nonresident person was not eligible for the permit, the department must assess against the nonresident person state and local use tax on the value of the vessel according to the &quot;value of the article used&quot; as defined in RCW
+82.12.010
+. The department must also assess against the nonresident person any watercraft excise tax due under chapter
+82.49
+RCW. Penalties and interest as provided in this chapter and chapter
+82.49
+RCW apply to taxes assessed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For purposes of this section, &quot;principal&quot; means a natural person that owns, directly or indirectly, including through any tiered ownership structure, more than a one percent interest in the nonresident person applying for a nonresident vessel permit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_865__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department may adopt rules to implement this section.
+[
+2015 3rd sp.s. c 6 s 805
+.]
+NOTES:
+Expiration date
+—
+2017 c 323; 2015 3rd sp.s. c 6 ss 802-805:
+See note following RCW
+88.02.620
+.
+Findings
+—
+Intent
+—
+Tax preference performance statement
+—
+2017 c 323; 2015 3rd sp.s. c 6 ss 802-805:
+See note following RCW
+88.02.640
+.
+Effective date
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

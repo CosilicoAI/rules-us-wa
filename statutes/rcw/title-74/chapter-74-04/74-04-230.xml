@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.230"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.230"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.230/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.230/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.230/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.230/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_230">
+        <num>RCW 74.04.230</num>
+        <heading>Medical care services benefits—Mental health services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.230
+74.04.225
+&lt;&lt; 
+        74.04.230 &gt;&gt;
+74.04.265
+PDF
+RCW
+74.04.230
+Medical care services benefits
+—
+Mental health services.
+Persons eligible for medical care services benefits are eligible for mental health services to the extent that they meet the client definitions and priorities established by chapter
+71.24
+RCW.
+[
+2011 1st sp.s. c 36 s 20
+;
+2010 1st sp.s. c 8 s 20
+;
+1982 c 204 s 16
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.
+Sliding-scale fee schedules for clients receiving behavioral health services: RCW
+71.24.215
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

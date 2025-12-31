@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.110"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_110">
+        <num>RCW 74.08A.110</num>
+        <heading>Immigrants—Sponsor deeming</heading>
+        <subsection eId="sec_74_08A_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_110__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, qualified aliens and aliens permanently residing under color of law shall have their eligibility for assistance redetermined.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In determining the eligibility and the amount of benefits of a qualified alien or an alien permanently residing under color of law for public assistance under this title, the income and resources of the alien shall be deemed to include the income and resources of any person and his or her spouse who executed an affidavit of support pursuant to section 213A of the federal immigration and naturalization [nationality] act on behalf of the alien for a period of five years following the execution of that affidavit of support. The deeming provisions of this subsection shall be waived if the sponsor dies or is permanently incapacitated during the period the affidavit of support is valid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_110__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>As used in this section, &quot;qualified alien&quot; has the meaning provided it in P.L. 104-183.</p>
+          </content>
+          <subsection eId="sec_74_08A_110__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Qualified aliens specified under sections 403, 412, and 552</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_110__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>and (f), subtitle B, Title IV, of P.L. 104-193 and in P.L. 104-208, are exempt from this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_110__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Qualified aliens who served in the armed forces of an allied country, or were employed by an agency of the federal government, during a military conflict between the United States of America and a military adversary are exempt from the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_110__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Qualified aliens who are victims of domestic violence and petition for legal status under the federal violence against women act are exempt from the provisions of this section.
+[
+1997 c 57 s 2
+.]
+NOTES:
+Captions not law
+—
+1997 c 57:
+See note following RCW
+74.08A.100
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

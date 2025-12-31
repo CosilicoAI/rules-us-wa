@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.449"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.449"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.449/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.449/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.449/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.449/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_449">
+        <num>RCW 82.04.449</num>
+        <heading>Credit—Washington customized employment training program—Report to the legislature. (Expires July 1, 2033.)</heading>
+        <subsection eId="sec_82_04_449__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing the tax imposed under this chapter, a credit is allowed for participants in the Washington customized employment training program created in RCW
+28B.67.020
+. The credit allowed under this section is equal to 50 percent of the value of a participant's payments to the employment training finance account created in RCW
+28B.67.030
+. If a participant in the program does not meet the requirements of RCW
+28B.67.020</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person claiming the credit provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>By December 31, 2028, the college board, as defined in RCW
+28B.50.030
+, shall submit to the higher education committees of the legislature a report on:</p>
+          </content>
+          <subsection eId="sec_82_04_449__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The distribution of credit eligibility by county, as indicated by participants in the Washington customized employment training program created in RCW
+28B.67.020
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_449__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The distribution of qualified training institutions that provided trainings under the Washington customized employment training program, by county; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_449__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Efforts taken by the college board to encourage use of the credit by a greater variety of industries and participation of a greater variety of qualified training institutions, as defined in RCW
+28B.67.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2033.
+[
+2025 c 289 s 2
+;
+2021 c 116 s 3
+;
+2017 c 135 s 20
+;
+2012 c 46 s 3
+;
+2010 c 114 s 121
+;
+2009 c 296 s 3
+;
+2006 c 112 s 5
+.]
+NOTES:
+Tax preference performance statement
+—
+2025 c 289 s 2:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 2, chapter 289, Laws of 2025. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to accomplish a general purpose, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to provide customized training assistance that retains and expands existing businesses in Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that 75 percent of participating businesses complete the training and repay the customized employment training program loan, then the legislature intends to extend the expiration date of this tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2025 c 289 s 3
+.]
+Findings
+—
+Intent
+—
+2025 c 289:
+&quot;The legislature finds that affordable employer-specific worker training not only helps businesses but also improves the quality of life for workers and communities. The legislature also finds that 75 percent of participating businesses completed customized training under the program created in RCW
+28B.67.020
+and repaid the customized employment training program training allowance, a performance threshold identified by the 67th legislature as satisfactory to extend the expiration date of the tax credit established in RCW
+82.04.449
+. It is the intent of the legislature to aid in attracting and retaining jobs in Washington by extending the expiration of the customized employment training program tax credit to July 1, 2031.&quot; [
+2025 c 289 s 1
+.]
+Finding
+—
+2021 c 116:
+&quot;The legislature finds that due to the COVID-19 pandemic, there is new urgency for employer-affordable programs supporting worker training. It is the objective of the legislature to aid in the recruiting, retaining, and expanding of existing small businesses in Washington by extending the expiration of the customized employment training program tax credit to July 1, 2026.&quot; [
+2021 c 116 s 1
+.]
+Tax preference performance statement
+—
+2021 c 116:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 3, chapter 116, Laws of 2021. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to accomplish a general purpose, to provide customized workforce development and skill development training that enhance worker skill sets.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to provide customized training assistance that retains and expands existing businesses in Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that 75 percent of participating businesses complete the training and repay the customized employment training program loan, then the legislature intends to extend the expiration date of this tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_449__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2021 c 116 s 2
+.]
+Effective date
+—
+2021 c 116:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2021.&quot; [
+2021 c 116 s 4
+.]
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

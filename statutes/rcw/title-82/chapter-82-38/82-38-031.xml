@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.031"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.031"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.031/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.031/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.031/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.031/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_031">
+        <num>RCW 82.38.031</num>
+        <heading>Tax imposed—Intent</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.38
+&gt;
+Section 82.38.031
+82.38.030
+&lt;&lt; 
+        82.38.031 &gt;&gt;
+82.38.032
+PDF
+RCW
+82.38.031
+Tax imposed
+—
+Intent.
+It is the intent and purpose of this chapter that the tax shall be imposed at the time and place of the first taxable event and upon the first taxable person within this state. Any person whose activities would otherwise require payment of the tax imposed by RCW
+82.38.030
+but who is exempt from the tax nevertheless has a precollection obligation for the tax that must be imposed on the first taxable event within this state. Failure to pay the tax with respect to a taxable event shall not prevent tax liability from arising by reason of a subsequent taxable event.
+[
+2007 c 515 s 33
+.]
+NOTES:
+Effective date
+—
+2007 c 515:
+See note following RCW
+82.38.030
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

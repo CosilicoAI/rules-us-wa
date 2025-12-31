@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_050">
+        <num>RCW 82.87.050</num>
+        <heading>Exemptions</heading>
+        <subsection eId="sec_82_87_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>All real estate transferred by deed, real estate contract, judgment, or other lawful instruments that transfer title to real property and are filed as a public record with the counties where real property is located;</p>
+          </content>
+          <subsection eId="sec_82_87_050__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An interest in a privately held entity only to the extent that any long-term capital gain or loss from such sale or exchange is directly attributable to the real estate owned directly by such entity.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Except as provided in (b)</p>
+            </content>
+            <subsection eId="sec_82_87_050__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_87_050__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection, the value of the exemption under this subsection is equal to the fair market value of the real estate owned directly by the entity less its basis, at the time that the sale or exchange of the individual's interest occurs, multiplied by the percentage of the ownership interest in the entity which is sold or exchanged by the individual.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_87_050__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If a sale or exchange of an interest in an entity results in an amount directly attributable to real property and that is considered as an amount realized from the sale or exchange of property other than a capital asset under Title 26 U.S.C. Sec. 751 of the internal revenue code, such amount must not be considered in the calculation of an individual's exemption amount under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_87_050__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Real estate not owned directly by the entity in which an individual is selling or exchanging the individual's interest must not be considered in the calculation of an individual's exemption amount under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Fair market value of real estate may be established by a fair market appraisal of the real estate or an allocation of assets by the seller and the buyer made under Title 26 U.S.C. Sec. 1060 of the internal revenue code, as amended. However, the department is not bound by the parties' agreement as to the allocation of assets, allocation of consideration, or fair market value, if such allocations or fair market value do not reflect the fair market value of the real estate. The assessed value of the real estate for property tax purposes may be used to determine the fair market value of the real estate, if the assessed value is current as of the date of the sale or exchange of the ownership interest in the entity owning the real estate and the department determines that this method is reasonable under the circumstances.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The value of the exemption under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>may not exceed the individual's long-term capital gain or loss from the sale or exchange of an interest in an entity for which the individual is claiming this exemption;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Assets held under a retirement savings account under Title 26 U.S.C. Sec. 401</p>
+          </content>
+          <subsection eId="sec_82_87_050__subsec_3__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>of the internal revenue code, a tax-sheltered annuity or custodial account described in Title 26 U.S.C. Sec. 403</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of the internal revenue code, a deferred compensation plan under Title 26 U.S.C. Sec. 457</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of the internal revenue code, an individual retirement account or individual retirement annuity described in Title 26 U.S.C. Sec. 408 of the internal revenue code, a Roth individual retirement account described in Title 26 U.S.C. Sec. 408A of the internal revenue code, an employee defined contribution program, an employee defined benefit plan, or a similar retirement savings vehicle, whether foreign or domestic, that penalizes withdrawals until the legal or beneficial owner reaches a certain age;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Assets pursuant to, or under imminent threat of, condemnation proceedings by the United States, the state or any of its political subdivisions, or a municipal corporation;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Cattle, horses, or breeding livestock if for the taxable year of the sale or exchange, more than 50 percent of the taxpayer's gross income for the taxable year, including from the sale or exchange of capital assets, is from farming or ranching;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Property depreciable under Title 26 U.S.C. Sec. 167(a)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of the internal revenue code, or that qualifies for expensing under Title 26 U.S.C. Sec. 179 of the internal revenue code;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Timber, timberland, or the receipt of Washington capital gains as dividends and distributions from real estate investment trusts derived from gains from the sale or exchange of timber and timberland. &quot;Timber&quot; means forest trees, standing or down, on privately or publicly owned land, and includes Christmas trees and short-rotation hardwoods. The sale or exchange of timber includes the cutting or disposal of timber qualifying for capital gains treatment under Title 26 U.S.C. Sec. 631</p>
+          </content>
+          <subsection eId="sec_82_87_050__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of the internal revenue code;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Commercial fishing privileges.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_050__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>In the case of federally managed fisheries, quota and access to fisheries assigned pursuant to individual fishing quota programs, limited entry and catch share programs, cooperative fishing management agreements, or similar arrangements; and</p>
+            </content>
+            <subsection eId="sec_82_87_050__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>In the case of state-managed fisheries, quota and access to fisheries assigned under fishery permits, limited entry and catch share programs, or similar arrangements; and</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_050__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Goodwill received from the sale of an auto dealership licensed under chapter
+46.70
+RCW whose activities are subject to chapter
+46.96
+RCW.
+[
+2025 c 409 s 5
+;
+2021 c 196 s 6
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,287 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.820"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.820"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.820/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.820/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.820/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.820/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_820">
+        <num>RCW 82.08.820</num>
+        <heading>Exemptions—Remittance—Warehouse and grain elevators and distribution centers—Material-handling and racking equipment—Construction of warehouse or elevator—Information sheet—Rules—Records—Exceptions</heading>
+        <subsection eId="sec_82_08_820__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Wholesalers or third-party warehousers who own or operate warehouses or grain elevators and retailers who own or operate distribution centers, and who have paid the tax levied by RCW
+82.08.020
+on:</p>
+          </content>
+          <subsection eId="sec_82_08_820__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Material-handling and racking equipment, and labor and services rendered in respect to installing, repairing, cleaning, altering, or improving the equipment; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Construction of a warehouse or grain elevator, including materials, and including service and labor costs,
+are eligible for an exemption in the form of a remittance. The amount of the remittance is computed under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_820__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section and is based on the state share of sales tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_820__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section and RCW
+82.12.820
+:</p>
+          </content>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Agricultural products&quot; has the meaning given in RCW
+82.04.213
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Construction&quot; means the actual construction of a warehouse or grain elevator that did not exist before the construction began. &quot;Construction&quot; includes expansion if the expansion adds at least two hundred thousand square feet of additional space to an existing warehouse or additional storage capacity of at least one million bushels to an existing grain elevator. &quot;Construction&quot; does not include renovation, remodeling, or repair;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Department&quot; means the department of revenue;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Distribution center&quot; means a warehouse that is used exclusively by a retailer solely for the storage and distribution of finished goods to retail outlets of the retailer. &quot;Distribution center&quot; does not include a warehouse at which retail sales occur;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Finished goods&quot; means tangible personal property intended for sale by a retailer or wholesaler. &quot;Finished goods&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Agricultural products stored by wholesalers, third-party warehouses, or retailers if the storage takes place on the land of the person who produced the agricultural product;</p>
+            </content>
+            <subsection eId="sec_82_08_820__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Logs, minerals, petroleum, gas, or other extracted products stored as raw materials or in bulk; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_820__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Cannabis, useable cannabis, or cannabis-infused products;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Grain elevator&quot; means a structure used for storage and handling of grain in bulk;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Material-handling equipment and racking equipment&quot; means equipment in a warehouse or grain elevator that is primarily used to handle, store, organize, convey, package, or repackage finished goods. The term includes tangible personal property with a useful life of one year or more that becomes an ingredient or component of the equipment, including repair and replacement parts. The term does not include equipment in offices, lunchrooms, restrooms, and other like space, within a warehouse or grain elevator, or equipment used for nonwarehousing purposes. &quot;Material-handling equipment&quot; includes but is not limited to: Conveyers, carousels, lifts, positioners, pick-up-and-place units, cranes, hoists, mechanical arms, and robots; mechanized systems, including containers that are an integral part of the system, whose purpose is to lift or move tangible personal property; and automated handling, storage, and retrieval systems, including computers that control them, whose purpose is to lift or move tangible personal property; and forklifts and other off-the-road vehicles that are used to lift or move tangible personal property and that cannot be operated legally on roads and streets. &quot;Racking equipment&quot; includes, but is not limited to, conveying systems, chutes, shelves, racks, bins, drawers, pallets, and other containers and storage devices that form a necessary part of the storage system;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Person&quot; has the meaning given in RCW
+82.04.030
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Retailer&quot; means a person who makes &quot;sales at retail&quot; as defined in chapter
+82.04
+RCW of tangible personal property;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Square footage&quot; means the product of the two horizontal dimensions of each floor of a specific warehouse. The entire footprint of the warehouse must be measured in calculating the square footage, including space that juts out from the building profile such as loading docks. &quot;Square footage&quot; does not mean the aggregate of the square footage of more than one warehouse at a location or the aggregate of the square footage of warehouses at more than one location;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>&quot;Third-party warehouser&quot; means a person taxable under RCW
+82.04.280</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>&quot;Warehouse&quot; means an enclosed building or structure in which finished goods are stored. A warehouse building or structure may have more than one storage room and more than one floor. Office space, lunchrooms, restrooms, and other space within the warehouse and necessary for the operation of the warehouse are considered part of the warehouse as are loading docks and other such space attached to the building and used for handling of finished goods. Landscaping and parking lots are not considered part of the warehouse. A storage yard is not a warehouse, nor is a building in which manufacturing takes place; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>&quot;Wholesaler&quot; means a person who makes &quot;sales at wholesale&quot; as defined in chapter
+82.04
+RCW of tangible personal property, but &quot;wholesaler&quot; does not include a person who makes sales exempt under RCW
+82.04.330
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person claiming an exemption from state tax in the form of a remittance under this section must pay the tax imposed by RCW
+82.08.020
+. The buyer may then apply to the department for remittance of all or part of the tax paid under RCW
+82.08.020
+. For grain elevators with bushel capacity of one million but less than two million, the remittance is equal to fifty percent of the amount of tax paid. For warehouses with square footage of two hundred thousand or more and for grain elevators with bushel capacity of two million or more, the remittance is equal to one hundred percent of the amount of tax paid for qualifying construction, materials, service, and labor, and fifty percent of the amount of tax paid for qualifying material-handling equipment and racking equipment, and labor and services rendered in respect to installing, repairing, cleaning, altering, or improving the equipment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department must determine eligibility under this section based on information provided by the buyer and through audit and other administrative records. The buyer must on a quarterly basis submit an information sheet, in a form and manner as required by the department by rule, specifying the amount of exempted tax claimed and the qualifying purchases or acquisitions for which the exemption is claimed. The buyer must retain, in adequate detail to enable the department to determine whether the equipment or construction meets the criteria under this section: Invoices; proof of tax paid; documents describing the material-handling equipment and racking equipment; location and size of warehouses and grain elevators; and construction invoices and documents.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_820__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department must on a quarterly basis remit exempted amounts to qualifying persons who submitted applications during the previous quarter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_820__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Warehouses, grain elevators, and material-handling equipment and racking equipment for which an exemption, credit, or deferral has been or is being received under chapter
+82.60
+, 82.62, or
+82.63
+RCW or RCW
+82.08.02565
+or
+82.12.02565
+are not eligible for any remittance under this section. Warehouses and grain elevators upon which construction was initiated before May 20, 1997, are not eligible for a remittance under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_820__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The lessor or owner of a warehouse or grain elevator is not eligible for a remittance under this section unless the underlying ownership of the warehouse or grain elevator and the material-handling equipment and racking equipment vests exclusively in the same person, or unless the lessor by written contract agrees to pass the economic benefit of the remittance to the lessee in the form of reduced rent payments.
+[
+2022 c 16 s 153
+;
+2014 c 140 s 23
+;
+2011 c 174 s 206
+; (2011 c 174 s 205 expired July 1, 2012);
+2006 c 354 s 12
+; (2006 c 354 s 11 expired July 1, 2012);
+2005 c 513 s 11
+;
+1997 c 450 s 2
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Effective date
+—
+2011 c 174 s 206:
+&quot;Section 206 of this act takes effect July 1, 2012.&quot; [
+2011 c 174 s 501
+.]
+Expiration date
+—
+2011 c 174 s 205:
+&quot;Section 205 of this act expires July 1, 2012.&quot; [
+2011 c 174 s 502
+.]
+Expiration date
+—
+2006 c 354 s 11:
+&quot;Section 11 of this act expires July 1, 2012.&quot; [
+2006 c 354 s 20
+.]
+Effective dates
+—
+2006 c 354:
+See note following RCW
+82.04.4268
+.
+Effective dates
+—
+2005 c 513:
+See note following RCW
+82.04.4266
+.
+Findings
+—
+Intent
+—
+1997 c 450:
+&quot;The legislature finds that the state's overall economic health and prosperity is bolstered through tax incentives targeted to specific industries. The warehouse and distribution industry is critical to other businesses. The transportation sector, the retail sector, the ports, and the wholesalers all rely on the warehouse and distribution industry. It is the intent of the legislature to stimulate interstate trade by providing tax incentives to those persons in the warehouse and distribution industry engaged in highly competitive trade.&quot; [
+1997 c 450 s 1
+.]
+Report
+—
+1997 c 450:
+&quot;The legislative fiscal committees shall report to the legislature by December 1, 2001, on the economic impacts of this act. This report shall analyze employment and other relevant economic data pertaining to the tax exemptions authorized under this act </p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

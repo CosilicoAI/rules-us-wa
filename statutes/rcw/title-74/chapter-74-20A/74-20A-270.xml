@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.270"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_270">
+        <num>RCW 74.20A.270</num>
+        <heading>Department claim for support moneys—Notice—Answer—Adjudicative proceeding—Judicial review—Moneys not subject to claim</heading>
+        <subsection eId="sec_74_20A_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The secretary may issue a notice of retained support or notice to recover a support payment to any person:</p>
+          </content>
+          <subsection eId="sec_74_20A_270__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Who is in possession of support moneys, or who has had support moneys in his or her possession at some time in the past, which support moneys were or are claimed by the department as the property of the department by assignment, subrogation, or by operation of law or legal process under chapter
+74.20A
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_270__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Who has received a support payment erroneously directed to the wrong payee, or issued by the department in error; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_270__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Who is in possession of a support payment obtained through the internal revenue service tax refund offset process, which payment was later reclaimed from the department by the internal revenue service as a result of an amended tax return filed by the obligor or the obligor's spouse.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The notice shall state the legal basis for the claim and shall provide sufficient detail to enable the person to identify the support moneys in issue.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall serve the notice by certified mail, return receipt requested, or in the manner of a summons in a civil action.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The amounts claimed in the notice shall become assessed, determined, and subject to collection twenty days from the date of service of the notice unless within those twenty days the person in possession of the support moneys:</p>
+          </content>
+          <subsection eId="sec_74_20A_270__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Acknowledges the department's right to the moneys and executes an agreed settlement providing for repayment of the moneys; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_270__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Requests an adjudicative proceeding to determine the rights to ownership of the support moneys in issue. The hearing shall be held pursuant to this section, chapter
+34.05
+RCW, the Administrative Procedure Act, and the rules of the department. The burden of proof to establish ownership of the support moneys claimed is on the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>After the twenty-day period, a person served with a notice under this section may, at any time within one year from the date of service of the notice of support debt, petition the secretary or the secretary's designee for an adjudicative proceeding upon a showing of any of the grounds enumerated in RCW
+4.72.010
+or superior court civil rule 60. A copy of the petition shall also be served on the department. The filing of the petition shall not stay any collection action being taken, but the debtor may petition the secretary or the secretary's designee for an order staying collection action pending the final administrative order. Any such moneys held and/or taken by collection action after the date of any such stay shall be held by the department pending the final order, to be disbursed in accordance with the final order.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If the debtor fails to attend or participate in the hearing or other stage of an adjudicative proceeding, the presiding officer shall, upon showing of valid service, enter an order declaring the amount of support moneys, as claimed in the notice, to be assessed and determined and subject to collection action.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department may take action to collect an obligation established under this section using any remedy available under this chapter or chapter
+26.09
+, 26.18, 26.23, or
+74.20
+RCW for the collection of child support.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>If, at any time, the superior court enters judgment for an amount of debt at variance with the amount determined by the final order in an adjudicative proceeding, the judgment shall supersede the final administrative order. The department may take action pursuant to chapter
+74.20
+or
+74.20A
+RCW to obtain such a judgment or to collect moneys determined by such a judgment to be due and owing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>If a person owing a debt established under this section is receiving public assistance, the department may collect the debt by offsetting up to ten percent of the grant payment received by the person. No collection action may be taken against the earnings of a person receiving cash public assistance to collect a debt assessed under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_270__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Payments not credited against the department's debt pursuant to RCW
+74.20.101
+may not be assessed or collected under this section.
+[
+1997 c 58 s 896
+. Prior:
+1989 c 360 s 35
+;
+1989 c 175 s 156
+;
+1985 c 276 s 14
+;
+1984 c 260 s 41
+;
+1979 ex.s. c 171 s 18
+.]
+NOTES:
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

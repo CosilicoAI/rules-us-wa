@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.150"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_150">
+        <num>RCW 82.87.150</num>
+        <heading>Annual adjustments</heading>
+        <subsection eId="sec_82_87_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning October 2025 and each October thereafter, the department must adjust the applicable amounts by multiplying the current applicable amounts by one plus the percentage by which the most current consumer price index available on October 1st of the current year exceeds the consumer price index for the prior 12-month period, and rounding the result to the nearest $1,000. If an adjustment under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>would reduce the applicable amounts, the department must not adjust the applicable amounts for use in the following year. The department must publish the adjusted applicable amounts on its public website by October 31st.</p>
+          </content>
+          <subsection eId="sec_82_87_150__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_150__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, the adjusted applicable amounts calculated under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>take effect for taxes due and distributions made, as the case may be, in the following calendar year.</p>
+          </content>
+          <subsection eId="sec_82_87_150__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The adjusted applicable amounts calculated under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>for the distribution amount described in subsection</p>
+          </content>
+          <subsection eId="sec_82_87_150__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section apply to distributions made in the following fiscal year.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_150__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_87_150__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Applicable amounts&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_150__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The distribution amount to the education legacy trust account as provided in RCW
+82.87.030</p>
+            </content>
+            <subsection eId="sec_82_87_150__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The standard deduction amount in RCW
+82.87.020</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_150__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>and
+82.87.060</p>
+          </content>
+          <subsection eId="sec_82_87_150__subsec_16__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Consumer price index&quot; means the consumer price index for all urban consumers, all items, for the Seattle area as calculated by the United States bureau of labor statistics or its successor agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_150__subsec_16__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Seattle area&quot; means the geographic area sample that includes Seattle and surrounding areas.
+[
+2025 c 409 s 11
+;
+2021 c 196 s 17
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

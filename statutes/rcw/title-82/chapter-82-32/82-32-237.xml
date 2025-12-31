@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.237"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.237"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.237/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.237/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.237/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.237/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_237">
+        <num>RCW 82.32.237</num>
+        <heading>Notice and order to withhold and deliver—Continuing lien—Effective date</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.237
+82.32.235
+&lt;&lt; 
+        82.32.237 &gt;&gt;
+82.32.240
+PDF
+RCW
+82.32.237
+Notice and order to withhold and deliver
+—
+Continuing lien
+—
+Effective date.
+Upon service, the notice and order to withhold and deliver shall constitute a continuing lien on property of the taxpayer and upon wages due, owing, or belonging to the taxpayer. The department shall include in the caption of the notice and order to withhold and deliver &quot;continuing lien.&quot; The effective date of a notice and order to withhold and deliver served under RCW
+82.32.235
+shall be the date of service thereof.
+[
+1987 c 208 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

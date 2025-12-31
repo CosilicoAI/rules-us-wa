@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.46.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.46.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.46.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_46_030">
+        <num>RCW 82.46.030</num>
+        <heading>Distribution of proceeds</heading>
+        <subsection eId="sec_82_46_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The county treasurer shall place one percent of the proceeds of the taxes imposed under this chapter in the county current expense fund to defray costs of collection.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The remaining proceeds from the county tax under RCW
+82.46.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>shall be placed in a county capital improvements fund. The remaining proceeds from city or town taxes under RCW
+82.46.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>shall be distributed to the respective cities and towns monthly and placed by the city treasurer in a municipal capital improvements fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section does not limit the existing authority of any city, town, or county to impose special assessments on property specially benefited thereby in the manner prescribed by law.
+[
+2000 c 103 s 17
+;
+1992 c 221 s 2
+;
+1990 1st ex.s. c 17 s 37
+;
+1982 1st ex.s. c 49 s 13
+.]
+NOTES:
+Severability
+—
+Part, section headings not law
+—
+1990 1st ex.s. c 17:
+See RCW
+36.70A.900
+and
+36.70A.901
+.
+Intent
+—
+Construction
+—
+Effective date
+—
+Fire district funding
+—
+1982 1st ex.s. c 49:
+See notes following RCW
+35.21.710
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

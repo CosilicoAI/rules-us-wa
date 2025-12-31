@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.182"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.182"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.182/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.182/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.182/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.182/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_182">
+        <num>RCW 82.16.182</num>
+        <heading>Community solar projects—Definitions. (Expires June 30, 2038.)</heading>
+        <subsection eId="sec_82_16_182__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The definitions in this section apply throughout this section and RCW
+82.16.183
+unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Administrator&quot; means the utility, nonprofit, tribal housing authority as provided in (a)</p>
+            </content>
+            <subsection eId="sec_82_16_182__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection, or other local housing authority that organizes and administers a community solar project as provided in RCW
+82.16.183
+and
+82.16.170
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_182__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A tribal housing authority may only administer a community solar project on tribal lands or lands held in trust for a federally recognized tribe by the United States for subscribers who are tribal members.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Certification&quot; means the authorization issued by the Washington State University extension energy program establishing a community solar project administrator's eligibility to receive a low-income community solar incentive payment from the electric utility serving the site of the community solar project, on behalf of, and for the purpose of providing direct benefits to, its low-income subscribers, low-income service provider subscribers, and tribal and public agency subscribers.
+(c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Community solar project&quot; means a solar energy system that:
+(A) Has a direct current nameplate capacity that is greater than 12 kilowatts but no greater than 199 kilowatts;
+(B) Has, at minimum, either two subscribers or one low-income service provider subscriber; and
+(C) Meets the applicable eligibility requirements in RCW
+82.16.183
+.</p>
+            </content>
+            <subsection eId="sec_82_16_182__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A community solar project may include a storage system with a solar energy system.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Consumer-owned utility&quot; has the same meaning as in RCW
+19.280.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Electric utility&quot; or &quot;utility&quot; means a consumer-owned utility or investor-owned utility as those terms are defined in RCW
+19.280.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Energy assistance&quot; has the same meaning as provided in RCW
+19.405.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Energy burden&quot; has the same meaning as provided in RCW
+19.405.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Governing body&quot; has the same meaning as provided in RCW
+19.280.020
+.
+(i)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Installed cost&quot; includes only the renewable energy system components and fees that are integral and necessary for the generation and storage of electricity. Components and fees include:
+(A) Solar modules and inverters;
+(B) Battery systems;
+(C) Balance of system, such as racking, wiring, switch gears, and meter bases;
+(D) Nonhardware costs incurred up to the date of the final electrical inspection, such as fees associated with engineering, permitting, interconnection, and application;
+(E) Labor; and
+(F) Sales tax.</p>
+            </content>
+            <subsection eId="sec_82_16_182__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Installed cost&quot; does not include structures and fixtures that are not integral and necessary to the generation or storage of electricity, such as carports and roofing.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Interconnection customer&quot; means the person, corporation, partnership, government agency, or other entity that proposes to interconnect, or has executed an interconnection agreement, with the electric utility.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>&quot;Low-income&quot; has the same meaning as provided in RCW
+19.405.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>&quot;Low-income service provider&quot; includes, but is not limited to, a local community action agency or local community service agency designated by the department of commerce under chapter
+43.63A
+RCW, local housing authority, tribal housing authority, low-income tribal housing program, affordable housing provider, food bank, or other nonprofit organization that provides services to low-income households as part of their core mission.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>&quot;Multifamily residential building&quot; means a building containing more than two sleeping units or dwelling units where occupants are primarily permanent in nature.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>&quot;Person&quot; means an individual, firm, partnership, corporation, company, association, agency, or any other legal entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>&quot;Preferred sites&quot; means rooftops, structures, existing impervious surfaces, landfills, brownfields, previously developed sites, irrigation canals and ponds, stormwater collection ponds, industrial areas, dual-use solar projects that ensure ongoing agricultural operations, and other sites that do not displace critical habitat or productive farmland as defined by state and county planning processes.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>&quot;Public agency&quot; means any political subdivision of the state including, but not limited to, municipal and county governments, special purpose districts, and local housing authorities, but does not include state agencies.
+(q)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Except as otherwise provided in (q)</p>
+            </content>
+            <subsection eId="sec_82_16_182__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection, &quot;qualifying subscriber&quot; means a low-income subscriber, low-income service provider subscriber, tribal agency subscriber, or public agency subscriber.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_182__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For tribal agency subscribers and public agency subscribers, only the portion of their subscription to a community solar project that is demonstrated to benefit low-income beneficiaries, including low-income service providers and services provided to low-income citizens or households, is to be considered a qualifying subscriber.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_r">
+            <num>(r)</num>
+            <content>
+              <p>&quot;Retail electric customer&quot; has the same meaning as in RCW
+80.60.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_s">
+            <num>(s)</num>
+            <content>
+              <p>&quot;Subscriber&quot; means a retail electric customer of an electric utility who owns or is the beneficiary of one or more units of a community solar project directly interconnected with that same utility.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_182__subsec_1__subsec_t">
+            <num>(t)</num>
+            <content>
+              <p>&quot;Subscription&quot; means an agreement between a subscriber and the administrator of a community solar project.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_182__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section expires June 30, 2038.
+[
+2022 c 212 s 4
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Tax preference performance statement exemption
+—
+Effective date
+—
+2022 c 212:
+See notes following RCW
+82.16.183
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

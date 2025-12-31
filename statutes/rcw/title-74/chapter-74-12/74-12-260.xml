@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.260"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.260"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.260/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.260/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.260/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.260/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_260">
+        <num>RCW 74.12.260</num>
+        <heading>Persons to whom grants shall be made—Proof of use for benefit of children</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.260
+74.12.255
+&lt;&lt; 
+        74.12.260 &gt;&gt;
+74.12.280
+PDF
+RCW
+74.12.260
+Persons to whom grants shall be made
+—
+Proof of use for benefit of children.
+Temporary assistance for needy families grants shall be made to persons specified in RCW
+74.12.010
+as amended or such others as the federal department of health, education and welfare shall recognize for the sole purposes of giving benefits to the children whose needs are included in the grant paid to such persons. The recipient of each temporary assistance for needy families grant shall be and hereby is required to present reasonable proof to the department of social and health services as often as may be required by the department that all funds received in the form of a temporary assistance for needy families grant for the children represented in the grant are being spent for the benefit of the children.
+[
+1997 c 59 s 21
+;
+1979 c 141 s 351
+;
+1963 c 228 s 22
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

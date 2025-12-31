@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.901"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.901"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.901/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.901/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.901/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.901/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_901">
+        <num>RCW 74.13.901</num>
+        <heading>Construction—Chapter applicable to state registered domestic partnerships—2009 c 521</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.901
+74.13.810
+&lt;&lt; 
+        74.13.901 &gt;&gt;
+74.13.902
+PDF
+RCW
+74.13.901
+Construction
+—
+Chapter applicable to state registered domestic partnerships
+—
+2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships. Nothing in chapter 521, Laws of 2009 shall be construed as creating or requiring the creation of any medical assistance program, as that term is defined in RCW
+74.09.010
+, for state registered domestic partners that is analogous to federal medical assistance programs extended to married persons.
+[
+2009 c 521 s 177
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

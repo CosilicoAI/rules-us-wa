@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.330"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.330"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.330/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.330/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.330/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.330/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_330">
+        <num>RCW 74.04.330</num>
+        <heading>Annual reports by assistance organizations—Penalty</heading>
+        <subsection eId="sec_74_04_330__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A statement of the total amount of contributions, gifts, dues, or other payments received;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_330__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The names of any and all persons, firms, corporations, associations or organizations contributing the sum of twenty-five dollars or more during such year, and the amounts contributed by such persons, firms, corporations, associations, or organizations;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_330__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A full and complete statement of all disbursements made during such year, including the names of all persons, firms, corporations, associations, or organizations to whom any moneys were paid, and the amounts and purposes of such payments; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_330__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Every such report so filed shall constitute a public record.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_330__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any person, firm, or corporation, and any officer or agent of any firm, corporation, association or organization, violating this section by failing to file such report, or in any other manner, shall be guilty of a gross misdemeanor.
+[
+1979 c 141 s 310
+;
+1963 c 228 s 5
+;
+1959 c 26 s 74.04.330
+. Prior:
+1941 c 170 s 7
+; Rem. Supp. 1941 s 10007-138.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

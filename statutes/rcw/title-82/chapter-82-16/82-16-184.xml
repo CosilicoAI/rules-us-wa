@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.184"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.184"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.184/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.184/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.184/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.184/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_184">
+        <num>RCW 82.16.184</num>
+        <heading>Credit—Community solar projects. (Expires June 30, 2038.)</heading>
+        <subsection eId="sec_82_16_184__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning July 1, 2022, a light and power business is allowed a credit against taxes due under this chapter in an amount equal to incentive payments made in any fiscal year under RCW
+82.16.183
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_184__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credits must be taken in a form and manner as required by the department. The credit taken under this section for the fiscal year may not exceed 1.5 percent of the business's taxable Washington power sales generated in calendar year 2014 and due under RCW
+82.16.020</p>
+          </content>
+          <subsection eId="sec_82_16_184__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>or $250,000, whichever is greater, for incentive payments made for community solar projects that submit an application for precertification under RCW
+82.16.183
+on or after July 1, 2022, and that are certified for an incentive payment in accordance with the terms of that precertification by June 30, 2033.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_184__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The credit may not exceed the tax that would otherwise be due under this chapter. Refunds may not be granted in the place of credits.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_184__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For any business that has claimed credit for amounts that exceed the correct amount of the incentive payable under RCW
+82.16.183
+, the amount of tax against which credit was claimed for the excess payments is immediately due and payable. The department may deduct amounts from future credits claimed by the business.</p>
+          </content>
+          <subsection eId="sec_82_16_184__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_184__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, the department must assess interest but not penalties on the taxes against which the credit was claimed. Interest may be assessed at the rate provided for delinquent excise taxes under chapter
+82.32
+RCW, retroactively to the date the credit was claimed, and accrues until the taxes against which the credit was claimed are repaid.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_184__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A business is not liable for excess payments made in reliance on amounts reported by the Washington State University extension energy program as due and payable as provided under RCW
+82.16.183
+, if such amounts are later found to be abnormal or inaccurate due to no fault of the business.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_184__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The amount of credit taken under this section is not confidential taxpayer information under RCW
+82.32.330
+and is subject to disclosure.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_184__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The right to earn tax credits for incentive payments made under RCW
+82.16.183
+expires June 30, 2036. Credits may not be claimed under this section after June 30, 2037.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_184__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section expires June 30, 2038.
+[
+2022 c 212 s 3
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Tax preference performance statement exemption
+—
+Effective date
+—
+2022 c 212:
+See notes following RCW
+82.16.183
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.315"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.315"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.315/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.315/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.315/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.315/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_315">
+        <num>RCW 74.15.315</num>
+        <heading>Host home program registration</heading>
+        <subsection eId="sec_74_15_315__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A host home program must register with the secretary of state's office. This registration may occur when the secretary of state files articles of incorporation of the host home program under chapter
+24.03A
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_315__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The host home program registration must include a notarized statement by the host home program that it meets all of the requirements set out in RCW
+74.15.020</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_315__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The secretary of state has no duty to confirm that a host home program is meeting its statutory requirements. A filing under this section does not imply an endorsement by the secretary of state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_315__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The secretary of state may adopt rules necessary to carry out its duties under this section.
+[
+2021 c 176 s 5104
+.]
+NOTES:
+Effective date
+—
+2021 c 176:
+See note following RCW
+24.03A.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

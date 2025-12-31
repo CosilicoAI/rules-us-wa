@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.190"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.190"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.190/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.190/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.190/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.190/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_190">
+        <num>RCW 82.32.190</num>
+        <heading>Stay of collection pending suit—Interest</heading>
+        <subsection eId="sec_82_32_190__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department, by its order, may hold in abeyance the collection of tax from any taxpayer or any group of taxpayers when a question bearing on their liability for tax hereunder is pending before the courts. The department may impose such conditions as may be deemed just and equitable and shall require the payment of interest at the rate of three-quarters of one percent of the amount of the tax for each thirty days or portion thereof from the date upon which such tax became due until the date of payment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_190__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Interest imposed under this section for periods after January 1, 1997, shall be computed on a daily basis at the rate as computed under RCW
+82.32.050</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

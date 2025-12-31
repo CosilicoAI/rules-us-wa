@@ -1,0 +1,484 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_030">
+        <num>RCW 82.38.030</num>
+        <heading>Tax imposed—Rate—Incidence—Allocation of proceeds—Expiration of subsection</heading>
+        <subsection eId="sec_82_38_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>There is levied and imposed upon fuel licensees a tax at the rate of 23 cents per gallon of fuel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Beginning July 1, 2003, an additional and cumulative tax rate of five cents per gallon of fuel is imposed on fuel licensees. This subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>expires when the bonds issued for transportation 2003 projects are retired.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Beginning July 1, 2005, an additional and cumulative tax rate of three cents per gallon of fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Beginning July 1, 2006, an additional and cumulative tax rate of three cents per gallon of fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Beginning July 1, 2007, an additional and cumulative tax rate of two cents per gallon of fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Beginning July 1, 2008, an additional and cumulative tax rate of one and one-half cents per gallon of fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Beginning August 1, 2015, an additional and cumulative tax rate of seven cents per gallon of fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Beginning July 1, 2016, an additional and cumulative tax rate of four and nine-tenths cents per gallon of fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Beginning July 1, 2025, an additional and cumulative tax rate of six cents per gallon of fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Beginning July 1, 2025, an additional and cumulative tax rate of three cents per gallon of special fuel is imposed on fuel licensees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Beginning July 1, 2027, an additional and cumulative tax rate of three cents per gallon of special fuel is imposed on fuel licensees.</p>
+          </content>
+          <subsection eId="sec_82_38_030__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning July 1, 2026, the fuel tax rates imposed under subsections</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>of this section must be increased annually by two percent and the resulting fuel tax rate must be rounded to the nearest one-thousandth of $1.</p>
+          </content>
+          <subsection eId="sec_82_38_030__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning July 1, 2028, the fuel tax rate imposed under subsections</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>of this section must be increased annually by two percent and the resulting fuel tax rate must be rounded to the nearest one-thousandth of $1.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>Taxes are imposed when:</p>
+          </content>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fuel is removed in this state from a terminal if the fuel is removed at the rack unless the removal is by a licensed supplier or distributor for direct delivery to a destination outside of the state, or the removal is by a fuel supplier for direct delivery to an international fuel tax agreement licensee under RCW
+82.38.320
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Fuel is removed in this state from a refinery if either of the following applies:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The removal is by bulk transfer and the refiner or the owner of the fuel immediately before the removal is not a licensed supplier; or</p>
+            </content>
+            <subsection eId="sec_82_38_030__subsec_13__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The removal is at the refinery rack unless the removal is to a licensed supplier or distributor for direct delivery to a destination outside of the state, or the removal is to a licensed supplier for direct delivery to an international fuel tax agreement licensee under RCW
+82.38.320
+;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Fuel enters into this state for sale, consumption, use, or storage, unless the fuel enters this state for direct delivery to an international fuel tax agreement licensee under RCW
+82.38.320
+, if either of the following applies:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The entry is by bulk transfer and the importer is not a licensed supplier; or</p>
+            </content>
+            <subsection eId="sec_82_38_030__subsec_13__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The entry is not by bulk transfer;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Fuel enters this state by means outside the bulk transfer-terminal system and is delivered directly to a licensed terminal unless the owner is a licensed distributor or supplier;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Fuel is sold or removed in this state to an unlicensed entity unless there was a prior taxable removal, entry, or sale of the fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Blended fuel is removed or sold in this state by the blender of the fuel. The number of gallons of blended fuel subject to tax is the difference between the total number of gallons of blended fuel removed or sold and the number of gallons of previously taxed fuel used to produce the blended fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Dyed special fuel is used on a highway, as authorized by the internal revenue code, unless the use is exempt from the fuel tax;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Dyed special fuel is held for sale, sold, used, or is intended to be used in violation of this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Special fuel purchased by an international fuel tax agreement licensee under RCW
+82.38.320
+is used on a highway; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_13__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Fuel is sold by a licensed fuel supplier to a fuel distributor or fuel blender and the fuel is not removed from the bulk transfer-terminal system.
+[
+2025 c 417 s 101
+;
+2015 3rd sp.s. c 44 s 103
+; (2015 3rd sp.s. c 44 s 102 expired July 1, 2016);
+2014 c 216 s 201
+;
+2013 c 225 s 103
+;
+2007 c 515 s 21
+;
+2005 c 314 s 102
+;
+2003 c 361 s 402
+;
+2002 c 183 s 2
+;
+2001 c 270 s 6
+;
+1998 c 176 s 51
+;
+1996 c 104 s 7
+;
+1989 c 193 s 3
+;
+1983 1st ex.s. c 49 s 30
+;
+1979 c 40 s 3
+;
+1977 ex.s. c 317 s 5
+;
+1975 1st ex.s. c 62 s 1
+;
+1973 1st ex.s. c 156 s 1
+;
+1972 ex.s. c 135 s 2
+;
+1971 ex.s. c 175 s 4
+.]
+NOTES:
+Effective date
+—
+2025 c 417 ss 101-103, 406, 701-709, 808-814, 1102, 1103, and 1305:
+&quot;Sections 101 through 103, 406, 701 through 709, 808 through 814, 1102, 1103, and 1305 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2025.&quot; [
+2025 c 417 s 1402
+.]
+Findings
+—
+Intent
+—
+2025 c 417:
+&quot;The legislature finds that the purpose of the transportation system is to support the mobility needs of Washington residents, as well as to sustain and foster the economic activity and growth of the state. The legislature recognizes that the transportation system has pressing near, mid, and long-term needs that necessitate reliance on reliable funding resources, as well as the efficient use of those resources. The legislature further recognizes that the production, maintenance, and utilization of transportation resources across the state is inherently a complex, multifaceted issue. The legislature therefore intends to address these resources needs in a comprehensive manner. As such, the legislature's purpose in enacting this legislation is to address the complex production, maintenance, and utilization of transportation resources in Washington to achieve both short-term investment needs and provide a long-range vision for transportation system development.&quot; </p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that current law taxes natural gas as a traditional home heating or electric generation fuel while not taking into account the benefits of natural gas use as a transportation fuel. The legislature further finds that the construction and operation of a natural gas liquefaction plant and compressed natural gas refueling stations as well as the ongoing use of compressed and liquefied natural gas will lead to positive job creation, economic development, environmental benefits, and lower fuel costs. The legislature further finds that it is sound tax policy to provide uniform tax treatment of natural gas used as a transportation fuel, regardless of whether the taxpayer providing the natural gas is a gas distribution business or not, so as to prevent any particular entity from receiving a competitive advantage solely through a structural inefficiency in the tax code.</p>
+          </content>
+          <subsection eId="sec_82_38_030__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This subsection is the tax performance statement for this act. The performance statement is only intended to be used for subsequent evaluation of the tax changes made in this act. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The legislature categorizes the tax changes in this act as changes intended to accomplish the general purposes indicated in RCW
+82.32.808</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and (d).</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>It is the legislature's specific public policy objectives to promote job creation and positive economic development; lower carbon dioxide, sulfur dioxide, nitrogen dioxide, and particulate emissions; and secure optimal liquefied natural gas pricing for the state of Washington and other public entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>To measure the effectiveness of the exemption provided in this act in achieving the specific public policy objective described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection, the joint legislative audit and review committee must evaluate the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The number of employment positions and wages at a natural gas liquefaction facility located in Washington and operated by a gas distribution business where some or all of the liquefied natural gas is sold for use as a transportation fuel. If the average number of employment positions at the liquefaction facility once it is operationally complete equals or exceeds eighteen and average annual wages for employment positions at the facility exceed thirty-five thousand dollars, it is presumed that the public policy objective of job creation has been achieved.</p>
+            </content>
+            <subsection eId="sec_82_38_030__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The estimated total cost of construction of a liquefaction plant by a gas distribution company, including costs for machinery and equipment. If the total cost equals or exceeds two hundred fifty million dollars, it is presumed that the public policy objective of positive economic development has been achieved.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_38_030__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The estimated fuel savings by the Washington state ferry system and other public entities through the use of liquefied natural gas purchased from a gas distribution business.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_38_030__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The estimated reduction in carbon dioxide, sulfur dioxide, nitrogen dioxide, and particulate emissions, resulting from the use of liquefied natural gas and compressed natural gas as a transportation fuel where the natural gas is sold by a gas distribution business. The emissions of liquefied and compressed natural gas must be specifically compared with an equivalent amount of diesel fuel. If the estimated annual reduction in emissions exceeds the following benchmarks, it is presumed that the public policy objective of reducing emissions has been achieved:
+(A) Three hundred million pounds of carbon dioxide;
+(B) Two hundred thousand pounds of particulates;
+(C) Four hundred thousand pounds of sulfur dioxide; and
+(D) Four hundred fifty thousand pounds of nitrogen dioxide.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The following data sources are intended to provide the informational basis for the evaluation under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection:
+(A) Employment data provided by the state employment security department;
+(B) Ferry fuel purchasing data provided by the state department of transportation;
+(C) Diesel and other energy pricing data found on the United States energy information administration's website; and
+(D) Information provided by a gas distribution business on the annual report required under RCW
+82.32.534
+.</p>
+            </content>
+            <subsection eId="sec_82_38_030__subsec_2__subsec_d__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>In addition to the data source described under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection, the joint legislative audit and review committee may use any other data it deems necessary in performing the evaluation under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_030__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A gas distribution business claiming the exemption under RCW
+82.08.02565
+or
+82.12.02565
+must file the annual report under RCW
+82.32.534
+or any successor document. In addition to the information contained in the report, the report must also include the amount of liquefied natural gas and compressed natural gas sold by the gas distribution business as a transportation fuel. A gas distribution business is not required to file the annual survey under *RCW
+82.32.585
+, as would otherwise be required under RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The joint legislative audit and review committee must perform the review required in this section in a manner consistent with its tax preference review process under chapter
+43.136
+RCW. The committee must perform the review in calendar year 2025.&quot; [
+2014 c 216 s 101
+.]
+*Reviser's note:
+RCW
+82.32.585
+was repealed by 2017 c 135 s 2, effective January 1, 2018.
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Effective date
+—
+2007 c 515:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 15, 2007].&quot; [
+2007 c 515 s 36
+.]
+Effective date
+—
+2005 c 314 ss 101-107, 109, 303-309, and 401:
+See note following RCW
+46.68.290
+.
+Part headings not law
+—
+2005 c 314:
+See note following RCW
+46.68.035
+.
+Findings
+—
+2003 c 361:
+&quot;The legislature finds that the state's transportation system is in critical need of repair, restoration, and enhancement. The state's economy, the ability to move goods to market, and the overall mobility and safety of the citizens of the state rely on the state's transportation system. The revenues generated by this act are dedicated to funds, accounts, and activities that are necessary to improve the delivery of state transportation projects and services.&quot; [
+2003 c 361 s 101
+.]
+Effective dates
+—
+2003 c 361:
+See note following RCW
+82.08.020
+.
+Effective date
+—
+1983 1st ex.s. c 49:
+See RCW
+36.79.901
+.
+Effective dates
+—
+1977 ex.s. c 317:
+&quot;This 1977 amendatory act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect on July 1, 1977, except for section 9, which shall take effect on September 1, 1977.&quot; [
+1977 ex.s. c 317 s 24
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.068"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.068"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.068/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.068/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.068/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.068/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_068">
+        <num>RCW 74.34.068</num>
+        <heading>Investigation results—Report—Rules</heading>
+        <subsection eId="sec_74_34_068__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>After the investigation is complete, the department may provide a written report of the outcome of the investigation to an agency or program described in this subsection when the department determines from its investigation that an incident of abuse, abandonment, financial exploitation, or neglect occurred. Agencies or programs that may be provided this report are home health, hospice, or home care agencies, or after January 1, 2002, any in-home services agency licensed under chapter
+70.127
+RCW, a program authorized under chapter
+71A.12
+RCW, an adult day care or day health program, behavioral health administrative services organizations and managed care organizations authorized under chapter
+71.24
+RCW, or other agencies. The report may contain the name of the vulnerable adult and the alleged perpetrator. The report shall not disclose the identity of the person who made the report or any witness without the written permission of the reporter or witness. The department shall notify the alleged perpetrator regarding the outcome of the investigation. The name of the vulnerable adult must not be disclosed during this notification.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_068__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may also refer a report or outcome of an investigation to appropriate state or local governmental authorities responsible for licensing or certification of the agencies or programs listed in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_068__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_068__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall adopt rules necessary to implement this section.
+[
+2019 c 325 s 5031
+;
+2014 c 225 s 103
+;
+2001 c 233 s 2
+.]
+NOTES:
+Effective date
+—
+2019 c 325:
+See note following RCW
+71.24.011
+.
+Effective date
+—
+2014 c 225:
+See note following RCW
+71.24.016
+.
+Finding
+—
+2001 c 233:
+&quot;The legislature recognizes that vulnerable adults, while living in their own homes, may be abused, neglected, financially exploited, or abandoned by individuals entrusted to provide care for them. The individuals who abuse, neglect, financially exploit, or abandon vulnerable adults may be employed by, under contract with, or volunteering for an agency or program providing care for vulnerable adults. The legislature has given the department of social and health services the responsibility to investigate complaints of abandonment, abuse, financial exploitation, or neglect of vulnerable adults and to provide protective services and other legal remedies to protect these vulnerable adults. The legislature finds that in order to continue to protect vulnerable adults, the department of social and health services be given the authority to release report information and to release the results of an investigation to the agency or program with which the individual investigated is employed, contracted, or engaged as a volunteer.&quot; [
+2001 c 233 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

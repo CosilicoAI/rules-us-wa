@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.110"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_110">
+        <num>RCW 74.13A.110</num>
+        <heading>Interstate agreements for adoption of children with special needs—Required provisions</heading>
+        <subsection eId="sec_74_13A_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A provision making it available for joinder by all states;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A provision for withdrawal from the compact upon written notice to the parties, but with a period of one year between the date of the notice and the effective date of the withdrawal;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_110__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A requirement that the protections afforded by or pursuant to the compact continue in force for the duration of the adoption assistance and be applicable to all children and their adoptive parents who, on the effective date of the withdrawal, are receiving adoption assistance from a party state other than the one in which they are resident and have their principal place of abode;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_110__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A requirement that each instance of adoption assistance to which the compact applies be covered by an adoption assistance agreement that is</p>
+          </content>
+          <subsection eId="sec_74_13A_110__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>in writing between the adoptive parents and the state child welfare agency of the state that undertakes to provide the adoption assistance, and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_110__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>expressly for the benefit of the adopted child and enforceable by the adoptive parents and the state agency providing the adoption assistance; and</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13A_110__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Such other provisions as are appropriate to implement the proper administration of the compact.
+[
+1997 c 31 s 5
+. Formerly RCW
+74.13.156
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.13.152
+through
+74.13.159
+were recodified as RCW
+74.13A.090
+through
+74.13A.125
+pursuant to
+2009 c 520 s 95
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

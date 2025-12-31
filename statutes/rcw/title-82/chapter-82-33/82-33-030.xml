@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.33.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.33.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.33.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_33_030">
+        <num>RCW 82.33.030</num>
+        <heading>Alternative economic and revenue forecasts to be provided at the request of the legislative evaluation and accountability program committee</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.33
+&gt;
+Section 82.33.030
+82.33.020
+&lt;&lt; 
+        82.33.030 &gt;&gt;
+82.33.040
+PDF
+RCW
+82.33.030
+Alternative economic and revenue forecasts to be provided at the request of the legislative evaluation and accountability program committee.
+The administrator of the legislative evaluation and accountability program committee may request, and the supervisor shall provide, alternative economic and revenue forecasts based on assumptions specified by the administrator.
+[
+1984 c 138 s 3
+. Formerly RCW
+82.01.125
+.]
+NOTES:
+Legislative evaluation and accountability program committee: Chapter
+44.48
+RCW.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

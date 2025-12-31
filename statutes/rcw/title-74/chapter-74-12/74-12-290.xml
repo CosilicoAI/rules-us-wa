@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.290"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_290">
+        <num>RCW 74.12.290</num>
+        <heading>Suitability of home—Evaluation</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.290
+74.12.280
+&lt;&lt; 
+        74.12.290 &gt;&gt;
+74.12.300
+PDF
+RCW
+74.12.290
+Suitability of home
+—
+Evaluation.
+The department of social and health services shall, during the initial and any subsequent determination of eligibility, evaluate the suitability of the home in which the dependent child lives, consideration to be given to physical care and supervision provided in the home; social, educational, and the moral atmosphere of the home as compared with the standards of the community; the child's physical and mental health and emotional security, special needs occasioned by the child's physical disabilities or illnesses, if any; the extent to which desirable factors outweigh the undesirable in the home; and the apparent possibility for improving undesirable conditions in the home.
+[
+2020 c 274 s 60
+;
+1979 c 141 s 352
+;
+1963 c 228 s 25
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

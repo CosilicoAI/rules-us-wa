@@ -1,0 +1,454 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.022"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.022"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.022/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.022/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.022/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.022/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_022">
+        <num>RCW 82.12.022</num>
+        <heading>Natural or manufactured gas—Use tax imposed—Exemption. (Contingent expiration date.)</heading>
+        <subsection eId="sec_82_12_022__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A use tax is levied on every person in this state for the privilege of using natural gas or manufactured gas, including compressed natural gas and liquefied natural gas, within this state as a consumer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax must be levied and collected in an amount equal to the value of the article used by the taxpayer multiplied by the rate in effect for the public utility tax on gas distribution businesses under RCW
+82.16.020
+. The &quot;value of the article used&quot; does not include any amounts that are paid for the hire or use of a gas distribution business as defined in RCW
+82.16.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>in transporting the gas subject to tax under this subsection if those amounts are subject to tax under that chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax levied in this section does not apply to the use of natural or manufactured gas delivered to the consumer by other means than through a pipeline.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The tax levied in this section does not apply to the use of natural or manufactured gas if the person who sold the gas to the consumer has paid a tax under RCW
+82.16.020
+with respect to the gas for which exemption is sought under this subsection.</p>
+          </content>
+          <subsection eId="sec_82_12_022__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax levied in this section does not apply to the use of natural or manufactured gas by an aluminum smelter as that term is defined in RCW
+82.04.217
+before January 1, 2027.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_022__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person claiming the exemption provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The tax imposed by this section does not apply to the use of natural gas, compressed natural gas, or liquefied natural gas, if the consumer uses the gas for transportation fuel as defined in RCW
+82.16.310
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The tax levied in this section does not apply to the use of natural or manufactured gas by a silicon smelter as that term is defined in RCW
+82.16.315
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>There is a credit against the tax levied under this section in an amount equal to any tax paid by:</p>
+          </content>
+          <subsection eId="sec_82_12_022__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The person who sold the gas to the consumer when that tax is a gross receipts tax similar to that imposed pursuant to RCW
+82.16.020
+by another state with respect to the gas for which a credit is sought under this subsection; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_022__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The person consuming the gas upon which a use tax similar to the tax imposed by this section was paid to another state with respect to the gas for which a credit is sought under this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The use tax imposed in this section must be paid by the consumer to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>There is imposed a reporting requirement on the person who delivered the gas to the consumer to make a quarterly report to the department. Such report must contain the volume of gas delivered, name of the consumer to whom delivered, and such other information as the department may require by rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The department may adopt rules under chapter
+34.05
+RCW for the administration and enforcement of sections 1 through 6, chapter 384, Laws of 1989.
+[
+2017 3rd sp.s. c 37 s 707
+; (2017 3rd sp.s. c 37 s 706 expired January 1, 2018);
+2017 c 135 s 27
+;
+2015 3rd sp.s. c 6 s 506
+;
+2014 c 216 s 304
+;
+2011 c 174 s 304
+. Prior:
+2010 1st sp.s. c 2 s 5
+;
+2010 c 114 s 127
+;
+2006 c 182 s 5
+;
+2004 c 24 s 12
+;
+1994 c 124 s 9
+;
+1989 c 384 s 3
+.]
+NOTES:
+Contingent expiration date
+—
+2017 3rd sp.s. c 37 ss 701-708:
+See note following RCW
+82.32.537
+.
+Findings
+—
+Intent
+—
+Tax preference performance statement
+—
+2017 3rd sp.s. c 37 ss 701-708:
+See note following RCW
+82.16.315
+.
+Effective date
+—
+2017 3rd sp.s. c 37 ss 101-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+See note following RCW
+82.04.2404
+.
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Findings
+—
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 502-506:
+See note following RCW
+82.04.2909
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.
+Intent
+—
+1989 c 384:
+&quot;Due to a change in the federal regulations governing the sale of brokered natural gas, cities have lost significant revenues from the utility tax on natural gas. It is therefore the intent of the legislature to adjust the utility and use tax authority of the state and cities to maintain this revenue source for the municipalities and provide equality of taxation between intrastate and interstate transactions.&quot; [
+1989 c 384 s 1
+.]
+Effective date
+—
+1989 c 384:
+&quot;This act shall take effect July 1, 1990.&quot; [
+1989 c 384 s 7
+.]
+PDF
+RCW
+82.12.022
+Natural or manufactured gas
+—
+Use tax imposed
+—
+Exemption.
+(Contingent </p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A use tax is levied on every person in this state for the privilege of using natural gas or manufactured gas, including compressed natural gas and liquefied natural gas, within this state as a consumer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax must be levied and collected in an amount equal to the value of the article used by the taxpayer multiplied by the rate in effect for the public utility tax on gas distribution businesses under RCW
+82.16.020
+. The &quot;value of the article used&quot; does not include any amounts that are paid for the hire or use of a gas distribution business as defined in RCW
+82.16.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>in transporting the gas subject to tax under this subsection if those amounts are subject to tax under that chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax levied in this section does not apply to the use of natural or manufactured gas delivered to the consumer by other means than through a pipeline.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The tax levied in this section does not apply to the use of natural or manufactured gas if the person who sold the gas to the consumer has paid a tax under RCW
+82.16.020
+with respect to the gas for which exemption is sought under this subsection.</p>
+          </content>
+          <subsection eId="sec_82_12_022__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax levied in this section does not apply to the use of natural or manufactured gas by an aluminum smelter as that term is defined in RCW
+82.04.217
+before January 1, 2027.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_022__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person claiming the exemption provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The tax imposed by this section does not apply to the use of natural gas, compressed natural gas, or liquefied natural gas, if the consumer uses the gas for transportation fuel as defined in RCW
+82.16.310
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>There is a credit against the tax levied under this section in an amount equal to any tax paid by:</p>
+          </content>
+          <subsection eId="sec_82_12_022__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The person who sold the gas to the consumer when that tax is a gross receipts tax similar to that imposed pursuant to RCW
+82.16.020
+by another state with respect to the gas for which a credit is sought under this subsection; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_022__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The person consuming the gas upon which a use tax similar to the tax imposed by this section was paid to another state with respect to the gas for which a credit is sought under this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The use tax imposed in this section must be paid by the consumer to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>There is imposed a reporting requirement on the person who delivered the gas to the consumer to make a quarterly report to the department. Such report must contain the volume of gas delivered, name of the consumer to whom delivered, and such other information as the department may require by rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_022__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The department may adopt rules under chapter
+34.05
+RCW for the administration and enforcement of sections 1 through 6, chapter 384, Laws of 1989.
+[
+2017 c 135 s 27
+;
+2015 3rd sp.s. c 6 s 506
+;
+2014 c 216 s 304
+;
+2011 c 174 s 304
+. Prior:
+2010 1st sp.s. c 2 s 5
+;
+2010 c 114 s 127
+;
+2006 c 182 s 5
+;
+2004 c 24 s 12
+;
+1994 c 124 s 9
+;
+1989 c 384 s 3
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Findings
+—
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 502-506:
+See note following RCW
+82.04.2909
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.
+Intent
+—
+1989 c 384:
+&quot;Due to a change in the federal regulations governing the sale of brokered natural gas, cities have lost significant revenues from the utility tax on natural gas. It is therefore the intent of the legislature to adjust the utility and use tax authority of the state and cities to maintain this revenue source for the municipalities and provide equality of taxation between intrastate and interstate transactions.&quot; [
+1989 c 384 s 1
+.]
+Effective date
+—
+1989 c 384:
+&quot;This act shall take effect July 1, 1990.&quot; [
+1989 c 384 s 7
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

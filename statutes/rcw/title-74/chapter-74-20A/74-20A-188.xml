@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.188"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.188"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.188/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.188/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.188/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.188/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_188">
+        <num>RCW 74.20A.188</num>
+        <heading>Request for assistance on automated enforcement of interstate case—Certification required</heading>
+        <subsection eId="sec_74_20A_188__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Before the state may assist another state or jurisdiction with a high-volume automated administrative enforcement of an interstate case, the requesting state must certify that:</p>
+          </content>
+          <subsection eId="sec_74_20A_188__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The requesting state has met all due process requirements for the establishment of the support order;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_188__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The requesting state has met all due process requirements for the enforcement of the support order, including that the obligor has been notified that another state may take action against the obligor's wages, earnings, assets, or benefits, and may enforce against the obligor's real and personal property under the child support statutes of this state or any other state without further notice; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_188__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The amount of arrears transmitted by the requesting state is due under the support order.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_188__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Receipt of a request for assistance on automated enforcement of an interstate case by the state constitutes certification under this section.
+[
+2000 c 86 s 11
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.36.130"/>
+          <FRBRuri value="/us-wa/act/rcw/74.36.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.36.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.36.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.36.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.36.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_36_130">
+        <num>RCW 74.36.130</num>
+        <heading>Community programs and projects for the aging—State funding, limitations—Payments, type</heading>
+        <subsection eId="sec_74_36_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>State funds made available under RCW
+74.36.110
+through
+74.36.130
+for any project shall not exceed fifty per centum of the nonfederal share of the costs. To the extent that federal law permits, and the secretary or his or her designee deems appropriate, the local community share and/or the state share may be in the form of cash or in-kind resources.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_36_130__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Payments made under RCW
+74.36.110
+through
+74.36.130
+may be made in advance or by way of reimbursement, and in such installments and on such conditions as the secretary or his or her designee may determine, including provisions for adequate accounting systems, reasonable record retention periods, and financial audits.
+[
+2013 c 23 s 224
+;
+1971 ex.s. c 169 s 12
+.]
+NOTES:
+Moneys in possession of secretary not subject to certain proceedings: RCW
+74.13.070
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.700"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.700"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.700/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.700/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.700/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.700/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_700">
+        <num>RCW 74.13.700</num>
+        <heading>Denial or delay of licensure or approval of unsupervised access to children</heading>
+        <subsection eId="sec_74_13_700__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In determining the character, suitability, and competence of an individual, the department may not:</p>
+          </content>
+          <subsection eId="sec_74_13_700__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Deny or delay a license or approval of unsupervised access to children to an individual solely because of a crime or civil infraction involving the individual or entity revealed in the background check process that does not fall within the categories of disqualifying crimes described in the adoption and safe families act of 1997 or does not relate directly to child safety, permanence, or well-being;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_700__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Deny or delay a license or approval of unsupervised access to children to an individual solely because of a founded finding of physical abuse or negligent treatment or maltreatment by the applicant or solely because the applicant's child was found by a court to be dependent as a result of a finding that the parent abused or neglected the child pursuant to RCW
+13.34.030</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_700__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>when that founded finding or court finding is accompanied by a certificate of parental improvement as defined in this chapter related to the same incident; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_700__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Delay the issuance of a license or approval of unsupervised access to children by requiring the individual to obtain records relating to a crime or civil infraction revealed in the background check process that does not fall within the categories of disqualifying crimes described in the adoption and safe families act of 1997 or does not relate directly to child safety, permanence, or well-being.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_700__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the department determines that an individual does not possess the character, suitability, or competence to provide care or have unsupervised access to a child, it must provide the reasons for its decision in writing with copies of the records or documents related to its decision to the individual within ten days of making the decision.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_700__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, &quot;individual&quot; means a relative as defined in RCW
+74.15.020</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_700__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department or its officers, agents, or employees may not be held civilly liable based upon its decision to grant or deny unsupervised access to children if the background information it relied upon at the time the decision was made did not indicate that child safety, permanence, or well-being would be a concern.
+[
+2020 c 270 s 3
+;
+2014 c 88 s 4
+;
+2013 c 162 s 2
+.]
+NOTES:
+Effective date
+—
+2020 c 270:
+See note following RCW
+74.13.720
+.
+Findings
+—
+2013 c 162:
+&quot;The legislature recognizes that the goals of the child welfare system are the safety, permanence, and well-being of the children it serves. The legislature further recognizes the importance of background checks conducted by the department of social and health services to assess an individual's character, suitability, and competence to determine whether an individual is appropriate to be provided a license under chapter
+74.13
+RCW or have unsupervised access to children. The legislature does not intend to change the current secretary of social and health services' list of crimes and negative actions. However, the legislature believes that either an unreasonable delay in a determination of whether to approve or deny a license under chapter
+74.13
+RCW or unsupervised access to children, when such unreasonable delay or denial is based solely on a crime or civil infraction not directly related to child safety, is not appropriate and is not in the best interest of the children being served by the child welfare system.&quot; [
+2013 c 162 s 1
+.]
+Rules
+—
+2013 c 162:
+&quot;The department of social and health services shall adopt all necessary rules to implement this act.&quot; [
+2013 c 162 s 8
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.155"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.155"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.155/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.155/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.155/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.155/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_155">
+        <num>RCW 82.08.155</num>
+        <heading>Spirits tax—Delinquent in reporting or remitting—Penalties</heading>
+        <subsection eId="sec_82_08_155__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A taxpayer's right to administrative review of the notice required in subsection</p>
+          </content>
+          <subsection eId="sec_82_08_155__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_155__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>May be conducted under any rule adopted pursuant to RCW
+82.01.060</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_155__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>or as a brief adjudicative proceeding under RCW
+34.05.485
+through
+34.05.494
+; and</p>
+          </content>
+          <subsection eId="sec_82_08_155__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Does not include the right to challenge the amount of any spirits taxes assessed by the department if the taxpayer previously sought or could have sought administrative review of the assessment as provided in RCW
+82.32.160
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_155__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The notices required by this section may be provided electronically in accordance with RCW
+82.32.135
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_155__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of this section:</p>
+          </content>
+          <subsection eId="sec_82_08_155__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Spirits license&quot; has the same meaning as in RCW
+66.24.010</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_155__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Spirits taxes&quot; means the taxes imposed in RCW
+82.08.150
+.
+[
+2020 c 139 s 14
+;
+2012 c 39 s 1
+.]
+NOTES:
+Construction
+—
+2012 c 39:
+&quot;This act must be liberally construed to effectuate the intent of the legislature to provide for the effective collection of liquor taxes imposed in RCW
+82.08.150
+.&quot; [
+2012 c 39 s 9
+.]
+Effective date
+—
+2012 c 39:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 15, 2012].&quot; [
+2012 c 39 s 11
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

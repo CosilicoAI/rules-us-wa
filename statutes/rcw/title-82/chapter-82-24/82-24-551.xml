@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.551"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.551"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.551/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.551/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.551/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.551/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_551">
+        <num>RCW 82.24.551</num>
+        <heading>Enforcement—Appointment of officers of liquor and cannabis board</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.24
+&gt;
+Section 82.24.551
+82.24.550
+&lt;&lt; 
+        82.24.551 &gt;&gt;
+82.24.552
+PDF
+RCW
+82.24.551
+Enforcement
+—
+Appointment of officers of liquor and cannabis board.
+The department must appoint, as duly authorized agents, enforcement officers of the liquor and cannabis board to enforce provisions of this chapter. These officers are not considered employees of the department.
+[
+2020 c 139 s 30
+;
+1997 c 420 s 10
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

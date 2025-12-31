@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.380"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.380"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.380/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.380/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.380/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.380/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_380">
+        <num>RCW 82.38.380</num>
+        <heading>Fuel tax evasion—Search and seizure</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.38
+&gt;
+Section 82.38.380
+82.38.375
+&lt;&lt; 
+        82.38.380 &gt;&gt;
+82.38.385
+PDF
+RCW
+82.38.380
+Fuel tax evasion
+—
+Search and seizure.
+When the state patrol or the department has good reason to believe that fuel is being unlawfully imported, kept, sold, offered for sale, blended, or manufactured in violation of this chapter or rules adopted under it, the state patrol, or the department in consultation with the state patrol, may make an affidavit of that fact, describing the place or thing to be searched, before a judge of any court in this state, and the judge must issue a search warrant directed to the state patrol commanding the officer diligently to search any place or vehicle designated in the affidavit and search warrant, and to seize the fuel and conveyance so possessed and to hold them until disposed of by law, and to arrest the person in possession or control of them.
+[
+2024 c 1 s 12
+;
+2013 c 225 s 135
+;
+2003 c 358 s 11
+.]
+NOTES:
+Effective date
+—
+2024 c 1:
+See note following RCW
+46.87.020
+.
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Captions not law
+—
+2003 c 358:
+See note following RCW
+82.38.270
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

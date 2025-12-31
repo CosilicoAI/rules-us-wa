@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0299"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0299"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0299/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0299/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0299/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0299/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0299">
+        <num>RCW 82.08.0299</num>
+        <heading>Exemptions—Emergency lodging for homeless persons—Conditions</heading>
+        <subsection eId="sec_82_08_0299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+shall not apply to emergency lodging provided for homeless persons for a period of less than thirty consecutive days under a shelter voucher program administered by an eligible organization.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0299__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this exemption, an eligible organization includes only cities, towns, and counties, or their respective agencies, and groups providing emergency food and shelter services.
+[
+1988 c 61 s 1
+.]
+NOTES:
+Effective date
+—
+1988 c 61:
+&quot;This act shall take effect July 1, 1988.&quot; [
+1988 c 61 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

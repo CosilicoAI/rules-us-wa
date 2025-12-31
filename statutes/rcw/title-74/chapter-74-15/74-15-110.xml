@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.110"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_110">
+        <num>RCW 74.15.110</num>
+        <heading>Renewal of licenses</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.110
+74.15.100
+&lt;&lt; 
+        74.15.110 &gt;&gt;
+74.15.120
+PDF
+RCW
+74.15.110
+Renewal of licenses.
+If a licensee desires to apply for a renewal of its license, a request for a renewal shall be filed ninety days prior to the expiration date of the license except that a request for renewal of a foster family home license shall be filed prior to the expiration of the license. If the department has failed to act at the time of the expiration date of the license, the license shall continue in effect until such time as the department shall act.
+[
+1991 c 14 s 1
+;
+1967 c 172 s 11
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

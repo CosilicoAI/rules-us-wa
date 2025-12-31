@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.930"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.930"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.930/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.930/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.930/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.930/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_930">
+        <num>RCW 82.12.930</num>
+        <heading>Exemptions—Watershed protection or flood prevention</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.930
+82.12.925
+&lt;&lt; 
+        82.12.930 &gt;&gt;
+82.12.935
+PDF
+RCW
+82.12.930
+Exemptions
+—
+Watershed protection or flood prevention.
+The provisions of this chapter do not apply with respect to the use by municipal corporations, the state, and all political subdivisions thereof of tangible personal property consumed and/or of labor and services as defined in RCW
+82.04.050
+(2)(a) rendered in respect to contracts for watershed protection and/or flood prevention. This exemption is limited to that portion of the selling price that is reimbursed by the United States government according to the provisions of the watershed protection and flood prevention act (68 Stat. 666; 16 U.S.C. Sec. 1001 et seq.).
+[
+2020 c 139 s 20
+;
+2003 c 5 s 17
+.]
+NOTES:
+Finding
+—
+Intent
+—
+Retroactive application
+—
+Effective date
+—
+2003 c 5:
+See notes following RCW
+82.12.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

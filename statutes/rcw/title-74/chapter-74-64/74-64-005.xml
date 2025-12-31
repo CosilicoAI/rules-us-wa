@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.64.005"/>
+          <FRBRuri value="/us-wa/act/rcw/74.64.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.64.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.64.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.64.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.64.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_64_005">
+        <num>RCW 74.64.005</num>
+        <heading>Intent</heading>
+        <subsection eId="sec_74_64_005__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Implement waste, fraud, and abuse detection, prevention, and recovery solutions to improve program integrity for medical services programs in the state and create efficiency and cost savings through a shift from a retrospective &quot;pay and chase&quot; model to a prospective prepayment model; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_64_005__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Invest in the most cost-effective technologies or strategies that yield the highest return on investment.
+[
+2012 c 234 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

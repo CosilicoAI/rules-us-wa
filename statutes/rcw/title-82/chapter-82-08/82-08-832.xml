@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.832"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.832"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.832/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.832/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.832/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.832/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_832">
+        <num>RCW 82.08.832</num>
+        <heading>Exemptions—Sales of gun safes</heading>
+        <subsection eId="sec_82_08_832__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of gun safes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_832__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>As used in this section and RCW
+82.12.832
+, &quot;gun safe&quot; means an enclosure specifically designed or modified for the purpose of storing a firearm and equipped with a padlock, key lock, combination lock, or similar locking device which, when locked, prevents the unauthorized use of the firearm.
+[
+1998 c 178 s 1
+.]
+NOTES:
+Effective date
+—
+1998 c 178:
+&quot;This act takes effect July 1, 1998.&quot; [
+1998 c 178 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.94.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.94.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.94.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_94_020">
+        <num>RCW 82.94.020</num>
+        <heading>Applications. (Expires July 1, 2032.)</heading>
+        <subsection eId="sec_82_94_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Application for deferral of taxes under this chapter must be made before initiation of the construction of the investment project or acquisition of equipment or machinery. The application must be made to the department in a form and manner prescribed by the department. The application must contain information regarding the location of the investment project, the applicant's average employment in the state for the prior year, estimated or actual new employment related to the project, estimated or actual wages of employees related to the project, estimated or actual costs, time schedules for completion and operation, and other information required by the department. The department must rule on the application within 60 days.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_94_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may not accept applications for the deferral under this chapter after June 30, 2032.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_94_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires July 1, 2032.
+[
+2022 c 257 s 103
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

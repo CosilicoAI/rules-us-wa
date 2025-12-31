@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.300"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.300"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.300/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.300/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.300/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.300/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_300">
+        <num>RCW 74.34.300</num>
+        <heading>Vulnerable adult fatality reviews</heading>
+        <subsection eId="sec_74_34_300__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall conduct a vulnerable adult fatality review in the event of a death of a vulnerable adult when the department has reason to believe that the death of the vulnerable adult may be related to the abuse, abandonment, exploitation, or neglect of the vulnerable adult, or may be related to the vulnerable adult's self-neglect, and the vulnerable adult was:</p>
+          </content>
+          <subsection eId="sec_74_34_300__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Receiving home and community-based services in his or her own home or licensed or certified settings, described under chapters
+74.39
+, 74.39A, 18.20, 70.128, and
+71A.12
+RCW, within sixty days preceding his or her death; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_300__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Living in his or her own home or licensed or certified settings described under chapters
+74.39
+, 74.39A, 18.20, 70.128, and
+71A.12
+RCW and was the subject of a report under this chapter received by the department within twelve months preceding his or her death.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_300__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>When conducting a vulnerable adult fatality review of a person who had been receiving hospice care services before the person's death, the review shall provide particular consideration to the similarities between the signs and symptoms of abuse and those of many patients receiving hospice care services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_300__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All files, reports, records, communications, and working papers used or developed for purposes of a fatality review are confidential and not subject to disclosure pursuant to RCW
+74.34.095
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_300__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department may adopt rules to implement this section.
+[
+2016 c 172 s 4
+;
+2008 c 146 s 10
+.]
+NOTES:
+Finding
+—
+2016 c 172:
+See note following RCW
+43.382.005
+.
+Findings
+—
+Intent
+—
+Severability
+—
+2008 c 146:
+See notes following RCW
+74.41.040
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

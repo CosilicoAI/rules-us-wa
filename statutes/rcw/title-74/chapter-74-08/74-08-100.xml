@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.100"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_100">
+        <num>RCW 74.08.100</num>
+        <heading>Age and residency verification—Felony</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08
+&gt;
+Section 74.08.100
+74.08.090
+&lt;&lt; 
+        74.08.100 &gt;&gt;
+74.08.105
+PDF
+RCW
+74.08.100
+Age and residency verification
+—
+Felony.
+Proof of age and length of residence in the state of any applicant may be established as provided by the rules and regulations of the department: PROVIDED, That if an applicant is unable to establish proof of age or length of residence in the state by any other method he or she may make a statement under oath of his or her age on the date of application or the length of his or her residence in the state, before any judge of the superior court, any judge of the court of appeals, or any justice of the supreme court of the state of Washington, and such statement shall constitute sufficient proof of age of applicant or of length of residence in the state: PROVIDED HOWEVER, That any applicant who willfully makes a false statement as to his or her age or length of residence in the state under oath before a judge of the superior court, a judge of the court of appeals, or a justice of the supreme court, as provided above, shall be guilty of a class B felony punishable according to chapter
+9A.20
+RCW.
+[
+2003 c 53 s 367
+;
+1971 c 81 s 137
+;
+1959 c 26 s 74.08.100
+. Prior:
+1949 c 6 s 11
+; Rem. Supp. 1949 s 9998-33k.]
+NOTES:
+Intent
+—
+Effective date
+—
+2003 c 53:
+See notes following RCW
+2.48.180
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

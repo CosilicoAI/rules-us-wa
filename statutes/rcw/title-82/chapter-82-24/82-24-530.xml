@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.530"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.530"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.530/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.530/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.530/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.530/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_530">
+        <num>RCW 82.24.530</num>
+        <heading>Retailer's license—Vending machines—Cigarette-making machines</heading>
+        <subsection eId="sec_82_24_530__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A fee of one hundred seventy-five dollars must accompany each retailer's license application or license renewal application. A separate license is required for each separate location at which the retailer operates. A fee of thirty additional dollars for each vending machine must accompany each application or renewal for a license issued to a retail dealer operating a cigarette vending machine. An additional fee of ninety-three dollars must accompany each application or renewal for a license issued to a retail dealer operating a cigarette-making machine.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_530__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A retailer applying for, or renewing, both a retailer's license under RCW
+82.24.510
+and a vapor products retailer's license under RCW
+70.345.020
+may pay a combined application fee of two hundred fifty dollars for both licenses.
+[
+2016 sp.s. c 38 s 9
+;
+2012 2nd sp.s. c 4 s 12
+;
+1993 c 507 s 15
+;
+1986 c 321 s 7
+.]
+NOTES:
+Contingent effective date
+—
+2016 sp.s. c 38 ss 5-10 and 28:
+See note following RCW
+70.345.020
+.
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Finding
+—
+1993 c 507:
+See RCW
+70.155.005
+.
+Policy
+—
+Intent
+—
+Savings
+—
+Effective date
+—
+1986 c 321:
+See notes following RCW
+82.24.500
+.
+Minors, access to tobacco, role of liquor and cannabis board: Chapter
+70.155
+RCW.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

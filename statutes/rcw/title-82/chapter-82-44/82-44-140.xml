@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.140"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.140"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.140/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.140/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.140/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.140/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_140">
+        <num>RCW 82.44.140</num>
+        <heading>Director of licensing may act</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.44
+&gt;
+Section 82.44.140
+82.44.135
+&lt;&lt; 
+        82.44.140 &gt;&gt;
+82.44.190
+PDF
+RCW
+82.44.140
+Director of licensing may act.
+Any duties required by this chapter to be performed by the county auditor may be performed by any other person designated by the director of licensing and authorized by him or her to receive motor vehicle license fees and issue receipt therefor.
+[
+2013 c 23 s 337
+;
+1979 c 158 s 237
+;
+1967 c 121 s 3
+;
+1961 c 15 s 82.44.140
+. Prior:
+1943 c 144 s 13
+; Rem. Supp. 1943 s 6312-127.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02535"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02535"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02535/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02535/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02535/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02535/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_02535">
+        <num>RCW 82.08.02535</num>
+        <heading>Exemptions—Sales and distribution of magazines or periodicals by subscription for fund-raising</heading>
+        <subsection eId="sec_82_08_02535__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>educational institutions as defined in RCW
+82.04.170
+, or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02535__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>nonprofit organizations engaged in activities primarily for the benefit of boys and girls nineteen years and younger.
+[
+2009 c 535 s 507
+;
+1995 2nd sp.s. c 8 s 1
+.]
+NOTES:
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Effective date
+—
+1995 2nd sp.s. c 8:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 2nd sp.s. c 8 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

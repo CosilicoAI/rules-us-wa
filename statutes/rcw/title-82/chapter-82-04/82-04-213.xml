@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.213"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.213"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.213/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.213/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.213/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.213/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_213">
+        <num>RCW 82.04.213</num>
+        <heading>&quot;Agricultural product,&quot; &quot;farmer,&quot; &quot;cannabis.&quot;</heading>
+        <subsection eId="sec_82_04_213__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Agricultural product&quot; means any product of plant cultivation or animal husbandry including, but not limited to: A product of horticulture, grain cultivation, vermiculture, viticulture, or aquaculture as defined in RCW
+15.85.020
+; plantation Christmas trees; short-rotation hardwoods as defined in RCW
+84.33.035
+; turf; or any animal including but not limited to an animal that is a private sector cultured aquatic product as defined in RCW
+15.85.020
+, or a bird, or insect, or the substances obtained from such an animal including honey bee products. &quot;Agricultural product&quot; does not include cannabis, useable cannabis, or cannabis-infused products, or animals defined as pet animals under RCW
+16.70.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_213__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Cannabis,&quot; &quot;useable cannabis,&quot; and &quot;cannabis-infused products&quot; have the same meaning as in RCW
+69.50.101
+.</p>
+          </content>
+          <subsection eId="sec_82_04_213__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Farmer&quot; means any person engaged in the business of growing, raising, or producing, upon the person's own lands or upon the lands in which the person has a present right of possession, any agricultural product to be sold, and the growing, raising, or producing honey bee products for sale, or providing bee pollination services, by an eligible apiarist. &quot;Farmer&quot; does not include a person growing, raising, or producing such products for the person's own consumption; a person selling any animal or substance obtained therefrom in connection with the person's business of operating a stockyard or a slaughter or packing house; or a person in respect to the business of taking, cultivating, or raising timber.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_213__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Eligible apiarist&quot; means a person who owns or keeps one or more bee colonies and who grows, raises, or produces honey bee products for sale at wholesale and is registered under RCW
+15.60.021
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_213__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Honey bee products&quot; means queen honey bees, packaged honey bees, honey, pollen, bees wax, propolis, or other substances obtained from honey bees. &quot;Honey bee products&quot; does not include manufactured substances or articles.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_213__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The terms &quot;agriculture,&quot; &quot;farming,&quot; &quot;horticulture,&quot; &quot;horticultural,&quot; and &quot;horticultural product&quot; may not be construed to include or relate to cannabis, useable cannabis, or cannabis-infused products unless the applicable term is explicitly defined to include cannabis, useable cannabis, or cannabis-infused products.
+[
+2022 c 16 s 139
+;
+2015 3rd sp.s. c 6 s 1102
+;
+2014 c 140 s 2
+. Prior:
+2001 c 118 s 2
+;
+2001 c 97 s 3
+;
+1993 sp.s. c 25 s 302
+.]
+NOTES:
+Reviser's note:
+The definitions in this section have been alphabetized pursuant to RCW
+1.08.015</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

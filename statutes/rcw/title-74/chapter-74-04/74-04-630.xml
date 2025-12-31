@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.630"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.630"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.630/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.630/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.630/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.630/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_630">
+        <num>RCW 74.04.630</num>
+        <heading>State supplementation to national program of supplemental security income—Contractual agreements with federal government</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.630
+74.04.620
+&lt;&lt; 
+        74.04.630 &gt;&gt;
+74.04.635
+PDF
+RCW
+74.04.630
+State supplementation to national program of supplemental security income
+—
+Contractual agreements with federal government.
+The department may enter into contractual agreements with the United States department of health, education and welfare, consistent with the provisions of Public Laws 92-603 and 93-66, and to be effective January 1, 1974, for the purpose of enabling the secretary of the department of health, education and welfare to perform administrative functions of state supplementation to the national supplemental security income program and the determination of medicaid eligibility on behalf of the state. The department is authorized to transfer and make payments of state funds to the secretary of the department of health, education and welfare as required by Public Laws 92-603 and 93-66. These agreements shall be submitted for review and comment to the social and health services committees of the senate and house of representatives. The department of social and health services shall administer the state supplemental program as established in RCW
+74.04.620
+.
+[
+2001 2nd sp.s. c 5 s 1
+;
+1986 c 158 s 22
+;
+1973 2nd ex.s. c 10 s 4
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

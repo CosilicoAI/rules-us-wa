@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.620"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.620"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.620/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.620/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.620/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.620/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_620">
+        <num>RCW 74.04.620</num>
+        <heading>State supplement to national program of supplemental security income—Authorized—Reimbursement of interim assistance, attorneys' fees</heading>
+        <subsection eId="sec_74_04_620__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department is authorized to establish a program of state supplementation to the national program of supplemental security income consistent with Public Law 92-603 and Public Law 93-66 to those persons who are in need thereof in accordance with eligibility requirements established by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_620__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department is authorized to establish reasonable standards of assistance and resource and income exemptions specifically for such program of state supplementation which shall be consistent with the provisions of the Social Security Act.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_620__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department is authorized to make payments to applicants for supplemental security income, pursuant to agreements as provided in Public Law 93-368, who are otherwise eligible for aged, blind, or disabled assistance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_620__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any agreement between the department and a supplemental security income applicant providing for the reimbursement of interim assistance to the department shall provide, if the applicant has been represented by an attorney, that twenty-five percent of the reimbursement received shall be withheld by the department and all or such portion thereof as has been approved as a fee by the United States department of health and human services shall be released directly to the applicant's attorney. The secretary may maintain such records as are deemed appropriate to measure the cost and effectiveness of such agreements and may make recommendations concerning the continued use of such agreements to the legislature.
+[
+2011 1st sp.s. c 36 s 22
+;
+2010 1st sp.s. c 8 s 22
+;
+1983 1st ex.s. c 41 s 37
+;
+1981 1st ex.s. c 6 s 7
+;
+1981 c 8 s 6
+;
+1973 2nd ex.s. c 10 s 3
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.
+Retroactive application
+—
+1983 1st ex.s. c 41 s 37:
+&quot;Section 37, chapter 41, Laws of 1983 1st ex. sess. shall be applied retroactively by the department of social and health services to all reimbursement of interim assistance received on or after August 23, 1983, so long as the attorney of the applicant for whom reimbursement is received began representing the applicant on or after August 23, 1983.&quot; [
+1985 c 100 s 1
+.]
+Severability
+—
+1983 1st ex.s. c 41:
+See note following RCW
+26.09.060
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

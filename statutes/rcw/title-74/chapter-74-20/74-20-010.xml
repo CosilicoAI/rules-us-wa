@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_010">
+        <num>RCW 74.20.010</num>
+        <heading>Purpose—Legislative intent—Chapter to be liberally construed</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.010
+Beginning of Chapter
+&lt;&lt; 
+        74.20.010 &gt;&gt;
+74.20.021
+PDF
+RCW
+74.20.010
+Purpose
+—
+Legislative intent
+—
+Chapter to be liberally construed.
+It is the responsibility of the state of Washington through the state department of social and health services to conserve the expenditure of public assistance funds, whenever possible, in order that such funds shall not be expended if there are private funds available or which can be made available by judicial process or otherwise to partially or completely meet the financial needs of the children of this state. The failure of parents to provide adequate financial support and care for their children is a major cause of financial dependency and a contributing cause of social delinquency.
+The purpose of this chapter is to provide the state of Washington, through the department of social and health services, a more effective and efficient way to effect the support of dependent children by the person or persons who, under the law, are primarily responsible for such support and to lighten the heavy burden of the taxpayer, who in many instances is paying toward the support of dependent children while those persons primarily responsible are avoiding their obligations. It is the intention of the legislature that the powers delegated to the said department in this chapter be liberally construed to the end that persons legally responsible for the care and support of children within the state be required to assume their legal obligations in order to reduce the financial cost to the state of Washington in providing public assistance funds for the care of children. It is the intention of the legislature that the department provide sufficient staff to carry out the purposes of this chapter, chapter
+74.20A
+RCW, the abandonment and nonsupport statutes, and any applicable federal support enforcement statute administered by the department. It is also the intent of the legislature that the staff responsible for support enforcement be encouraged to conduct their support enforcement duties with fairness, courtesy, and the highest professional standards.
+[
+1979 ex.s. c 171 s 24
+;
+1979 c 141 s 364
+;
+1963 c 206 s 1
+;
+1959 c 322 s 2
+.]
+NOTES:
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

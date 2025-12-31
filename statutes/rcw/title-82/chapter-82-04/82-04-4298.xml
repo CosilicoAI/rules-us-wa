@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4298"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4298"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4298/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4298/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4298/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4298/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4298">
+        <num>RCW 82.04.4298</num>
+        <heading>Deductions—Repair, maintenance, replacement, etc., of residential structures and commonly held property—Eligible organizations. (&lt;i&gt;Effective until January 1, 2028.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_4298__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax there may be deducted from the measure of tax amounts used solely for repair, maintenance, replacement, management, or improvement of the residential structures and commonly held property, but excluding property where fees or charges are made for use by the public who are not guests accompanied by a member, which are derived by:</p>
+          </content>
+          <subsection eId="sec_82_04_4298__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A cooperative housing association, corporation, or partnership from a person who resides in a structure owned by the cooperative housing association, corporation, or partnership;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An association of owners of property as defined in RCW
+64.32.010
+, as now or hereafter amended, from a person who is an apartment owner as defined in RCW
+64.32.010
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An association of owners of residential property from a person who is a member of the association. &quot;Association of owners of residential property&quot; means any organization of all the owners of residential property in a defined area who all hold the same property in common within the area.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4298__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section &quot;commonly held property&quot; includes areas required for common access such as reception areas, halls, stairways, parking, etc., and may include recreation rooms, swimming pools and small parks or recreation areas; but is not intended to include more grounds than are normally required in a residential area, or to include such extensive areas as required for golf courses, campgrounds, hiking and riding areas, boating areas, etc.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4298__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To qualify for the deductions under this section:</p>
+          </content>
+          <subsection eId="sec_82_04_4298__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The salary or compensation paid to officers, managers, or employees must be only for actual services rendered and at levels comparable to the salary or compensation of like positions within the county wherein the property is located;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Dues, fees, or assessments in excess of amounts needed for the purposes for which the deduction is allowed must be rebated to the members of the association;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Assets of the association or organization must be distributable to all members and must not inure to the benefit of any single member or group of members.
+[
+1980 c 37 s 18
+. Formerly RCW
+82.04.430</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4298__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax there may be deducted from the measure of tax amounts used solely for repair, maintenance, replacement, management, or improvement of the residential structures and common elements, but excluding property where fees or charges are made for use by the public who are not guests accompanied by a member, which are derived by:</p>
+          </content>
+          <subsection eId="sec_82_04_4298__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A cooperative, corporation, or partnership from a person who resides in a structure owned by the cooperative, corporation, or partnership;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A condominium from a person who is a unit owner; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A plat community or miscellaneous community from a unit owner.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4298__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section &quot;common elements,&quot; &quot;condominium,&quot; &quot;cooperative,&quot; &quot;plat community,&quot; and &quot;miscellaneous community&quot; have the meaning given in RCW
+64.90.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4298__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To qualify for the deductions under this section:</p>
+          </content>
+          <subsection eId="sec_82_04_4298__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The salary or compensation paid to officers, managers, or employees must be only for actual services rendered and at levels comparable to the salary or compensation of like positions within the county wherein the property is located;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Dues, fees, or assessments in excess of amounts needed for the purposes for which the deduction is allowed must be rebated to the members of the association;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4298__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Assets of the association or organization must be distributable to all members and must not inure to the benefit of any single member or group of members.
+[
+2024 c 321 s 432
+;
+1980 c 37 s 18
+. Formerly RCW
+82.04.430</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

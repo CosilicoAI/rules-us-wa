@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.803"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.803"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.803/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.803/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.803/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.803/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_803">
+        <num>RCW 82.08.803</num>
+        <heading>Exemptions—Nebulizers</heading>
+        <subsection eId="sec_82_08_803__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An exemption from the tax imposed by RCW
+82.08.020
+in the form of a refund is provided for sales of nebulizers, including repair, replacement, and component parts for such nebulizers, for human use pursuant to a prescription. In addition, the tax levied by RCW
+82.08.020
+shall not apply to charges made for labor and services rendered in respect to the repairing, cleaning, altering, or improving of nebulizers. &quot;Nebulizer&quot; means a device, not a building fixture, that converts a liquid medication into a mist so that it can be inhaled.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_803__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sellers shall collect tax on sales subject to this exemption. The buyer shall apply for a refund directly from the department in a form and manner prescribed by the department.
+[
+2007 c 6 s 1103
+;
+2004 c 153 s 104
+.]
+NOTES:
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

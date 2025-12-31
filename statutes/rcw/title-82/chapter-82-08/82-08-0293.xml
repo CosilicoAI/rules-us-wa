@@ -1,0 +1,410 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0293"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0293"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0293/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0293/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0293/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0293/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0293">
+        <num>RCW 82.08.0293</num>
+        <heading>Exemptions—Sales of food and food ingredients</heading>
+        <subsection eId="sec_82_08_0293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of food and food ingredients. &quot;Food and food ingredients&quot; means substances, whether in liquid, concentrated, solid, frozen, dried, or dehydrated form, that are sold for ingestion or chewing by humans and are consumed for their taste or nutritional value. &quot;Food and food ingredients&quot; does not include:</p>
+          </content>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Alcoholic beverages,&quot; which means beverages that are suitable for human consumption and contain one-half of one percent or more of alcohol by volume;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Tobacco,&quot; which means cigarettes, cigars, chewing or pipe tobacco, or any other item that contains tobacco; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Cannabis, useable cannabis, or cannabis-infused products.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption of &quot;food and food ingredients&quot; provided for in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to prepared food, soft drinks, bottled water, or dietary supplements. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Bottled water&quot; means water that is placed in a safety sealed container or package for human consumption. Bottled water is calorie free and does not contain sweeteners or other additives except that it may contain:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Antimicrobial agents;</p>
+            </content>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>fluoride;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>carbonation;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>vitamins, minerals, and electrolytes;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>oxygen; (vi) preservatives; and (vii) only those flavors, extracts, or essences derived from a spice or fruit. &quot;Bottled water&quot; includes water that is delivered to the buyer in a reusable container that is not sold with the water.</p>
+            </content>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>preservatives; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>only those flavors, extracts, or essences derived from a spice or fruit. &quot;Bottled water&quot; includes water that is delivered to the buyer in a reusable container that is not sold with the water.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Dietary supplement&quot; means any product, other than tobacco, intended to supplement the diet that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Contains one or more of the following dietary ingredients:
+(A) A vitamin;
+(B) A mineral;
+(C) An herb or other botanical;
+(D) An amino acid;
+(E) A dietary substance for use by humans to supplement the diet by increasing the total dietary intake; or
+(F) A concentrate, metabolite, constituent, extract, or combination of any ingredient described in this subsection;</p>
+            </content>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Is intended for ingestion in tablet, capsule, powder, softgel, gelcap, or liquid form, or if not intended for ingestion in such form, is not represented as conventional food and is not represented for use as a sole item of a meal or of the diet; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Is required to be labeled as a dietary supplement, identifiable by the &quot;supplement facts&quot; box found on the label as required pursuant to 21 C.F.R. Sec. 101.36, as amended or renumbered as of January 1, 2003.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Prepared food&quot; means:
+(A) Food sold in a heated state or heated by the seller;
+(B) Food sold with eating utensils provided by the seller, including plates, knives, forks, spoons, glasses, cups, napkins, or straws. A plate does not include a container or packaging used to transport the food; or
+(C) Two or more food ingredients mixed or combined by the seller for sale as a single item, except:
+(I) Food that is only cut, repackaged, or pasteurized by the seller; or
+(II) Raw eggs, fish, meat, poultry, and foods containing these raw animal foods requiring cooking by the consumer as recommended by the federal food and drug administration in chapter 3, part 401.11 of The Food Code, published by the food and drug administration, as amended or renumbered as of January 1, 2003, so as to prevent foodborne illness.</p>
+            </content>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Food is &quot;sold with eating utensils provided by the seller&quot; if:
+(A) The seller's customary practice for that item is to physically deliver or hand a utensil to the customer with the food or food ingredient as part of the sales transaction. If the food or food ingredient is prepackaged with a utensil, the seller is considered to have physically delivered a utensil to the customer unless the food and utensil are prepackaged together by a food manufacturer classified under sector 311 of the North American industry classification system (NAICS);
+(B) A plate, glass, cup, or bowl is necessary to receive the food or food ingredient, and the seller makes those utensils available to its customers; or
+(C)(I) The seller makes utensils available to its customers, and the seller has more than seventy-five percent prepared food sales. For purposes of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0293__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>&quot;Prepared food&quot; does not include the following items, if sold without eating utensils provided by the seller:
+(A) Food sold by a seller whose proper primary NAICS classification is manufacturing in sector 311, except subsector 3118 (bakeries), as provided in the &quot;North American industry classification system
+—
+United States, 2002&quot;;
+(B) Food sold in an unheated state by weight or volume as a single item; or
+(C) Bakery items. The term &quot;bakery items&quot; includes bread, rolls, buns, biscuits, bagels, croissants, pastries, donuts, Danish, cakes, tortes, pies, tarts, muffins, bars, cookies, or tortillas.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Soft drinks&quot; means nonalcoholic beverages that contain natural or artificial sweeteners. Soft drinks do not include beverages that contain: Milk or milk products; soy, rice, or similar milk substitutes; or greater than fifty percent of vegetable or fruit juice by volume.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything in this section to the contrary, the exemption of &quot;food and food ingredients&quot; provided in this section applies to food and food ingredients that are furnished, prepared, or served as meals:</p>
+          </content>
+          <subsection eId="sec_82_08_0293__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Under a state administered nutrition program for the aged as provided for in the older Americans act (P.L. 95-478 Title III) and RCW
+74.38.040</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>That are provided to senior citizens, individuals with disabilities, or low-income persons by a nonprofit organization organized under chapter
+24.03A
+or
+24.12
+RCW; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>That are provided to residents, sixty-two years of age or older, of a qualified low-income senior housing facility by the lessor or operator of the facility. The sale of a meal that is billed to both spouses of a marital community or both domestic partners of a domestic partnership meets the age requirement in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>if at least one of the spouses or domestic partners is at least sixty-two years of age. For purposes of this subsection, &quot;qualified low-income senior housing facility&quot; means a facility:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>That meets the definition of a qualified low-income housing project under 26 U.S.C. Sec. 42 of the federal internal revenue code, as existing on August 1, 2009;</p>
+            </content>
+            <subsection eId="sec_82_08_0293__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>That has been partially funded under 42 U.S.C. Sec. 1485; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0293__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>For which the lessor or operator has at any time been entitled to claim a federal income tax credit under 26 U.S.C. Sec. 42 of the federal internal revenue code.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section notwithstanding, the retail sale of food and food ingredients is subject to sales tax under RCW
+82.08.020
+if the food and food ingredients are sold through a vending machine. Except as provided in</p>
+          </content>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, the selling price of food and food ingredients sold through a vending machine for purposes of RCW
+82.08.020
+is fifty-seven percent of the gross receipts.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For soft drinks, bottled water, and hot prepared food and food ingredients, other than food and food ingredients which are heated after they have been dispensed from the vending machine, the selling price is the total gross receipts of such sales divided by the sum of one plus the sales tax rate expressed as a decimal.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0293__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For tax collected under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The 2010 legislature adopted legislation that imposed new or higher taxes on many common food and beverage products, increasing the tax burden on Washington consumers and businesses by hundreds of millions of dollars;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Taxes on food and beverages hurt all Washington consumers, and especially hurt lower and middle income taxpayers who can least afford it;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature's tax increases on food and beverages come at a time when Washington residents and businesses already face an economic crisis;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The process the legislature used to increase taxes on food and beverages did not provide adequate public input on or scrutiny of the proposed tax increases;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Washington residents already pay among the highest sales taxes in the country;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The legislature's tax increases on food and beverages hurt Washington food and beverage producers and retail businesses by making their products more costly and less competitive;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The legislature's tax increases on food and beverages will hurt Washington's economy and cause the loss of many local jobs; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The legislature's tax increases on food and beverages arbitrarily and unfairly impose higher taxes on some food and beverage products but not on others that are similar or essentially the same.
+For these reasons, the people repeal the food and beverage taxes imposed by the 2010 legislature.&quot; [
+2011 c 2 s 101
+(Initiative Measure No. 1107, approved November 2, 2010).]
+Construction
+—
+2011 c 2 (Initiative Measure No. 1107):
+&quot;The provisions of this act are to be construed liberally so as to effectuate its intent.&quot; [
+2011 c 2 s 501
+(Initiative Measure No. 1107, approved November 2, 2010).]
+Expiration date
+—
+2010 1st sp.s. c 23 ss 106, 901, and 1201:
+See note following RCW
+82.04.2907
+.
+Effective date
+—
+2010 1st sp.s. c 23 ss 107, 601, 602, 702, 902, 1202, and 1401-1405:
+See note following RCW
+82.04.2907
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Finding
+—
+Intent
+—
+2009 c 483:
+&quot;The legislature finds that low-income senior citizens are one of the most vulnerable segments of our population who often find it difficult to find safe and clean housing that is also affordable. The federal government has identified this population as being at risk. The federal government provides income tax credits and favorable financing to encourage developers and operators to provide safe and clean housing for our low-income senior citizens. There are only four such facilities in the state, and it is doubtful that any new ones will be built in the future. These four facilities offer &quot;service packages&quot; to their residents, which may include meals, housekeeping, recreation, laundry, and transportation. Washington's sales and use tax law provides generally that when multiple goods and services are offered for one nonitemized price, the entire transaction is subject to sales or use tax if any of the component goods or services a</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Section 201 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and retroactively takes effect January 1, 2004.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0293__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This act takes effect July 1, 2004, except section 201 of this act.&quot; [
+2004 c 153 s 501
+.]
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Effective date
+—
+1988 c 103:
+&quot;This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect June 1, 1988.&quot; [
+1988 c 103 s 4
+.]
+Severability
+—
+Effective dates
+—
+1982 1st ex.s. c 35:
+See notes following RCW
+82.08.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

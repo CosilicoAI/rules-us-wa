@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0316"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0316"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0316/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0316/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0316/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0316/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0316">
+        <num>RCW 82.08.0316</num>
+        <heading>Exemptions—Sales of cigarettes by Indian retailers</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0316
+82.08.0315
+&lt;&lt; 
+        82.08.0316 &gt;&gt;
+82.08.0317
+PDF
+RCW
+82.08.0316
+Exemptions
+—
+Sales of cigarettes by Indian retailers.
+The tax levied by RCW
+82.08.020
+does not apply to sales of cigarettes by an Indian retailer during the effective period of a cigarette tax contract subject to RCW
+43.06.455
+or a cigarette tax agreement under RCW
+43.06.465
+or
+43.06.466
+.
+[
+2008 c 228 s 3
+;
+2005 c 11 s 3
+;
+2001 c 235 s 4
+.]
+NOTES:
+Authorization for agreement
+—
+Effective date
+—
+2008 c 228:
+See notes following RCW
+43.06.466
+.
+Findings
+—
+Intent
+—
+Explanatory statement
+—
+Effective date
+—
+2005 c 11:
+See notes following RCW
+43.06.465
+.
+Intent
+—
+Finding
+—
+2001 c 235:
+See RCW
+43.06.450
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

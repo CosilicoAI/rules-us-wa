@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.310"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_310">
+        <num>RCW 82.16.310</num>
+        <heading>Exemptions—Sales by a gas distribution business</heading>
+        <subsection eId="sec_82_16_310__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply to sales by a gas distribution business of:</p>
+          </content>
+          <subsection eId="sec_82_16_310__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Compressed natural gas or liquefied natural gas, where the compressed natural gas or liquefied natural gas is to be sold or used as transportation fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_310__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Natural gas from which the buyer manufactures compressed natural gas or liquefied natural gas, where the compressed natural gas or liquefied natural gas is to be sold or used as transportation fuel; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_310__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Renewable natural gas.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption is available only when the buyer provides the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_310__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section, &quot;transportation fuel&quot; means fuel for the generation of power to propel a motor vehicle as defined in RCW
+46.04.320
+, a vessel as defined in RCW
+88.02.310
+, or a locomotive or railroad car.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_310__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For the purpose of this section, &quot;renewable natural gas&quot; has the same meaning as provided in RCW
+54.04.190
+.
+[
+2019 c 202 s 1
+;
+2014 c 216 s 301
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 202:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2019 c 202 s 4
+.]
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

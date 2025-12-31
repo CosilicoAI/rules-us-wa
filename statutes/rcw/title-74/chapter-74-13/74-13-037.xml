@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.037"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.037"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.037/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.037/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.037/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.037/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_037">
+        <num>RCW 74.13.037</num>
+        <heading>Transitional living programs for youth in the process of being emancipated—Rules</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.037
+74.13.036
+&lt;&lt; 
+        74.13.037 &gt;&gt;
+74.13.039
+PDF
+RCW
+74.13.037
+Transitional living programs for youth in the process of being emancipated
+—
+Rules.
+Within available funds appropriated for this purpose, the department shall establish, through performance-based contracts with private vendors, transitional living programs for youth who are being assisted by the department in being emancipated as part of their permanency plan under chapter
+13.34
+RCW. These programs shall be licensed under rules adopted by the department.
+[
+2009 c 520 s 55
+;
+1997 c 146 s 9
+;
+1996 c 133 s 39
+.]
+NOTES:
+Findings
+—
+Short title
+—
+Intent
+—
+Construction
+—
+1996 c 133:
+See notes following RCW
+13.32A.197
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.225"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.225"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.225/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.225/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.225/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.225/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_225">
+        <num>RCW 74.42.225</num>
+        <heading>Self-medication programs for residents—Educational program—Implementation</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.225
+74.42.220
+&lt;&lt; 
+        74.42.225 &gt;&gt;
+74.42.230
+PDF
+RCW
+74.42.225
+Self-medication programs for residents
+—
+Educational program
+—
+Implementation.
+The department shall develop an educational program for attending and staff physicians and patients on self-medication. The department shall actively encourage the implementation of such self-medication programs for residents.
+[
+1980 c 184 s 18
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

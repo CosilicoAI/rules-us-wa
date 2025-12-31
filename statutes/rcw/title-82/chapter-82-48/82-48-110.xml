@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.48.110"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.48.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.48.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_48_110">
+        <num>RCW 82.48.110</num>
+        <heading>Aircraft not to be subject to ad valorem tax—Exceptions</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.48
+&gt;
+Section 82.48.110
+82.48.100
+&lt;&lt; 
+        82.48.110 &gt;&gt;
+End of Chapter
+PDF
+RCW
+82.48.110
+Aircraft not to be subject to ad valorem tax
+—
+Exceptions.
+The first tax to be collected under this chapter shall be for the calendar year 1968. No aircraft with respect to which the excise tax imposed by this chapter is payable shall be listed and assessed for ad valorem taxation so long as this chapter remains in effect, and any such assessment heretofore made except under authority of section 13, chapter 49, Laws of 1949 and section 82.48.110, chapter 15, Laws of 1961 is hereby directed to be canceled: PROVIDED, That any aircraft, whether or not subject to the provisions of this chapter, with respect to which the excise tax imposed by this chapter will not be paid or has not been paid for any year shall be listed and assessed for ad valorem taxation in that year, and the ad valorem tax liability resulting from such listing and assessment shall be collected in the same manner as though this chapter had not been passed: PROVIDED FURTHER, That this chapter shall not be construed to affect any ad valorem tax based upon assessed valuations made in 1948 and/or any preceding year for taxes payable in 1949 or any preceding year, which ad valorem tax liability tax for any such years shall remain payable and collectible in the same manner as though this chapter had not been passed.
+[
+1967 ex.s. c 9 s 6
+;
+1961 c 15 s 82.48.110
+. Prior:
+1949 c 49 s 13
+; Rem. Supp. 1949 s 11219-43.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

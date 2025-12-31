@@ -1,0 +1,635 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_020">
+        <num>RCW 82.12.020</num>
+        <heading>Use tax imposed. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_12_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>There is levied and collected from every person in this state a tax or excise for the privilege of using within this state as a consumer any:</p>
+          </content>
+          <subsection eId="sec_82_12_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Article of tangible personal property acquired by the user in any manner, including tangible personal property acquired at a casual or isolated sale, and including by-products used by the manufacturer thereof, except as otherwise provided in this chapter, irrespective of whether the article or similar articles are manufactured or are available for purchase within this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Prewritten computer software, regardless of the method of delivery, but excluding prewritten computer software that is either provided free of charge or is provided for temporary use in viewing information, or both;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Services defined as a retail sale in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>that are provided free of charge;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Extended warranty; or
+(e)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Digital good, digital code, or digital automated service, including the use of any services provided by a seller exclusively in connection with digital goods, digital codes, or digital automated services, whether or not a separate charge is made for such services.</p>
+            </content>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>With respect to the use of digital goods, digital automated services, and digital codes acquired by purchase, the tax imposed in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>applies in respect to:
+(A) Sales in which the seller has granted the purchaser the right of permanent use;
+(B) Sales in which the seller has granted the purchaser a right of use that is less than permanent;
+(C) Sales in which the purchaser is not obligated to make continued payment as a condition of the sale; and
+(D) Sales in which the purchaser is obligated to make continued payment as a condition of the sale.</p>
+            </content>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_e__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>With respect to digital goods, digital automated services, and digital codes acquired other than by purchase, the tax imposed in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>applies regardless of whether or not the consumer has a right of permanent use or is obligated to make continued payment as a condition of use.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of this chapter do not apply in respect to the use of any article of tangible personal property, extended warranty, digital good, digital code, digital automated service, or service taxable under *RCW
+82.04.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in this section, payment of the tax imposed by this chapter or chapter
+82.08
+RCW by one purchaser or user of tangible personal property, extended warranty, digital good, digital code, digital automated service, or other service does not have the effect of exempting any other purchaser or user of the same property, extended warranty, digital good, digital code, digital automated service, or other service from the taxes imposed by such chapters.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax imposed by this chapter does not apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the sale to, or the use by, the present user or his or her bailor or donor has already been subjected to the tax under chapter
+82.08
+RCW or this chapter and the tax has been paid by the present user or by his or her bailor or donor;</p>
+            </content>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>In respect to the use of any article of tangible personal property acquired by bailment and the tax has once been paid based on reasonable rental as determined by RCW
+82.12.060
+measured by the value of the article at time of first use multiplied by the tax rate imposed by chapter
+82.08
+RCW or this chapter as of the time of first use;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>In respect to the use of any article of tangible personal property acquired by bailment, if the property was acquired by a previous bailee from the same bailor for use in the same general activity and the original bailment was prior to June 9, 1961; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>To the use of digital goods or digital automated services, which were obtained through the use of a digital code, if the sale of the digital code to, or the use of the digital code by, the present user or the present user's bailor or donor has already been subjected to the tax under chapter
+82.08
+RCW or this chapter and the tax has been paid by the present user or by the present user's bailor or donor.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the case of a seller required to collect use tax from the purchaser, the tax must be collected in an amount equal to the purchase price multiplied by the applicable rate in effect for the retail sales tax under RCW
+82.08.020
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Beginning July 1, 2027, the portion of taxes collected by the state under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section equal to 0.1 percent of the value of the article used, value of the digital good or digital code used, value of the extended warranty used, or value of the service used by the taxpayer, must be deposited in the multimodal transportation account created in RCW
+47.66.070
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For purposes of the tax imposed in this section, &quot;person&quot; includes anyone within the definition of &quot;buyer,&quot; &quot;purchaser,&quot; and &quot;consumer&quot; in RCW
+82.08.010
+.
+[
+2025 c 418 s 4
+;
+2017 c 323 s 520
+;
+2015 c 169 s 6
+;
+2010 1st sp.s. c 23 s 206
+;
+2009 c 535 s 305
+;
+2005 c 514 s 105
+. Prior:
+2003 c 361 s 302
+;
+2003 c 168 s 214
+;
+2003 c 5 s 2
+;
+2002 c 367 s 4
+;
+1999 c 358 s 9
+;
+1998 c 332 s 7
+;
+1996 c 148 s 5
+;
+1994 c 93 s 2
+;
+1983 c 7 s 7
+;
+1981 2nd ex.s. c 8 s 2
+;
+1980 c 37 s 79
+;
+1977 ex.s. c 324 s 3
+; 1975-'76 2nd ex.s. c 130 s 2; 1975-'76 2nd ex.s. c 1 s 2;
+1971 ex.s. c 281 s 10
+;
+1969 ex.s. c 262 s 32
+;
+1967 ex.s. c 149 s 22
+;
+1965 ex.s. c 173 s 18
+;
+1961 c 293 s 9
+;
+1961 c 15 s 82.12.020
+; prior:
+1959 ex.s. c 3 s 10
+;
+1955 ex.s. c 10 s 3
+;
+1955 c 389 s 25
+;
+1949 c 228 s 7
+;
+1943 c 156 s 8
+;
+1941 c 76 s 6
+;
+1939 c 225 s 14
+;
+1937 c 191 s 1
+;
+1935 c 180 s 31
+; Rem. Supp. 1949 s 8370-31.]
+NOTES:
+*Reviser's note:
+RCW
+82.04.050
+was amended by 2025 c 422 s 101, changing subsection</p>
+          </content>
+          <subsection eId="sec_82_12_020__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>There is levied and collected from every person in this state a tax or excise for the privilege of using within this state as a consumer any:</p>
+          </content>
+          <subsection eId="sec_82_12_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Article of tangible personal property acquired by the user in any manner, including tangible personal property acquired at a casual or isolated sale, and including by-products used by the manufacturer thereof, except as otherwise provided in this chapter, irrespective of whether the article or similar articles are manufactured or are available for purchase within this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Prewritten computer software, regardless of the method of delivery, but excluding prewritten computer software that is either provided free of charge or is provided for temporary use in viewing information, or both;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Services defined as a retail sale in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>that are provided free of charge;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Extended warranty; or
+(e)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Digital good, digital code, or digital automated service, including the use of any services provided by a seller exclusively in connection with digital goods, digital codes, or digital automated services, whether or not a separate charge is made for such services.</p>
+            </content>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>With respect to the use of digital goods, digital automated services, and digital codes acquired by purchase, the tax imposed in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>applies in respect to:
+(A) Sales in which the seller has granted the purchaser the right of permanent use;
+(B) Sales in which the seller has granted the purchaser a right of use that is less than permanent;
+(C) Sales in which the purchaser is not obligated to make continued payment as a condition of the sale; and
+(D) Sales in which the purchaser is obligated to make continued payment as a condition of the sale.</p>
+            </content>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_e__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>With respect to digital goods, digital automated services, and digital codes acquired other than by purchase, the tax imposed in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>applies regardless of whether or not the consumer has a right of permanent use or is obligated to make continued payment as a condition of use.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of this chapter do not apply in respect to the use of any article of tangible personal property, extended warranty, digital good, digital code, digital automated service, or service taxable under *RCW
+82.04.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in this section, payment of the tax imposed by this chapter or chapter
+82.08
+RCW by one purchaser or user of tangible personal property, extended warranty, digital good, digital code, digital automated service, or other service does not have the effect of exempting any other purchaser or user of the same property, extended warranty, digital good, digital code, digital automated service, or other service from the taxes imposed by such chapters.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax imposed by this chapter does not apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the sale to, or the use by, the present user or his or her bailor or donor has already been subjected to the tax under chapter
+82.08
+RCW or this chapter and the tax has been paid by the present user or by his or her bailor or donor;</p>
+            </content>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>In respect to the use of any article of tangible personal property acquired by bailment and the tax has once been paid based on reasonable rental as determined by RCW
+82.12.060
+measured by the value of the article at time of first use multiplied by the tax rate imposed by chapter
+82.08
+RCW or this chapter as of the time of first use;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>In respect to the use of any article of tangible personal property acquired by bailment, if the property was acquired by a previous bailee from the same bailor for use in the same general activity and the original bailment was prior to June 9, 1961; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_12_020__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>To the use of digital goods or digital automated services, which were obtained through the use of a digital code, if the sale of the digital code to, or the use of the digital code by, the present user or the present user's bailor or donor has already been subjected to the tax under chapter
+82.08
+RCW or this chapter and the tax has been paid by the present user or by the present user's bailor or donor.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the case of a seller required to collect use tax from the purchaser, the tax must be collected in an amount equal to the purchase price multiplied by the applicable rate in effect for the retail sales tax under RCW
+82.08.020
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Beginning July 1, 2027, the portion of taxes collected by the state under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section equal to 0.1 percent of the value of the article used, value of the digital good or digital code used, value of the extended warranty used, or value of the service used by the taxpayer, must be deposited in the multimodal transportation account created in RCW
+47.66.070
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For purposes of the tax imposed in this section, &quot;person&quot; includes anyone within the definition of &quot;buyer,&quot; &quot;purchaser,&quot; and &quot;consumer&quot; in RCW
+82.08.010
+.</p>
+          </content>
+          <subsection eId="sec_82_12_020__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning July 1, 2026, the tax imposed in this section at the rate provided in RCW
+82.08.020</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>applies to the use of a recreational vessel at the time that it is first used in this state by the consumer.</p>
+          </content>
+          <subsection eId="sec_82_12_020__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The revenue collected under this subsection must be deposited in the multimodal transportation account created in RCW
+47.66.070
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_020__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;recreational vessel&quot; means a vessel as defined in RCW
+88.02.310
+that is subject to watercraft excise tax under chapter
+82.49
+RCW.
+[
+2025 c 418 s 4
+;
+2025 c 417 s 202
+;
+2017 c 323 s 520
+;
+2015 c 169 s 6
+;
+2010 1st sp.s. c 23 s 206
+;
+2009 c 535 s 305
+;
+2005 c 514 s 105
+. Prior:
+2003 c 361 s 302
+;
+2003 c 168 s 214
+;
+2003 c 5 s 2
+;
+2002 c 367 s 4
+;
+1999 c 358 s 9
+;
+1998 c 332 s 7
+;
+1996 c 148 s 5
+;
+1994 c 93 s 2
+;
+1983 c 7 s 7
+;
+1981 2nd ex.s. c 8 s 2
+;
+1980 c 37 s 79
+;
+1977 ex.s. c 324 s 3
+; 1975-'76 2nd ex.s. c 130 s 2; 1975-'76 2nd ex.s. c 1 s 2;
+1971 ex.s. c 281 s 10
+;
+1969 ex.s. c 262 s 32
+;
+1967 ex.s. c 149 s 22
+;
+1965 ex.s. c 173 s 18
+;
+1961 c 293 s 9
+;
+1961 c 15 s 82.12.020
+; prior:
+1959 ex.s. c 3 s 10
+;
+1955 ex.s. c 10 s 3
+;
+1955 c 389 s 25
+;
+1949 c 228 s 7
+;
+1943 c 156 s 8
+;
+1941 c 76 s 6
+;
+1939 c 225 s 14
+;
+1937 c 191 s 1
+;
+1935 c 180 s 31
+; Rem. Supp. 1949 s 8370-31.]
+NOTES:
+Reviser's note:
+*</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+82.04.050
+was amended by 2025 c 422 s 101, changing subsection</p>
+          </content>
+          <subsection eId="sec_82_12_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section was amended by 2025 c 417 s 202 and by 2025 c 418 s 4, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

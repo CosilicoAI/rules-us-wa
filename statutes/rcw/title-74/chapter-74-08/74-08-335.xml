@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.335"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.335"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.335/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.335/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.335/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.335/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_335">
+        <num>RCW 74.08.335</num>
+        <heading>Transfers of property to qualify for assistance</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08
+&gt;
+Section 74.08.335
+74.08.331
+&lt;&lt; 
+        74.08.335 &gt;&gt;
+74.08.338
+PDF
+RCW
+74.08.335
+Transfers of property to qualify for assistance.
+Temporary assistance for needy families and benefits under RCW
+74.62.030
+and
+43.185C.220
+shall not be granted to any person who has made an assignment or transfer of property for the purpose of rendering himself or herself eligible for the assistance. There is a rebuttable presumption that a person who has transferred or transfers any real or personal property or any interest in property within two years of the date of application for the assistance without receiving adequate monetary consideration therefor, did so for the purpose of rendering himself or herself eligible for the assistance. Any person who transfers property for the purpose of rendering himself or herself eligible for assistance, or any person who after becoming a recipient transfers any property or any interest in property without the consent of the secretary, shall be ineligible for assistance for a period of time during which the reasonable value of the property so transferred would have been adequate to meet the person's needs under normal conditions of living: PROVIDED, That the secretary is hereby authorized to allow exceptions in cases where undue hardship would result from a denial of assistance.
+[
+2011 1st sp.s. c 36 s 29
+;
+2010 1st sp.s. c 8 s 26
+;
+1997 c 59 s 13
+;
+1980 c 79 s 2
+;
+1979 c 141 s 330
+;
+1959 c 26 s 74.08.335
+. Prior:
+1953 c 174 s 33
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

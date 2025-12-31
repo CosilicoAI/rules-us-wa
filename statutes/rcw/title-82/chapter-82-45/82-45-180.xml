@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.180"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_180">
+        <num>RCW 82.45.180</num>
+        <heading>Disposition of proceeds</heading>
+        <subsection eId="sec_82_45_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For taxes collected by the department of revenue under this chapter, the department shall remit the tax to the state treasurer who shall deposit the proceeds of any state tax in the general fund. The state treasurer shall deposit the proceeds of any local taxes imposed under chapter
+82.46
+RCW in the local real estate excise tax account hereby created in the state treasury. Moneys in the local real estate excise tax account may be spent only for distribution to counties, cities, and towns imposing a tax under chapter
+82.46
+RCW. Except as provided in RCW
+43.08.190
+, all earnings of investments of balances in the local real estate excise tax account shall be credited to the local real estate excise tax account and distributed to the counties, cities, and towns monthly. Monthly the state treasurer shall make distribution from the local real estate excise tax account to the counties, cities, and towns the amount of tax collected on behalf of each taxing authority. The state treasurer shall make the distribution under this subsection without appropriation.</p>
+          </content>
+          <subsection eId="sec_82_45_180__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Through June 30, 2010, the county treasurer shall collect an additional five dollar fee on all transactions required by this chapter, regardless of whether the transaction requires the payment of tax. The county treasurer shall remit this fee to the state treasurer at the same time the county treasurer remits funds to the state under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. The state treasurer shall place money from this fee in the general fund. By the twentieth day of the subsequent month, the state treasurer shall distribute to each county treasurer according to the following formula: Three-quarters of the funds available shall be equally distributed among the thirty-nine counties; and the balance shall be ratably distributed among the counties in direct proportion to their population as it relates to the total state's population based on most recent statistics by the office of financial management.</p>
+          </content>
+          <subsection eId="sec_82_45_180__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When received by the county treasurer, the funds shall be placed in a special real estate excise tax electronic technology fund held by the county treasurer to be used exclusively for the development, implementation, and maintenance of an electronic processing and reporting system for real estate excise tax affidavits. Funds may be expended to make the system compatible with the automated real estate excise tax system developed by the department and compatible with the processes used in the offices of the county assessor and county auditor. Any funds held in the account that are not expended by the earlier of: July 1, 2015, or at such time that the county treasurer is utilizing an electronic processing and reporting system for real estate excise tax affidavits compatible with the department and compatible with the processes used in the offices of the county assessor and county auditor, revert to the special real estate and property tax administration assistance account in accordance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_180__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_180__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Beginning July 1, 2010, through December 31, 2013, the county treasurer shall continue to collect the additional five dollar fee in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_180__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section on all transactions required by this chapter, regardless of whether the transaction requires the payment of tax. During this period, the county treasurer shall remit this fee to the state treasurer at the same time the county treasurer remits funds to the state under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. The state treasurer shall place money from this fee in the annual property revaluation grant account created in *RCW
+84.41.170
+.</p>
+          </content>
+          <subsection eId="sec_82_45_180__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The real estate and property tax administration assistance account is created in the custody of the state treasurer. An appropriation is not required for expenditures and the account is not subject to allotment procedures under chapter
+43.88
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_180__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning January 1, 2014, the county treasurer must continue to collect the additional five dollar fee in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_180__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section on all transactions required by this chapter, regardless of whether the transaction requires the payment of tax. The county treasurer shall deposit one-half of this fee in the special real estate and property tax administration assistance account in accordance with</p>
+          </content>
+          <subsection eId="sec_82_45_180__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection and remit the balance to the state treasurer at the same time the county treasurer remits funds to the state under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. The state treasurer must place money from this fee in the real estate and property tax administration assistance account. By the twentieth day of the subsequent month, the state treasurer must distribute the funds to each county treasurer according to the following formula: One-half of the funds available must be equally distributed among the thirty-nine counties; and the balance must be ratably distributed among the counties in direct proportion to their population as it relates to the total state's population based on most recent statistics by the office of financial management.</p>
+          </content>
+          <subsection eId="sec_82_45_180__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When received by the county treasurer, the funds must be placed in a special real estate and property tax administration assistance account held by the county treasurer to be used for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_180__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Maintenance and operation of an annual revaluation system for property tax valuation; and</p>
+            </content>
+            <subsection eId="sec_82_45_180__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Maintenance and operation of an electronic processing and reporting system for real estate excise tax affidavits.
+[
+2013 c 251 s 11
+;
+2010 1st sp.s. c 26 s 9
+;
+2009 c 308 s 5
+;
+2006 c 312 s 1
+. Prior:
+2005 c 486 s 2
+;
+2005 c 480 s 2
+;
+1998 c 106 s 11
+;
+1993 sp.s. c 25 s 510
+;
+1991 c 245 s 15
+;
+1982 c 176 s 2
+;
+1981 c 167 s 3
+;
+1980 c 154 s 6
+.]
+NOTES:
+*Reviser's note:
+RCW
+84.41.170
+expired July 1, 2014.
+Residual balance of funds
+—
+Effective date
+—
+2013 c 251:
+See notes following RCW
+41.06.280
+.
+Effective date
+—
+Severability
+—
+2006 c 312:
+See notes following RCW
+82.45.210
+.
+Purpose
+—
+2005 c 486:
+&quot;Over the past decade, traditional school construction funding sources, such as timber revenues, have been declining, while the demand for school facility construction and improvements have been increasing. Washington's youth deserve safe, healthy, and supportive learning environments to help meet their educational needs. To increase state assistance for local school construction projects, the legislature expects to rely more on state bonding authority. The purpose of this act is to expand the constitutional definition of general state revenues by removing the dedication of a portion of the real estate excise tax for common schools. Nothing in this act is intended to affect the state's current efforts to support common schools in the state's omnibus appropriations act.&quot; [
+2005 c 486 s 1
+.]
+Intent
+—
+Findings
+—
+Effective date
+—
+2005 c 480:
+See notes following RCW
+82.45.210
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Findings
+—
+Intent
+—
+1993 sp.s. c 25:
+See note following RCW
+82.45.010
+.
+Audits, assessments, and refunds
+—
+1982 c 176:
+See note following chapter digest.
+Effective date
+—
+1981 c 167:
+See note following RCW
+82.45.150
+.
+Purpose
+—
+Effective dates
+—
+Savings
+—
+Disposition of certain funds
+—
+Severability
+—
+1980 c 154:
+See notes following chapter digest.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

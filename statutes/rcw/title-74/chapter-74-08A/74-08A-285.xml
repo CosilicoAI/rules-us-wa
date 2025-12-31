@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.285"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.285"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.285/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.285/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.285/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.285/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_285">
+        <num>RCW 74.08A.285</num>
+        <heading>Job search instruction and assistance</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.285
+74.08A.280
+&lt;&lt; 
+        74.08A.285 &gt;&gt;
+74.08A.290
+PDF
+RCW
+74.08A.285
+Job search instruction and assistance.
+The WorkFirst program operated by the department to meet the federal work requirements specified in P.L. 104-193 shall contain a job search component. The component shall consist of instruction on how to secure a job and assisted job search activities to locate and retain employment. Nonexempt recipients of temporary assistance for needy families shall participate in an initial job search for no more than twelve consecutive weeks. Each recipient shall receive a work skills assessment upon referral to the job search program. The work skills assessment shall include but not be limited to education, employment history, employment strengths, and job skills. The recipient's ability to obtain employment will be reviewed periodically thereafter and, if it is clear at any time that further participation in a job search will not be productive, the department shall assess the recipient pursuant to RCW
+74.08A.260
+. The department shall refer recipients unable to find employment through the initial job search period to work activities that will develop their skills or knowledge to make them more employable, including additional job search and job readiness assistance.
+[
+2003 c 383 s 3
+;
+1998 c 89 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

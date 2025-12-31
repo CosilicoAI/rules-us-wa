@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.135"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.135"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.135/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.135/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.135/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.135/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_135">
+        <num>RCW 82.32.135</num>
+        <heading>Notice, assessment, other information—Electronic delivery</heading>
+        <subsection eId="sec_82_32_135__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this subsection, whenever the department is required to send any assessment, notice, or any other information to persons by regular mail, the department must instead provide the assessment, notice, or other information electronically. The department may implement the requirement in this subsection in phases. The department, for good cause, may waive the requirement in this subsection for any taxpayer. In the discretion of the department, a waiver under this subsection may be made temporary or permanent, and may be made on the department's own motion.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_135__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the assessment, notice, or other information is subject to the confidentiality provisions of RCW
+82.32.330
+, the department must use methods reasonably designed to protect the information from unauthorized disclosure. The provisions of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_135__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>may be waived by a taxpayer. The waiver must be in writing and may be provided to the department electronically. A person may provide a waiver with respect to a particular item of information or may give a blanket waiver with respect to any item of information or certain items of information to be provided electronically. A blanket waiver will continue until revoked in writing by the taxpayer. Such revocation may be provided to the department electronically in a manner provided or approved by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_135__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Any assessment, notice, or other information provided by the department electronically to a person is deemed to be received by the taxpayer on the date that the department electronically sends the information to the person or electronically notifies the person that the information is available to be accessed by the person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_135__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section also applies to any information that is not expressly required by statute to be sent by regular mail, but is customarily sent by the department using regular mail, to persons entitled to receive the information.</p>
+          </content>
+          <subsection eId="sec_82_32_135__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For purposes of this section, &quot;good cause&quot; includes the inability of the department to comply with this section for any reason, including lacking information necessary to send information to a person electronically or to electronically notify a person that information is available to be accessed by the person.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_135__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Good cause&quot; also includes the inability of a person to receive or otherwise obtain information from the department electronically because:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_135__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The person does not have the equipment or software necessary to enable the person to receive or otherwise obtain information from the department electronically;</p>
+            </content>
+            <subsection eId="sec_82_32_135__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The equipment or software necessary to enable the person to receive or otherwise obtain information from the department electronically is not functioning properly;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_135__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The person does not have access to the internet using the person's own equipment; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_135__subsec_4__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Some other circumstance or condition exists that, in the department's judgment, prevents the taxpayer from receiving or otherwise obtaining information from the department electronically.
+[
+2009 c 176 s 1
+;
+2007 c 111 s 113
+.]
+NOTES:
+Part headings not law
+—
+2007 c 111:
+See note following RCW
+82.16.120
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

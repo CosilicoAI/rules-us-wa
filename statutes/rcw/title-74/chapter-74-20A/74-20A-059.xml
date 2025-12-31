@@ -1,0 +1,548 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.059"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.059"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.059/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.059/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.059/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.059/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_059">
+        <num>RCW 74.20A.059</num>
+        <heading>Modification of administrative orders establishing child support—Petition—Grounds—Procedure. (&lt;i&gt;Effective until April 1, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_74_20A_059__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department, the payee under the order or the person entitled to receive support, or the person required to pay support may petition for a prospective modification of a final administrative order if:</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The administrative order has not been superseded by a superior court order; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There has been a substantial change of circumstances, except as provided under RCW
+74.20A.055</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>or subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department, the person entitled to receive support, the payee under the order, or the person required to pay support may petition for a prospective modification of a final administrative order if the person required to pay support is currently confined in a jail, prison, or correctional facility for at least six months or is serving a sentence greater than six months in a jail, prison, or correctional facility, and the support order does not contain language regarding abatement due to incarceration.</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The petition may be filed at any time after the administrative support order became a final order, as long as the person required to pay support is currently incarcerated.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>As part of the petition for modification, the petitioner may also request that the support obligation be abated to ten dollars per month per order due to incarceration, as provided in RCW
+26.09.320
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>An order of child support may be modified at any time without a showing of substantially changed circumstances if incarceration of the person required to pay support is the basis for the inconsistency between the existing child support order amount and the amount of support determined as a result of a review.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>An order of child support may be modified one year or more after it has been entered without showing a substantial change of circumstances:</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the order in practice works a severe economic hardship on either party or the child; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If a child is a full-time student and reasonably expected to complete secondary school or the equivalent level of vocational or technical training before the child becomes nineteen years of age upon a finding that there is a need to extend support beyond the eighteenth birthday.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>An order may be modified without showing a substantial change of circumstances if the requested modification is to:</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Require medical support under RCW
+26.09.105
+for a child covered by the order;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Modify an existing order for health care coverage; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Modify an existing order when the person required to pay support has been released from incarceration, as provided in RCW
+26.09.320</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Support orders may be adjusted once every twenty-four months based upon changes in the income of the parties to the order without a showing of substantially changed circumstances. This provision does not mean that the income of a person entitled to receive support who is not a parent of the child or children covered by the order must be disclosed or be included in the calculations under chapter
+26.19
+RCW when determining the support obligation.</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All administrative orders entered on, before, or after September 1, 1991, may be modified based upon changes in the child support schedule established in chapter
+26.19
+RCW without a substantial change of circumstances. The petition may be filed based on changes in the child support schedule after twelve months has expired from the entry of the administrative order or the most recent modification order setting child support, whichever is later. However, if a party is granted relief under this provision, twenty-four months must pass before another petition for modification may be filed pursuant to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If, pursuant to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section or</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, the order modifies a child support obligation by more than thirty percent and the change would cause significant hardship, the change may be implemented in two equal increments, one at the time of the entry of the order and the second six months from the entry of the order. Twenty-four months must pass following the second change before a petition for modification under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section may be filed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>An increase in the wage or salary of the person entitled to receive the support transfer payments is not a substantial change in circumstances for purposes of modification under subsection</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The voluntary unemployment or voluntary underemployment of the person required to pay support, by itself, is not a substantial change of circumstances. The income of the person entitled to receive support is only disclosed or considered if that person is a parent of the child or children covered by the order.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The department shall file the petition and a supporting affidavit with the office of administrative hearings when the department petitions for modification.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The person required to pay support or the payee under the order or the person entitled to receive support shall follow the procedures in this chapter for filing an application for an adjudicative proceeding to petition for modification.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Upon the filing of a proper petition or application, the office of administrative hearings shall issue an order directing each party to appear and show cause why the order should not be modified.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>If the presiding or reviewing officer finds a modification is appropriate, the officer shall modify the order and set current and future support under chapter
+26.19
+RCW.
+[
+2020 c 227 s 12
+;
+2019 c 275 s 3
+;
+2018 c 150 s 109
+;
+2009 c 476 s 9
+;
+1991 c 367 s 47
+.]
+NOTES:
+Effective date
+—
+2020 c 227 ss 3-13:
+See note following RCW
+26.09.320
+.
+Findings
+—
+Intent
+—
+2020 c 227:
+See note following RCW
+26.09.320
+.
+Rule-making authority
+—
+2020 c 227:
+See RCW
+26.09.916
+.
+Effective date
+—
+2009 c 476:
+See note following RCW
+26.09.105
+.
+Severability
+—
+Effective date
+—
+Captions not law
+—
+1991 c 367:
+See notes following RCW
+26.09.015
+.
+PDF
+RCW
+74.20A.059
+Modification of administrative orders establishing child support
+—
+Petition
+—
+Grounds
+—
+Procedure.
+(Effective April 1, 2027.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department, the payee under the order or the person entitled to receive support, or the person required to pay support may petition for a prospective modification of a final administrative order if:</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The administrative order has not been superseded by a superior court order; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There has been a substantial change of circumstances, except as provided under RCW
+74.20A.055</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>or subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department, the person entitled to receive support, the payee under the order, or:</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The person required to pay support may petition for a prospective modification of a final administrative order if the person required to pay support is currently confined in a jail, prison, or correctional facility for at least six months or is serving a sentence greater than six months in a jail, prison, or correctional facility, and the support order does not contain language regarding abatement due to incarceration; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>the person required to pay support is currently undergoing court-ordered behavioral health treatment issued under chapter
+71.05
+RCW and the support order does not contain language regarding abatement due to incapacitation.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The petition may be filed at any time after the administrative support order became a final order, as long as the person required to pay support is currently incarcerated or undergoing court-ordered behavioral health treatment.</p>
+            </content>
+            <subsection eId="sec_74_20A_059__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>As part of the petition for modification, the petitioner may also request that the support obligation be abated to $10 per month per order due to incarceration, as provided in RCW
+26.09.320
+, or abated to $50 per month per child due to incapacitation, as provided in RCW
+26.09.345
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>An order of child support may be modified at any time without a showing of substantially changed circumstances if incarceration of the person required to pay support is the basis for the inconsistency between the existing child support order amount and the amount of support determined as a result of a review.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>An order of child support may be modified one year or more after it has been entered without showing a substantial change of circumstances:</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the order in practice works a severe economic hardship on either party or the child; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If a child is a full-time student and reasonably expected to complete secondary school or the equivalent level of vocational or technical training before the child becomes 19 years of age upon a finding that there is a need to extend support beyond the eighteenth birthday.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>An order may be modified without showing a substantial change of circumstances if the requested modification is to:</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Require medical support under RCW
+26.09.105
+for a child covered by the order;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Modify an existing order for health care coverage; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_059__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Modify an existing order when the person required to pay support has been released from incarceration, as provided in RCW
+26.09.320</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Support orders may be adjusted once every 24 months based upon changes in the income of the parties to the order without a showing of substantially changed circumstances. This provision does not mean that the income of a person entitled to receive support who is not a parent of the child or children covered by the order must be disclosed or be included in the calculations under chapter
+26.19
+RCW when determining the support obligation.</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All administrative orders entered on, before, or after September 1, 1991, may be modified based upon changes in the child support schedule established in chapter
+26.19
+RCW without a substantial change of circumstances. The petition may be filed based on changes in the child support schedule after 12 months has expired from the entry of the administrative order or the most recent modification order setting child support, whichever is later. However, if a party is granted relief under this provision, 24 months must pass before another petition for modification may be filed pursuant to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If, pursuant to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section or</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, the order modifies a child support obligation by more than 30 percent and the change would cause significant hardship, the change may be implemented in two equal increments, one at the time of the entry of the order and the second six months from the entry of the order. Twenty-four months must pass following the second change before a petition for modification under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section may be filed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>An increase in the wage or salary of the person entitled to receive the support transfer payments is not a substantial change in circumstances for purposes of modification under subsection</p>
+          </content>
+          <subsection eId="sec_74_20A_059__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The voluntary unemployment or voluntary underemployment of the person required to pay support, by itself, is not a substantial change of circumstances. The income of the person entitled to receive support is only disclosed or considered if that person is a parent of the child or children covered by the order.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The department shall file the petition and a supporting affidavit with the office of administrative hearings when the department petitions for modification.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The person required to pay support or the payee under the order or the person entitled to receive support shall follow the procedures in this chapter for filing an application for an adjudicative proceeding to petition for modification.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Upon the filing of a proper petition or application, the office of administrative hearings shall issue an order directing each party to appear and show cause why the order should not be modified.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_059__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>If the presiding or reviewing officer finds a modification is appropriate, the officer shall modify the order and set current and future support under chapter
+26.19
+RCW.
+[
+2025 c 272 s 12
+;
+2020 c 227 s 12
+;
+2019 c 275 s 3
+;
+2018 c 150 s 109
+;
+2009 c 476 s 9
+;
+1991 c 367 s 47
+.]
+NOTES:
+Effective date
+—
+2025 c 272 ss 4-12:
+See note following RCW
+26.09.345
+.
+Rule-making authority
+—
+2025 c 272:
+See note following RCW
+26.09.345
+.
+Effective date
+—
+2020 c 227 ss 3-13:
+See note following RCW
+26.09.320
+.
+Findings
+—
+Intent
+—
+2020 c 227:
+See note following RCW
+26.09.320
+.
+Rule-making authority
+—
+2020 c 227:
+See RCW
+26.09.916
+.
+Effective date
+—
+2009 c 476:
+See note following RCW
+26.09.105
+.
+Severability
+—
+Effective date
+—
+Captions not law
+—
+1991 c 367:
+See notes following RCW
+26.09.015
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

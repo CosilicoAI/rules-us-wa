@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.510"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.510/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.510/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_510">
+        <num>RCW 82.24.510</num>
+        <heading>Wholesaler's and retailer's licenses—Application and issuance—Criminal background check</heading>
+        <subsection eId="sec_82_24_510__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The licenses issuable under this chapter are as follows:</p>
+          </content>
+          <subsection eId="sec_82_24_510__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A wholesaler's license.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_510__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A retailer's license.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_510__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Application for the licenses must be made through the business licensing system under chapter
+19.02
+RCW. The board must adopt rules regarding the regulation of the licenses. The board may refrain from the issuance of any license under this chapter if the board has reasonable cause to believe that the applicant has willfully withheld information requested for the purpose of determining the eligibility of the applicant to receive a license, or if the board has reasonable cause to believe that information submitted in the application is false or misleading or is not made in good faith. In addition, for the purpose of reviewing an application for a wholesaler's license or retailer's license and for considering the denial, suspension, or revocation of any such license, the board may consider any prior criminal conduct of the applicant, including an administrative violation history record with the board and a criminal history record information check within the previous five years, in any state, tribal, or federal jurisdiction in the United States, its territories, or possessions, and the provisions of RCW
+9.95.240
+and chapter
+9.96A
+RCW do not apply to such cases. The board may, in its discretion, grant or refuse the wholesaler's license or retailer's license, subject to the provisions of RCW
+82.24.550
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_510__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No person may qualify for a wholesaler's license or a retailer's license under this section without first undergoing a criminal background check. The background check must be performed by the board and must disclose any criminal conduct within the previous five years in any state, tribal, or federal jurisdiction in the United States, its territories, or possessions. A person who possesses a valid license on July 22, 2001, is subject to this subsection and subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_510__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section beginning on the date of the person's business license expiration under chapter
+19.02
+RCW, and thereafter. If the applicant or licensee also has a license issued under chapter
+66.24
+, 82.26, or
+70.345
+RCW, the background check done under the authority of chapter
+66.24
+, 82.26, or
+70.345
+RCW satisfies the requirements of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_510__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Each such license expires on the business license expiration date, and each such license must be continued annually if the licensee has paid the required fee and complied with all the provisions of this chapter and the rules of the board made pursuant thereto.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_510__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Each license and any other evidence of the license that the board requires must be exhibited in each place of business for which it is issued and in the manner required for the display of a business license.
+[
+2019 c 445 s 203
+;
+2013 c 144 s 50
+;
+2009 c 154 s 1
+;
+2001 c 235 s 8
+;
+1986 c 321 s 5
+.]
+NOTES:
+Conflict with federal requirements
+—
+Effective date
+—
+2019 c 445:
+See RCW
+82.25.900
+and
+82.25.901
+.
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.
+Intent
+—
+Finding
+—
+2001 c 235:
+See RCW
+43.06.450
+.
+Policy
+—
+Intent
+—
+Savings
+—
+Effective date
+—
+1986 c 321:
+See notes following RCW
+82.24.500
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

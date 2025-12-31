@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4461"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4461"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4461/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4461/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4461/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4461/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4461">
+        <num>RCW 82.04.4461</num>
+        <heading>Credit—Preproduction development expenditures. (Expires July 1, 2040.)</heading>
+        <subsection eId="sec_82_04_4461__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credit is equal to the amount of qualified aerospace product development expenditures of a person, multiplied by the rate of 1.5 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4461__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+          <subsection eId="sec_82_04_4461__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section the credit must be claimed against taxes due for the same calendar year in which the qualified aerospace product development expenditures are incurred. Credit earned on or after July 1, 2005, may not be carried over. The credit for each calendar year may not exceed the amount of tax otherwise due under this chapter for the calendar year. Refunds may not be granted in the place of a credit.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4461__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any person claiming the credit must file a form prescribed by the department that must include the amount of the credit claimed, an estimate of the anticipated aerospace product development expenditures during the calendar year for which the credit is claimed, an estimate of the taxable amount during the calendar year for which the credit is claimed, and such additional information as the department may prescribe.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4461__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section.</p>
+          </content>
+          <subsection eId="sec_82_04_4461__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Aerospace product&quot; has the meaning given in RCW
+82.08.975
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4461__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Aerospace product development&quot; means research, design, and engineering activities performed in relation to the development of an aerospace product or of a product line, model, or model derivative of an aerospace product, including prototype development, testing, and certification. The term includes the discovery of technological information, the translating of technological information into new or improved products, processes, techniques, formulas, or inventions, and the adaptation of existing products and models into new products or new models, or derivatives of products or models. The term does not include manufacturing activities or other production-oriented activities, however the term does include tool design and engineering design for the manufacturing process. The term does not include surveys and studies, social science and humanities research, market research or testing, quality control, sale promotion and service, computer software developed for internal use, and research in areas such as improved style, taste, and seasonal design.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4461__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Qualified aerospace product development&quot; means aerospace product development performed within this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4461__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Qualified aerospace product development expenditures&quot; means operating expenses, including wages, compensation of a proprietor or a partner in a partnership as determined by the department, benefits, supplies, and computer expenses, directly incurred in qualified aerospace product development by a person claiming the credit provided in this section. The term does not include amounts paid to a person or to the state and any of its departments and institutions, other than a public educational or research institution to conduct qualified aerospace product development. The term does not include capital costs and overhead, such as expenses for land, structures, or depreciable property.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4461__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Taxable amount&quot; means the taxable amount subject to the tax imposed in this chapter required to be reported on the person's tax returns during the year in which the credit is claimed, less any taxable amount for which a credit is allowed under RCW
+82.04.440
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4461__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>In addition to all other requirements under this title, a person claiming the credit under this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4461__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Credit may not be claimed for expenditures for which a credit is claimed under *RCW
+82.04.4452
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4461__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>This section expires July 1, 2040.
+[
+2017 c 135 s 15
+;
+2013 3rd sp.s. c 2 s 9
+;
+2010 c 114 s 115
+;
+2008 c 81 s 7
+;
+2007 c 54 s 11
+;
+2003 2nd sp.s. c 1 s 7
+.]
+NOTES:
+*Reviser's note:
+RCW
+82.04.4452
+expired January 1, 2015.
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Findings
+—
+Savings
+—
+Effective date
+—
+2008 c 81:
+See notes following RCW
+82.08.975
+.
+Severability
+—
+2007 c 54:
+See note following RCW
+82.04.050
+.
+Finding
+—
+2003 2nd sp.s. c 1:
+&quot;The legislature finds that the people of the state have benefited from the presence of the aerospace industry in Washington state. The aerospace industry provides good wages and benefits for the thousands of engineers, mechanics, and support staff working directly in the industry throughout the state. The suppliers and vendors that support the aerospace industry in turn provide a range of jobs. The legislature declares that it is in the public interest to encourage the continued presence of this industry through the provision of tax incentives. The comprehensive tax incentives in this act address the cost of doing business in Washington state compared to locations in other states.&quot; [
+2003 2nd sp.s. c 1 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

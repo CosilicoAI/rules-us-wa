@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4261"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4261"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4261/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4261/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4261/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4261/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4261">
+        <num>RCW 82.04.4261</num>
+        <heading>Exemptions—Federal small business innovation research program</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4261
+82.04.426
+&lt;&lt; 
+        82.04.4261 &gt;&gt;
+82.04.4262
+PDF
+RCW
+82.04.4261
+Exemptions
+—
+Federal small business innovation research program.
+This chapter does not apply to amounts received by any person for research and development under the federal small business innovation research program (114 Stat. 2763A; 15 U.S.C. Sec. 638 et seq.).
+[
+2004 c 2 s 9
+.]
+NOTES:
+Effective date
+—
+2004 c 2 ss 9 and 10:
+&quot;Sections 9 and 10 of this act take effect July 1, 2004.&quot; [
+2004 c 2 s 11
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.160"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.160"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.160/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.160/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.160/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.160/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_160">
+        <num>RCW 82.87.160</num>
+        <heading>Credit—Sale or exchange of long-term capital assets—Transfer from general fund. (&lt;i&gt;Effective January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_87_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning in tax year 2025 with taxes due in 2026, to avoid taxing the same sale or exchange under both the business and occupation tax and capital gains tax, a nonrefundable credit is allowed against taxes due under this chapter on a sale or exchange that is also subject to the tax imposed under chapter
+82.04
+RCW. The credit is equal to the amount of tax imposed under chapter
+82.04
+RCW on such sale or exchange.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credit under this section is earned in regards to a sale or exchange, and may be claimed against taxes due under this chapter, for the tax reporting period in which the sale or exchange occurred. The credit claimed for a tax reporting period may not exceed the tax otherwise due under this chapter for that tax reporting period. Unused credit may not be carried forward or backward to another tax reporting period. No refunds may be granted for unused credit under this section.</p>
+          </content>
+          <subsection eId="sec_82_87_160__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>By the last working day in March, June, September, and December of each fiscal year, the state treasurer must transfer from the general fund to the education legacy trust account created in RCW
+83.100.230
+and the common school construction fund, as applicable, an amount equal to the reduction in capital gains taxes due to this section, as determined by the department under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_160__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_160__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>must be distributed as provided in RCW
+82.87.030
+as if they were taxes collected under this chapter.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_160__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The department must notify the state treasurer of the amounts required to be transferred as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_160__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_160__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>no later than two weeks before the deadline for such transfers or such other date as may be mutually agreed to by the department and the state treasurer.
+(ii) If the department determines, at any time, that a previous transfer amount determined under this subsection</p>
+          </content>
+          <subsection eId="sec_82_87_160__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>was overstated or understated for any reason, including an error in calculation by the department or a reporting error by the taxpayer, the department must adjust its calculation of the current amount to be transferred by an amount necessary to offset the previous overstatement or understatement.</p>
+            </content>
+            <subsection eId="sec_82_87_160__subsec_3__subsec_b__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>No person may contest the department's determination under this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_160__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>in any court more than 15 days after the department furnishes notice of such determination to the state treasurer. Any action contesting the department's determination must be made through a petition for judicial review pursuant to the administrative procedure act, chapter
+34.05
+RCW, and may only be filed in Thurston county. The person seeking judicial review is not required to exhaust any available administrative remedies.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_160__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_160__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

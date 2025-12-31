@@ -1,0 +1,289 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.715"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.715"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.715/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.715/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.715/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.715/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_715">
+        <num>RCW 74.13.715</num>
+        <heading>Family connections program—Report to legislature</heading>
+        <subsection eId="sec_74_13_715__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Within available funding, the department shall contract with an external organization or organizations with experience serving youth or families receiving out-of-home care services to implement and operate the family connections program, which facilitates interaction between a parent of a child found to be dependent pursuant to chapter
+13.34
+RCW and in out-of-home care and the individual with whom the child is placed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The external organization or organizations contracted to implement and operate the family connections program shall implement and operate the family connections program in one or more locations west of the crest of the Cascade mountains, and one or more locations east of the crest of the Cascade mountains.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Families may be referred to the family connections program in any manner determined to be appropriate by the family connections program, including but not limited to a referral by:</p>
+          </content>
+          <subsection eId="sec_74_13_715__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A caseworker;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An attorney;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A guardian ad litem as defined in RCW
+13.34.030
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A parent ally;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>An office of public defense social worker;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The court; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The parent or caregiver.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>After receiving a referral, the family connections program shall determine whether an in-person meeting between a parent of a child found to be dependent pursuant to chapter
+13.34
+RCW and in out-of-home care and the individual with whom the child is placed is appropriate. If the family connections program determines that such a meeting is appropriate, the family connections program shall then determine whether:</p>
+          </content>
+          <subsection eId="sec_74_13_715__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The parent of a child found to be dependent pursuant to chapter
+13.34
+RCW and in out-of-home care and the individual with whom the child is placed are willing to participate in an in-person meeting; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Safety concerns exist such that an in-person meeting should not occur.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If the family connections program determines that an in-person meeting should occur following the analysis required by subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the family connections program shall provide a referral to the family connections program team. The family connections program team shall include a parent ally and an experienced caregiver. After receiving a referral, the family connections program team shall:</p>
+          </content>
+          <subsection eId="sec_74_13_715__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Ensure that the parent ally contact the parent to prepare for an in-person meeting between the parent and caregiver;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Ensure that the experienced caregiver contact the caregiver to prepare for an in-person meeting between the parent and caregiver;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Convene an in-person meeting between the parent and caregiver; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Provide ongoing support to the parent and caregiver following the in-person meeting.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If the family connections program determines that an in-person meeting should not occur following the analysis required under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the family connections program team shall facilitate the exchange of information between the parent and caregiver in an appropriate manner that does not include an in-person meeting. The format of this exchange of information may include written messages, phone calls, or videoconferencing. The family connections program shall routinely reevaluate whether an in-person meeting should occur using the analysis required under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department shall collect data and measure outcomes for families engaging in the family connections program. By September 1, 2021, and in compliance with RCW
+43.01.036
+, the department shall submit a report to the relevant committees of the legislature that details:</p>
+          </content>
+          <subsection eId="sec_74_13_715__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Data collected for the family connections program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Outcomes for families engaging in the family connections program; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department's plan on how to expand the family connections program statewide.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section:</p>
+          </content>
+          <subsection eId="sec_74_13_715__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Experienced caregiver&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An individual who is or has received a foster family home license pursuant to chapter
+74.15
+RCW or an equivalent license from another state; or</p>
+            </content>
+            <subsection eId="sec_74_13_715__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An individual who cared for a child who was removed from his or her parent pursuant to chapter
+13.34
+RCW and who has a kin relationship to that child pursuant to RCW
+74.13.600
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13_715__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Parent ally&quot; has the same meaning as provided in RCW
+2.70.060
+.
+[
+2023 c 138 s 1
+;
+2021 c 334 s 990
+;
+2020 c 33 s 2
+.]
+NOTES:
+Effective date
+—
+2023 c 138:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 30, 2023.&quot; [
+2023 c 138 s 2
+.]
+Conflict with federal requirements
+—
+Effective date
+—
+2021 c 334:
+See notes following RCW
+43.79.555
+.
+Intent
+—
+2020 c 33:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature recognizes that the department of children, youth, and families is working to change the culture of foster care and transition to a prevention-based child welfare system. The family first prevention services act will help facilitate this transition by allowing states to use federal funds for preventative services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To successfully prevent future child abuse and neglect from occurring, and minimize the impact of removal, the department should help facilitate relationships between foster families and birth parents through creation of the family connections program to strengthen families and prevent future child trauma. The legislature intends that the family connections program will put the child first, work to reduce family trauma, and support the child by helping adults learn, share, and work on understanding how best to support the child together.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_715__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All services provided by the family connections program should supplement the current responsibilities and services provided by the department of children, youth, and families to families, and the family connections program is not intended to assume any responsibilities currently held by the department of children, youth, and families.&quot; [
+2020 c 33 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

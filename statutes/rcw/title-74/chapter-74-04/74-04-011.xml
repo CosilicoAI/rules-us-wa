@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.011"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.011"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.011/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.011/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.011/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.011/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_011">
+        <num>RCW 74.04.011</num>
+        <heading>Secretary's authority—Personnel</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.011
+74.04.006
+&lt;&lt; 
+        74.04.011 &gt;&gt;
+74.04.012
+PDF
+RCW
+74.04.011
+Secretary's authority
+—
+Personnel.
+The secretary of social and health services shall be the administrative head and appointing authority of the department of social and health services and he or she shall have the power to and shall employ such assistants and personnel as may be necessary for the general administration of the department: PROVIDED, That such employment is in accordance with the rules and regulations of the state merit system. The secretary shall through and by means of his or her assistants and personnel exercise such powers and perform such duties as may be prescribed by the public assistance laws of this state.
+The authority vested in the secretary as appointing authority may be delegated by the secretary or his or her designee to any suitable employee of the department.
+[
+2013 c 23 s 192
+;
+1979 c 141 s 295
+;
+1969 ex.s. c 173 s 4
+;
+1959 c 26 s 74.04.011
+. Prior:
+1953 c 174 s 3
+. (i)
+1937 c 111 s 3
+; RRS s 10785-2. (ii)
+1937 c 111 s 5
+; RRS s 10785-4.]
+NOTES:
+State civil service law: Chapter
+41.06
+RCW.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

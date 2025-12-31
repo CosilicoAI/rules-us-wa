@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.180"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_180">
+        <num>RCW 82.32.180</num>
+        <heading>Court appeal—Procedure</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.180
+82.32.170
+&lt;&lt; 
+        82.32.180 &gt;&gt;
+82.32.190
+PDF
+RCW
+82.32.180
+Court appeal
+—
+Procedure.
+Any person, except one who has failed to keep and preserve books, records, and invoices as required in this chapter and chapter
+82.24
+RCW, having paid any tax as required and feeling aggrieved by the amount of the tax may appeal to the superior court of Thurston county, within the time limitation for a refund provided in chapter
+82.32
+RCW or, if an application for refund has been made to the department within that time limitation, then within thirty days after rejection of the application, whichever time limitation is later. In the appeal the taxpayer shall set forth the amount of the tax imposed upon the taxpayer which the taxpayer concedes to be the correct tax and the reason why the tax should be reduced or abated. The appeal shall be perfected by serving a copy of the notice of appeal upon the department within the time herein specified and by filing the original thereof with proof of service with the clerk of the superior court of Thurston county.
+The trial in the superior court on appeal shall be de novo and without the necessity of any pleadings other than the notice of appeal. At trial, the burden shall rest upon the taxpayer to prove that the tax as paid by the taxpayer is incorrect, either in whole or in part, and to establish the correct amount of the tax. In such proceeding the taxpayer shall be deemed the plaintiff, and the state, the defendant; and both parties shall be entitled to subpoena the attendance of witnesses as in other civil actions and to produce evidence that is competent, relevant, and material to determine the correct amount of the tax that should be paid by the taxpayer. Either party may seek appellate review in the same manner as other civil actions are appealed to the appellate courts.
+It shall not be necessary for the taxpayer to protest against the payment of any tax or to make any demand to have the same refunded or to petition the director for a hearing in order to appeal to the superior court, but no court action or proceeding of any kind shall be maintained by the taxpayer to recover any tax paid, or any part thereof, except as herein provided.
+The provisions of this section shall not apply to any tax payment which has been the subject of an appeal to the board of tax appeals with respect to which appeal a formal hearing has been elected.
+[
+1997 c 156 s 4
+;
+1992 c 206 s 4
+;
+1989 c 378 s 23
+;
+1988 c 202 s 67
+;
+1971 c 81 s 148
+;
+1967 ex.s. c 26 s 51
+;
+1965 ex.s. c 141 s 5
+;
+1963 ex.s. c 28 s 9
+;
+1961 c 15 s 82.32.180
+. Prior:
+1951 1st ex.s. c 9 s 12
+; 1939 c 225 s 29, part; 1935 c 180 s 199, part; RRS s 8370-199, part.]
+NOTES:
+Effective date
+—
+1992 c 206:
+See note following RCW
+82.04.170
+.
+Severability
+—
+1988 c 202:
+See note following RCW
+2.24.050
+.
+Appeal to board of tax appeals, formal hearing: RCW
+82.03.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

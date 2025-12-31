@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.75.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.75.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.75.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_75_040">
+        <num>RCW 82.75.040</num>
+        <heading>Repayment of deferred taxes</heading>
+        <subsection eId="sec_82_75_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section and RCW
+82.32.534
+, taxes deferred under this chapter need not be repaid.</p>
+          </content>
+          <subsection eId="sec_82_75_040__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If, on the basis of the tax performance report under RCW
+82.32.534
+or other information, the department finds that an investment project is used for purposes other than qualified biotechnology product manufacturing or medical device manufacturing activities at any time during the calendar year in which the eligible investment project is certified by the department as having been operationally completed, or at any time during any of the seven succeeding calendar years, a portion of deferred taxes is immediately due and payable according to the following schedule:
+Year in which use occurs
+% of deferred taxes due
+1
+100%
+2
+87.5%
+3
+75%
+4
+62.5%
+5
+50%
+6
+37.5%
+7
+25%
+8
+12.5%</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_040__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.75.010
+, the lessee is responsible for payment to the extent the lessee has received the economic benefit.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_75_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For a violation of subsection</p>
+          </content>
+          <subsection eId="sec_82_75_040__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the department must assess interest at the rate provided for delinquent taxes, but not penalties, retroactively to the date of deferral. The debt for deferred taxes will not be extinguished by insolvency or other failure of the recipient. Transfer of ownership does not terminate the deferral. The deferral is transferred, subject to the successor meeting the eligibility requirements of this chapter, for the remaining periods of the deferral.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_75_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Notwithstanding subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section or RCW
+82.32.534
+, deferred taxes on the following need not be repaid:</p>
+          </content>
+          <subsection eId="sec_82_75_040__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Machinery and equipment, and sales of or charges made for labor and services, which at the time of purchase would have qualified for exemption under RCW
+82.08.02565
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_040__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Machinery and equipment which at the time of first use would have qualified for exemption under RCW
+82.12.02565
+.
+[
+2017 c 135 s 41
+;
+2010 c 114 s 147
+;
+2006 c 178 s 5
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+Severability
+—
+2006 c 178:
+See notes following RCW
+82.75.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

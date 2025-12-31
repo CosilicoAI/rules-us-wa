@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_010">
+        <num>RCW 74.20A.010</num>
+        <heading>Purpose—Remedies additional</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.010
+Beginning of Chapter
+&lt;&lt; 
+        74.20A.010 &gt;&gt;
+74.20A.020
+PDF
+RCW
+74.20A.010
+Purpose
+—
+Remedies additional.
+Common law and statutory procedures governing the remedies for enforcement of support for financially dependent minor children by responsible parents have not proven sufficiently effective or efficient to cope with the increasing incidence of financial dependency. The increasing workload of courts, prosecuting attorneys, and the attorney general has made such remedies uncertain, slow and inadequate, thereby resulting in a growing burden on the financial resources of the state, which is constrained to provide public assistance grants for basic maintenance requirements when parents fail to meet their primary obligations. The state of Washington, therefore, exercising its police and sovereign power, declares that the common law and statutory remedies pertaining to family desertion and nonsupport of minor dependent children shall be augmented by additional remedies directed to the real and personal property resources of the responsible parents. In order to render resources more immediately available to meet the needs of minor children, it is the legislative intent that the remedies herein provided are in addition to, and not in lieu of, existing law. It is declared to be the public policy of this state that this chapter be construed and administered to the end that children shall be maintained from the resources of responsible parents, thereby relieving, at least in part, the burden presently borne by the general citizenry through welfare programs.
+[
+1971 ex.s. c 164 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

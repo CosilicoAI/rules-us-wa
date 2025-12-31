@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4282"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4282"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4282/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4282/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4282/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4282/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4282">
+        <num>RCW 82.04.4282</num>
+        <heading>Deductions—Fees, dues, charges</heading>
+        <subsection eId="sec_82_04_4282__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>initiation fees,</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4282__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>dues,</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4282__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>contributions,</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4282__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>donations,</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4282__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>tuition fees,</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4282__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>charges made by a nonprofit trade or professional organization for attending or occupying space at a trade show, convention, or educational seminar sponsored by the nonprofit trade or professional organization, which trade show, convention, or educational seminar is not open to the general public,</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4282__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>charges made for operation of privately operated kindergartens, and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4282__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>endowment funds. This section may not be construed to exempt any person, association, or society from tax liability upon selling tangible personal property, digital goods, digital codes, or digital automated services, or upon providing facilities or other services for which a special charge is made to members or others. If dues are in exchange for any significant amount of goods or services rendered by the recipient thereof to members without any additional charge to the member, or if the dues are graduated upon the amount of goods or services rendered, the value of such goods or services shall not be considered as a deduction under this section.
+[
+2009 c 535 s 410
+;
+1994 c 124 s 3
+;
+1989 c 392 s 1
+;
+1980 c 37 s 3
+. Formerly RCW
+82.04.430</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

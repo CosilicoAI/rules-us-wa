@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.160"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.160"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.160/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.160/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.160/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.160/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_160">
+        <num>RCW 82.08.160</num>
+        <heading>Remittance of tax—Liquor excise tax fund created</heading>
+        <subsection eId="sec_82_08_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>On or before the twenty-fifth day of each month, all taxes collected under RCW
+82.08.150
+during the preceding month must be remitted to the state department of revenue, to be deposited with the state treasurer. Except as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section, upon receipt of such moneys the state treasurer must credit sixty-five percent of the sums collected and remitted under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and one hundred percent of the sums collected and remitted under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>to the state general fund and thirty-five percent of the sums collected and remitted under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to a fund which is hereby created to be known as the &quot;liquor excise tax fund.&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>During the 2012 fiscal year, 66.19 percent of the sums collected and remitted under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited in the state general fund and the remainder collected and remitted under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited in the liquor excise tax fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>During fiscal year 2013, all funds collected under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>must be deposited into the state general fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>During the 2013-2015 fiscal biennium, seventy-seven and one-half percent of the sums collected and remitted under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited in the state general fund, and the remainder collected and remitted under RCW
+82.08.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited in the liquor excise tax fund. The amendments in *this section are curative, clarifying, and remedial and apply retroactively to July 1, 2013.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_160__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>During the 2015-2017 fiscal biennium, the liquor excise tax fund may be appropriated for the local government fiscal note program in the department of commerce. It is the intent of the legislature to continue these policies in the 2017-2019 fiscal biennium.
+[
+2015 3rd sp.s. c 4 s 975
+;
+2014 c 221 s 923
+;
+2013 2nd sp.s. c 4 s 1003
+;
+2012 2nd sp.s. c 5 s 3
+;
+2011 1st sp.s. c 50 s 969
+;
+1982 1st ex.s. c 35 s 4
+;
+1981 1st ex.s. c 5 s 26
+;
+1969 ex.s. c 21 s 12
+;
+1961 c 15 s 82.08.160
+. Prior:
+1955 c 396 s 2
+.]
+NOTES:
+*Reviser's note:
+&quot;This section&quot; means section 923, chapter 221, Laws of 2014.
+Effective dates
+—
+2015 3rd sp.s. c 4:
+See note following RCW
+28B.15.069
+.
+Effective date
+—
+2014 c 221:
+See note following RCW
+28A.710.260
+.
+Effective dates
+—
+2013 2nd sp.s. c 4:
+See note following RCW
+2.68.020
+.
+Effective date
+—
+2012 2nd sp.s. c 5:
+&quot;Sections 1 and 3 through 12 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2012.&quot; [
+2012 2nd sp.s. c 5 s 14
+.]
+Effective dates
+—
+2011 1st sp.s. c 50:
+See note following RCW
+15.76.115
+.
+Severability
+—
+Effective dates
+—
+1982 1st ex.s. c 35:
+See notes following RCW
+82.08.020
+.
+Effective date
+—
+1981 1st ex.s. c 5:
+See RCW
+66.98.100
+.
+Effective date
+—
+1969 ex.s. c 21:
+See note following RCW
+66.04.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

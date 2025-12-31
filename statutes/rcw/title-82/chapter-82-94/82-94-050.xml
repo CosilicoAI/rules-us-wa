@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.94.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.94.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.94.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_94_050">
+        <num>RCW 82.94.050</num>
+        <heading>Annual tax preference performance report—Repayment of deferred taxes</heading>
+        <subsection eId="sec_82_94_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section. If the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.94.070
+, the lessee must file a complete annual tax performance report, and the applicant is not required to file a complete annual tax performance report.</p>
+          </content>
+          <subsection eId="sec_82_94_050__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The joint legislative audit and review committee, as part of its tax preference review process under chapter
+43.136
+RCW, must use the information reported on the annual tax performance report required by this section to study the tax deferral program authorized under this chapter. The committee must report to the legislature by December 1, 2030. The report must measure the effect of the program on job creation, the number of jobs created for residents of eligible areas, company growth, and such other factors as the committee selects.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_94_050__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in this chapter, taxes deferred under this chapter need not be repaid.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_94_050__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the investment project is not operationally complete within five calendar years from the issuance of the tax deferral certificate, or if, on the basis of the tax performance report under RCW
+82.32.534
+or other information, the department finds that an investment project is used for purposes other than a qualified manufacturing or research and development operation at any time during the calendar year in which the investment project is certified by the department as having been operationally completed, or at any time during any of the seven succeeding calendar years, a portion of deferred taxes is immediately due according to the following schedule:
+Year in which
+use occurs
+% of deferred taxes due
+1
+100%
+2
+87.5%
+3
+75%
+4
+62.5%
+5
+50%
+6
+37.5%
+7
+25%
+8
+12.5%</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_94_050__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.94.070
+, the lessee is responsible for payment to the extent the lessee has received the economic benefit.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_94_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A recipient who must repay deferred taxes under this section because the department has found that an investment project is not eligible for tax deferral under this chapter is no longer required to file annual tax performance reports under RCW
+82.32.534
+beginning on the date an investment project is used for nonqualifying purposes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_94_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must assess interest at the rate provided for delinquent taxes, but not penalties, retroactively to the date of deferral for a recipient who must repay deferred taxes under this section because the department has found that an investment project is not eligible for tax deferral. The debt for deferred taxes will not be extinguished by insolvency or other failure of the recipient. Transfer of ownership does not terminate the deferral. The deferral is transferred, subject to the successor meeting the eligibility requirements of this chapter, for the remaining periods of the deferral.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_94_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Notwithstanding any other provision of this section or RCW
+82.32.534
+, deferred taxes on the following need not be repaid:</p>
+          </content>
+          <subsection eId="sec_82_94_050__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Machinery and equipment, and sales of or charges made for labor and services, which at the time of purchase would have qualified for exemption under RCW
+82.08.02565
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_94_050__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Machinery and equipment which at the time of first use would have qualified for exemption under RCW
+82.12.02565
+.
+[
+2022 c 257 s 106
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

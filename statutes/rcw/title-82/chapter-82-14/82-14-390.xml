@@ -1,0 +1,334 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.390"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.390"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.390/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.390/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.390/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.390/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_390">
+        <num>RCW 82.14.390</num>
+        <heading>Sales and use tax for regional centers</heading>
+        <subsection eId="sec_82_14_390__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section, the governing body of a public facilities district</p>
+          </content>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>created before July 31, 2002, under chapter
+35.57
+or
+36.100
+RCW that commenced construction of at least one new regional center, or improvement or rehabilitation of an existing new regional center, before January 1, 2004;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>created before July 1, 2006, under chapter
+35.57
+RCW in a county or counties in which there are no other public facilities districts on June 7, 2006, and in which the total population in the public facilities district is greater than 90,000 that commenced construction of a new regional center before February 1, 2007;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>created under the authority of RCW
+35.57.010</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>created before September 1, 2007, under chapter
+35.57
+or
+36.100
+RCW, in a county or counties in which there are no other public facilities districts on July 22, 2007, and in which the total population in the public facilities district is greater than 70,000, that commenced construction of a new regional center before January 1, 2009, or before January 1, 2011, in the case of a new regional center in a county designated by the president as a disaster area in December 2007, may impose a sales and use tax in accordance with the terms of this chapter. The tax is in addition to other taxes authorized by law and must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the public facilities district. The rate of tax may not exceed 0.033 percent of the selling price in the case of a sales tax or value of the article used in the case of a use tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The governing body of a public facilities district imposing a sales and use tax under the authority of this section may increase the rate of tax up to 0.037 percent if, within three fiscal years of July 1, 2008, the department determines that, as a result of RCW
+82.14.490
+and the chapter 6, Laws of 2007 amendments to RCW
+82.14.020
+, a public facilities district's sales and use tax collections for fiscal years after July 1, 2008, have been reduced by a net loss of at least 0.50 percent from the fiscal year before July 1, 2008. The fiscal year in which this section becomes effective is the first fiscal year after July 1, 2008.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department must determine sales and use tax collection net losses under this section. The department must provide written notice of its determinations to public facilities districts. Determinations by the department of a public facilities district's sales and use tax collection net losses as a result of RCW
+82.14.490
+and the chapter 6, Laws of 2007 amendments to RCW
+82.14.020
+are final and not appealable.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A public facilities district may increase its rate of tax after it has received written notice from the department as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection. The increase in the rate of tax must be made in 0.001 percent increments and must be the least amount necessary to mitigate the net loss in sales and use tax collections as a result of RCW
+82.14.490
+and the chapter 6, Laws of 2007 amendments to RCW
+82.14.020
+. The increase in the rate of tax is subject to RCW
+82.14.055
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax imposed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section must be deducted from the amount of tax otherwise required to be collected or paid over to the department of revenue under chapter
+82.08
+or
+82.12
+RCW. The department of revenue must perform the collection of such taxes on behalf of the county at no cost to the public facilities district.</p>
+          </content>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No tax may be collected under this section before August 1, 2000. The tax imposed in this section expires when bonds issued to finance or refinance the construction, improvement, rehabilitation, or expansion of a regional center and related parking facilities are retired, but not more than 55 years after the tax is first collected.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A public facilities district that imposes the tax under this section must notify the department in writing of the actual date the bonds will be retired.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notification of a bond's actual retirement date must be made at least 75 days before retirement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Moneys collected under this section may only be used for the purposes set forth in RCW
+35.57.020
+and must be matched with an amount from other public or private sources equal to 33 percent of the amount collected under this section; however, amounts generated from nonvoter approved taxes authorized under chapter
+35.57
+RCW or nonvoter approved taxes authorized under chapter
+36.100
+RCW do not constitute a public or private source. For the purpose of this section, public or private sources includes, but is not limited to cash or in-kind contributions used in all phases of the development or improvement of the regional center, land that is donated and used for the siting of the regional center, cash or in-kind contributions from public or private foundations, or amounts attributed to private sector partners as part of a public and private partnership agreement negotiated by the public facilities district.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The combined total tax levied under this section may not be greater than 0.037 percent. If both a public facilities district created under chapter
+35.57
+RCW and a public facilities district created under chapter
+36.100
+RCW impose a tax under this section, the tax imposed by a public facilities district created under chapter
+35.57
+RCW must be credited against the tax imposed by a public facilities district created under chapter
+36.100
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>A public facilities district created under chapter
+36.100
+RCW is not eligible to impose the tax under this section if the legislative authority of the county where the public facilities district is located has imposed a sales and use tax under RCW
+82.14.0485
+or
+82.14.0494
+.
+[
+2025 c 302 s 1
+;
+2025 c 245 s 2
+;
+2017 c 164 s 1
+;
+2011 1st sp.s. c 50 s 973
+;
+2008 c 48 s 1
+. Prior:
+2007 c 486 s 2
+;
+2007 c 6 s 904
+;
+2006 c 298 s 1
+;
+2002 c 363 s 4
+;
+1999 c 165 s 13
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2025 c 245 s 2 and by 2025 c 302 s 1, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds and declares that:</p>
+          </content>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Washington state's participation as a member state in the streamlined sales and use tax agreement benefits the state, all its local taxing jurisdictions, and its retailing industry, by increasing state and local revenues, improving the state's business climate, and standardizing and simplifying the state's tax structure;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Participation in the streamlined sales and use tax agreement is a matter of statewide concern and is in the best interests of the state, the general public, and all local jurisdictions that impose a sales and use tax under applicable law;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Participation in the streamlined sales and use tax agreement requires the adoption of the agreement's sourcing provisions, which change the location in which a retail sale of delivered tangible personal property occurs for local sales tax purposes from the point of origin to the point of destination;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Changes in the local sales tax sourcing law provisions to conform with the streamlined sales and use tax agreement will cause sales tax revenues to shift among local taxing jurisdictions. The legislature finds that there will be an unintended adverse impact on local taxing jurisdictions that receive less revenues because local tax revenues will be redistributed, with revenue increases for some jurisdictions and reductions for others, due solely to changes in local sales tax sourcing rules to be implemented under RCW
+82.14.490
+and the chapter 6, Laws of 2007 amendments to RCW
+82.14.020
+, even though no local taxing jurisdiction has changed its tax rate or tax base;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The purpose of providing mitigation to such jurisdictions is to mitigate the unintended revenue redistribution effect of the sourcing law changes among local governments;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>It is in the best interest of the state and all its subdivisions to mitigate the adverse effects of amending the local sales tax sourcing provisions to be in conformance with the streamlined sales and use tax agreement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Additionally, changes in sourcing laws may have negative implications for industry sectors such as warehousing and manufacturing, as well as jurisdictions that house a concentration of these industries and have made zoning decisions, infrastructure investments, bonding decisions, and land use policy decisions based on point of origin sales tax rules in place before July 1, 2008, and the mitigation provided by RCW *
+82.14.495
+, *
+82.14.500
+,
+82.14.390
+, and **
+44.28.815
+is intended to help offset those negative implications; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_390__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>It is important that the state of Washington maintain its supply of industrial land for present and future economic development activities, and local governments taking advantage of the mitigation provided by RCW *
+82.14.495
+, *
+82.14.500
+,
+82.14.390
+, and **
+44.28.815
+should strive to maintain the supply of industrial land available for economic development efforts.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature intends that the streamlined sales and use tax mitigation account established in *RCW
+82.14.495
+have the sole objective of mitigating, for negatively affected local taxing jurisdictions, the net local sales tax revenue reductions incurred as a result of RCW
+82.14.490
+and the chapter 6, Laws of 2007 amendments to RCW
+82.14.020
+.&quot; [
+2007 c 6 s 901
+.]
+Reviser's note:
+*</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+82.14.495
+and
+82.14.500
+was repealed by 2017 3rd sp.s. c 28 s 404, effective October 1, 2019.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_390__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>RCW
+44.28.815
+expired July 1, 2011.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.025"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.025"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.025/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.025/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.025/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.025/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_025">
+        <num>RCW 74.04.025</num>
+        <heading>Bilingual services for non-English-speaking applicants and recipients—Bilingual personnel, when—Primary language pamphlets and written materials</heading>
+        <subsection eId="sec_74_04_025__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department, the authority, and the office of administrative hearings shall ensure that bilingual services are provided to non-English-speaking applicants and recipients. The services shall be provided to the extent necessary to assure that non-English-speaking persons are not denied, or unable to obtain or maintain, services or benefits because of their inability to speak English.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the number of non-English-speaking applicants or recipients sharing the same language served by any community service office client contact job classification equals or exceeds fifty percent of the average caseload of a full-time position in such classification, the department shall, through attrition, employ bilingual personnel to serve such applicants or recipients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Regardless of the applicant or recipient caseload of any community service office, each community service office shall ensure that bilingual services required to supplement the community service office staff are provided through contracts with language access providers, local agencies, or other community resources.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall certify, authorize, and qualify language access providers as needed to maintain an adequate pool of providers such that residents can access state services. The department shall require the successful completion of oral and written tests in accordance with established standards to ensure that all language access providers are fluent in English and a primary non-English language. Testing shall include evaluation of language competence, interpreting performance skills, understanding of the interpreter's role, and knowledge of the department's policies regarding confidentiality, accuracy, impartiality, and neutrality. Except as needed to certify, authorize, or qualify bilingual personnel per subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the department will only offer spoken language interpreter testing in the following manner:</p>
+          </content>
+          <subsection eId="sec_74_04_025__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To individuals speaking languages for which ten percent or more of the requests for interpreter services in the prior year for department employees and the health care authority on behalf of limited English-speaking applicants and recipients of public assistance that went unfilled through the procurement process in RCW
+39.26.300
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_025__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To spoken language interpreters who were decertified or deauthorized due to noncompliance with any continuing education requirements; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_025__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To current department certified or authorized spoken language interpreters seeking to gain additional certification or authorization.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department shall require compliance with *RCW
+41.56.081</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>through its contracts with third parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Initial client contact materials shall inform clients in all primary languages of the availability of interpretation services for non-English-speaking persons. Basic informational pamphlets shall be translated into all primary languages.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>To the extent all written communications directed to applicants or recipients are not in the primary language of the applicant or recipient, the department and the office of administrative hearings shall include with the written communication a notice in all primary languages of applicants or recipients describing the significance of the communication and specifically how the applicants or recipients may receive assistance in understanding, and responding to if necessary, the written communication. The department shall assure that sufficient resources are available to assist applicants and recipients in a timely fashion with understanding, responding to, and complying with the requirements of all such written communications.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Nothing in this section prohibits the department from developing and administering a program to meet the requirements and standards established under chapter 94, Laws of 2023.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>No testing or certification authority may be awarded to a private entity with a financial interest in the direct provision of interpreter services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_025__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>As used in this section:</p>
+          </content>
+          <subsection eId="sec_74_04_025__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Language access provider&quot; means any independent contractor who provides spoken language interpreter services for state agencies, injured worker, or crime victim appointments through the department of labor and industries, or medicaid enrollee appointments, or provided these services on or after January 1, 2009, and before June 10, 2010, whether paid by a broker, language access agency, or a state agency. &quot;Language access provider&quot; does not mean a manager or employee of a broker or a language access agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_025__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Primary languages&quot; includes but is not limited to Spanish, Vietnamese, Cambodian, Laotian, and Chinese.
+[
+2023 c 94 s 2
+;
+2018 c 253 s 2
+;
+2011 1st sp.s. c 15 s 63
+;
+2010 c 296 s 7
+;
+1998 c 245 s 143
+;
+1983 1st ex.s. c 41 s 33
+.]
+NOTES:
+*Reviser's note:
+This RCW reference has been corrected to reflect the reorganization of chapter
+41.56
+RCW by
+2025 c 290 s 2
+.
+Finding
+—
+Intent
+—
+2023 c 94:
+&quot;The legislature declares that quality, competent interpretive services for limited English-speaking Washingtonians is a vital public policy priority. The legislature finds that informal or erroneous interpretation can result in significant personal consequences. Therefore, the legislature intends to require that interpreters be able to pass both written and oral certification exams to ensure quality, competent services for all Washingtonians.&quot; [
+2023 c 94 s 1
+.]
+Intent
+—
+2018 c 253:
+&quot;It is the intent of the legislature to centralize and consolidate the procurement of spoken language interpreter services and expand the use of language access providers, thereby reducing administrative costs while protecting consumers. The legislature further intends to exclude interpreter services for sensory-impaired persons from the provisions of this act.&quot; [
+2018 c 253 s 1
+.]
+Conflict with federal requirements
+—
+2018 c 253:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state. Nothing in this act may restrict an agency's ability to serve limited English proficient clients in a timely manner.&quot; [
+2018 c 2</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_020">
+        <num>RCW 82.26.020</num>
+        <heading>Tax imposed—Deposited into the general fund</heading>
+        <subsection eId="sec_82_26_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>There is levied and collected a tax upon the sale, handling, or distribution of all tobacco products in this state at the following rate:</p>
+          </content>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For cigars except little cigars, ninety-five percent of the taxable sales price of cigars, not to exceed sixty-five cents per cigar;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For all tobacco products except those covered under separate provisions of this subsection, ninety-five percent of the taxable sales price. The tax imposed on a product under this subsection must be reduced by fifty percent if that same product is issued a modified risk tobacco product order by the secretary of the United States department of health and human services pursuant to Title 21 U.S.C. Sec. 387k(g)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For moist snuff, as established in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and computed on the net weight listed by the manufacturer:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>On each single unit consumer-sized can or package whose net weight is one and two-tenths ounces or less, a rate per single unit that is equal to the greater of 2.526 dollars or eighty-three and one-half percent of the cigarette tax under chapter
+82.24
+RCW multiplied by twenty; or</p>
+            </content>
+            <subsection eId="sec_82_26_020__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>On each single unit consumer-sized can or package whose net weight is more than one and two-tenths ounces, a proportionate tax at the rate established in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_26_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>on each ounce or fractional part of an ounce; and</p>
+          </content>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For little cigars, an amount per cigar equal to the cigarette tax under chapter
+82.24
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_26_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Taxes under this section must be imposed at the time the distributor</p>
+          </content>
+          <subsection eId="sec_82_26_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>brings, or causes to be brought, into this state from without the state tobacco products for sale,</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>makes, manufactures, fabricates, or stores tobacco products in this state for sale in this state,</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>ships or transports tobacco products to retailers in this state, to be sold by those retailers, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_020__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>handles for sale any tobacco products that are within this state but upon which tax has not been imposed.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_26_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The moneys collected under this section must be deposited into the state general fund.
+[
+2019 c 445 s 404
+;
+2010 1st sp.s. c 22 s 5
+;
+2009 c 479 s 70
+;
+2005 c 180 s 3
+;
+2002 c 325 s 2
+;
+1993 c 492 s 309
+;
+1983 2nd ex.s. c 3 s 16
+;
+1982 1st ex.s. c 35 s 9
+;
+1975 1st ex.s. c 278 s 71
+;
+1971 ex.s. c 299 s 77
+;
+1965 ex.s. c 173 s 25
+;
+1961 c 15 s 82.26.020
+. Prior:
+1959 ex.s. c 5 s 12
+.]
+NOTES:
+Conflict with federal requirements
+—
+Effective date
+—
+2019 c 445:
+See RCW
+82.25.900
+and
+82.25.901
+.
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.
+Application
+—
+2010 1st sp.s. c 22 s 5:
+&quot;Section 5</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_26_020__subsec_1">
+          <num>(1)</num>
+          <subsection eId="sec_82_26_020__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this act applies only with respect to tax liability incurred under chapter
+82.26
+RCW on or after May 1, 2010, for the sale, handling, or distribution of cigars, little cigars, and other tobacco products.&quot; [
+2010 1st sp.s. c 22 s 10
+.]
+Application
+—
+2010 1st sp.s. c 22 s 5:
+&quot;Section 5</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

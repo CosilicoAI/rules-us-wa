@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.320"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.320/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.320/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_320">
+        <num>RCW 74.34.320</num>
+        <heading>Written protocol—Counties encouraged to develop for handling criminal cases involving vulnerable adults—Vulnerable adult advocacy teams—Confidentiality—Disclosure of information</heading>
+        <subsection eId="sec_74_34_320__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each county is encouraged to develop a written protocol for handling criminal cases involving vulnerable adults. The protocol shall:</p>
+          </content>
+          <subsection eId="sec_74_34_320__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Address the coordination of vulnerable adult mistreatment investigations among the following groups as appropriate and when available: The prosecutor's office; law enforcement; adult protective services; vulnerable adult advocacy centers; local advocacy groups; community victim advocacy programs; professional guardians; medical examiners or coroners; financial analysts or forensic accountants; social workers with experience or training related to the mistreatment of vulnerable adults; medical personnel; the state long-term care ombuds or a regional long-term care ombuds specifically designated by the state long-term care ombuds; developmental disabilities ombuds; the attorney general's office; and any other local agency involved in the criminal investigation of vulnerable adult mistreatment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_320__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Be developed by the prosecuting attorney with the assistance of the agencies referenced in this subsection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_320__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Provide that participation as a member of the vulnerable adult advocacy team is voluntary;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_320__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Include a brief statement provided by the state long-term care ombuds, without alteration, that describes the confidentiality laws and policies governing the state long-term care ombuds program, and includes citations to relevant federal and state laws;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_320__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Require the development and use of a confidentiality agreement, in compliance with this section, that includes, but is not limited to, terms governing the type of information that must be shared, and the means by which it is shared; the existing confidentiality obligations of team members; and the circumstances under which team members may disclose information outside of the team;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_320__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Require the vulnerable adult advocacy team to make a good faith effort to obtain the participation of the state long-term care ombuds prior to addressing any issue related to abuse, neglect, or financial exploitation of a vulnerable adult residing in a long-term care facility during the relevant time period.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_320__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Members of a vulnerable adult advocacy team must disclose to each other confidential or sensitive information and records, if the team member disclosing the information or records reasonably believes the disclosure is relevant to the duties of the vulnerable adult advocacy team. The disclosure and receipt of confidential information between vulnerable adult advocacy team members shall be governed by the requirements of this section, and by the county protocol developed pursuant to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_320__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Prior to participation, each member of the vulnerable adult advocacy team must sign a confidentiality agreement that requires compliance with all governing federal and state confidentiality laws.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_320__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The information or records obtained shall be maintained in a manner that ensures the maximum protection of privacy and confidentiality rights.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_320__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Information and records communicated or provided to vulnerable adult advocacy team members, as well as information and records created in the course of an investigation, shall be deemed private and confidential and shall be protected from discovery and disclosure by all applicable statutory and common law protections. The disclosed information may not be further disclosed except by law or by court order.
+[
+2017 c 266 s 13
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2017 c 266:
+See note following RCW
+9A.42.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,347 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.170"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_170">
+        <num>RCW 82.16.170</num>
+        <heading>Community solar programs—Organization and administration—Certification for incentive payments. (Expires June 30, 2038.)</heading>
+        <subsection eId="sec_82_16_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The purpose of community solar programs is to facilitate broad, equitable community investment in and access to solar power. Beginning July 1, 2017, a community solar administrator may organize and administer a community solar project as provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In order to receive certification for the incentive payment provided under RCW
+82.16.165</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>by June 30, 2021, a community solar project must have a direct current nameplate capacity that is no more than one thousand kilowatts and must have at least ten participants or at least one participant for every ten kilowatts of direct current nameplate capacity, whichever is greater. A community solar project that has a direct current nameplate capacity greater than five hundred kilowatts must be subject to a standard interconnection agreement with the utility serving the situs of the community solar project. Except for community solar projects authorized under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section, each participant must be a customer of the utility providing service at the situs of the community solar project.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In order to receive certification for the incentive payment provided under RCW
+82.16.183
+beginning July 1, 2022, a community solar project must meet the following requirements:</p>
+          </content>
+          <subsection eId="sec_82_16_170__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The administrator of the community solar project must be a utility, nonprofit, or tribal housing authority that administers a community solar project on tribal lands or lands held in trust for a federally recognized tribe by the United States for subscribers who are tribal members, or other local housing authority. The administrator of the community solar project must apply for precertification under RCW
+82.16.183
+on or after July 1, 2022;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The community solar project must have a direct current nameplate capacity that is greater than 12 kilowatts but no greater than 199 kilowatts, and must have at least two subscribers or one low-income service provider subscriber;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The administrator of the community solar project must provide a verified list of qualifying subscribers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Verification that an individual household subscriber meets the definition of low-income must be provided to the administrator by an entity with authority to maintain the confidentiality of the income status of the low-income subscriber. If the providing entity incurs costs to verify a subscriber's income status, the administrator must provide reimbursement of those costs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Except for community solar projects authorized under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section, each subscriber must be a customer of the utility providing service at the site of the community solar project;</p>
+          </content>
+          <subsection eId="sec_82_16_170__subsec_10__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>In the event that a low-income subscriber in a community solar project certified under RCW
+82.16.183
+moves within 120 months of system certification from the household premises of the subscriber's current subscription to another, the subscriber may continue the subscription, provided that the new household premises is served by the utility providing service at the site of the community solar project. In the event that a subscriber is no longer served by that utility or the subscriber terminates participation in a community solar project certified under RCW
+82.16.183
+, the certification follows the system and participation must be transferred by the administrator to a new qualifying subscriber as specified in RCW
+82.16.183
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_10__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The administrator must include in the application for precertification a project prospectus that demonstrates how the administrator intends to provide direct benefits to qualifying subscribers for the duration of their subscription to the community solar project; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_10__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The length of the subscription term for low-income subscribers must be the same length as for other subscribers, if applicable.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The administrator of a community solar project must administer the project in a transparent manner that allows for fair and nondiscriminatory opportunity for participation by utility customers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The administrator of a community solar project may establish a reasonable fee to cover costs incurred in organizing and administering the community solar project. Project participants, prior to making the commitment to participate in the project, must be given clear and conspicuous notice of the portion of the incentive payment that will be used for this purpose.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The administrator of a community solar project must maintain and update annually through June 30, 2030, the following information for each project it operates or administers:</p>
+          </content>
+          <subsection eId="sec_82_16_170__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Ownership information;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Contact information for technical management questions;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Business address;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Project design details, including project location, output capacity, equipment list, and interconnection information; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Subscription information, including rates, fees, terms, and conditions.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The administrator of a community solar project must provide the information required in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section to the Washington State University extension energy program at the time it submits the applications allowed under RCW
+82.16.165</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and
+82.16.183
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The administrator of a community solar project must provide each project participant with a disclosure form containing all material terms and conditions of participation in the project, including but not limited to the following:</p>
+          </content>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Plain language disclosure of the terms under which the project participant's share of any incentive payment will be calculated by the Washington State University extension energy program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Contract provisions regulating the disposition or transfer of the project participant's interest in the project, including any potential costs associated with such a transfer;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>All recurring and nonrecurring charges;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A description of the billing and payment procedures;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A description of any compensation to be paid in the event of project underperformance;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Current production projections and a description of the methodology used to develop the projections;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Contact information for questions and complaints; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_8__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Any other terms and conditions of the services provided by the administrator.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>A utility may not adopt rates, terms, conditions, or standards that unduly or unreasonably discriminate between utility-administered community solar projects and those administered by another entity.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>A public utility district that is engaged in distributing electricity to more than one retail electric customer in the state and a joint operating agency organized under chapter
+43.52
+RCW on or before January 1, 2017, may enter into an agreement with each other to construct and own a community solar project that is located on property owned by a joint operating agency or on property that receives electric service from a participating public utility district. Each participant of a community solar project under this subsection must be a customer of at least one of the public utility districts that is a party to the agreement with a joint operating agency to construct and own a community solar project.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The Washington utilities and transportation commission must publish, without disclosing proprietary information, a list of the following:</p>
+          </content>
+          <subsection eId="sec_82_16_170__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Entities other than utilities, including affiliates or subsidiaries of utilities, that organize and administer community solar projects; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_170__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Community solar projects and related programs and services offered by investor-owned utilities.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>If a consumer-owned utility opts to provide a community solar program or contracts with a nonutility administrator to offer a community solar program, the governing body of the consumer-owned utility must publish, without disclosing proprietary information, a list of the nonutility administrators contracted by the utility as part of its community solar program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>Except for parties engaged in actions and transactions regulated under laws administered by other authorities and exempted under RCW
+19.86.170
+, a violation of this section constitutes an unfair or deceptive act in trade or commerce in violation of chapter
+19.86
+RCW, the consumer protection act. Acts in violation of chapter 36, Laws of 2017 3rd sp. sess. are not reasonable in relation to the development and preservation of business, and constitute matters vitally affecting the public interest for the purpose of applying the consumer protection act, chapter
+19.86
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>Nothing in this section may be construed as intending to preclude persons from investing in or possessing an ownership interest in a community solar project, or from applying for and receiving federal investment tax credits.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_170__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>This section expires June 30, 2038.
+[
+2022 c 212 s 6
+;
+2017 3rd sp.s. c 36 s 7
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Tax preference performance statement exemption
+—
+Effective date
+—
+2022 c 212:
+See notes following RCW
+82.16.183
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+2017 3rd sp.s. c 36:
+See notes following RCW
+82.16.130
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

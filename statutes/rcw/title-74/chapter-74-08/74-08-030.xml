@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_030">
+        <num>RCW 74.08.030</num>
+        <heading>Old age assistance eligibility requirements</heading>
+        <subsection eId="sec_74_08_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Has attained the age of sixty-five: PROVIDED, That if an applicant for old age assistance is already on the assistance rolls in some other program or category of assistance, such applicant shall be considered eligible the first of the month immediately preceding the date on which such applicant will attain the age of sixty-five; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Is a resident of the state of Washington.
+[
+1971 ex.s. c 169 s 2
+;
+1961 c 248 s 1
+;
+1959 c 26 s 74.08.030
+. Prior:
+1953 c 174 s 20
+;
+1951 c 165 s 1
+;
+1951 c 1 s 5
+(Initiative Measure No. 178, approved November 7, 1950);
+1949 c 6 s 4
+; Rem. Supp. 1949 s 9998-33d.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

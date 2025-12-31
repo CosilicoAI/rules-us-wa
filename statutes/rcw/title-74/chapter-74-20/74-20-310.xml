@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.310"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_310">
+        <num>RCW 74.20.310</num>
+        <heading>Guardian ad litem in actions brought to determine parent and child relationship—Notice</heading>
+        <subsection eId="sec_74_20_310__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of RCW
+26.26A.485
+requiring appointment of a guardian ad litem to represent the child in an action brought to determine the parent and child relationship do not apply to actions brought under chapter
+26.26A
+or
+26.26B
+RCW if:</p>
+          </content>
+          <subsection eId="sec_74_20_310__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The action is brought by the attorney general on behalf of the department of social and health services and the child; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20_310__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The action is brought by any prosecuting attorney on behalf of the state and the child when referral has been made to the prosecuting attorney by the department of social and health services requesting such action.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>On the issue of parentage, the attorney general or prosecuting attorney functions as the child's guardian ad litem provided the interests of the state and the child are not in conflict.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_310__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The court, on its own motion or on motion of a party, may appoint a guardian ad litem when necessary.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_310__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The summons shall contain a notice to the parents that pursuant to RCW
+26.26A.485
+the parents have a right to move the court for a guardian ad litem for the child other than the prosecuting attorney or the attorney general subject to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.
+[
+2019 c 46 s 5048
+;
+2002 c 302 s 705
+;
+1991 c 367 s 45
+;
+1979 ex.s. c 171 s 15
+.]
+NOTES:
+Severability
+—
+Effective date
+—
+Captions not law
+—
+1991 c 367:
+See notes following RCW
+26.09.015
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

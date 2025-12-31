@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.657"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.657"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.657/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.657/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.657/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.657/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_657">
+        <num>RCW 74.09.657</num>
+        <heading>Findings—Family planning services expansion</heading>
+        <subsection eId="sec_74_09_657__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Over half of all births in Washington state are covered by public programs;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_657__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Research has demonstrated that children of unintended pregnancies receive less prenatal care and are at higher risk for premature birth, low birth weight, neurological disorders, and poor academic performance;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_657__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In Washington state, over 50 percent of unintended pregnancies occur in women age 25 years and older;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_657__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Washington state's take charge program has been successful in helping women avoid unintended pregnancies; however, when the caseload declined due to federally mandated changes, the rate of unintended pregnancies increased dramatically;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_657__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Expanding family planning services to cover women to 260 percent of the federal poverty level would align that program's eligibility standard with income eligibility for publicly funded maternity care service; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_657__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Such an expansion would reduce unintended pregnancies and associated costs to the state.
+[
+2023 c 51 s 50
+;
+2011 1st sp.s. c 41 s 1
+.]
+NOTES:
+Funding reduction
+—
+2011 1st sp.s. c 41:
+&quot;Upon implementation of the expansion directed in RCW
+74.09.659
+, the office of financial management shall reduce general fund
+—
+state allotments for the medical assistance program by one million five hundred thousand dollars for fiscal year 2012 and by two million three hundred fifty thousand dollars for fiscal year 2013. The amounts reduced from allotments shall be placed in reserve status and remain unexpended.&quot; [
+2011 1st sp.s. c 41 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

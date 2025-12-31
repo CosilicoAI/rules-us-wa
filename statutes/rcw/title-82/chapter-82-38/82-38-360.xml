@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.360"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.360"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.360/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.360/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.360/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.360/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_360">
+        <num>RCW 82.38.360</num>
+        <heading>Fuel tax evasion—Seizure and forfeiture</heading>
+        <subsection eId="sec_82_38_360__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The following are subject to seizure and forfeiture:</p>
+          </content>
+          <subsection eId="sec_82_38_360__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fuel imported into this state by a person not licensed in this state in accordance with this chapter to import fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_360__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Fuel blended or manufactured by a person not licensed in this state in accordance with this chapter to blend or manufacture fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_360__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>All conveyances used, or intended for use, to transport, or in any manner to facilitate the transportation, for the purpose of sale or receipt of property described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_360__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_360__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, except where the owner of the conveyance neither had knowledge of nor consented to the transportation of the fuel by an unlicensed importer, blender, or manufacturer of fuel.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_360__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Before seizing a common carrier conveyance, contract carrier conveyance, or a conveyance secured by a bona fide security interest where the secured party neither had knowledge of or consented to the unlawful act or omission, the state patrol or the department of licensing must give the common carrier, contract carrier, or secured party, or their representatives within twenty-four hours, a notice in writing served by mail or other means to cease transporting fuel for any person not licensed to import, blend, or manufacture fuel in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_360__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Property subject to forfeiture under this chapter may be seized by the state patrol upon process issued by a superior court or district court having jurisdiction over the property. Seizure without process may be made if:</p>
+          </content>
+          <subsection eId="sec_82_38_360__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The seizure is incident to an arrest or a search under a search warrant or an administrative inspection; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_360__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The state patrol has probable cause to believe the property was used or is intended to be used in violation of this chapter and exigent circumstances exist making procurement of a search warrant impracticable.
+[
+2013 c 225 s 132
+;
+2003 c 358 s 7
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Captions not law
+—
+2003 c 358:
+See note following RCW
+82.38.270
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

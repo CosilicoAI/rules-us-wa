@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.095"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.095"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.095/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.095/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.095/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.095/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_095">
+        <num>RCW 74.20A.095</num>
+        <heading>Support enforcement services—Action against earnings within state—Notice</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.095
+74.20A.090
+&lt;&lt; 
+        74.20A.095 &gt;&gt;
+74.20A.100
+PDF
+RCW
+74.20A.095
+Support enforcement services
+—
+Action against earnings within state
+—
+Notice.
+When providing support enforcement services, the office of support enforcement may take action, under this chapter and chapter
+26.23
+RCW, against a responsible parent's earnings or assets, located in, or subject to the jurisdiction of, the state of Washington regardless of the presence or residence of the responsible parent. If the responsible parent resides in another state or country, the office of support enforcement shall, unless otherwise authorized by state or federal law, serve a notice under RCW
+74.20A.040
+more than sixty days before taking collection action.
+[
+2000 c 86 s 9
+;
+1991 c 367 s 48
+.]
+NOTES:
+Severability
+—
+Effective date
+—
+Captions not law
+—
+1991 c 367:
+See notes following RCW
+26.09.015
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

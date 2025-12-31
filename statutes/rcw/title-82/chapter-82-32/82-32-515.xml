@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.515"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.515"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.515/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.515/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.515/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.515/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_515">
+        <num>RCW 82.32.515</num>
+        <heading>Applicability of telephone and telecommunications definitions</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.515
+82.32.510
+&lt;&lt; 
+        82.32.515 &gt;&gt;
+82.32.520
+PDF
+RCW
+82.32.515
+Applicability of telephone and telecommunications definitions.
+The definitions in RCW
+82.04.065
+apply to RCW
+82.32.490
+through
+82.32.510
+and
+35.21.873
+.
+[
+2002 c 67 s 17
+.]
+NOTES:
+Finding
+—
+Effective date
+—
+2002 c 67:
+See notes following RCW
+82.04.530
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

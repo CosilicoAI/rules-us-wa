@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.0486"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.0486"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.0486/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.0486/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.0486/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.0486/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_0486">
+        <num>RCW 82.14.0486</num>
+        <heading>State contribution for baseball stadium limited</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.0486
+82.14.0485
+&lt;&lt; 
+        82.14.0486 &gt;&gt;
+82.14.049
+PDF
+RCW
+82.14.0486
+State contribution for baseball stadium limited.
+Sections 101 through 105, chapter 1, Laws of 1995 3rd sp. sess. constitute the entire state contribution for a baseball stadium, as defined in RCW
+82.14.0485
+. The state will not make any additional contributions based on revised cost or revenue estimates, cost overruns, unforeseen circumstances, or any other reason.
+[
+1995 3rd sp.s. c 1 s 106
+.]
+NOTES:
+Part headings not law
+—
+Effective date
+—
+1995 3rd sp.s. c 1:
+See notes following RCW
+82.14.0485
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

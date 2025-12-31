@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.620"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.620"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.620/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.620/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.620/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.620/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_620">
+        <num>RCW 82.04.620</num>
+        <heading>Exemptions—Certain prescription drugs</heading>
+        <subsection eId="sec_82_04_620__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>amounts received by physicians or clinics for drugs for infusion or injection by licensed physicians or their agents for human use pursuant to a prescription, but only if the amounts:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_620__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Are separately stated on invoices or other billing statements;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_620__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>do not exceed the then current federal rate; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_620__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>are covered or required under a health care service program subsidized by the federal or state government. The federal rate means the rate at or below which the federal government or its agents reimburse providers for prescription drugs administered to patients as provided for in the medicare, part B, drugs average sales price information resource as published by the United States department of health and human services, or any successor index thereto.
+[
+2007 c 447 s 1
+.]
+NOTES:
+Effective date
+—
+2007 c 447:
+&quot;This act takes effect October 1, 2007.&quot; [
+2007 c 447 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

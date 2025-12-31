@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_010">
+        <num>RCW 82.14.010</num>
+        <heading>Legislative finding—Purpose</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.010
+Beginning of Chapter
+&lt;&lt; 
+        82.14.010 &gt;&gt;
+82.14.020
+PDF
+RCW
+82.14.010
+Legislative finding
+—
+Purpose.
+The legislature finds that the several counties and cities of the state lack adequate sources of revenue to carry out essential county and municipal purposes. The legislature further finds that the most efficient and appropriate methods of deriving revenues for such purposes is to vest additional taxing powers in the governing bodies of counties and cities which they may or may not implement. The legislature intends, by enacting this chapter, to provide the means by which essential county and municipal purposes can be financially served should they choose to employ them.
+[
+1970 ex.s. c 94 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

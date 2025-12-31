@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_040">
+        <num>RCW 74.20.040</num>
+        <heading>Duty of department to enforce child support—Requests for support enforcement services—Schedule of fees—Waiver—Rules</heading>
+        <subsection eId="sec_74_20_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever the department receives an application for public assistance on behalf of a child, the department shall take appropriate action under the provisions of this chapter, chapter
+74.20A
+RCW, or other appropriate statutes of this state to establish or enforce support obligations against the parent or other persons owing a duty to pay support moneys.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The secretary may accept a request for support enforcement services on behalf of persons who are not recipients of public assistance and may take appropriate action to establish or enforce support obligations against the parent or other persons owing a duty to pay moneys. The secretary may condition requests accepted under this subsection upon the payment of a fee as required by subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section or through regulation issued by the secretary. The secretary may establish[,] by regulation, reasonable standards and qualifications for support enforcement services provided to persons who are not currently receiving public assistance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The secretary may accept requests for support enforcement services from child support enforcement agencies in other states operating child support programs under Title IV-D of the social security act or from foreign countries, and may take appropriate action to establish and enforce support obligations, or to enforce subpoenas, information requests, orders for genetic testing, and collection actions issued by the other agency against the parent or other person owing a duty to pay support moneys, the parent or other person's employer, or any other person or entity properly subject to child support collection or information-gathering processes. The request shall contain and be accompanied by such information and documentation as the secretary may by rule require, and be signed by an authorized representative of the agency. The secretary may adopt rules setting forth the duration and nature of services provided under this subsection.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department may take action to establish, enforce, and collect a support obligation, including performing related services, under this chapter and chapter
+74.20A
+RCW, or through the attorney general or prosecuting attorney for action under chapter
+26.09
+, 26.18, 26.20, 26.21A, 26.26A, or
+26.26B
+RCW or other appropriate statutes or the common law of this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Whenever a support order is filed with the Washington state support registry under chapter
+26.23
+RCW, the department may take appropriate action under the provisions of this chapter, chapter
+26.23
+or
+74.20A
+RCW, or other appropriate law of this state to establish or enforce the support obligations contained in that order against the responsible parent or other persons owing a duty to pay support moneys.</p>
+          </content>
+          <subsection eId="sec_74_20_040__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Effective October 1, 2019, the secretary shall impose an annual fee of thirty-five dollars for each case in which support enforcement services are furnished where:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20_040__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The person entitled to receive support has never received assistance under the temporary assistance for needy families program, the aid for dependent families and children program, or a tribal temporary assistance for needy families program; and</p>
+            </content>
+            <subsection eId="sec_74_20_040__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The state has collected at least five hundred fifty dollars of support.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20_040__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The annual fee shall be retained by the state from support collected on behalf of the person entitled to receive support, but not from the first five hundred fifty dollars of support.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20_040__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The secretary may, on showing of necessity, waive or defer any such fee or cost.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Fees, due and owing, may be retained from support payments directly or collected as delinquent support moneys utilizing any of the remedies in this chapter, chapter
+74.20A
+or
+26.21A
+RCW, or any other remedy at law or equity available to the department or any agencies with whom it has a cooperative or contractual arrangement to establish, enforce, or collect support moneys or support obligations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The secretary may waive the fee, or any portion thereof, as a part of a compromise of disputed claims or may grant partial or total charge off of said fee if the secretary finds there are no available, practical, or lawful means by which said fee may be collected or to facilitate payment of the amount of delinquent support moneys or fees owed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_040__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The secretary shall adopt rules conforming to federal laws, including but not limited to complying with section 7310 of the federal deficit reduction act of 2005, 42 U.S.C. Sec. 654, and rules and regulations required to be observed in maintaining the state child support enforcement program required under Title IV-D of the federal social security act. The adoption of these rules shall be calculated to promote the cost-effective use of the agency's resources and not otherwise cause the agency to divert its resources from its essential functions.
+[
+2019 c 275 s 4
+;
+2019 c 46 s 5046
+;
+2012 1st sp.s. c 4 s 1
+;
+2011 1st sp.s. c 42 s 9
+;
+2007 c 143 s 5
+;
+1997 c 58 s 891
+;
+1989 c 360 s 12
+;
+1985 c 276 s 1
+;
+1984 c 260 s 29
+;
+1982 c 201 s 20
+;
+1973 1st ex.s. c 183 s 1
+;
+1971 ex.s. c 213 s 1
+;
+1963 c 206 s 3
+;
+1959 c 322 s 5
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2019 c 46 s 5046 and by 2019 c 275 s 4, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

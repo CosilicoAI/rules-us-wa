@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0201"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0201/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0201/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0201">
+        <num>RCW 82.08.0201</num>
+        <heading>Rental cars—Estimate of tax revenue</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0201
+82.08.020
+&lt;&lt; 
+        82.08.0201 &gt;&gt;
+82.08.0202
+PDF
+RCW
+82.08.0201
+Rental cars
+—
+Estimate of tax revenue.
+Before January 1, 1994, and January 1st of each odd-numbered year thereafter:
+The department of licensing, with the assistance of the department of revenue, must provide the office of financial management and the fiscal committees of the legislature with an updated estimate of the amount of revenue attributable to the taxes imposed in RCW
+82.08.020
+(2).
+[
+2020 c 139 s 10
+;
+1992 c 194 s 10
+.]
+NOTES:
+Effective dates
+—
+1992 c 194:
+See note following RCW
+46.04.466
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

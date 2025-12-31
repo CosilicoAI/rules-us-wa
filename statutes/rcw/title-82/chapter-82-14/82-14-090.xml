@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_090">
+        <num>RCW 82.14.090</num>
+        <heading>Payment of tax prior to taxable event—When permitted—Deposit with treasurer—Credit against future tax—When fund designation permitted</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.090
+82.14.080
+&lt;&lt; 
+        82.14.090 &gt;&gt;
+82.14.212
+PDF
+RCW
+82.14.090
+Payment of tax prior to taxable event
+—
+When permitted
+—
+Deposit with treasurer
+—
+Credit against future tax
+—
+When fund designation permitted.
+When permitted by resolution or ordinance, any tax authorized by this chapter may be paid prior to the taxable event to which it may be attributable. Such prepayment shall be made by deposit with the treasurer or other legal depository for the benefit of the funds to which they belong. They shall be credited by any county or city against any future tax that may become due from a taxpayer: PROVIDED, That the taxpayer with the concurrence of the legislative authority may designate a particular fund of such county or city against which such prepayment of tax is made. Prepayment of taxes under this section shall not relieve any taxpayer from remitting the full amount of any tax imposed under the authority of this chapter upon the occurrence of the taxable event.
+[
+1982 c 211 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

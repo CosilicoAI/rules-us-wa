@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0279"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0279"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0279/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0279/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0279/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0279/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0279">
+        <num>RCW 82.08.0279</num>
+        <heading>Exemptions—Renting or leasing of motor vehicles and trailers to a nonresident for use in the transportation of persons or property across state boundaries</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0279
+82.08.0278
+&lt;&lt; 
+        82.08.0279 &gt;&gt;
+82.08.02795
+PDF
+RCW
+82.08.0279
+Exemptions
+—
+Renting or leasing of motor vehicles and trailers to a nonresident for use in the transportation of persons or property across state boundaries.
+The tax levied by RCW
+82.08.020
+shall not apply to the renting or leasing of motor vehicles and trailers to a nonresident of this state for use exclusively in transporting persons or property across the boundaries of this state and in intrastate operations incidental thereto when such motor vehicle or trailer is registered and licensed in a foreign state and for purposes of this exemption the term &quot;nonresident&quot; shall apply to a renter or lessee who has one or more places of business in this state as well as in one or more other states but the exemption for nonresidents shall apply only to those vehicles which are most frequently dispatched, garaged, serviced, maintained and operated from the renter's or lessee's place of business in another state.
+[
+1980 c 37 s 45
+. Formerly RCW
+82.08.030
+(27).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

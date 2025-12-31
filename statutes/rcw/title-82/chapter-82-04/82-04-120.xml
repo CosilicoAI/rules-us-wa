@@ -1,0 +1,307 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.120"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_120">
+        <num>RCW 82.04.120</num>
+        <heading>&quot;To manufacture.&quot;</heading>
+        <subsection eId="sec_82_04_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;To manufacture&quot; embraces all activities of a commercial or industrial nature wherein labor or skill is applied, by hand or machinery, to materials so that as a result thereof a new, different or useful substance or article of tangible personal property is produced for sale or commercial or industrial use, and includes:</p>
+          </content>
+          <subsection eId="sec_82_04_120__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The production or fabrication of special made or custom made articles;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The production or fabrication of dental appliances, devices, restorations, substitutes, or other dental laboratory products by a dental laboratory or dental technician;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Cutting, delimbing, and measuring of felled, cut, or taken trees;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Crushing and/or blending of rock, sand, stone, gravel, or ore;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The production of compressed natural gas or liquefied natural gas for use as a transportation fuel as defined in RCW
+82.16.310
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The production or processing of renewable natural gas.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;To manufacture&quot; does not include:</p>
+          </content>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Conditioning of seed for use in planting; cubing hay or alfalfa;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Activities which consist of cutting, grading, or ice glazing seafood which has been cooked, frozen, or canned outside this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The growing, harvesting, or producing of agricultural products;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Packing of agricultural products, including sorting, washing, rinsing, grading, waxing, treating with fungicide, packaging, chilling, or placing in controlled atmospheric storage;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The production of digital goods;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The production of computer software if the computer software is delivered from the seller to the purchaser by means other than tangible storage media, including the delivery by use of a tangible storage media where the tangible storage media is not physically transferred to the purchaser; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section, any activity that is integral to any public service business as defined in RCW
+82.16.010
+and with respect to which the gross income associated with such activity:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Is subject to tax under chapter
+82.16
+RCW; or</p>
+            </content>
+            <subsection eId="sec_82_04_120__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>would be subject to tax under chapter
+82.16
+RCW if such activity were conducted in this state or if not for an exemption or deduction.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>With respect to wastewater treatment facilities:</p>
+          </content>
+          <subsection eId="sec_82_04_120__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;To manufacture&quot; does not include the treatment of wastewater, the production of reclaimed water, and the production of class B biosolids; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_120__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;To manufacture&quot; does include the production of class A or exceptional quality biosolids, but only with respect to the processing activities that occur after the biosolids have reached class B standards.
+[
+2019 c 202 s 3
+;
+2014 c 216 s 303
+;
+2011 c 23 s 3
+;
+2009 c 535 s 406
+;
+2003 c 168 s 604
+;
+1999 sp.s. c 9 s 1
+;
+1999 c 211 s 2
+;
+1998 c 168 s 1
+;
+1997 c 384 s 1
+;
+1989 c 302 s 201
+. Prior:
+1989 c 302 s 101
+;
+1987 c 493 s 1
+;
+1982 2nd ex.s. c 9 s 2
+;
+1975 1st ex.s. c 291 s 6
+;
+1965 ex.s. c 173 s 3
+;
+1961 c 15 s 82.04.120
+; prior:
+1959 ex.s. c 3 s 2
+;
+1955 c 389 s 13
+; prior: 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 202:
+See note following RCW
+82.16.310
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Findings
+—
+Application
+—
+2011 c 23:
+See notes following RCW
+82.08.02565
+.
+Effective date
+—
+Construction
+—
+2011 c 23:
+See notes following RCW
+82.08.025651
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Intent
+—
+1999 sp.s. c 9:
+&quot;This act is intended to clarify that this is the intent of the legislature both retroactively and prospectively.&quot; [
+1999 sp.s. c 9 s 4
+.]
+Severability
+—
+1999 sp.s. c 9:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1999 sp.s. c 9 s 5
+.]
+Effective date
+—
+1999 sp.s. c 9:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [June 7,</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that chapter 9, Laws of 1982 2nd ex. sess. was intended to extend state public utility taxation to electrical energy generated in this state for eventual distribution outside this state. The legislature further finds that chapter 9, Laws of 1982 2nd ex. sess. was held unconstitutional by the Thurston county superior court in
+Washington Water Power v. State of Washington
+(memorandum opinion No. 83-2-00977-1). The purpose of *Part I of this act is to recognize the effect of that decision by correcting the relevant RCW sections to read as though the legislature had not enacted chapter 9, Laws of 1982 2nd ex. sess., and thereby make clear the effect of subsequent amendments in *Part II of this act.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The purpose of *Part II of this act is to provide a constitutional means of replacing the revenue lost as a result of the Washington Water Power decision.&quot; [
+1989 c 302 s 1
+.]
+*Reviser's note:
+For &quot;Part&quot; division see 1989 c 302.
+Effective date
+—
+1982 2nd ex.s. c 9:
+See note following RCW
+82.16.010
+.
+Effective dates
+—
+Severability
+—
+1975 1st ex.s. c 291:
+See notes following RCW
+82.04.050
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

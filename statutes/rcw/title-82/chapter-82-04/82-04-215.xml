@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.215"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.215"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.215/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.215/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.215/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.215/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_215">
+        <num>RCW 82.04.215</num>
+        <heading>&quot;Computer,&quot; &quot;computer software,&quot; &quot;custom software,&quot; &quot;customization of prewritten computer software,&quot; &quot;master copies,&quot; &quot;prewritten computer software,&quot; &quot;retained rights.&quot;</heading>
+        <subsection eId="sec_82_04_215__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Computer&quot; means an electronic device that accepts information in digital or similar form and manipulates it for a result based on a sequence of instructions.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_215__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Computer software&quot; means a set of coded instructions designed to cause a computer or automatic data processing equipment to perform a task. All software is classified as either prewritten or custom. Consistent with this definition &quot;computer software&quot; includes only those sets of coded instructions intended for use by an end user and specifically excludes retained rights in software and master copies of software.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_215__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Custom software&quot; means software created for a single person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_215__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Customization of prewritten computer software&quot; means any alteration, modification, or development of applications using or incorporating prewritten computer software for a specific person. &quot;Customization of prewritten computer software&quot; includes individualized configuration of software to work with other software and computer hardware but does not include routine installation. Customization of prewritten computer software does not change the underlying character or taxability of the original prewritten computer software.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_215__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Master copies&quot; of software means copies of software from which a software developer, author, inventor, publisher, licensor, sublicensor, or distributor makes copies for sale or license.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_215__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Prewritten computer software&quot; means computer software, including prewritten upgrades, that is not designed and developed by the author or other creator to the specifications of a specific purchaser. The combining of two or more prewritten computer software programs or prewritten portions thereof does not cause the combination to be other than prewritten computer software. Prewritten computer software includes software designed and developed by the author or other creator to the specifications of a specific purchaser when it is sold to a person other than such purchaser. Where a person modifies or enhances computer software of which such persons is not the author or creator, the person shall be deemed to be the author or creator only of the person's modifications or enhancements. Prewritten computer software or a prewritten portion thereof that is modified or enhanced to any degree, where such modification or enhancement is designed and developed to the specifications of a specific purchaser, remains prewritten computer software; however where there is a reasonable, separately stated charge or an invoice or other statement of the price given to the purchaser for the modification or enhancement, the modification or enhancement shall not constitute prewritten computer software.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_215__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Retained rights&quot; means any and all rights, including intellectual property rights such as those rights arising from copyrights, patents, and trade secret laws, that are owned or are held under contract or license by a software developer, author, inventor, publisher, licensor, sublicensor, or distributor.
+[
+2003 c 168 s 601
+;
+1998 c 332 s 3
+.]
+NOTES:
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+1998 c 332:
+See notes following RCW
+82.04.29001
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

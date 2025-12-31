@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.758"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.758"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.758/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.758/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.758/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.758/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_758">
+        <num>RCW 82.04.758</num>
+        <heading>Exceptions—Services for farms</heading>
+        <subsection eId="sec_82_04_758__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to any:</p>
+          </content>
+          <subsection eId="sec_82_04_758__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Person performing custom farming services for a farmer, when the person performing the custom farming services is:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_758__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An eligible farmer; or</p>
+            </content>
+            <subsection eId="sec_82_04_758__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>at least 50 percent owned by an eligible farmer; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_758__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Person performing farm management services, contract labor services, services provided with respect to animals that are agricultural products, or any combination of these services, for a farmer or for a person performing custom farming services, when the person performing the farm management services, contract labor services, services with respect to animals, or any combination of these services, and the farmer or person performing custom farming services are related.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_758__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_04_758__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Custom farming services&quot; means the performance of specific farming operations through the use of any farm machinery or equipment, farm implement, or draft animal, together with an operator, when: (A) The specific farming operation consists of activities directly related to the growing, raising, or producing of any agricultural product to be sold or consumed by a farmer; and (B) the performance of the specific farming operation is for, and under a contract with, or the direction or supervision of, a farmer. &quot;Custom farming services&quot; does not include the custom application of fertilizers, chemicals, or biologicals, or any services related to the growing, raising, or producing of cannabis.</p>
+            </content>
+            <subsection eId="sec_82_04_758__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For the purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_758__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Eligible farmer&quot; means a person who is eligible for an exemption certificate under RCW
+82.08.855
+at the time that the custom farming services are rendered, regardless of whether the person has applied for an exemption certificate under RCW
+82.08.855
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_758__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Farm management services&quot; means the consultative decisions made for the operations of the farm including, but not limited to, determining which crops to plant, the choice and timing of application of fertilizers and chemicals, the horticultural practices to apply, the marketing of crops and livestock, and the care and feeding of animals. &quot;Farm management services&quot; does not include any services related to the growing, raising, or producing of cannabis.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_758__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Related&quot; means having any of the relationships specifically described in section 267</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_758__subsec_2__subsec_b">
+            <num>(b)</num>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_758__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_758__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>of the internal revenue code, as amended or renumbered as of January 1, 2007.
+[
+2023 c 470 s 3015
+;
+2022 c 119 s 1
+.]
+NOTES:
+Explanatory statement
+—
+2023 c 470:
+See note following RCW
+10.99.030
+.
+Tax preference performance statement
+—
+2022 c 119:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_758__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in sections 1 and 2, chapter 119, Laws of 2022. This performance statement is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_758__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to reduce structural inefficiencies in the tax structure, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_758__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to provide tax relief to farmers, including those who changed their farm structure in response to federal regulations regarding irrigated water.&quot; [
+2022 c 119 s 3
+.]
+Tax preference automatic expiration date exemption
+—
+Tax preference metrics exemption
+—
+2022 c 119:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_758__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>do not apply to this act.&quot; [
+2022 c 119 s 4
+.]
+Effective date
+—
+2022 c 119:
+&quot;This act takes effect July 1, 2022.&quot; [
+2022 c 119 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

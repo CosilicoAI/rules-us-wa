@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.600"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.600"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.600/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.600/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.600/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.600/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_600">
+        <num>RCW 82.04.600</num>
+        <heading>Exemptions—Materials printed in county, city, town, school district, educational service district, library or library district</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.600
+82.04.545
+&lt;&lt; 
+        82.04.600 &gt;&gt;
+82.04.601
+PDF
+RCW
+82.04.600
+Exemptions
+—
+Materials printed in county, city, town, school district, educational service district, library or library district.
+This chapter does not apply to any county as defined in Title
+36
+RCW, any city or town as defined in Title
+35
+RCW, any school district or educational service district as defined in Title
+28A
+RCW, or any library or library district as defined in Title
+27
+RCW, in respect to materials printed in the county, city, town, school district, educational district, library or library district facilities when the materials are used solely for county, city, town, school district, educational district, library, or library district purposes.
+[
+1979 ex.s. c 266 s 8
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

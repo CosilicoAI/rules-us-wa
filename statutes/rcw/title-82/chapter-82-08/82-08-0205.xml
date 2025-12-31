@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0205"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0205/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0205/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0205">
+        <num>RCW 82.08.0205</num>
+        <heading>Exemptions—Waste vegetable oil</heading>
+        <subsection eId="sec_82_08_0205__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of waste vegetable oil that is used by a person in the production of biodiesel for personal use.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0205__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This exemption is available only if the buyer provides the seller with an exemption certificate in a form and manner prescribed by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0205__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_08_0205__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Waste vegetable oil&quot; means used cooking oil gathered from restaurants or commercial food processors; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0205__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Personal use&quot; means the person does not engage in the business of selling biodiesel at wholesale or retail.
+[
+2008 c 237 s 2
+.]
+NOTES:
+Effective date
+—
+2008 c 237:
+&quot;This act takes effect July 1, 2008.&quot; [
+2008 c 237 s 4
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.41.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.41.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.41.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_41_010">
+        <num>RCW 74.41.010</num>
+        <heading>Legislative findings</heading>
+        <subsection eId="sec_74_41_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Most care provided for functionally disabled adults is delivered by family members or friends who are not compensated for their services. Family involvement is a crucial element for avoiding or postponing institutionalization of the disabled adult.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Family or other caregivers who provide continuous care in the home are frequently under substantial stress, physical, psychological, and financial. The stress, if unrelieved by family or community support to the caregiver, may lead to premature or unnecessary nursing home placement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Respite care and other community-based supportive services for the caregiver and for the disabled adult could relieve some of the stresses, maintain and strengthen the family structure, and postpone or prevent institutionalization.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>With family and friends providing the primary care for the disabled adult, supplemented by community health and social services, long-term care may be less costly than if the individual were institutionalized.
+[
+1984 c 158 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

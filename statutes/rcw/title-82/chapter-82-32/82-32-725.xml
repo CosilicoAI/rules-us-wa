@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.725"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.725"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.725/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.725/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.725/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.725/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_725">
+        <num>RCW 82.32.725</num>
+        <heading>Amnesty—Streamlined sales and use tax agreement</heading>
+        <subsection eId="sec_82_32_725__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>No assessment for taxes imposed or authorized under chapters
+82.08
+, 82.12, and
+82.14
+RCW, or related penalties or interest, may be made by the department against a seller who:</p>
+          </content>
+          <subsection eId="sec_82_32_725__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Within twelve months of the effective date of this state becoming a member state of the agreement, registers under RCW
+82.32.030</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>to collect and remit to the department the applicable taxes imposed or authorized under chapters
+82.08
+, 82.12, and
+82.14
+RCW on sales made to buyers in this state in accordance with the terms of the agreement, if the seller was not otherwise registered in this state in the twelve-month period preceding the effective date of this state becoming a member state of the agreement; and</p>
+          </content>
+          <subsection eId="sec_82_32_725__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Continues to be registered and continues to collect and remit to the department the applicable taxes imposed or authorized under chapters
+82.08
+, 82.12, and
+82.14
+RCW for a period of at least thirty-six months, absent the seller's fraud or intentional misrepresentation of a material fact.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section preclude an assessment for taxes imposed or authorized under chapters
+82.08
+, 82.12, and
+82.14
+RCW for sales made to buyers during the period the seller was not registered in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The provisions of this section do not apply to any seller with respect to:</p>
+          </content>
+          <subsection eId="sec_82_32_725__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any matter or matters for which the seller, before registering to collect and remit the applicable taxes imposed or authorized under chapters
+82.08
+, 82.12, and
+82.14
+RCW, received notice from the department of the commencement of an audit and which audit is not yet finally resolved including any related administrative and judicial processes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_725__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Taxes imposed or authorized under chapters
+82.08
+, 82.12, and
+82.14
+RCW and collected or remitted to the department by the seller; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_725__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>That seller's liability for taxes imposed or authorized under chapters
+82.08
+, 82.12, and
+82.14
+RCW in that seller's capacity as a buyer.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The limitation periods for making an assessment or correction of an assessment prescribed in RCW *
+82.32.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and
+82.32.100</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>do not run during the thirty-six month period in subsection</p>
+          </content>
+          <subsection eId="sec_82_32_725__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.
+[
+2007 c 6 s 401
+.]
+NOTES:
+*Reviser's note:
+RCW
+82.32.050
+was amended by 2008 c 181 s 501, changing subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_725__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>to subsection</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

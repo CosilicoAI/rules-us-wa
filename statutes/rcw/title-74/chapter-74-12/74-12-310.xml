@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.310"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_310">
+        <num>RCW 74.12.310</num>
+        <heading>Placement of child with other relatives</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.310
+74.12.300
+&lt;&lt; 
+        74.12.310 &gt;&gt;
+74.12.320
+PDF
+RCW
+74.12.310
+Placement of child with other relatives.
+When intensive efforts over a reasonable period have failed to improve the home conditions, the department shall determine if any other relatives specified by the social security act are maintaining a suitable home and are willing to take the care and custody of the child in their home. Upon an affirmative finding the department shall, if the parents or relatives with whom the child is living consent, take the necessary steps for placement of the child with such other relatives, but if the parents or relatives with whom the child lives refuse their consent to the placement then the department shall file a petition in the juvenile court for a decree adjudging the home unsuitable and placing the dependent child with such other relatives.
+[
+1963 c 228 s 27
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

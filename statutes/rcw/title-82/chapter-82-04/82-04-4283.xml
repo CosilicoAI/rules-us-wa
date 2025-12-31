@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4283"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4283"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4283/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4283/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4283/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4283/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4283">
+        <num>RCW 82.04.4283</num>
+        <heading>Deductions—Cash discount taken by purchaser</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4283
+82.04.4282
+&lt;&lt; 
+        82.04.4283 &gt;&gt;
+82.04.4284
+PDF
+RCW
+82.04.4283
+Deductions
+—
+Cash discount taken by purchaser.
+In computing tax there may be deducted from the measure of tax the amount of cash discount actually taken by the purchaser. This deduction is not allowed in arriving at the taxable amount under the extractive or manufacturing classifications with respect to articles produced or manufactured, the reported values of which, for the purposes of this tax, have been computed according to the provisions of RCW
+82.04.450
+.
+[
+1980 c 37 s 4
+. Formerly RCW
+82.04.430
+(3).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

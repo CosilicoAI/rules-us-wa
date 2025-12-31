@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.42.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.42.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.42.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_42_010">
+        <num>RCW 82.42.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_42_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Air carrier&quot; means any airline, air cargo carrier, air taxi, air commuter, or air charter operator, that provides routine air service to the general population for compensation or hire, and operates at least fifteen round trips per week between two or more points and publishes flight schedules which specify the times, days of the week, and points between which it operates. Where it is doubtful that an operation is for &quot;compensation or hire,&quot; the test applied is whether the air service is merely incidental to the person's other business or is, in itself, a major enterprise for profit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Aircraft&quot; means every contrivance now known or hereafter invented, used or designed for navigation of or flight in the air, operated or propelled by the use of aircraft fuel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Aircraft fuel&quot; means gasoline and any other inflammable liquid, by whatever name such liquid is known or sold, the chief use of which is as fuel for the propulsion of aircraft, except gas or liquid, the chief use of which as determined by the director, is for purposes other than the propulsion of aircraft.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Dealer&quot; means any person engaged in the retail sale of aircraft fuel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Deny&quot; means to decline acceptance of an application for licensure or reinstatement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of licensing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Director&quot; means the director of licensing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Distributor&quot; means any person engaged in the sale of aircraft fuel to any dealer and includes any dealer from whom the tax hereinafter imposed has not been collected.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Local service commuter&quot; means an air taxi operator who operates at least five round-trips per week between two or more points; publishes flight schedules which specify the times, days of the week, and points between which it operates; and whose aircraft has a maximum capacity of 60 passengers or 18,000 pounds of useful load.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Person&quot; means every natural person, firm, partnership, association, or private or public corporation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Refuse&quot; has the same meaning as &quot;deny&quot; in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Revoke&quot; means to prohibit all authority granted by this chapter, including the display and use of credentials issued by the department for a period of one year or greater or for an indefinite period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Suspend&quot; means to restrict the grant of authority under this chapter for a period of less than one year.
+[
+2024 c 1 s 17
+. Prior:
+2013 c 225 s 301
+;
+1983 c 49 s 1
+;
+1982 1st ex.s. c 25 s 1
+;
+1979 c 158 s 229
+;
+1969 ex.s. c 254 s 1
+;
+1967 ex.s. c 10 s 1
+.]
+NOTES:
+Reviser's note:
+The definitions in this section have been alphabetized pursuant to RCW
+1.08.015</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

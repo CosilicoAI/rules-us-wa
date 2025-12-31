@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.013"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.013"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.013/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.013/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.013/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.013/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_013">
+        <num>RCW 74.13.013</num>
+        <heading>Finding—Accreditation of children's services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.013
+74.13.010
+&lt;&lt; 
+        74.13.013 &gt;&gt;
+74.13.020
+PDF
+RCW
+74.13.013
+Finding
+—
+Accreditation of children's services.
+The legislature finds that accreditation of children's services by an independent entity can significantly improve the quality of services provided to children and families. Accreditation involves an ongoing commitment to meeting nationally recognized standards of practice in child welfare and holds organizations accountable for achieving improved outcomes for children.
+Accreditation is a structured process designed to facilitate organizational change and improvement within individual local offices. Standards require improved case management, documentation, internal case management practices, and accountability. Accreditation requires the establishment of clear communication with biological parents, foster and adoptive parents, providers, the courts, and members of the community.
+[
+2001 c 265 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.525"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.525"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.525/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.525/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.525/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.525/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_525">
+        <num>RCW 82.14.525</num>
+        <heading>Sales and use tax</heading>
+        <subsection eId="sec_82_14_525__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislative authority of a county may impose a sales and use tax of up to one-tenth of one percent of the selling price in the case of a sales tax, or value of the article used, in the case of a use tax, for the purposes authorized under chapter
+36.160
+RCW. The legislative authority of the county may impose the sales and use tax by ordinance and may condition its imposition on the specific authorization of a majority of the voters voting on a proposition submitted at a special or general election held after June 30, 2016. The ordinance, or ordinance and ballot proposition, may provide for the tax to apply for a period of up to seven consecutive years.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_525__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If a county has not imposed the sales and use tax under this section prior to December 31, 2024, a city within that county may impose a sales and use tax of up to one-tenth of one percent of the selling price in the case of a sales tax, or value of the article used, in the case of a use tax, for the purposes authorized under chapter
+36.160
+RCW. The legislative authority of the city may impose the sales and use tax by ordinance and may condition its imposition on the specific authorization of a majority of the voters voting on a proposition submitted at a special or general election. The ordinance, or ordinance and ballot proposition, may provide for the tax to apply for a period of up to seven consecutive years.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_525__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax authorized in this section is in addition to any other taxes authorized by law and must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_525__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislative authority of a county or city may reimpose a tax imposed under this section for one or more additional periods of up to seven consecutive years. The legislative authority of the county or city may reimpose the sales and use tax by ordinance and may condition its reimposition on the specific authorization of a majority of the voters voting on a proposition submitted at a special or general election.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_525__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A county and a city within that county may not concurrently impose the tax authorized in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_525__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Moneys collected under this section may only be used for the purposes set forth in RCW
+36.160.110
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_525__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department must perform the collection of taxes under this section on behalf of a county or city at no cost to the county or city, and the state treasurer must distribute those taxes as available on a monthly basis to the county or city or, upon the direction of the county or city, to its treasurer or a fiscal agent, paying agent, or trustee for obligations issued or incurred by the program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_525__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The definitions in RCW
+36.160.020
+apply to this section.
+[
+2023 c 179 s 1
+;
+2015 3rd sp.s. c 24 s 402
+.]
+NOTES:
+Application
+—
+2023 c 179:
+&quot;This act applies prospectively only and not retroactively. It applies only to taxes imposed under RCW
+82.14.525
+that are imposed on or after July 23, 2023.&quot; [
+2023 c 179 s 2
+.]
+Construction
+—
+2015 3rd sp.s. c 24:
+See note following RCW
+36.160.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

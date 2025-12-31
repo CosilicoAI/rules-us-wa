@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.325"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.325"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.325/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.325/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.325/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.325/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_325">
+        <num>RCW 74.15.325</num>
+        <heading>Residential private schools—Licensing—Rule making</heading>
+        <subsection eId="sec_74_15_325__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section as determined by the state board of education in consultation with the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_325__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall engage in negotiated rule making pursuant to RCW
+34.05.310</p>
+          </content>
+          <subsection eId="sec_74_15_325__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>with the state board of education and other affected interests to adopt minimum health and safety rules to implement this section. Rules must address the needs of children and youth during noninstructional hours, including but not limited to space allotted to each child or youth for sleeping, developmentally appropriate privacy requirements, personal storage, nutritional needs, cleanliness and hygiene of living quarters, social-emotional well-being during noninstructional hours, health and wellness accommodations, compliance with the Americans with disabilities act, and physical safety.
+[
+2023 c 441 s 2
+.]
+NOTES:
+Effective date
+—
+2025 c 257; 2023 c 441 ss 2 and 4:
+&quot;Sections 2 and 4 of this act take effect July 1, 2026.&quot; [
+2025 c 257 s 2
+;
+2023 c 441 s 8
+.]
+Finding
+—
+Intent
+—
+2023 c 441:
+&quot;The legislature finds that there is a lack of oversight of certain residential facilities and residential private schools charged with the care of children. It is the intent of the legislature to ensure that the health, safety, and well-being of children who are served in residential facilities and residential private schools are protected against child abuse and neglect and have their basic health and safety needs met. The legislature intends for greater state oversight of such facilities that otherwise lack nationally recognized accreditation and intends for the department of children, youth, and families and the department of health to work collaboratively to coordinate oversight and monitoring processes to ensure state resources are used efficiently and effectively. Therefore, the legislature resolves to conduct investigations of certain residential facilities and residential private schools when allegations of child abuse or neglect are made at those facilities.&quot; [
+2023 c 441 s 1
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

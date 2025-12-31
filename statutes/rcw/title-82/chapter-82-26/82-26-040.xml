@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_040">
+        <num>RCW 82.26.040</num>
+        <heading>When tax not applicable under laws of United States</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.26
+&gt;
+Section 82.26.040
+82.26.030
+&lt;&lt; 
+        82.26.040 &gt;&gt;
+82.26.060
+PDF
+RCW
+82.26.040
+When tax not applicable under laws of United States.
+The tax imposed by RCW
+82.26.020
+shall not apply with respect to any tobacco products which under the Constitution and laws of the United States may not be made the subject of taxation by this state.
+[
+1961 c 15 s 82.26.040
+. Prior:
+1959 ex.s. c 5 s 14
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

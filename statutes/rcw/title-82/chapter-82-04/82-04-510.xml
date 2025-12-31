@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.510"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.510/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.510/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_510">
+        <num>RCW 82.04.510</num>
+        <heading>General administrative provisions invoked</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.510
+82.04.500
+&lt;&lt; 
+        82.04.510 &gt;&gt;
+82.04.520
+PDF
+RCW
+82.04.510
+General administrative provisions invoked.
+All of the provisions contained in chapter
+82.32
+RCW shall have full force and application with respect to taxes imposed under the provisions of this chapter. Taxpayers submitting monthly estimates of taxes due under this chapter shall be subject to the provisions of chapter
+82.32
+RCW if they fail to remit ninety percent of the taxes actually collected or due for the reporting period.
+[
+1961 c 15 s 82.04.510
+. Prior:
+1959 c 197 s 28
+;
+1935 c 180 s 15
+; RRS s 8370-15.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.210"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.210/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.210/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_210">
+        <num>RCW 74.15.210</num>
+        <heading>Community facility—Service provider must report juvenile infractions or violations—Violations by service provider—Secretary's duties—Rules</heading>
+        <subsection eId="sec_74_15_210__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever the secretary contracts with a service provider to operate a community facility, the contract shall include a requirement that each service provider must report to the department any known infraction or violation of conditions committed by any juvenile under its supervision. The report must be made immediately upon learning of serious infractions or violations and within twenty-four hours for other infractions or violations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_210__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The secretary shall adopt rules to implement and enforce the provisions of this section. The rules shall contain a schedule of monetary penalties not to exceed the total compensation set forth in the contract, and include provisions that allow the secretary to terminate all contracts with a service provider that has violations of this section and the rules adopted under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_210__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The secretary shall document in writing all violations of this section and the rules adopted under this section, penalties, actions by the department to remove juveniles from a community facility, and contract terminations. The department shall give great weight to a service provider's record of violations, penalties, actions by the department to remove juveniles from a community facility, and contract terminations in determining to execute, renew, or renegotiate a contract with a service provider.
+[
+1998 c 269 s 7
+.]
+NOTES:
+Intent
+—
+Finding
+—
+Effective date
+—
+1998 c 269:
+See notes following RCW
+72.05.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_010">
+        <num>RCW 74.12.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_12_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Was receiving an aid to families with dependent children grant for the month in which court proceedings leading to such determination were initiated; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>would have received aid to families with dependent children for such month if application had been made therefor; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>in the case of a child who had been living with a specified relative within six months prior to the month in which such proceedings were initiated, would have received aid to families with dependent children for such month if in such month he or she had been living with such a relative and application had been made therefor, as authorized by the social security act.
+&quot;Temporary assistance for needy families&quot; means money payments, services, and remedial care with respect to a dependent child or dependent children and the needy parent or relative with whom the child lives.
+[
+2013 c 23 s 204
+;
+1999 c 120 s 1
+;
+1997 c 59 s 16
+;
+1992 c 136 s 2
+;
+1983 1st ex.s. c 41 s 40
+;
+1981 1st ex.s. c 6 s 23
+;
+1981 c 8 s 21
+;
+1979 c 141 s 350
+;
+1973 2nd ex.s. c 31 s 1
+;
+1969 ex.s. c 173 s 13
+;
+1965 ex.s. c 37 s 1
+;
+1963 c 228 s 18
+;
+1961 c 265 s 1
+;
+1959 c 26 s 74.12.010
+. Prior:
+1957 c 63 s 10
+;
+1953 c 174 s 24
+;
+1941 c 242 s 1
+;
+1937 c 114 s 1
+; Rem. Supp. 1941 s 9992-101.]
+NOTES:
+Severability
+—
+1983 1st ex.s. c 41:
+See note following RCW
+26.09.060
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

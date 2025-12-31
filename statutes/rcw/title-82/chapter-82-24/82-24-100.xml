@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_100">
+        <num>RCW 82.24.100</num>
+        <heading>Forgery or counterfeiting of stamps—Penalty</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.24
+&gt;
+Section 82.24.100
+82.24.090
+&lt;&lt; 
+        82.24.100 &gt;&gt;
+82.24.110
+PDF
+RCW
+82.24.100
+Forgery or counterfeiting of stamps
+—
+Penalty.
+To forge or counterfeit any stamp of the kind herein provided is a felony.
+[
+1961 c 15 s 82.24.100
+. Prior:
+1935 c 180 s 85
+; RRS s 8370-85.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

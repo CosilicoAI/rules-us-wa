@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.41.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.41.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.41.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_41_040">
+        <num>RCW 74.41.040</num>
+        <heading>Administration—Rules—Program standards</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.41
+&gt;
+Section 74.41.040
+74.41.030
+&lt;&lt; 
+        74.41.040 &gt;&gt;
+74.41.050
+PDF
+RCW
+74.41.040
+Administration
+—
+Rules
+—
+Program standards.
+The department shall administer this chapter and shall establish such rules and standards as the department deems necessary in carrying out this chapter. The department shall not require the development of plans of care or discharge plans by nursing homes or adult family homes providing respite care service under this chapter. Assisted living facilities providing respite care services shall comply with the assessment and plan of care provisions of RCW
+18.20.350
+.
+The department shall develop standards for the respite program in conjunction with the selected area agencies on aging. The program standards shall serve as the basis for soliciting bids, entering into subcontracts, and developing sliding fee scales to be used in determining the ability of eligible participants to participate in paying for respite care.
+[
+2012 c 10 s 68
+;
+2008 c 146 s 2
+;
+1987 c 409 s 3
+;
+1984 c 158 s 4
+.]
+NOTES:
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Findings
+—
+Intent
+—
+2008 c 146:
+&quot;The legislature finds that Washingtonians sixty-five years of age and older will nearly double in the next twenty years, from eleven percent of our population today to almost twenty percent of our population in 2025. Younger people with disabilities will also require supportive long-term care services. Nationally, young people with a disability account for thirty-seven percent of the total number of people who need long-term care.
+The legislature further finds that to address this increasing need, the long-term care system should support autonomy and self-determination, and support the role of informal caregivers and families. It should promote personal planning and savings combined with public support, when needed. It should also include culturally appropriate, high quality information, services, and supports delivered in a cost-effective and efficient manner.
+The legislature further finds that more than fifteen percent of adults over age sixty-five in Washington state have diabetes. Current nurse delegation statutes limit the ability of elderly and disabled persons with diabetes to remain in their own homes or in other home-like long-term care settings. It is the intent of the legislature to modify nurse delegation statutes to enable elderly persons and persons with disabilities who have diabetes to continue to reside in their own home or other home-like settings.
+The legislature further finds that the long-term care system should utilize evidence-based practices for the prevention and management of chronic disease to improve the general health of Washingtonians over their lifetime and reduce health care and long-term care costs related to ineffective chronic care management.&quot; [
+2008 c 146 s 1
+.]
+Severability
+—
+2008 c 146:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2008 c 146 s 14
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

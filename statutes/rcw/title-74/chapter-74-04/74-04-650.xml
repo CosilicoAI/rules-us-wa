@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.650"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.650"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.650/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.650/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.650/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.650/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_650">
+        <num>RCW 74.04.650</num>
+        <heading>Individuals failing to comply with federal requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.650
+74.04.640
+&lt;&lt; 
+        74.04.650 &gt;&gt;
+74.04.655
+PDF
+RCW
+74.04.650
+Individuals failing to comply with federal requirements.
+Notwithstanding any other provisions of RCW
+74.04.600
+through
+74.04.650
+, those individuals who have been receiving supplemental security income assistance and failed to comply with any federal requirements, including those relating to drug abuse and alcoholism treatment and rehabilitation, shall be ineligible for state assistance.
+[
+1981 1st ex.s. c 6 s 8
+;
+1981 c 8 s 7
+;
+1973 2nd ex.s. c 10 s 6
+.]
+NOTES:
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

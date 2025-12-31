@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.62.045"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.045"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.62.045/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.045/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.62.045/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.045/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_62_045">
+        <num>RCW 82.62.045</num>
+        <heading>Tax credits for eligible business projects in designated community empowerment zones</heading>
+        <subsection eId="sec_82_62_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of this section &quot;eligible area&quot; also means a designated community empowerment zone approved under RCW
+43.31C.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An eligible business project located within an eligible area as defined in this section qualifies for a credit under this chapter for those employees who at the time of hire are residents of the community empowerment zone in which the project is located, if the fifteen percent threshold is met. As used in this subsection, &quot;resident&quot; means the person makes his or her home in the community empowerment zone. A mailing address alone is insufficient to establish that a person is a resident for the purposes of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_045__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All other provisions and eligibility requirements of this chapter apply to applicants eligible under this section.
+[
+2007 c 485 s 4
+;
+1999 c 164 s 307
+.]
+NOTES:
+Application
+—
+Effective date
+—
+2007 c 485:
+See notes following RCW
+82.62.020
+.
+Findings
+—
+Intent
+—
+Part headings and subheadings not law
+—
+Effective date
+—
+Severability
+—
+1999 c 164:
+See notes following RCW
+43.160.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

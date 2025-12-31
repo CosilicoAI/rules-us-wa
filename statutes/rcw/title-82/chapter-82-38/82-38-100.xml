@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_100">
+        <num>RCW 82.38.100</num>
+        <heading>Special fuel trip permits—Penalty—Fees</heading>
+        <subsection eId="sec_82_38_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any special fuel user operating a motor vehicle in this state for commercial purposes may apply for a special fuel trip permit. The permit:</p>
+          </content>
+          <subsection eId="sec_82_38_100__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is good for a period of three consecutive days beginning and ending on the dates shown on the face of the permit issued;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_100__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is valid only for the vehicle for which it is issued;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_100__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Must identify, as the department may require, the vehicle for which it is issued; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_100__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Must be completed in its entirety, signed, and dated by the operator before operation of the vehicle on the public highways of this state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Correction of data on the permit such as dates, vehicle license number, or vehicle identification number invalidates the permit. A violation of, or a failure to comply with, this subsection is a gross misdemeanor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_100__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Blank special fuel trip permits may be obtained from field offices of the department of transportation, department of licensing, county auditors or other agents, or subagents appointed by the department for the fee provided in *RCW
+46.17.400</p>
+          </content>
+          <subsection eId="sec_82_38_100__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_100__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Special fuel trip permits are not subject to exchange, refund, or credit.
+[
+2010 c 161 s 907
+. Prior:
+2007 c 515 s 25
+;
+2007 c 419 s 17
+;
+1999 c 270 s 2
+;
+1998 c 176 s 62
+;
+1983 c 78 s 1
+;
+1979 c 40 s 6
+;
+1973 1st ex.s. c 156 s 3
+;
+1971 ex.s. c 175 s 11
+.]
+NOTES:
+*Reviser's note:
+RCW
+46.17.400
+was amended by 2011 c 171 s 62, deleting subsection</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

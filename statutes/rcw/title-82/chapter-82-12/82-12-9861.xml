@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.9861"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.9861"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.9861/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.9861/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.9861/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.9861/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_9861">
+        <num>RCW 82.12.9861</num>
+        <heading>Exemptions—Eligible server equipment—Eligible power infrastructure—Computer data centers in counties with populations over 800,000. (Expires July 1, 2043.)</heading>
+        <subsection eId="sec_82_12_9861__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An exemption from the tax imposed by RCW
+82.12.020
+is provided for the use by qualifying businesses or qualifying tenants of eligible server equipment to be installed, without intervening use, in an eligible computer data center, and to the use of labor and services rendered in respect to installing such server equipment. The exemption also applies to the use by a qualifying business or qualifying tenant of eligible power infrastructure, including labor and services rendered in respect to installing, repairing, altering, or improving such infrastructure.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_9861__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption provided in this section does not apply to any person for whom the exemption under RCW
+82.08.9861
+does not apply.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_9861__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A qualifying business or a qualifying tenant claiming an exemption under this section must complete an annual tax performance report as required in RCW
+82.32.534
+. The report must identify construction firm names and employment levels used for constructing, renovating, refurbishing, or remodeling the data centers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_9861__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The definitions and requirements in RCW
+82.08.9861
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_9861__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The exemption provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_9861__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to the use of eligible server equipment and eligible power infrastructure, and the labor and services provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_9861__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, if first used by qualifying businesses or qualifying tenants on or after July 1, 2038.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_9861__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section expires July 1, 2043.
+[
+2022 c 267 s 6
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 267 ss 3-6:
+See note following RCW
+82.08.986
+.
+Findings
+—
+Intent
+—
+2022 c 267:
+See note following RCW
+82.08.986
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

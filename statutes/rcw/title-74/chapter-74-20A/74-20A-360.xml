@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.360"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.360"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.360/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.360/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.360/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.360/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_360">
+        <num>RCW 74.20A.360</num>
+        <heading>Records access—Confidentiality—Nonliability—Penalty for noncompliance</heading>
+        <subsection eId="sec_74_20A_360__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding any other provision of Washington law, the division of child support, the Washington state support registry, or the agency or firm providing child support enforcement services for another state under Title IV-D of the federal social security act may access records of the following nature, in the possession of any agency or entity listed in this section:</p>
+          </content>
+          <subsection eId="sec_74_20A_360__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Records of state and local agencies, including but not limited to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_360__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The state registrar, including but not limited to records of birth, marriage, and death;</p>
+            </content>
+            <subsection eId="sec_74_20A_360__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Tax and revenue records, including, but not limited to, information on residence addresses, employers, and assets;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_360__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Records concerning real and titled personal property;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_360__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Records of occupational, professional, and recreational licenses and records concerning the ownership and control of corporations, partnerships, and other business entities;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_360__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Employment security records;
+(vi) Records of agencies administering public assistance programs; and
+(vii) Records of the department of corrections, and of county and municipal correction or confinement facilities;</p>
+            </content>
+            <subsection eId="sec_74_20A_360__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Records of agencies administering public assistance programs; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_360__subsec_1__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Records of the department of corrections, and of county and municipal correction or confinement facilities;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_360__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Records of public utilities and cable television companies relating to persons who owe or are owed support, or against whom a support obligation is sought, including names and addresses of the individuals, and employers' names and addresses pursuant to RCW
+74.20.225
+and RCW
+74.20A.120
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_360__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Records held by financial institutions, pursuant to RCW
+74.20A.370
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_360__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Upon the request of the division of child support, the Washington state support registry, or the agency or firm providing child support enforcement services for another state under Title IV-D of the social security act, any employer shall provide information as to the employment, earnings, benefits, and residential address and phone number of any employee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_360__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Entities in possession of records described in subsection</p>
+          </content>
+          <subsection eId="sec_74_20A_360__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_360__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section must provide information and records upon the request of the division of child support, the Washington state support registry, or the agency or firm providing child support enforcement services for another state under Title IV-D of the federal social security act. The division of child support may enter into agreements providing for electronic access to these records.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_360__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Public utilities and cable television companies must provide the information in response to a judicial or administrative subpoena issued by the division of child support, the Washington state support registry, or the agency or firm providing child support enforcement services for another state under Title IV-D of the federal social security act.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_360__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Entities responding to information requests and subpoenas under this section are not liable for disclosing information pursuant to the request or subpoena.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_360__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The division of child support shall maintain all information gathered under this section confidential and shall only disclose this information as provided under RCW
+26.23.120
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_360__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The division of child support may impose fines for noncompliance with this section using the notice of noncompliance under RCW
+74.20A.350
+.
+[
+1997 c 58 s 897
+.]
+NOTES:
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

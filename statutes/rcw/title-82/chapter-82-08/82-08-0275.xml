@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0275"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0275"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0275/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0275/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0275/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0275/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0275">
+        <num>RCW 82.08.0275</num>
+        <heading>Exemptions—Sales of and labor and service charges for mining, sorting, crushing, etc., of sand, gravel, and rock from county or city quarry for public road purposes</heading>
+        <subsection eId="sec_82_08_0275__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>either stockpiled in said pit or quarry for placement or is placed on the street, road, place, or highway of the county or city by the county or city itself, or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0275__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>sold by the county or city to a county, or a city at actual cost for placement on a publicly owned street, road, place, or highway. The exemption provided for in this section shall not apply to sales of, cost of, or charges made for such labor and services, if the sand, gravel, or rock is used for other than public road purposes or is sold otherwise than as provided for in this section.
+[
+1980 c 37 s 41
+. Formerly RCW
+82.08.030</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

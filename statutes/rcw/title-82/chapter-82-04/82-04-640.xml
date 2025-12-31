@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.640"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.640"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.640/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.640/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.640/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.640/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_640">
+        <num>RCW 82.04.640</num>
+        <heading>Exemptions—Washington vaccine association—Certain assessments received</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.640
+82.04.635
+&lt;&lt; 
+        82.04.640 &gt;&gt;
+82.04.645
+PDF
+RCW
+82.04.640
+Exemptions
+—
+Washington vaccine association
+—
+Certain assessments received.
+This chapter does not apply to assessments described in RCW
+70.290.030
+and
+70.290.040
+received by a nonprofit corporation established under RCW
+70.290.020
+.
+[
+2010 c 174 s 16
+.]
+NOTES:
+Effective date
+—
+2010 c 174:
+See RCW
+70.290.900
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

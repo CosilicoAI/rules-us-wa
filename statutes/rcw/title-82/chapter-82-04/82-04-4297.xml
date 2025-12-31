@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4297"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4297"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4297/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4297/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4297/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4297/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4297">
+        <num>RCW 82.04.4297</num>
+        <heading>Deductions—Compensation from public entities for health or social welfare services—Exception</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4297
+82.04.4296
+&lt;&lt; 
+        82.04.4297 &gt;&gt;
+82.04.4298
+PDF
+RCW
+82.04.4297
+Deductions
+—
+Compensation from public entities for health or social welfare services
+—
+Exception.
+In computing tax there may be deducted from the measure of tax amounts received from the United States or any instrumentality thereof or from the state of Washington or any municipal corporation or political subdivision thereof as compensation for, or to support, health or social welfare services rendered by a health or social welfare organization, as defined in RCW
+82.04.431
+, or by a municipal corporation or political subdivision, except deductions are not allowed under this section for amounts that are received under an employee benefit plan.
+[
+2011 1st sp.s. c 19 s 2
+;
+2002 c 314 s 3
+;
+2001 2nd sp.s. c 23 s 2
+;
+1988 c 67 s 1
+;
+1980 c 37 s 17
+. Formerly RCW
+82.04.430
+(16).]
+NOTES:
+Application
+—
+2011 1st sp.s. c 19:
+&quot;This act applies to amounts received by a taxpayer on or after August 1, 2011.&quot; [
+2011 1st sp.s. c 19 s 4
+.]
+Findings
+—
+Refund of taxes
+—
+Effective date
+—
+2002 c 314:
+See notes following RCW
+82.04.4311
+.
+Findings
+—
+2001 2nd sp.s. c 23:
+&quot;The legislature finds that the deduction under the business and occupation tax statutes for compensation from public entities for health or social welfare services was intended to provide government with greater purchasing power when government provides financial support for the provision of health or social welfare services to benefited classes of persons. The legislature also finds that both the legislature and the United States congress have in recent years modified government-funded health care programs to encourage participation by beneficiaries in highly regulated managed care programs operated by persons who act as intermediaries between government entities and health or social welfare organizations. The legislature further finds that the objective of these changes is again to extend the purchasing power of scarce government health care resources, but that this objective would be thwarted to a significant degree if the business and occupation tax deduction were lost by health or social welfare organizations solely on account of their participation in managed care for government-funded health programs. In keeping with the original purpose of the health or social welfare deduction, it is desirable to ensure that compensation received from government sources through contractual managed care programs also be deductible.&quot; [
+2001 2nd sp.s. c 23 s 1
+.]
+Effective date
+—
+2001 2nd sp.s. c 23:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [July 13, 2001].&quot; [
+2001 2nd sp.s. c 23 s 4
+.]
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.
+&quot;Health or social welfare organization&quot; defined
+—
+Conditions for exemption
+—
+&quot;Health or social welfare services&quot; defined: RCW
+82.04.431
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

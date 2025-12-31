@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.120"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_120">
+        <num>RCW 82.60.120</num>
+        <heading>Qualifying county list—2010 1st sp.s. c 16</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.60
+&gt;
+Section 82.60.120
+82.60.100
+&lt;&lt; 
+        82.60.120 &gt;&gt;
+End of Chapter
+PDF
+RCW
+82.60.120
+Qualifying county list
+—
+2010 1st sp.s. c 16.
+The department, with the assistance of the employment security department, must establish a list of qualifying counties effective July 1, 2010. The list of qualifying counties is effective for a twenty-four month period and must be updated by July 1st of the year that is two calendar years after the list was established or last updated, as the case may be.
+[
+2010 1st sp.s. c 16 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

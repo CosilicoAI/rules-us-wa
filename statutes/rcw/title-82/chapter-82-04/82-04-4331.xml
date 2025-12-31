@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4331"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4331"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4331/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4331/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4331/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4331/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4331">
+        <num>RCW 82.04.4331</num>
+        <heading>Deductions—Insurance claims for state health care coverage</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4331
+82.04.433
+&lt;&lt; 
+        82.04.4331 &gt;&gt;
+82.04.4332
+PDF
+RCW
+82.04.4331
+Deductions
+—
+Insurance claims for state health care coverage.
+In computing tax, insurers as defined by RCW
+48.01.050
+, may deduct from the measure of tax amounts paid out for claims incurred before July 1, 1990, for covered health services under medical and dental coverage purchased under chapter
+41.05
+RCW.
+[
+1988 c 107 s 33
+.]
+NOTES:
+Implementation
+—
+Effective dates
+—
+1988 c 107:
+See RCW
+41.05.901
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

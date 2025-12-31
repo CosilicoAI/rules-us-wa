@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.989"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.989"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.989/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.989/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.989/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.989/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_989">
+        <num>RCW 82.08.989</num>
+        <heading>Exemptions—Internet and telecommunications infrastructure. (Expires January 1, 2030.)</heading>
+        <subsection eId="sec_82_08_989__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the requirements of this section, the tax levied by RCW
+82.08.020
+does not apply to sales of, or charges made for:</p>
+          </content>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Labor and services rendered in respect to the construction of a qualified infrastructure project, or the installation of any equipment or tangible personal property incorporated into a qualified infrastructure project; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Building materials, telecommunications equipment, and tangible personal property incorporated into a qualified infrastructure project.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_989__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_989__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to local sales taxes.</p>
+          </content>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In order to obtain an exemption certificate under this section, a qualified infrastructure project owner must submit an application to the department for an exemption certificate. The application must include the information necessary, as required by the department, to determine that the qualified infrastructure project owner qualifies for the exemption under this section. The department must issue an exemption certificate to a qualified infrastructure project owner.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In order to claim an exemption under this section, a qualified infrastructure project owner must provide the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The exemption certificate is effective on the date the application is received by the department, which is the date of issuance. The exemption provided in this section does not apply to any property or services that are received by the qualified infrastructure project owner, or its agent, before July 1, 2023, or on or after January 1, 2030. For the purpose of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Taking physical possession of, or having dominion and control over, the tangible personal property eligible for the exemption in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section; and</p>
+            </content>
+            <subsection eId="sec_82_08_989__subsec_1__subsec_b__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The labor and services in subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section have been performed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The exemption certificate expires on the date the project is certified as operationally complete by the qualified infrastructure project owner or January 1, 2030, whichever is first. The qualified infrastructure project owner must notify the department, in a form and manner as required by the department, when the project is certified as operationally complete.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_989__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_989__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Local sales tax&quot; means a sales tax imposed by a local government under the authority of chapter
+82.14
+or
+81.104
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Operationally complete&quot; means the qualified infrastructure project is capable of being used for its intended purpose as described in the exemption certificate application.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Qualified infrastructure project&quot; means the construction of buildings and utilities related to the deployment of a modern global internet and telecommunications infrastructure that occurs in part in a distressed area, as defined in RCW
+43.168.020
+, that is located on the coast of Washington. The infrastructure may include, but is not limited to, cable landing stations, communications hubs, buried utility connections and extension, and any related equipment and buildings that will add broadband capacity and infrastructure to the area.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_989__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Qualified infrastructure project owner&quot; means a wholly owned subsidiary of a federally recognized tribe located in a county that borders the Pacific Ocean that is developing a qualified infrastructure project.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_989__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The total amount of state sales and use tax exempted under this section and RCW
+82.12.989
+may not exceed $8,000,000. A qualified infrastructure project owner within 60 days of the expiration of the exemption certificate under subsection</p>
+          </content>
+          <subsection eId="sec_82_08_989__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section must pay any tax due under this subsection. The department may not assess penalties and interest as provided in chapter
+82.32
+RCW on the amount due if the amount due is paid within the 60-day period, or any extension thereof. The department may require a qualified infrastructure project owner to periodically submit documentation, as specified by the department, prior to the expiration of the exemption certificate to allow the department to track the total amount of sales and use tax exempted under this section and RCW
+82.12.989
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_989__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section expires January 1, 2030.
+[
+2023 c 355 s 1
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+2023 c 355:
+&quot;RCW
+82.32.808
+does not apply to this act.&quot; [
+2023 c 355 s 4
+.]
+Effective date
+—
+2023 c 355:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.&quot; [
+2023 c 355 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

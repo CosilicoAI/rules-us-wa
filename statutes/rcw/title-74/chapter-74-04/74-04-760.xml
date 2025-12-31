@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.760"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.760"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.760/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.760/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.760/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.760/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_760">
+        <num>RCW 74.04.760</num>
+        <heading>Minimum amount of monthly assistance payments</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.760
+74.04.750
+&lt;&lt; 
+        74.04.760 &gt;&gt;
+74.04.770
+PDF
+RCW
+74.04.760
+Minimum amount of monthly assistance payments.
+Payment of assistance shall not be made for any month if the payment prior to any adjustments would be less than ten dollars. However, if payment is denied solely by reason of this section, the individual with respect to whom such payment is denied is determined to be a recipient of assistance for purposes of eligibility for other programs of assistance except for a community work experience program.
+[
+1981 2nd ex.s. c 10 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

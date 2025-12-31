@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.875"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.875"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.875/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.875/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.875/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.875/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_875">
+        <num>RCW 74.09.875</num>
+        <heading>Reproductive health care services—Prohibited discrimination</heading>
+        <subsection eId="sec_74_09_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In the provision of reproductive health care services through programs under this chapter, the authority, managed care plans, and providers that administer or deliver such services may not discriminate in the delivery of a service provided through a program of the authority based on the covered person's gender identity or expression.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority and any managed care plans delivering or administering services purchased or contracted for by the authority, may not issue automatic initial denials of coverage for reproductive health care services that are ordinarily or exclusively available to individuals of one gender, based on the fact that the individual's gender assigned at birth, gender identity, or gender otherwise recorded in one or more government-issued documents, is different from the one to which such health services are ordinarily or exclusively available.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Denials as described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section are prohibited discrimination under chapter
+49.60
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_74_09_875__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Gender expression&quot; means a person's gender-related appearance and behavior, whether or not stereotypically associated with the person's gender assigned at birth.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_875__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Gender identity&quot; means a person's internal sense of the person's own gender, regardless of the person's gender assigned at birth.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_875__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Reproductive health care services&quot; means any medical services or treatments, including pharmaceutical and preventive care service or treatments, directly involved in the reproductive system and its processes, functions, and organs involved in reproduction, in all stages of life. Reproductive health care services does not include infertility treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_875__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Reproductive system&quot; includes, but is not limited to: Genitals, gonads, the uterus, ovaries, fallopian tubes, and breasts.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section must not be construed to authorize discrimination on the basis of a covered person's gender identity or expression in the administration of any other medical assistance programs administered by the authority.
+[
+2019 c 399 s 2
+.]
+NOTES:
+Effective dates
+—
+2019 c 399 ss 2 and 3:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Section 2 of this act takes effect January 1, 2020.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 3 of this act takes effect January 1, 2021.&quot; [
+2019 c 399 s 9
+.]
+Findings
+—
+2019 c 399:
+&quot;The legislature finds and declares:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>It is the public policy of this state to provide the maximum access to reproductive health care and reproductive health care coverage for all people in Washington state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In 2018, the legislature passed Substitute Senate Bill No. 6219. Along with reproductive health care coverage requirements, the bill mandated a literature review of barriers to reproductive health care. As documented by the report submitted to the legislature on January 1, 2019, young people, immigrants, people living in rural communities, transgender and gender nonconforming people, and people of color still face significant barriers to getting the reproductive health care they need.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Washingtonians who are transgender and gender nonconforming have important reproductive health care needs as well. These needs go unmet when, in the process of seeking care, transgender and gender nonconforming people are stigmatized or are denied critical health services because of their gender identity or expression.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The literature review mandated by Substitute Senate Bill No. 6219 found that, &quot;[a]ccording to 2015 U.S. Transgender Survey data, thirty-two percent of transgender respondents in Washington State reported that in the previous year they did not see a doctor when needed because they could not afford it.&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Existing state law should be enhanced to ensure greater coverage of and timely access to reproductive health care for the benefit of all Washingtonians, regardless of gender identity or expression.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Because stigma is also a key barrier to access to reproductive health care, all Washingtonians, regardless of gender identity, should be free from discrimination in the provision of health care services, health care plan coverage, and in access to publicly funded health coverage.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_875__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>All people should have access to robust reproductive health services to maintain and improve their reproductive health.&quot; [
+2019 c 399 s 1
+.]
+Short title
+—
+2019 c 399:
+&quot;This act may be known and cited as the reproductive health care access for all act.&quot; [
+2019 c 399 s 8
+.]
+Recommendations
+—
+Preexposure and postexposure prophylaxis financial support awareness
+—
+2019 c 399:
+See note following RCW
+48.43.072
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

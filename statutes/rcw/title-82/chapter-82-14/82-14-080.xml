@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_080">
+        <num>RCW 82.14.080</num>
+        <heading>Deposit of tax prior to due date—Credit against future tax or assessment—When fund designation permitted—Use of tax revenues received in connection with large construction projects</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.080
+82.14.070
+&lt;&lt; 
+        82.14.080 &gt;&gt;
+82.14.090
+PDF
+RCW
+82.14.080
+Deposit of tax prior to due date
+—
+Credit against future tax or assessment
+—
+When fund designation permitted
+—
+Use of tax revenues received in connection with large construction projects.
+The taxes provided by this chapter may be deposited by any taxpayer prior to the due date thereof with the treasurer or other legal depository for the benefit of the funds to which they belong to be credited against any future tax or assessment that may be levied or become due from the taxpayer: PROVIDED, That the taxpayer may with the concurrence of the legislative authority designate a particular fund of such county or city against which such prepayment of tax or assessment is made. Such prepayment of taxes or assessments shall not be considered to be a debt for the purpose of the limitation of indebtedness imposed by law on a county or city.
+By agreement made pursuant to chapter
+39.34
+RCW, counties or cities may utilize tax revenues received under the authority of this chapter in connection with large construction projects, including energy facilities as defined in RCW
+80.50.020
+, for any purpose within their power or powers, privileges or authority exercised or capable of exercise by such counties or cities including, but not limited to, the purpose of the mitigation of socioeconomic impacts that may be caused by such large construction projects: PROVIDED, That the taxable event need not take place within the jurisdiction where the socioeconomic impact occurs if an intergovernmental agreement provides for redistribution.
+[
+1982 c 211 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

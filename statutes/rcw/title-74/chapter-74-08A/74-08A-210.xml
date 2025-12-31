@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.210"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.210/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.210/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_210">
+        <num>RCW 74.08A.210</num>
+        <heading>Diversion program—Emergency assistance</heading>
+        <subsection eId="sec_74_08A_210__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In order to prevent some families from developing dependency on temporary assistance for needy families, the department shall make available to qualifying applicants a diversion program designed to provide brief, emergency assistance for families in crisis whose income and assets would otherwise qualify them for temporary assistance for needy families.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_210__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Diversion assistance may include cash or vouchers in payment for the following needs:</p>
+          </content>
+          <subsection eId="sec_74_08A_210__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Child care;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_210__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Housing assistance;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_210__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Transportation-related expenses;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_210__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Food;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_210__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Medical costs for the recipient's immediate family;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_210__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Employment-related expenses which are necessary to keep or obtain paid unsubsidized employment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_210__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Diversion assistance is available once in each 12-month period for each adult applicant. Recipients of diversion assistance are not included in the temporary assistance for needy families program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_210__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Diversion assistance may not exceed $2,000 for each instance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_210__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>To be eligible for diversion assistance, a family must otherwise be eligible for temporary assistance for needy families.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_210__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Families ineligible for temporary assistance for needy families due to sanction, noncompliance, the lump sum income rule, or any other reason are not eligible for diversion assistance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_210__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Families must provide evidence showing that a bona fide need exists according to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_210__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section in order to be eligible for diversion assistance.
+An adult applicant may receive diversion assistance of any type no more than once per 12-month period. If the recipient of diversion assistance is placed on the temporary assistance for needy families program within 12 months of receiving diversion assistance, the prorated dollar value of the assistance shall be treated as a loan from the state, and recovered by deduction from the recipient's cash grant.
+[
+2024 c 154 s 1
+;
+2011 1st sp.s. c 36 s 30
+;
+2010 1st sp.s. c 8 s 27
+;
+1997 c 58 s 302
+.]
+NOTES:
+Effective date
+—
+2024 c 154 s 1:
+&quot;Section 1 of this act takes effect January 1, 2025.&quot; [
+2024 c 154 s 2
+.]
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

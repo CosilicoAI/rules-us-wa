@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.032"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.032"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.032/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.032/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.032/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.032/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_032">
+        <num>RCW 82.45.032</num>
+        <heading>Additional definitions</heading>
+        <subsection eId="sec_82_45_032__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Real estate&quot; or &quot;real property&quot; means any interest, estate, or beneficial interest in land or anything affixed to land, including the ownership interest or beneficial interest in any entity which itself owns land or anything affixed to land. The term includes used mobile homes, used park model trailers, used floating homes, and improvements constructed upon leased land.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_032__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Used mobile home&quot; means a mobile home which has been previously sold at retail and has been subjected to tax under chapter
+82.08
+RCW, or which has been previously used and has been subjected to tax under chapter
+82.12
+RCW, and which has substantially lost its identity as a mobile unit at the time of sale by virtue of its being fixed in location upon land owned or leased by the owner of the mobile home and placed on a foundation (posts or blocks) with fixed pipe connections with sewer, water, and other utilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_032__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Mobile home&quot; means a mobile home as defined by RCW
+46.04.302
+, as now or hereafter amended.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_032__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Park model trailer&quot; means a park model trailer as defined in RCW
+46.04.622
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_032__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Used floating home&quot; means a floating home in respect to which tax has been paid under chapter
+82.08
+or
+82.12
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_032__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Used park model trailer&quot; means a park model trailer that has been previously sold at retail and has been subjected to tax under chapter
+82.08
+RCW, or that has been previously used and has been subjected to tax under chapter
+82.12
+RCW, and that has substantially lost its identity as a mobile unit by virtue of its being permanently sited in location and placed on a foundation of either posts or blocks with connections with sewer, water, or other utilities for the operation of installed fixtures and appliances.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_032__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Floating home&quot; means a building on a float used in whole or in part for human habitation as a single-family dwelling, which is not designed for self propulsion by mechanical means or for propulsion by means of wind, and which is on the property tax rolls of the county in which it is located.
+[
+2001 c 282 s 2
+;
+1993 sp.s. c 25 s 504
+;
+1986 c 211 s 1
+;
+1984 c 192 s 1
+;
+1979 ex.s. c 266 s 1
+. Formerly RCW
+28A.45.032
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2001 c 282:
+See notes following RCW
+82.08.032
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s c 25:
+See notes following RCW
+82.04.230
+.
+Findings
+—
+Intent
+—
+1993 sp.s. c 25:
+See note following RCW
+82.45.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

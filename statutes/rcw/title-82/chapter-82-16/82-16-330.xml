@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.330"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.330"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.330/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.330/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.330/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.330/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_330">
+        <num>RCW 82.16.330</num>
+        <heading>Exemptions—Allowances, offset credits, and price ceiling units under chapter  70A.65 RCW</heading>
+        <subsection eId="sec_82_16_330__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to amounts received by a covered entity, opt-in entity, or entity that receives no-cost allowances, as defined in chapter
+70A.65
+RCW, from the receipt, generation, purchase, sale, transfer, or retirement of allowances, offset credits, or price ceiling units under chapter
+70A.65
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_330__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_330__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.
+[
+2024 c 115 s 2
+.]
+NOTES:
+Retroactive application
+—
+Effective date
+—
+2024 c 115:
+See notes following RCW
+82.04.769
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

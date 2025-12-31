@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_080">
+        <num>RCW 82.60.080</num>
+        <heading>Employment and wage determinations</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.60
+&gt;
+Section 82.60.080
+82.60.070
+&lt;&lt; 
+        82.60.080 &gt;&gt;
+82.60.090
+PDF
+RCW
+82.60.080
+Employment and wage determinations.
+The employment security department shall make, and certify to the department of revenue, all determinations of employment and wages as requested by the department under this chapter.
+[
+2000 c 106 s 6
+;
+1985 c 232 s 7
+.]
+NOTES:
+Effective date
+—
+2000 c 106:
+See note following RCW
+82.32.330
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

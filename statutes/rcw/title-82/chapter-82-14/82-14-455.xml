@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.455"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.455"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.455/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.455/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.455/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.455/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_455">
+        <num>RCW 82.14.455</num>
+        <heading>Exemptions—Machinery and equipment used in generating electricity</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.455
+82.14.450
+&lt;&lt; 
+        82.14.455 &gt;&gt;
+82.14.457
+PDF
+RCW
+82.14.455
+Exemptions
+—
+Machinery and equipment used in generating electricity.
+The exemptions in RCW
+82.08.962
+,
+82.12.962
+, *
+82.08.963
+, and *
+82.12.963
+are for the state and local sales and use taxes and include the sales and use taxes imposed under the authority of this chapter.
+[
+2009 c 469 s 105
+.]
+NOTES:
+*Reviser's note:
+RCW
+82.08.963
+and
+82.12.963
+expired June 30, 2018.
+Effective date
+—
+2009 c 469:
+See note following RCW
+82.08.962
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0258"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0258"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0258/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0258/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0258/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0258/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0258">
+        <num>RCW 82.12.0258</num>
+        <heading>Exemptions—Use of personal property previously used in farming and purchased from farmer at auction</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.0258
+82.12.0257
+&lt;&lt; 
+        82.12.0258 &gt;&gt;
+82.12.0259
+PDF
+RCW
+82.12.0258
+Exemptions
+—
+Use of personal property previously used in farming and purchased from farmer at auction.
+The provisions of this chapter do not apply in respect to the use of personal property (including household goods) that has been used in conducting a farm activity, if such property was purchased from a farmer as defined in RCW
+82.04.213
+at an auction sale held or conducted by an auctioneer upon a farm and not otherwise. The exemption in this section does not apply to personal property used by the seller in the production of cannabis, useable cannabis, or cannabis-infused products.
+[
+2022 c 16 s 157
+;
+2014 c 140 s 16
+;
+2009 c 535 s 612
+;
+1980 c 37 s 58
+. Formerly RCW
+82.12.030
+(8).]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

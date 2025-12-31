@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0203"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0203"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0203/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0203/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0203/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0203/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0203">
+        <num>RCW 82.08.0203</num>
+        <heading>Exemptions—Trail grooming services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0203
+82.08.0202
+&lt;&lt; 
+        82.08.0203 &gt;&gt;
+82.08.0205
+PDF
+RCW
+82.08.0203
+Exemptions
+—
+Trail grooming services.
+The tax levied by RCW
+82.08.020
+does not apply to sales of trail grooming services to the state of Washington or nonprofit corporations organized under chapter
+24.03A
+RCW. For the purposes of this section, &quot;trail grooming&quot; means the activity of snow compacting, snow redistribution, or snow removal on state-owned or privately owned trails.
+[
+2021 c 176 s 5248
+;
+2008 c 260 s 1
+.]
+NOTES:
+Effective date
+—
+2021 c 176:
+See note following RCW
+24.03A.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

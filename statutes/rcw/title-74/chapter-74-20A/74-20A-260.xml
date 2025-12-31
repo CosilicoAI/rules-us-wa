@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.260"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.260"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.260/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.260/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.260/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.260/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_260">
+        <num>RCW 74.20A.260</num>
+        <heading>Industrial insurance disability payments subject to collection by office of support enforcement</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.260
+74.20A.250
+&lt;&lt; 
+        74.20A.260 &gt;&gt;
+74.20A.270
+PDF
+RCW
+74.20A.260
+Industrial insurance disability payments subject to collection by office of support enforcement.
+Disability payments made pursuant to Title
+51
+RCW shall be classified as earnings and shall be subject to collection action by the office for support enforcement under this chapter and all other applicable state statutes.
+[
+1987 c 435 s 34
+;
+1973 1st ex.s. c 183 s 24
+.]
+NOTES:
+Effective date
+—
+1987 c 435:
+See RCW
+26.23.900
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

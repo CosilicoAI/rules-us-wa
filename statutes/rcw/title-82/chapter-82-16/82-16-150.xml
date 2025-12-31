@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.150"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_150">
+        <num>RCW 82.16.150</num>
+        <heading>Light and power business—Liability</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.16
+&gt;
+Section 82.16.150
+82.16.130
+&lt;&lt; 
+        82.16.150 &gt;&gt;
+82.16.155
+PDF
+RCW
+82.16.150
+Light and power business
+—
+Liability.
+Owners of a community solar project as defined in RCW
+82.16.110
+(2)(a) (i) and (iii) must agree to hold harmless the light and power business serving the situs of the system, including any employee, for the good faith reliance on the information contained in an application or certification submitted by an administrator or company. In addition, the light and power business and any employee is immune from civil liability for the good faith reliance on any misstatement that may be made in such application or certification. Should a light and power business or employee prevail upon the defense provided in this section, it is entitled to recover expenses and reasonable attorneys' fees incurred in establishing the defense.
+[
+2010 c 202 s 5
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

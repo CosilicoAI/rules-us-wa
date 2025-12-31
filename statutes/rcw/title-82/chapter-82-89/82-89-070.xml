@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.89.070"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.89.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.89.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_89_070">
+        <num>RCW 82.89.070</num>
+        <heading>Reduction of taxes</heading>
+        <subsection eId="sec_82_89_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The recipient of the deferral under this chapter must receive a reduction of the amount of state sales and use tax to be repaid under RCW
+82.89.060
+only as follows:</p>
+          </content>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fifty percent of the state sales and use tax deferred, if the department of labor and industries certifies that the eligible investment project includes procurement from and contracts with women, minority, or veteran-owned businesses; procurement from and contracts with entities that have a history of complying with federal and state wage and hour laws and regulations; apprenticeship utilization; and preferred entry for workers living in the area where the eligible investment project is being constructed. In the event that an eligible investment project is built without one or more of these standards, and a project developer or its designated principal contractor demonstrates that it has made all good faith efforts to meet the standards but was unable to comply due to lack of availability of qualified businesses or local hires, the department of labor and industries may certify that the developer complied with that standard;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Seventy-five percent of the state sales and use tax deferred, if the department of labor and industries certifies that the eligible investment project complies with</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection and compensates workers at prevailing wage rates determined by local collective bargaining as determined by the department of labor and industries; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>One hundred percent of the state sales and use tax deferred, if the department of labor and industries certifies that the eligible investment project is developed under a community workforce agreement or project labor agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department of labor and industries must adopt emergency and permanent rules to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Define and set minimum requirements for all labor standards identified in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_89_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section as well as documentation requirements and a certification process. The certification process and timeline must be designed to prevent undue delay to project development; and
+(ii) Set requirements for all good faith efforts under subsection</p>
+          </content>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. Requirements for all good faith efforts must be designed to maximize the likelihood that the project is completed with the standards, and include:
+(A) Proactive outreach to women, minority, and veteran-owned businesses;
+(B) Advertising in local community publications and publications appropriate to identified firms and with the office of minority and women's business enterprises;
+(C) Participating in community job fairs, conferences, and trade shows; and
+(D) Other measures.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The standards for procurement from and contracts with women and minority-owned businesses under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section must include a requirement that the recipient of the deferral consult with the office of minority and women's business enterprises to develop a plan to meet the standards or good faith efforts. The requirements for good faith efforts must include the office of minority and women's business enterprises review to determine compliance with the plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The labor standard for procurement from and contracts with veteran-owned businesses under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section must include a requirement that the recipient of the deferral consult with the department of veterans affairs to develop a plan to meet the standards or good faith efforts. The requirements for good faith efforts must include the department of veterans affairs review to determine compliance with the plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department of labor and industries must consult with the office of minority and women's business enterprises, the department of veterans affairs, and the Washington apprenticeship and training council in setting standards and good faith efforts.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_89_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing in this section reduces the amount of local sales and use taxes to be repaid under RCW
+82.89.060
+. The recipient must repay all local sales and use taxes due under chapters
+82.08
+, 82.12, 82.14, and
+81.104
+RCW as provided in RCW
+82.89.060
+.
+[
+2022 c 185 s 7
+.]
+NOTES:
+Tax preference performance automatic expiration exception
+—
+2022 c 185:
+&quot;RCW
+82.32.805
+does not apply to this act.&quot; [
+2022 c 185 s 10
+.]
+Tax preference performance statement
+—
+2022 c 185:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in chapter 185, Laws of 2022. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_070__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, improve industry competitiveness, and create jobs.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to build manufacturing capacity for carbon-free electricity and to financially incentivize the use of high labor standards.</p>
+          </content>
+          <subsection eId="sec_82_89_070__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To measure the effectiveness of the tax preference in this act, the joint legislative audit and review committee must evaluate at least the first five years of available data, reporting its findings to the legislature by December 31, 2028. The review must include evaluation of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The average construction wages for eligible projects;</p>
+            </content>
+            <subsection eId="sec_82_89_070__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The number of jobs created in the clean technology sector;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_89_070__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The use of apprenticeship programs, and women, minority, or veteran-owned businesses by eligible projects;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_89_070__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The degree to which the preference encouraged manufacturing and component production for technologies that reduce greenhouse gas emissions;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Whether facilities benefiting from the preference would have been developed without the preference; and
+(vi) Any other relevant metric.</p>
+            </content>
+            <subsection eId="sec_82_89_070__subsec_3__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Any other relevant metric.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_89_070__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The legislature does not intend to change the expiration of the preference based on the findings of the review.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_89_070__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_070__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2022 c 185 s 11
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.320"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.320/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.320/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_320">
+        <num>RCW 82.38.320</num>
+        <heading>Bulk storage of special fuel by international fuel tax agreement licensee—Authorization to pay tax at time of filing tax return—Schedule—Report—Exemptions</heading>
+        <subsection eId="sec_82_38_320__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An international fuel tax agreement licensee who meets the qualifications in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_320__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section may be given special authorization by the department to purchase special fuel delivered into bulk storage without payment of the fuel tax at the time the fuel is purchased. The special authorization applies only to full truck-trailer loads filled at a terminal rack and delivered directly to the bulk storage facilities of the special authorization holder. The licensee must pay fuel tax on the fuel at the time the licensee files their international fuel tax agreement tax return and accompanying schedule with the department. The accompanying schedule must be provided in a form and manner determined by the department and must contain information on purchases and usage of all nondyed special fuel purchased during the reporting period. In addition, by the fifteenth day of the month following the month in which fuel under the special authorization was purchased, the licensee must report to the department, the name of the seller and the number of gallons purchased for each purchase of such fuel, and any other information as the department may require.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_320__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To receive or maintain special authorization under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_320__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the following conditions regarding the international fuel tax agreement licensee must apply:</p>
+          </content>
+          <subsection eId="sec_82_38_320__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>During the period encompassing the four consecutive calendar quarters immediately preceding the fourth calendar quarter of the previous year, the number of gallons consumed outside the state of Washington as reported on the licensee's international fuel tax agreement tax returns must have been equal to at least twenty percent of the nondyed special fuel gallons, including fuel used on-road and off-road, purchased by the licensee in the state of Washington, as reported on the accompanying schedules required under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_320__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section;</p>
+          </content>
+          <subsection eId="sec_82_38_320__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The licensee must have been licensed under the provisions of the international fuel tax agreement during each of the four consecutive calendar quarters immediately preceding the fourth calendar quarter of the previous year; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_320__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The licensee has not violated the reporting requirements of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_320__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Only a licensed fuel supplier or fuel distributor may sell special fuel to a special authorization holder in the manner prescribed by this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_320__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A fuel supplier or distributor who sells fuel under the special authorization provisions of this section is not liable for the fuel tax on the fuel. The fuel supplier or distributor must report such sales, in a manner prescribed by the department, at the time the fuel supplier or distributor submits the monthly tax report.
+[
+2013 c 225 s 131
+;
+2007 c 515 s 32
+;
+1998 c 176 s 83
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Effective date
+—
+2007 c 515:
+See note following RCW
+82.38.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

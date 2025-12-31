@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.070"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_070">
+        <num>RCW 82.60.070</num>
+        <heading>Annual tax performance report by recipients—Assessment of taxes, interest</heading>
+        <subsection eId="sec_82_60_070__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as provided in RCW
+82.60.063
+, if, on the basis of a tax performance report under RCW
+82.32.534
+or other information, the department finds that an investment project is not eligible for tax deferral under this chapter, the amount of deferred taxes outstanding for the project, according to the repayment schedule in RCW
+82.60.060
+, is immediately due. For purposes of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A recipient who must repay deferred taxes under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_070__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section because the department has found that an investment project is not eligible for tax deferral under this chapter is no longer required to file annual tax performance reports under RCW
+82.32.534
+beginning on the date an investment project is used for nonqualifying purposes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_070__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Notwithstanding any other provision of this section or RCW
+82.32.534
+, deferred taxes on the following need not be repaid:</p>
+          </content>
+          <subsection eId="sec_82_60_070__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Machinery and equipment, and sales of or charges made for labor and services, which at the time of purchase would have qualified for exemption under RCW
+82.08.02565
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_070__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Machinery and equipment which at the time of first use would have qualified for exemption under RCW
+82.12.02565
+.
+[
+2023 c 374 s 17
+;
+2017 c 135 s 36
+;
+2010 1st sp.s. c 16 s 9
+;
+2010 c 114 s 139
+;
+2004 c 25 s 7
+;
+1999 c 164 s 303
+;
+1995 1st sp.s. c 3 s 9
+;
+1994 sp.s. c 1 s 5
+;
+1985 c 232 s 6
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Effective date
+—
+2010 1st sp.s. c 16:
+See note following RCW
+82.60.010
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+2004 c 25:
+See note following RCW
+82.60.020
+.
+Findings
+—
+Intent
+—
+Part headings and subheadings not law
+—
+Effective date
+—
+Severability
+—
+1999 c 164:
+See notes following RCW
+43.160.010
+.
+Savings
+—
+1999 c 164 ss 301-303, 305, 306, and 601-603:
+See note following RCW
+82.60.020
+.
+Findings
+—
+Effective date
+—
+1995 1st sp.s. c 3:
+See notes following RCW
+82.08.02565
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

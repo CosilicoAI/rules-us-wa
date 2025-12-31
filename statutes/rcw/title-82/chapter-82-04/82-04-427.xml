@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.427"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.427"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.427/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.427/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.427/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.427/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_427">
+        <num>RCW 82.04.427</num>
+        <heading>Exemptions and credits—Pollution control facilities</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.427
+82.04.4269
+&lt;&lt; 
+        82.04.427 &gt;&gt;
+82.04.4271
+PDF
+RCW
+82.04.427
+Exemptions and credits
+—
+Pollution control facilities.
+See chapter
+82.34
+RCW.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_010">
+        <num>RCW 82.92.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_92_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Affordable homeownership housing&quot; means housing intended for owner occupancy to low or moderate-income households whose monthly housing costs, including utilities other than telephone, do not exceed 30 percent of the household's monthly income.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Affordable rental housing&quot; means housing for very low or low-income households whose monthly housing costs, including utilities other than telephone, do not exceed 30 percent of the household's monthly income.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Applicant&quot; means an owner of underdeveloped property.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;City&quot; means a city with a population of at least 135,000 and not more than 250,000 at the time the city initially establishes the program under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Conditional recipient&quot; means an owner of underdeveloped land granted a conditional certificate of program approval under this chapter, which includes any successor owner of the property.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;County median price&quot; means the most recently published quarterly data of median home prices by the Washington center for real estate research.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Eligible investment project&quot; means an investment project that is located in a city and receiving a conditional certificate of program approval.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Fair market rent&quot; means the estimates of 40th percentile gross rents for standard quality units within counties as published by the federal department of housing and urban development.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Governing authority&quot; means the local legislative authority of a city having jurisdiction over the property for which a deferral may be granted under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Household&quot; means a single person, family, or unrelated persons living together.</p>
+          </content>
+          <subsection eId="sec_82_92_010__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; means the date that a building permit is issued under the building code adopted under RCW
+19.27.031
+for construction of the qualified building, if the underlying ownership of the building vests exclusively with the person receiving the economic benefit of the deferral.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_010__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of the building.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_010__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the investment project is a phased project, &quot;initiation of construction&quot; applies separately to each phase.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Investment project&quot; means an investment in multifamily housing, including labor, services, and materials incorporated in the planning, installation, and construction of the project. &quot;Investment project&quot; includes investment in related facilities such as playgrounds and sidewalks as well as facilities used for business use for mixed-use development.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Low-income household&quot; means a single person, family, or unrelated persons living together whose adjusted income is more than 50 percent but is at or below 80 percent of the median family income adjusted for family size, for the county, city, or metropolitan statistical area, where the project is located, as reported by the United States department of housing and urban development.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Moderate-income household&quot; means a single person, family, or unrelated persons living together whose adjusted income is more than 80 percent but is at or below 115 percent of the median family income adjusted for family size, for the county, city, or metropolitan statistical area, where the project is located, as reported by the United States department of housing and urban development.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Multifamily housing&quot; means a building or a group of buildings having two or more dwelling units not designed or used as transient accommodations and not including hotels and motels. Multifamily units may result from new construction or rehabilitation or conversion of vacant, underutilized, or substandard buildings to multifamily housing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Owner&quot; means the property owner of record.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Underdeveloped property&quot; means land used as a surface parking lot for parking of motor vehicles off the street or highway, that is open to public use with or without charge, as of June 9, 2022.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_010__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Very low-income household&quot; means a single person, family, or unrelated persons living together whose adjusted income is at or below 50 percent of the median family income adjusted for family size, for the county, city, or metropolitan statistical area, where the project is located, as reported by the United States department of housing and urban development.
+[
+2022 c 241 s 3
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

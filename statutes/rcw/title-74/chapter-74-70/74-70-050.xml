@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.70.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.70.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.70.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_70_050">
+        <num>RCW 74.70.050</num>
+        <heading>Quality assurance fee—Calculation—Assessment—Interest. (Contingent expiration date.)</heading>
+        <subsection eId="sec_74_70_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning July 1, 2021, and annually thereafter, the authority shall assess each ambulance transport provider a quality assurance fee. Each ambulance transport provider must pay the quality assurance fee on a quarterly basis. The quarterly quality assurance fee payment shall be based on the annual quality assurance fee rate for the applicable state fiscal year multiplied by the number of emergency ambulance transports provided by the ambulance transport provider in the second quarter preceding the state fiscal quarter for which the fee is assessed.</p>
+          </content>
+          <subsection eId="sec_74_70_050__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the state fiscal year beginning July 1, 2021, the annual quality assurance fee rate shall be calculated by multiplying the projected total annual gross receipts for all ambulance transport providers by five and one-half percent, which resulting product shall be divided by the projected total annual emergency ambulance transports by all ambulance transport providers for the state fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_050__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For state fiscal years beginning July 1, 2022, and continuing each state fiscal year thereafter, the quality assurance fee rate shall be calculated by a ratio, the numerator of which shall be the product of the projected aggregate fee schedule amount, and the denominator of which shall be ninety percent of the projected total annual emergency ambulance transports by all ambulance transport providers.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_050__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If, during a state fiscal year, the actual or projected available fee amount exceeds or is less than the actual or projected aggregate fee schedule amount by more than one percent, the authority shall adjust the annual quality assurance fee rate so that the available fee amount for the state fiscal year is approximately equal to the aggregate fee schedule amount for the state fiscal year. The available fee amount for a state fiscal year shall be considered to equal the aggregate fee schedule amount for the state fiscal year if the difference between the available fee amount for the state fiscal year and the aggregate fee schedule amount for the state fiscal year constitutes less than one percent of the aggregate fee schedule amount for the state fiscal year.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_70_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For each state fiscal year for which the quality assurance fee is assessed, the authority shall send each ambulance transport provider an assessment notice no later than thirty days prior to the beginning of the applicable state fiscal quarter. For each state fiscal quarter for which the quality assurance fee is assessed, the authority shall send to each ambulance transport provider an invoice of the quarterly quality assurance fee payment due for the quarter no later than thirty days before the payment is due. For each state fiscal quarter for which the quality assurance fee is assessed, the ambulance transport provider shall remit payment to the authority by the date established by the authority, which shall be no earlier than fifteen days after the beginning of the applicable state fiscal quarter.</p>
+          </content>
+          <subsection eId="sec_74_70_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Interest shall be assessed on quality assurance fees not paid on the date due at the rate and in the manner provided in RCW
+43.20B.695
+. Interest shall be deposited in the ambulance transport fund established in RCW
+74.70.030
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the event that any fee payment is more than sixty days overdue, the authority may deduct the unpaid fee and interest owed from any medicaid reimbursement payments owed to the ambulance transport provider until the full amount of the fee, interest, and any penalties assessed under this chapter are recovered. Any deduction made pursuant to this subsection shall be made only after the authority gives the ambulance transport provider written notification. Any deduction made pursuant to this subsection may be deducted over a period of time that takes into account the financial condition of the ambulance transport provider.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_050__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In the event that any fee payment is more than sixty days overdue, a penalty equal to the interest charge described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection shall be assessed and due for each month for which the payment is not received after sixty days. Any funds resulting from a penalty imposed pursuant to this subsection shall be deposited into the ambulance transport fund established in RCW
+74.70.030
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_050__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The authority may waive a portion or all of either the interest or penalties, or both, assessed under this chapter in the event the authority determines, in its sole discretion, that the ambulance transport provider has demonstrated that imposition of the full amount of the quality assurance fee pursuant to the timelines applicable under this chapter has a high likelihood of creating an undue financial hardship for the provider. Waiver of some or all of the interest or penalties pursuant to this subsection shall be conditioned on the ambulance transport provider's agreement to make fee payments on an alternative schedule developed by the authority.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_70_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The authority shall accept an ambulance transport provider's payment even if the payment is submitted in a rate year subsequent to the rate year in which the fee was assessed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_70_050__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>In the event of a merger, acquisition, or similar transaction involving an ambulance transport provider that has outstanding quality assurance fee payment obligations pursuant to this chapter, including any interest and penalty amounts owed, the resultant or successor ambulance transport provider shall be responsible for paying to the authority the full amount of outstanding quality assurance fee payments, including any applicable interest and penalties, attributable to the ambulance transport provider for which it was assessed, upon the effective date of such transaction. An entity considering a merger, acquisition, or similar transaction involving an ambulance transport provider may submit a request to the authority to ascertain the outstanding quality assurance fee payment obligations of the ambulance transport provider pursuant to this chapter as of the date of the authority's response to that request.
+[
+2020 c 354 s 5
+.]
+NOTES:
+Contingent expiration date
+—
+2020 c 354:
+See RCW
+74.70.100</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

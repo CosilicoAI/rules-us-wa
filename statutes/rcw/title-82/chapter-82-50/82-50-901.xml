@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.901"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.901"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.901/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.901/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.901/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.901/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_901">
+        <num>RCW 82.50.901</num>
+        <heading>Effective dates—Operative dates—Expiration dates—1971 ex.s. c 299 ss 35-76</heading>
+        <subsection eId="sec_82_50_901__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 35 through 52 and section 54 of this 1971 amendatory act shall take effect on July 1, 1971, except that the provisions of chapter
+82.50
+RCW imposing a tax on campers shall not take effect until January 1, 1972.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_901__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 36 through 50 of this 1971 amendatory act shall be operative and in effect only until and including December 31, 1972, at which time, they, in their entirety, shall expire without any further action of the legislature. The expiration of such sections shall not be construed as affecting any existing right acquired under the expired statutes, nor as affecting any proceeding instituted thereunder, nor any rule, regulation, or order promulgated thereunder, nor any administrative action taken thereunder.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_901__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Sections 55 through 76 of this 1971 amendatory act shall take effect on January 1, 1973 without any further action of the legislature.
+[
+1971 ex.s. c 299 s 53
+.]
+NOTES:
+Reviser's note:
+See note following RCW
+82.50.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

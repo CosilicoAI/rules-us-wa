@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_010">
+        <num>RCW 74.18.010</num>
+        <heading>Intent</heading>
+        <subsection eId="sec_74_18_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Thousands of citizens in the state have disabilities, including blindness or visual impairment, that prevent them from using conventional print material.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Governmental and nonprofit organizations provide access to reading material by specialized means, including books and magazines prepared in braille, audio, and large-type formats.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Access to time-sensitive or local or regional publications, or both, is not feasible to produce through these traditional means and formats.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Lack of direct and prompt access to information included in newspapers, magazines, newsletters, schedules, announcements, and other time-sensitive materials limits educational opportunities, literacy, and full participation in society by people with print disabilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Creation and storage of information by computer results in electronic files used for publishing and distribution.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The use of high-speed computer and telecommunications technology combined with customized software provides a practical and cost-effective means to convert electronic text-based information, including daily newspapers, into synthetic speech suitable for statewide distribution by telephone.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Telephonic distribution of time-sensitive information, including daily newspapers, will enhance the state's current efforts to meet the needs of blind and disabled citizens for access to information which is otherwise available in print, thereby reducing isolation and supporting full integration and equal access for such individuals.&quot; [
+2003 c 409 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

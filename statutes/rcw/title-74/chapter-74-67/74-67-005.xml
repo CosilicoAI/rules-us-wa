@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.67.005"/>
+          <FRBRuri value="/us-wa/act/rcw/74.67.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.67.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.67.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.67.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.67.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_67_005">
+        <num>RCW 74.67.005</num>
+        <heading>Finding—Intent</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.67
+&gt;
+Section 74.67.005
+Beginning of Chapter
+&lt;&lt; 
+        74.67.005 &gt;&gt;
+74.67.010
+PDF
+RCW
+74.67.005
+Finding
+—
+Intent.
+The legislature finds that medicaid provider fraud and the abuse and neglect of persons in nursing facilities, adult family homes, and long-term care services present a serious risk of harm to the people of the state of Washington in general and to vulnerable adults in particular. The legislature intends with this chapter to enable the medicaid fraud control unit within the office of the attorney general to achieve its limited but vital mission to detect, deter, and prosecute the specialized areas of medicaid fraud, abuse, and neglect in Washington's medicaid system. This jurisdiction will also facilitate the medicaid fraud control unit's capacity to fulfill its investigative and prosecutorial obligations under the federal grant, 42 U.S.C. Sec. 1396b(q), to ensure that the federal grant funding requirements for Washington's medicaid program are met. Failure to meet these federal program integrity standards could jeopardize the federal funding for Washington's medicaid program. Furthermore, the legislature intends by this chapter that the medicaid fraud control unit will fully coordinate its efforts with county and local prosecutors and law enforcement to maximize effectiveness and promote efficiency.
+[
+2018 c 238 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

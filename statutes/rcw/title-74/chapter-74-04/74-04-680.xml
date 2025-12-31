@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.680"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.680"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.680/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.680/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.680/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.680/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_680">
+        <num>RCW 74.04.680</num>
+        <heading>Cash benefits in final month of eligibility</heading>
+        <subsection eId="sec_74_04_680__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To assist with family-related expenses, households with children receiving food benefits under this title, who are not simultaneously receiving temporary assistance for needy families, are eligible to receive a one-time state-funded cash benefit in the final month of eligibility when the household's food benefits terminate due to exceeding the gross income limit or when the household requests voluntary closure.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_680__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For households receiving a cash benefit under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_680__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the department shall provide transitional food assistance for a period of five months when eligibility for food benefits ceases due to exceeding the gross income limit or when the household requests voluntary closure.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_680__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If necessary, the department shall extend the household's food benefit certification until the end of the transition period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_680__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The amount of the cash benefit issued by the department under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_680__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section must be set in accordance with available funds appropriated for this purpose.
+[
+2021 c 9 s 2
+.]
+NOTES:
+Effective date
+—
+2021 c 9 s 2:
+&quot;Section 2 of this act takes effect July 1, 2022.&quot; [
+2021 c 9 s 6
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

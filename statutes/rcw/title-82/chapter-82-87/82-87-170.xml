@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.170"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_170">
+        <num>RCW 82.87.170</num>
+        <heading>Brokers and barter exchanges—Submission of form 1099-B—Penalty—Allocation to state of long-term capital gains. (&lt;i&gt;Effective January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_87_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, brokers and barter exchanges must provide all copies of United States internal revenue service form 1099-B, or any successor form if so renamed, electronically to the department for sales or exchanges of long-term capital assets for which:</p>
+          </content>
+          <subsection eId="sec_82_87_170__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The long-term capital gain from such sales or exchanges is allocated to this state under RCW
+82.87.100</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The broker or barter exchange is the payor.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_170__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Copies of the form under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section must be provided to the department no later than 90 days of filing the form with the internal revenue service and in a manner prescribed by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_170__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Brokers and barter exchanges that fail to comply with the requirement under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, or willfully file a false or fraudulent copy of United States internal revenue service form 1099-B, are subject to a penalty of $50 for each such failure or each such filing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_170__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A rebuttable presumption exists that the long-term capital gains from a sale or exchange is allocated to this state under any one of the following circumstances:</p>
+          </content>
+          <subsection eId="sec_82_87_170__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The payee's last known place of domicile to the payor is located in this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The payee's address on file with the broker or barter exchange is located in this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The payee's address on their United States internal revenue service form 1099-B, or any successor form if so renamed, is located in this state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The payee's account with the broker or barter exchange was opened in this state; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The payee makes use of a broker or barter exchanges' physical place of business in this state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_170__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For the purposes of this section, the following definitions apply unless the context clearly indicates otherwise.</p>
+          </content>
+          <subsection eId="sec_82_87_170__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Broker&quot; and &quot;barter exchange&quot; have the same meaning as provided by Title 26 U.S.C. Sec. 6045 of the internal revenue code.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Long-term capital asset&quot; has the same meaning as provided under RCW
+82.87.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Payee&quot; means the person for which a broker or barter exchange files a United States internal revenue service form 1099-B.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Payor&quot; means a broker or barter exchange that files a United States internal revenue service form 1099-B for a payee.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_170__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Resident&quot; has the same meaning as provided under RCW
+82.87.020
+.
+[
+2025 c 409 s 15
+.]
+NOTES:
+Effective date
+—
+2025 c 409 ss 3, 4, 8, 10, and 15:
+See note following RCW
+82.87.160
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

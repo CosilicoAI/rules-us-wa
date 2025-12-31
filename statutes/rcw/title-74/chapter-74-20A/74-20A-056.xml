@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.056"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.056"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.056/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.056/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.056/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.056/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_056">
+        <num>RCW 74.20A.056</num>
+        <heading>Notice and finding of financial responsibility pursuant to an acknowledgment of parentage—Procedure for contesting—Rules. (&lt;i&gt;Effective until April 1, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_74_20A_056__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Acknowledgments of parentage are subject to requirements of chapters
+26.26A
+, 26.26B, and
+70.58A
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_056__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department and the department of health may adopt rules to implement the requirements under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_056__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department has rule-making authority to enact rules consistent with 42 U.S.C. Sec. 652</p>
+          </content>
+          <subsection eId="sec_74_20A_056__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>and 42 U.S.C. Sec. 666(a)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_056__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>as amended by section 7307 of the deficit reduction act of 2005. Additionally, the department has rule-making authority to implement regulations required under 45 C.F.R. Parts 302, 303, 304, 305, and 308.
+[
+2020 c 227 s 11
+. Prior:
+2019 c 148 s 38
+;
+2019 c 46 s 5053
+;
+2018 c 150 s 108
+;
+2009 c 476 s 8
+;
+2007 c 143 s 9
+; prior:
+2002 c 302 s 707
+;
+2002 c 199 s 6
+;
+1997 c 58 s 941
+; prior:
+1994 c 230 s 19
+;
+1994 c 146 s 5
+;
+1989 c 55 s 3
+.]
+NOTES:
+Effective date
+—
+2020 c 227 ss 3-13:
+See note following RCW
+26.09.320
+.
+Findings
+—
+Intent
+—
+2020 c 227:
+See note following RCW
+26.09.320
+.
+Rule-making authority
+—
+2020 c 227:
+See RCW
+26.09.916
+.
+Effective date
+—
+Rule-making authority
+—
+2019 c 148:
+See RCW
+70.58A.901
+and
+70.58A.902
+.
+Effective date
+—
+2009 c 476:
+See note following RCW
+26.09.105
+.
+Severability
+—
+2007 c 143:
+See note following RCW
+26.18.170
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+PDF
+RCW
+74.20A.056
+Notice and finding of financial responsibility pursuant to an acknowledgment of parentage
+—
+Procedure for contesting
+—
+Rules.
+(Effective April 1, 2027.)</p>
+          </content>
+          <subsection eId="sec_74_20A_056__subsec_19__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If an acknowledged parent has signed an acknowledgment of parentage that has been filed with the state registrar of vital statistics:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_056__subsec_19__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The division of child support may serve a notice and finding of financial responsibility under RCW
+74.20A.055
+based on the acknowledgment. The division of child support shall attach a copy of the acknowledgment or certification of the birth record information advising of the existence of a filed acknowledgment of parentage to the notice;</p>
+            </content>
+            <subsection eId="sec_74_20A_056__subsec_19__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The notice shall include a statement that the acknowledged parent or any other signatory may commence a proceeding in court to rescind or challenge the acknowledgment or denial of parentage under RCW
+26.26A.235
+and
+26.26A.240
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_056__subsec_19__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A statement that the person required to pay support, and the payee under the order or the person entitled to receive support who is a parent of the child or children covered by the order, are responsible for providing health care coverage for the child if accessible coverage that can be extended to cover the child is or becomes available to the obligated person through employment or is union-related as provided under RCW
+26.09.105
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_056__subsec_19__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The party commencing the action to rescind or challenge the acknowledgment or denial must serve notice on the division of child support and the office of the prosecuting attorney in the county in which the proceeding is commenced. Commencement of a proceeding to rescind or challenge the acknowledgment or denial stays the establishment of the notice and finding of financial responsibility, if the notice has not yet become a final order;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_056__subsec_19__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>A statement that the support obligation under the order may be abated to $10 per month per order as provided in RCW
+26.09.320
+if the person required to pay support is confined in a jail, prison, or correctional facility for at least six months, or is serving a sentence greater than six months in a jail, prison, or correctional facility; and
+(vi) A statement that the support obligation under the order may be abated to $50 per month per child as provided in RCW
+26.09.345
+if the person required to pay support is undergoing court-ordered behavioral health treatment issued under chapter
+71.05
+RCW.</p>
+            </content>
+            <subsection eId="sec_74_20A_056__subsec_19__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>A statement that the support obligation under the order may be abated to $50 per month per child as provided in RCW
+26.09.345
+if the person required to pay support is undergoing court-ordered behavioral health treatment issued under chapter
+71.05
+RCW.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_056__subsec_19__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If neither party to the notice files an application for an adjudicative proceeding or the signatories to the acknowledgment or denial do not commence a proceeding to rescind or challenge the acknowledgment of parentage, the amount of support stated in the notice and finding of financial responsibility becomes final, subject only to a subsequent determination under RCW
+26.26A.400
+through
+26.26A.515
+that the parent-child relationship does not exist. The division of child support does not refund nor return any amounts collected under a notice that becomes final under this section or RCW
+74.20A.055
+, even if a court later determines that the acknowledgment is void.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_056__subsec_19__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An acknowledged parent or other party to the notice who objects to the amount of support requested in the notice may file an application for an adjudicative proceeding up to 20 days after the date the notice was served. An application for an adjudicative proceeding may be filed within one year of service of the notice and finding of parental responsibility without the necessity for a showing of good cause or upon a showing of good cause thereafter. An adjudicative proceeding under this section shall be pursuant to RCW
+74.20A.055
+. The only issues shall be the amount of the accrued debt and the amount of the current and future support obligation.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_056__subsec_19__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the application for an adjudicative proceeding is filed within 20 days of service of the notice, collection action shall be stayed pending a final decision by the department.</p>
+            </content>
+            <subsection eId="sec_74_20A_056__subsec_19__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the application for an adjudicative proceeding is not filed within 20 days of the service of the notice, any amounts collected under the notice shall be neither refunded nor returned if the person required to pay support under the notice is later found not to be required to pay support.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_056__subsec_19__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If neither the acknowledged parent nor the person entitled to receive support requests an adjudicative proceeding, or if no timely action is brought to rescind or challenge the acknowledgment or denial after service of the notice, the notice of financial responsibility becomes final for all intents and purposes and may be overturned only by a subsequent superior court order entered under RCW
+26.26A.400
+through
+26.26A.515
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_056__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Acknowledgments of parentage are subject to requirements of chapters
+26.26A
+, 26.26B, and
+70.58A
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_056__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department and the department of health may adopt rules to implement the requirements under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_056__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department has rule-making authority to enact rules consistent with 42 U.S.C. Sec. 652</p>
+          </content>
+          <subsection eId="sec_74_20A_056__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>and 42 U.S.C. Sec. 666(a)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_056__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>as amended by section 7307 of the deficit reduction act of 2005. Additionally, the department has rule-making authority to implement regulations required under 45 C.F.R. Parts 302, 303, 304, 305, and 308.
+[
+2025 c 272 s 11
+;
+2020 c 227 s 11
+. Prior:
+2019 c 148 s 38
+;
+2019 c 46 s 5053
+;
+2018 c 150 s 108
+;
+2009 c 476 s 8
+;
+2007 c 143 s 9
+; prior:
+2002 c 302 s 707
+;
+2002 c 199 s 6
+;
+1997 c 58 s 941
+; prior:
+1994 c 230 s 19
+;
+1994 c 146 s 5
+;
+1989 c 55 s 3
+.]
+NOTES:
+Effective date
+—
+2025 c 272 ss 4-12:
+See note following RCW
+26.09.345
+.
+Rule-making authority
+—
+2025 c 272:
+See note following RCW
+26.09.345
+.
+Effective date
+—
+2020 c 227 ss 3-13:
+See note following RCW
+26.09.320
+.
+Findings
+—
+Intent
+—
+2020 c 227:
+See note following RCW
+26.09.320
+.
+Rule-making authority
+—
+2020 c 227:
+See RCW
+26.09.916
+.
+Effective date
+—
+Rule-making authority
+—
+2019 c 148:
+See RCW
+70.58A.901
+and
+70.58A.902
+.
+Effective date
+—
+2009 c 476:
+See note following RCW
+26.09.105
+.
+Severability
+—
+2007 c 143:
+See note following RCW
+26.18.170
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

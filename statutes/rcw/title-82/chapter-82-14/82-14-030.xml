@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_030">
+        <num>RCW 82.14.030</num>
+        <heading>Sales and use taxes authorized—Additional taxes authorized—Maximum rates</heading>
+        <subsection eId="sec_82_14_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The governing body of any county or city, while not required by legislative mandate to do so, may, by resolution or ordinance for the purposes authorized by this chapter, impose a sales and use tax in accordance with the terms of this chapter. Such tax must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW, upon the occurrence of any taxable event within the county or city as the case may be. This sales and use tax does not apply to natural or manufactured gas, except for natural gas that is used as a transportation fuel as defined in RCW
+82.16.310
+and is taxable by the state under chapters
+82.08
+and
+82.12
+RCW. The rate of such tax imposed by a county is five-tenths of one percent of the selling price (in the case of a sales tax) or value of the article used (in the case of a use tax). The rate of such tax imposed by a city may not exceed five-tenths of one percent of the selling price (in the case of a sales tax) or value of the article used (in the case of a use tax). However, in the event a county imposes a sales and use tax under this subsection, the rate of such tax imposed under this subsection by any city therein may not exceed four hundred and twenty-five one-thousandths of one percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In addition to the tax authorized in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the governing body of any county or city may by resolution or ordinance impose an additional sales and use tax in accordance with the terms of this chapter. Such additional tax must be collected upon the same taxable events upon which the tax imposed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section is imposed. The rate of such additional tax imposed by a county is up to five-tenths of one percent of the selling price (in the case of a sales tax) or value of the article used (in the case of a use tax). The rate of such additional tax imposed by a city is up to five-tenths of one percent of the selling price (in the case of a sales tax) or value of the article used (in the case of a use tax). However, in the event a county imposes a sales and use tax under the authority of this subsection at a rate equal to or greater than the rate imposed under the authority of this subsection by a city within the county, the county must receive fifteen percent of the city tax. In the event that the county imposes a sales and use tax under the authority of this subsection at a rate which is less than the rate imposed under this subsection by a city within the county, the county must receive that amount of revenues from the city tax equal to fifteen percent of the rate of tax imposed by the county under the authority of this subsection. The authority to impose a tax under this subsection is intended in part to compensate local government for any losses from the phaseout of the property tax on business inventories.
+[
+2014 c 216 s 307
+;
+2008 c 86 s 101
+;
+1989 c 384 s 6
+;
+1982 1st ex.s. c 49 s 17
+;
+1970 ex.s. c 94 s 4
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Severability
+—
+2008 c 86:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2008 c 86 s 601
+.]
+Savings
+—
+2008 c 86:
+&quot;This act does not affect any existing right acquired or liability or obligation incurred under the sections amended or repealed in this act or under any rule or order adopted under those sections, nor does it affect any proceeding instituted under those sec</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.870"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.870"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.870/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.870/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.870/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.870/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_870">
+        <num>RCW 82.32.870</num>
+        <heading>Vapor products tax deposits</heading>
+        <subsection eId="sec_82_32_870__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>By October 15, 2020, and by each October 15th thereafter, the department must estimate any increase in state general fund revenue collections for the immediately preceding fiscal year resulting from the taxes imposed in chapter 445, Laws of 2019. The department must promptly notify the state treasurer of these estimated amounts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_870__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Beginning November 1, 2020, and by each November 1st thereafter, the state treasurer must transfer from the general fund the estimated amount determined by the department under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_870__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section for the immediately preceding fiscal year as follows:</p>
+          </content>
+          <subsection eId="sec_82_32_870__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fifty percent into the Andy Hill cancer research endowment fund match transfer account created in RCW
+43.348.080
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_870__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Fifty percent into the foundational public health services account created in RCW
+82.25.015
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_870__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may not make any adjustments to an estimate under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_870__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section after the state treasurer makes the corresponding distribution under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_870__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section based on the department's estimate.
+[
+2019 c 445 s 401
+.]
+NOTES:
+Conflict with federal requirements
+—
+Effective date
+—
+2019 c 445:
+See RCW
+82.25.900
+and
+82.25.901
+.
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

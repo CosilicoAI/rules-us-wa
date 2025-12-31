@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.290"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_290">
+        <num>RCW 74.42.290</num>
+        <heading>Meal intervals—Food handling—Utensils—Disposal</heading>
+        <subsection eId="sec_74_42_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The facility shall serve at least three meals, or their equivalent, daily at regular times with not more than fourteen hours between a substantial evening meal and breakfast on the following day and not less than ten hours between breakfast and a substantial evening meal on the same day.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Food shall be procured, stored, transported, and prepared under sanitary conditions in compliance with state and local regulations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Food of an appropriate quantity at an appropriate temperature shall be served in a form consistent with the needs of the resident;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Special eating equipment and utensils shall be provided for residents who need them; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_290__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Food served and uneaten shall be discarded.
+[
+1979 ex.s. c 211 s 29
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,359 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.045"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.045"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.045/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.045/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.045/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.045/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_045">
+        <num>RCW 82.32.045</num>
+        <heading>Taxes—When due and payable—Reporting periods—Verified annual returns—Relief from filing requirements</heading>
+        <subsection eId="sec_82_32_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this chapter and subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section, payments of the taxes imposed under chapters
+82.04
+, 82.08, 82.12, 82.14, 82.16, and
+82.27
+RCW, along with reports and returns on forms prescribed by the department, are due monthly within 25 days after the end of the month in which the taxable activities occur.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department of revenue may relieve any taxpayer or class of taxpayers from the obligation of remitting monthly and may require the return to cover other longer reporting periods, but in no event may returns be filed for a period greater than one year. Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, for these taxpayers, tax payments are due on or before the last day of the month next succeeding the end of the period covered by the return.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For annual filers, tax payments, along with reports and returns on forms prescribed by the department, are due on or before April 15th of the year immediately following the end of the period covered by the return.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department of revenue may also require verified annual returns from any taxpayer, setting forth such additional information as it may deem necessary to correctly determine tax liability.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Notwithstanding subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the department may relieve any person of the requirement to file returns if the following conditions are met:</p>
+          </content>
+          <subsection eId="sec_82_32_045__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The person's value of products, gross proceeds of sales, or gross income of the business, from all business activities taxable under chapter
+82.04
+RCW, is less than $125,000 per year;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_045__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The person's gross income of the business from all activities taxable under chapter
+82.16
+RCW is less than $24,000 per year; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_045__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The person is not required to collect or pay to the department of revenue any other tax or fee which the department is authorized to collect.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_045__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Taxes imposed under chapter
+82.08
+or
+82.12
+RCW on taxable events that occur beginning January 1, 2019, through June 30, 2019, and payable by a consumer directly to the department are due, on returns prescribed by the department, by July 25, 2019.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_045__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>does not apply to the reporting and payment of taxes imposed under chapters
+82.08
+and
+82.12
+RCW:</p>
+          </content>
+          <subsection eId="sec_82_32_045__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>On the retail sale or use of motor vehicles, vessels, or aircraft; or</p>
+            </content>
+            <subsection eId="sec_82_32_045__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>By consumers who are engaged in business, unless the department has relieved the consumer of the requirement to file returns pursuant to subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section.
+[
+2023 c 374 s 12
+;
+2022 c 295 s 2
+. Prior:
+2019 c 63 s 2
+;
+2019 c 8 s 302
+;
+2010 1st sp.s. c 23 s 1103
+;
+2006 c 256 s 1
+;
+2003 1st sp.s. c 13 s 8
+;
+1999 c 357 s 1
+;
+1996 c 111 s 3
+;
+1983 2nd ex.s. c 3 s 63
+;
+1982 1st ex.s. c 35 s 27
+;
+1981 c 172 s 7
+;
+1981 c 7 s 1
+.]
+NOTES:
+Application
+—
+2022 c 295:
+See note following RCW
+82.04.4451
+.
+Findings
+—
+Intent
+—
+2019 c 63:
+&quot;The legislature finds that the filing of an annual excise tax return by January 31st can be a hardship for those many taxpayers, including self-employed taxpayers, who must wait to receive a 1099 form. Therefore, some state taxpayers do not receive the information they need to accurately file their taxes until on or shortly after the current state filing deadline. The legislature finds that it is an unnecessary burden on taxpayers, and an inefficient use of state time and resources, to require them to file their return under the current timeline using the best information available to them and then subsequently amend their return at a later date. The legislature intends to address this by extending the deadline for taxpayers who qualify to be annual filers.&quot; [
+2019 c 63 s 1
+.]
+Effective date
+—
+2019 c 8 ss 105, 301, 302, 401, and 704:
+See note following RCW
+82.08.010
+.
+Existing rights and liability
+—
+Retroactive application
+—
+2019 c 8:
+See notes following RCW
+82.02.250
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.32.655
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective dates
+—
+2006 c 256:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 4 of this act take effect August 1, 2006.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 6 and 7 of this act take effect July 1, 2006.&quot; [
+2006 c 256 s 9
+.]
+Application
+—
+2006 c 256:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 3 of this act apply to returns due after July 31, 2006.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 4 of this act applies to payments due after July 31, 2006.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Section 6 of this act only applies to assessments originally issued after June 30, 2006.&quot; [
+2006 c 256 s 7
+.]
+Savings
+—
+2006 c 256:
+&quot;This act does not affect any existing right acquired or liability or obligation incurred under the sections amended in this act or under any rule or order adopted under those sections, nor does it affect any proceeding instituted under those sections.&quot; [
+2006 c 256 s 8
+.]
+Effective dates
+—
+2003 1st sp.s. c 13:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 8 through 10 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect August 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 11 through 16 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_045__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Sections 1 through 7 of this act take effect January 1, 2004.&quot; [
+2003 1st sp.s. c 13 s 17
+.]
+Intent
+—
+1999 c 357:
+&quot;It is the intent of the legislature to allow the department of revenue to increase its ability to provide timely and cost-effective service to taxpayers.&quot; [
+1999 c 357 s 2
+.]
+Effective date
+—
+1999 c 357:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 1999.&quot; [
+1999 c 357 s 4
+.]
+Findings
+—
+Purpose
+—
+Effective date
+—
+1996 c 111:
+See notes following RCW
+82.32.030
+.
+Construction
+—
+Severability
+—
+Effective dates
+—
+1983 2nd ex.s. c 3:
+See notes following RCW
+82.04.255
+.
+Severability
+—
+Effective dates
+—
+1982 1st ex.s. c 35:
+See notes following RCW
+82.08.020
+.
+Effective dates
+—
+1981 c 172:
+See note following RCW
+82.04.240
+.
+Effective date
+—
+1981 c 7:
+&quot;This act shall take effect October 1, 1981.&quot; [
+1981 c 172 s 9
+;
+1981 c 7 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

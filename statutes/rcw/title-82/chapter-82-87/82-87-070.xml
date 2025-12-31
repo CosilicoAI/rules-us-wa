@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.070"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_070">
+        <num>RCW 82.87.070</num>
+        <heading>Qualified family-owned small business deduction</heading>
+        <subsection eId="sec_82_87_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax under this chapter for a taxable year, a taxpayer may deduct from his or her Washington capital gains the amount of adjusted capital gain derived in the taxable year from the sale of substantially all of the fair market value of the assets of, or the transfer of substantially all of the taxpayer's interest in, a qualified family-owned small business, to the extent that such adjusted capital gain would otherwise be included in the taxpayer's Washington capital gains.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_070__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_87_070__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Assets&quot; means real property and personal property, including tangible personal property and intangible property.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_070__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Family&quot; means the same as &quot;member of the family&quot; in RCW
+83.100.046
+.
+(c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_070__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Materially participated&quot; means an individual was involved in the operation of a business on a basis that is regular, continuous, and substantial.</p>
+            </content>
+            <subsection eId="sec_82_87_070__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The term &quot;materially participated&quot; must be interpreted consistently with the applicable treasury regulations for Title 26 U.S.C. Sec. 469 of the internal revenue code, to the extent that such interpretation does not conflict with any provision of this section.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_070__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Qualified family-owned small business&quot; means a business:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_070__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>In which the taxpayer held a qualifying interest for at least five years immediately preceding the sale or transfer described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. For the purposes of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, unless such sale or transfer was to a qualified heir; and
+(iii) That had worldwide gross revenue of $10,000,000 or less in the 12-month period immediately preceding the sale or transfer described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. The worldwide gross revenue amount under this subsection</p>
+          </content>
+          <subsection eId="sec_82_87_070__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Qualified heir&quot; means a member of the taxpayer's family.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_070__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Qualifying interest&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_070__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An interest as a proprietor in a business carried on as a sole proprietorship; or</p>
+            </content>
+            <subsection eId="sec_82_87_070__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An interest in a business if at least:
+(A) Fifty percent of the business is owned, directly or indirectly, by any combination of the taxpayer or members of the taxpayer's family, or both;
+(B) Thirty percent of the business is owned, directly or indirectly, by any combination of the taxpayer or members of the taxpayer's family, or both, and at least:
+(I) Seventy percent of the business is owned, directly or indirectly, by members of two families; or
+(II) Ninety percent of the business is owned, directly or indirectly, by members of three families.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_070__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Substantially all&quot; means at least 90 percent.
+[
+2025 c 409 s 6
+;
+2021 c 196 s 8
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

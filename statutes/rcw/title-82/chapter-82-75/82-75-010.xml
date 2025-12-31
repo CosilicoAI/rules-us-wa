@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.75.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.75.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.75.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_75_010">
+        <num>RCW 82.75.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_75_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Applicant&quot; means a person applying for a tax deferral under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Biotechnology&quot; means a technology based on the science of biology, microbiology, molecular biology, cellular biology, biochemistry, or biophysics, or any combination of these, and includes, but is not limited to, recombinant DNA techniques, genetics and genetic engineering, cell fusion techniques, and new bioprocesses, using living organisms, or parts of organisms.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Biotechnology product&quot; means any virus, therapeutic serum, antibody, protein, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or analogous product produced through the application of biotechnology that is used in the prevention, treatment, or cure of diseases or injuries to humans.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of revenue.</p>
+          </content>
+          <subsection eId="sec_82_75_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Eligible investment project&quot; means an investment in qualified buildings or qualified machinery and equipment, including labor and services rendered in the planning, installation, and construction of the project.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The lessor or owner of a qualified building is not eligible for a deferral unless:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The underlying ownership of the buildings, machinery, and equipment vests exclusively in the same person; or
+(ii)(A) The lessor by written contract agrees to pass the economic benefit of the deferral to the lessee;
+(B) The lessee that receives the economic benefit of the deferral agrees in writing with the department to complete the annual tax performance report required under RCW
+82.75.070
+; and
+(C) The economic benefit of the deferral passed to the lessee is no less than the amount of tax deferred by the lessor and is evidenced by written documentation of any type of payment, credit, or other financial arrangement between the lessor or owner of the qualified building and the lessee.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; means the date that a building permit is issued under the building code adopted under RCW
+19.27.031
+for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Construction of the qualified building, if the underlying ownership of the building vests exclusively with the person receiving the economic benefit of the deferral;</p>
+            </content>
+            <subsection eId="sec_82_75_010__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Construction of the qualified building, if the economic benefits of the deferral are passed to a lessee as provided in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_75_010__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Tenant improvements for a qualified building, if the economic benefits of the deferral are passed to a lessee as provided in subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of the building.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the investment project is a phased project, &quot;initiation of construction&quot; applies separately to each phase.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Manufacturing&quot; has the meaning provided in RCW
+82.04.120
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Medical device&quot; means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, that is designed or developed and:</p>
+          </content>
+          <subsection eId="sec_82_75_010__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Recognized in the national formulary, or the United States pharmacopeia, or any supplement to them;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Intended for use in the diagnosis of disease, or in the cure, mitigation, treatment, or prevention of disease or other conditions in human beings or other animals; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_75_010__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Intended to affect the structure or any function of the body of human beings or other animals, and which does not achieve any of its primary intended purposes through chemical action within or on the body of human beings or other animals and which is not dependent upon being metabolized for the achievement of any of its principal intended purposes.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Person&quot; has the meaning provided in RCW
+82.04.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Qualified buildings&quot; means construction of new structures, and expansion or renovation of existing structures for the purpose of increasing floor space or production capacity used for biotechnology product manufacturing or medical device manufacturing activities, including plant offices, commercial laboratories for process development, quality assurance and quality control, and warehouses or other facilities for the storage of raw material or finished goods if the facilities are an essential or an integral part of a factory, plant, or laboratory used for biotechnology product manufacturing or medical device manufacturing. If a building is used partly for biotechnology product manufacturing or medical device manufacturing and partly for other purposes, the applicable tax deferral must be determined by apportionment of the costs of construction under rules adopted by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Qualified machinery and equipment&quot; means all new industrial and research fixtures, equipment, and support facilities that are an integral and necessary part of a biotechnology product manufacturing or medical device manufacturing operation. &quot;Qualified machinery and equipment&quot; includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control or operate the machinery.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Recipient&quot; means a person receiving a tax deferral under this chapter.
+[
+2020 c 139 s 45
+;
+2010 c 114 s 145
+;
+2009 c 549 s 1033
+;
+2006 c 178 s 2
+.]
+NOTES:
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+2006 c 178:
+&quot;This act takes effect July 1, 2006.&quot; [
+2006 c 178 s 10
+.]
+Severability
+—
+2006 c 178:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2006 c 178 s 12
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.900"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.900"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.900/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.900/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.900/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.900/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_900">
+        <num>RCW 82.12.900</num>
+        <heading>Exemptions—Anaerobic digesters</heading>
+        <subsection eId="sec_82_12_900__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Equipment necessary to process biogas from a landfill into marketable coproducts, including but not limited to biogas conditioning, compression, and electrical generation equipment, or to services rendered in respect to installing, constructing, repairing, cleaning, altering, or improving equipment necessary to process biogas from a landfill into marketable coproducts; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_900__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The use of anaerobic digesters, tangible personal property that becomes an ingredient or component of anaerobic digesters, or the use of services rendered in respect to installing, repairing, cleaning, altering, or improving eligible tangible personal property by an eligible person establishing or operating an anaerobic digester, as defined in RCW
+82.08.900
+.
+[
+2018 c 164 s 6
+;
+2006 c 151 s 5
+;
+2003 c 5 s 16
+;
+2001 2nd sp.s. c 18 s 5
+.]
+NOTES:
+Reviser's note:
+The tax preference enacted in section 6, chapter 164, Laws of 2018 expires January 1, 2029, pursuant to the automatic expiration date established in RCW
+82.32.805</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

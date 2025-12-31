@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.658"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.658"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.658/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.658/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.658/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.658/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_658">
+        <num>RCW 74.04.658</num>
+        <heading>Military service benefits—Referral to Washington department of veterans affairs</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.658
+74.04.657
+&lt;&lt; 
+        74.04.658 &gt;&gt;
+74.04.660
+PDF
+RCW
+74.04.658
+Military service benefits
+—
+Referral to Washington department of veterans affairs.
+During the application process for public assistance benefits, the department shall inquire of each applicant whether he or she has ever served in the United States military services or is a family or household member of someone who has ever served in the United States military services. If the applicant answers in the affirmative, the department shall provide the applicant with information on how to contact the Washington department of veterans affairs to inquire as to whether the applicant may be eligible for any benefits, services, or programs offered to veterans, military members, or their families.
+[
+2022 c 191 s 9
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2022 c 191:
+See note following RCW
+43.60A.260
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

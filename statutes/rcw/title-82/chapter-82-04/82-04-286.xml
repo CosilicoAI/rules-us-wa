@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.286"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.286"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.286/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.286/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.286/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.286/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_286">
+        <num>RCW 82.04.286</num>
+        <heading>Tax on horse races</heading>
+        <subsection eId="sec_82_04_286__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of conducting race meets for the conduct of which a license must be secured from the Washington horse racing commission; as to such persons, the amount of tax with respect to the business of parimutuel wagering is equal to the gross income of the business derived from parimutuel wagering multiplied by the rate of 0.2 percent through June 30, 2024, and 0.26 percent thereafter. The money collected under this section shall be deposited in the problem gambling account created in RCW
+41.05.751
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_286__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;gross income of the business&quot; does not include amounts paid to players for winning wagers, or taxes imposed or other distributions required under chapter
+67.16
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_286__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax imposed under this section is in addition to any tax imposed under chapter
+67.16
+RCW.
+[
+2023 c 284 s 5
+;
+2005 c 369 s 6
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2023 c 284:
+See notes following RCW
+41.05.750
+.
+Findings
+—
+Intent
+—
+Severability
+—
+Effective date
+—
+2005 c 369:
+See notes following RCW
+41.05.750
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

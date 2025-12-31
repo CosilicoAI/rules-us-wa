@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.295"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.295"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.295/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.295/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.295/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.295/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_295">
+        <num>RCW 74.09.295</num>
+        <heading>Disclosure of involuntary commitment information</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.295
+74.09.290
+&lt;&lt; 
+        74.09.295 &gt;&gt;
+74.09.300
+PDF
+RCW
+74.09.295
+Disclosure of involuntary commitment information.
+It is permissible to provide to a correctional institution, as defined in RCW
+9.94.049
+, with the fact, place, and date of an involuntary commitment and the fact and date of discharge or release of a person who has been involuntarily committed under chapter
+71.05
+or
+71.34
+RCW, without a person's consent, in the course of the implementation and use of the department's postinstitutional medical assistance system supporting the expedited medical determinations and medical suspensions as provided in RCW
+74.09.555
+. Disclosure under this section is mandatory for the purposes of the health insurance portability and accountability act.
+[
+2011 c 305 s 2
+.]
+NOTES:
+Findings
+—
+2011 c 305:
+&quot;The legislature finds that effective collaboration and communication between mental health and chemical dependency treatment providers and service delivery systems and law enforcement and criminal justice agencies is important to both the care of persons with mental disorders and chemical dependency and public safety. The legislature also finds that many state and local efforts in recent years have worked to address improved treatment of persons with mental disorders, chemical dependency disorders, or co-occurring mental and substance abuse disorders who are confined in a correctional institution and to improve communication and collaboration among the agencies, institutions, and professionals who are responsible for the care or custody of those persons. While numerous laws have been enacted to clarify the appropriate sharing of information between those agencies, institutions, and professionals, the legislature finds further clarification will continue to aide [aid] and improve the care of those persons and augment public safety.&quot; [
+2011 c 305 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

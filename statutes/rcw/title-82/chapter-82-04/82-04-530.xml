@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.530"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.530"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.530/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.530/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.530/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.530/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_530">
+        <num>RCW 82.04.530</num>
+        <heading>Telecommunications service providers—Calculation of gross proceeds</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.530
+82.04.520
+&lt;&lt; 
+        82.04.530 &gt;&gt;
+82.04.535
+PDF
+RCW
+82.04.530
+Telecommunications service providers
+—
+Calculation of gross proceeds.
+For purposes of this chapter, a telecommunications service provider other than a mobile telecommunications service provider must calculate gross proceeds of sales in a manner consistent with the sourcing rules provided in RCW
+82.32.520
+. The department may adopt rules to implement this section, including rules that provide a formulary method of determining gross proceeds that reasonably approximates the taxable activity of a telephone business.
+[
+2007 c 54 s 13
+;
+2007 c 6 s 1022
+;
+2004 c 153 s 410
+;
+2002 c 67 s 3
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2007 c 6 s 1022 and by 2007 c 54 s 13, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025
+(2). For rule of construction, see RCW
+1.12.025
+(1).
+Findings
+—
+Intent
+—
+2007 c 54:
+&quot;In July 2000, congress passed the mobile telecommunications sourcing act (P.L. 106-252). The act addresses the problem of determining the situs of a cellular telephone call for tax purposes. In 2002, the legislature passed Senate Bill No. 6539 (chapter 67, Laws of 2002), which addressed the sourcing of mobile telecommunications for state business and occupation tax, state and local retail sales taxes, city utility taxes, and state and county telephone access line taxes. Section 18, chapter 67, Laws of 2002 provided that the act is null and void if the federal mobile telecommunications sourcing act is substantially impaired or limited as a result of a court decision that is no longer subject to appeal. The legislature finds that the contingent null and void clause in section 18, chapter 67, Laws of 2002 has resulted in the necessity of codifying two versions of a number of statutes to incorporate contingent expiration and effective dates. The legislature recognizes that this adds complexity to the tax code and makes tax administration more difficult. The legislature further finds that there is little or no likelihood that the federal mobile telecommunications sourcing act will be substantially impaired or limited as a result of a court decision. Therefore, the legislature intends in section 2 of this act to simplify Washington's tax code and tax administration by eliminating the contingent null and void clause in section 18, chapter 67, Laws of 2002.&quot; [
+2007 c 54 s 1
+.]
+Severability
+—
+2007 c 54:
+See note following RCW
+82.04.050
+.
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.
+Finding
+—
+2002 c 67:
+&quot;The legislature finds that the United States congress has enacted the mobile telecommunications sourcing act for the purpose of establishing uniform nationwide sourcing rules for state and local taxation of mobile telecommunications services. The legislature desires to adopt implementing legislation governing taxation by the state and by affected local taxing jurisdictions within the state. The legislature recognizes that the federal act is intended to provide a clarification of sourcing rules that is revenue-neutral among the states, and that the clarifications required by the federal act are likely in fact to be revenue-neutral at the state level. The legislature also desires to take advantage of a provision of the federal act that allows a state with a generally applicable business and occupation tax, such as this state, to make certain of the uniform sourcing rules elective for such tax.&quot; [
+2002 c 67 s 1
+.]
+Effective date
+—
+2002 c 67:
+&quot;This act takes effect August 1, 2002.&quot; [
+2002 c 67 s 19
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

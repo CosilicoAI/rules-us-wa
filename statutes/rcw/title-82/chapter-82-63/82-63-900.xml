@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.63.900"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.900"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.63.900/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.900/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.63.900/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.900/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_63_900">
+        <num>RCW 82.63.900</num>
+        <heading>Effective date—1994 sp.s. c 5</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.63
+&gt;
+Section 82.63.900
+82.63.090
+&lt;&lt; 
+        82.63.900 &gt;&gt;
+End of Chapter
+PDF
+RCW
+82.63.900
+Effective date
+—
+1994 sp.s. c 5.
+This act shall take effect January 1, 1995.
+[
+1994 sp.s. c 5 s 12
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

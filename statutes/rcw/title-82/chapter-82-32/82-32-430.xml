@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.430"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.430"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.430/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.430/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.430/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.430/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_430">
+        <num>RCW 82.32.430</num>
+        <heading>Liability for tax rate calculation errors—Geographic information system</heading>
+        <subsection eId="sec_82_32_430__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who collects and remits sales or use tax to the department and who calculates the tax using geographic information system technology developed and provided by the department shall be held harmless and is not liable for the difference in amount due nor subject to penalties or interest in regards to rate calculation errors resulting from the proper use of such technology.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_430__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_430__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department shall notify sellers who collect and remit sales or use tax to the department of changes in boundaries and rates to taxes imposed under the authority of chapter
+82.14
+RCW no later than sixty days before the effective date of the change.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_430__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall notify sellers who collect and remit sales or use tax to the department and make sales from printed catalogs of changes, as to such sales, of boundaries and rates to taxes imposed under the authority of chapter
+82.14
+RCW no later than one hundred twenty days before the effective date of the change.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_430__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Sellers who have not received timely notice of rate and boundary changes under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_430__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_430__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section due to actions or omissions of the department are not liable for the difference in the amount due until they have received the appropriate period of notice. Purchasers are liable for any uncollected amounts of tax.</p>
+          </content>
+          <subsection eId="sec_82_32_430__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_430__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, sellers registered with the department under RCW
+82.32.030</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_430__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and certified service providers must use the address-based geographic information technology system developed and provided by the department to calculate the tax to be collected and remitted to the department and to determine the appropriate local jurisdictions entitled to the tax.</p>
+          </content>
+          <subsection eId="sec_82_32_430__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Upon a showing that using the address-based geographic information technology system would cause undue hardship, a seller may be temporarily held harmless and not liable for the difference in amount due nor subject to penalties or interest in regards to rate calculation errors resulting from the proper use of zip code-based technology provided by the department for the period in which relief is granted. The department shall notify local taxing jurisdictions of the identity of sellers granted relief under this section and the period for which relief is granted.</p>
+            </content>
+            <subsection eId="sec_82_32_430__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department shall reimburse local taxing jurisdictions for differences in amount due on account of such rate calculation errors occurring during the period in which relief is granted. Purchasers are liable for any uncollected amounts of tax. The department shall retain amounts collected from purchasers that have been reimbursed to local taxing jurisdictions under this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

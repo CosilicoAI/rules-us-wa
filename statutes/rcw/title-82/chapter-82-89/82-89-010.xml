@@ -1,0 +1,291 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.89.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.89.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.89.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_89_010">
+        <num>RCW 82.89.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_89_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Applicant&quot; means a person applying for a tax deferral under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Eligible investment project&quot; means an investment project of at least $2,000,000 in either qualified buildings or qualified machinery and equipment, or both, for any of the following new, renovated, or expanded:</p>
+          </content>
+          <subsection eId="sec_82_89_010__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Manufacturing operations;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Facilities to produce clean fuels, subject to the limitations in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, renewable hydrogen, green electrolytic hydrogen, or green hydrogen carriers; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Storage facilities.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;
+Green electrolytic hydrogen
+&quot;
+means hydrogen produced through electrolysis and does not include hydrogen manufactured using steam reforming or any other conversion technology that produces hydrogen from a fossil fuel feedstock.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Green hydrogen carrier&quot; means a chemical compound, created using electricity or renewable resources as energy input and without use of fossil fuel as a feedstock, from renewable hydrogen or green electrolytic hydrogen for the purposes of transportation, storage, and dispensing of hydrogen.</p>
+          </content>
+          <subsection eId="sec_82_89_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; means the date that a building permit is issued under the building code adopted under RCW
+19.27.031
+for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Construction of the qualified building, if the underlying ownership of the building vests exclusively with the person receiving the economic benefit of the deferral;</p>
+            </content>
+            <subsection eId="sec_82_89_010__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Construction of the qualified building, if the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.89.020
+; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_89_010__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Tenant improvements for a qualified building, if the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.89.020
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of the building.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the eligible investment project is a phased project, &quot;initiation of construction&quot; applies separately to each phase.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Investment project&quot; means an investment in either qualified buildings or qualified machinery and equipment, or both, including labor and services rendered in the planning, installation, and construction of the project.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Manufacturing&quot; has the same meaning as &quot;to manufacture&quot; in RCW
+82.04.120
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Manufacturing operation&quot; means manufacturing tangible personal property exclusively incorporated as an ingredient or component of or used in the generation of:</p>
+          </content>
+          <subsection eId="sec_82_89_010__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Passenger cars, light duty trucks, medium duty passenger vehicles, buses, commercial vehicles as defined in RCW
+46.04.140
+, or motorcycles that emit no exhaust gas from the onboard source of power, other than water vapor;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Charging and fueling infrastructure for electric, hydrogen, or other vehicle types that emits no exhaust gas from the onboard source of power, other than water vapor;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Renewable and green electrolytic hydrogen, including preparing renewable and green electrolytic hydrogen for distribution or converting it to a green hydrogen carrier;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Clean fuel with associated greenhouse gas emissions not exceeding 80 percent of the 2017 levels established under *RCW
+70A.535.020
+or its successor statute under chapter
+70A.535
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_8__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Electricity from renewable resources; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_8__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Storage facilities.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Meaningful construction&quot; means an active construction site, where excavation of a building site, laying of a building foundation, or other tangible signs of construction are taking place and that clearly show a progression in the construction process at the location designated by the taxpayer in the application for deferral. Planning, permitting, or land clearing before excavation of the building site, without more, does not constitute &quot;meaningful construction.&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Operationally complete&quot; means the eligible investment project is capable of being used for its intended purpose as described in the application.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Person&quot; has the same meaning as in RCW
+82.04.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Qualified buildings&quot; means construction of new structures, and expansion or renovation of existing structures for the purpose of increasing floor space or production capacity, used for manufacturing, including plant offices and warehouses or other buildings for the storage of raw materials or finished goods if the facilities are an essential or an integral part of a factory, mill, plant, or laboratory used for manufacturing. If a qualified building is used partly for manufacturing and partly for other purposes, the applicable tax deferral must be determined by apportionment of the costs of construction under rules adopted by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Qualified machinery and equipment&quot; means all new industrial fixtures, equipment, and support facilities that are an integral and necessary part of a manufacturing operation. &quot;Qualified machinery and equipment&quot; includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control, monitor, or operate the machinery.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Recipient&quot; means a person receiving a tax deferral under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Renewable resource&quot; has the same meaning as in **RCW
+82.08.816
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Storage facility&quot; means a facility that:</p>
+          </content>
+          <subsection eId="sec_82_89_010__subsec_16__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Accepts electricity as an energy source and uses a chemical, thermal, mechanical, or other process to store energy for subsequent delivery or consumption in the form of electricity; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_89_010__subsec_16__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Stores renewable hydrogen, green electrolytic hydrogen, or green hydrogen carrier for subsequent delivery or consumption.
+[
+2022 c 185 s 1
+.]
+NOTES:
+Reviser's note:
+*</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+70A.535.020
+was repealed by
+2022 c 182 s 414
+.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>RCW
+82.08.816
+expired July 1, 2025.
+Tax preference performance automatic expiration exception
+—
+Tax preference performance statement
+—
+2022 c 185:
+See notes following RCW
+82.89.070
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

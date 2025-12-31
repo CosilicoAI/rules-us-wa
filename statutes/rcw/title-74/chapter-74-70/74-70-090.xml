@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.70.090"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.70.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.70.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_70_090">
+        <num>RCW 74.70.090</num>
+        <heading>Delayed implementation—Retroactive fees. (Contingent expiration date.)</heading>
+        <subsection eId="sec_74_70_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An ambulance transport provider may be assessed the amount the provider would be required to pay to the authority if the add-on increase to the fee-for-service payment schedule described in RCW
+74.70.050</p>
+          </content>
+          <subsection eId="sec_74_70_090__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>were already approved, but shall not be required to pay the fee until the add-on increase to the fee-for-service payment schedule described in RCW
+74.70.060
+is approved. The authority shall establish a schedule for payment of retroactive fees pursuant to this subsection in consultation with ambulance transport providers to minimize the disruption to the cash flow of ambulance transport providers.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_70_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority may retroactively implement the add-on increase to the fee-for-service payment schedule pursuant to RCW
+74.70.060
+to the extent the authority determines that federal financial participation is available.
+[
+2020 c 354 s 9
+.]
+NOTES:
+Contingent expiration date
+—
+2020 c 354:
+See RCW
+74.70.100</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

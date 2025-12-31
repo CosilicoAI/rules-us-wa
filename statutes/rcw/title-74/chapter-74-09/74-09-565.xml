@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.565"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.565"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.565/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.565/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.565/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.565/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_565">
+        <num>RCW 74.09.565</num>
+        <heading>Medical assistance for institutionalized persons—Treatment of income between spouses</heading>
+        <subsection eId="sec_74_09_565__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An agreement between spouses transferring or assigning rights to future income from one spouse to the other shall be invalid for purposes of determining eligibility for medical assistance or the limited casualty program for the medically needy, but this subsection does not affect agreements between spouses transferring or assigning resources, and income produced by transferred or assigned resources shall continue to be recognized as the separate income of the transferee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_565__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In determining eligibility for medical assistance or the limited casualty program for the medically needy for a married person in need of institutional care, or care under home and community-based waivers as defined in Title XIX of the social security act, if the community income received in the name of the nonapplicant spouse exceeds the community income received in the name of the applicant spouse, the applicant's interest in that excess shall be considered unavailable to the applicant.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_565__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department or authority, as appropriate, shall adopt rules consistent with the provisions of section 1924 of the social security act entitled &quot;Treatment of Income and Resources for Certain Institutionalized Spouses,&quot; in determining the allocation of income between an institutionalized and community spouse.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_565__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department or authority, as appropriate, shall establish the monthly maintenance needs allowance for the community spouse up to the maximum amount allowed by state appropriation or within available funds and permitted in section 1924 of the social security act. The total monthly needs allowance shall not exceed one thousand five hundred dollars, subject to adjustment provided in section 1924 of the social security act.
+[
+2011 1st sp.s. c 15 s 35
+;
+1989 c 87 s 4
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Captions not law
+—
+1989 c 87:
+&quot;Section captions, as found in sections 4 through 8 of this act, constitute no part of the law.&quot; [
+1989 c 87 s 10
+.]
+Effective dates
+—
+1989 c 87:
+See note following RCW
+74.09.510
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

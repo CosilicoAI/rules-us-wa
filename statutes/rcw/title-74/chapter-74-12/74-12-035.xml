@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.035"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.035"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.035/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.035/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.035/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.035/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_035">
+        <num>RCW 74.12.035</num>
+        <heading>Additional eligibility requirements—Students—Exceptions</heading>
+        <subsection eId="sec_74_12_035__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Children over eighteen years of age and under nineteen years of age who are full-time students reasonably expected to complete a program of secondary school, or the equivalent level of vocational or technical training, before reaching nineteen years of age are eligible to receive temporary assistance for needy families: PROVIDED HOWEVER, That if such students do not successfully complete such program before reaching nineteen years of age, the assistance rendered under this subsection during such period shall not be a debt due the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_035__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Children with disabilities who are eighteen years of age and under twenty-one years of age and who are full-time students whose education is being provided in accordance with RCW
+28A.155.020
+are eligible to receive temporary assistance for needy families benefits.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_035__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department is authorized to grant exceptions to the eligibility restrictions for children eighteen years of age and under twenty-one years of age under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_035__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_035__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section only when it determines by reasonable, objective criteria that such exceptions are likely to enable the children to complete their high school education, high school equivalency certificate as provided in RCW
+28B.50.536
+, or vocational education.
+[
+2013 c 39 s 29
+;
+1999 c 120 s 2
+;
+1997 c 59 s 18
+;
+1985 c 335 s 1
+;
+1981 2nd ex.s. c 10 s 3
+.]
+NOTES:
+State consolidated standards of need: RCW
+74.04.770
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

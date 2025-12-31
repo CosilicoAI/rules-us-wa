@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.207"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.207"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.207/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.207/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.207/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.207/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_207">
+        <num>RCW 82.12.207</num>
+        <heading>Investment data for investment firms. (Expires July 1, 2031.)</heading>
+        <subsection eId="sec_82_12_207__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by RCW
+82.12.020
+does not apply to the use of standard financial information by qualifying international investment management companies or persons affiliated, as defined in RCW
+82.04.293
+, with a qualifying international investment management company. The exemption provided in this section applies regardless of whether the standard financial information is in a tangible format or resides on a tangible storage medium or is a digital product transferred electronically to the qualifying international investment management company.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_207__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions, conditions, and requirements in RCW
+82.08.207
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_207__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires July 1, 2031.
+[
+2019 c 426 s 7
+;
+2013 2nd sp.s. c 13 s 703
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Tax preference performance statement
+—
+2019 c 426 ss 6 and 7:
+See notes following RCW
+82.08.207
+.
+Findings
+—
+Intent
+—
+2013 2nd sp.s. c 13:
+See note following RCW
+82.08.207
+.
+Effective date
+—
+2013 2nd sp.s. c 13:
+See note following RCW
+82.04.43393
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

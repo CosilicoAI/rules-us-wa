@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_100">
+        <num>RCW 82.60.100</num>
+        <heading>Applications, reports, and information subject to disclosure</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.60
+&gt;
+Section 82.60.100
+82.60.090
+&lt;&lt; 
+        82.60.100 &gt;&gt;
+82.60.120
+PDF
+RCW
+82.60.100
+Applications, reports, and information subject to disclosure.
+Applications, reports, and any other information received by the department under this chapter, except applications not approved by the department, are not confidential and are subject to disclosure.
+[
+2010 c 106 s 106
+;
+1987 c 49 s 1
+.]
+NOTES:
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

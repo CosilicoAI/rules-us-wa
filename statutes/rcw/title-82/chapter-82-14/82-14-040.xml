@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_040">
+        <num>RCW 82.14.040</num>
+        <heading>County ordinance to contain credit provision</heading>
+        <subsection eId="sec_82_14_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any county ordinance adopted under RCW
+82.14.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>shall contain, in addition to all other provisions required to conform to this chapter, a provision allowing a credit against the county tax imposed under RCW
+82.14.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>for the full amount of any city sales or use tax imposed under RCW
+82.14.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>upon the same taxable event.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any county ordinance adopted under RCW
+82.14.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>shall contain, in addition to all other provisions required to conform to this chapter, a provision allowing a credit against the county tax imposed under RCW
+82.14.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the full amount of any city sales or use tax imposed under RCW
+82.14.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>upon the same taxable event up to the additional tax imposed by the county under RCW
+82.14.030</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

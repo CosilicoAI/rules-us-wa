@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.540"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.540"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.540/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.540/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.540/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.540/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_540">
+        <num>RCW 74.09.540</num>
+        <heading>Medical assistance—Working individuals with disabilities—Intent</heading>
+        <subsection eId="sec_74_09_540__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>It is the intent of the legislature to remove barriers to employment for individuals with disabilities by providing medical assistance to working individuals with disabilities through a buy-in program in accordance with section 1902(a)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_540__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority shall establish cost-sharing requirements for the buy-in program in accordance with federal law and any conditions or limitations specified in the omnibus appropriations act. The authority shall establish and modify eligibility and cost-sharing requirements in order to administer the program within available funds. The authority may consider a person's income when establishing cost-sharing requirements. The authority may not establish eligibility restrictions for the buy-in program based upon a person's income or maximum age. The authority shall make every effort to coordinate benefits with employer-sponsored coverage available to the working individuals with disabilities receiving benefits under this chapter or other applicable law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_540__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The authority shall seek federal approval to exclude resources accumulated in a separate account that results from earnings during an individual's enrollment in the buy-in program when determining the individual's subsequent eligibility for another medical assistance program.
+[
+2019 c 70 s 1
+;
+2018 c 201 s 7019
+;
+2011 1st sp.s. c 15 s 33
+;
+2001 2nd sp.s. c 15 s 2
+.]
+NOTES:
+Effective date
+—
+2019 c 70:
+&quot;This act takes effect January 1, 2020.&quot; [
+2019 c 70 s 2
+.]
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Findings
+—
+Intent
+—
+2001 2nd sp.s. c 15:
+&quot;The legislature finds that individuals with disabilities face many barriers and disincentives to employment. Individuals with disabilities are often unable to obtain health insurance that provides the services and supports necessary to allow them to live independently and enter or rejoin the workforce. The legislature finds that there is a compelling public interest in eliminating barriers to work by continuing needed health care coverage for individuals with disabilities who enter and maintain employment.
+The legislature intends to strengthen the state's policy of supporting individuals with disabilities in leading fully productive lives by supporting the implementation of the federal ticket to work and work incentives improvement act of 1999, Public Law 106-170. This shall include improving incentives to work by continuing coverage for health care and support services, by seeking federal funding for innovative programs, and by exploring options which provide individuals with disabilities a choice in receiving services needed to obtain and maintain employment.&quot; [
+2001 2nd sp.s. c 15 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

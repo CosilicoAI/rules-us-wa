@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.25.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.25.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.25.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_25_090">
+        <num>RCW 82.25.090</num>
+        <heading>License and notice requirement violations—Seizure and forfeiture</heading>
+        <subsection eId="sec_82_25_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any vapor products in the possession of a person selling vapor products in this state acting as a distributor or retailer and who is not licensed as required under chapter
+70.345
+RCW, or a person who is selling vapor products in violation of RCW
+82.24.550</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any vapor products in the possession of a person who is not a licensed distributor, delivery seller, manufacturer's representative, or retailer and who transports vapor products for sale without having provided notice to the board required under RCW
+82.25.065
+, or without invoices or delivery tickets showing the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of vapor products being transported may be seized and are subject to forfeiture.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All conveyances, including aircraft, vehicles, or vessels that are used, or intended for use to transport, or in any manner to facilitate the transportation, for the purpose of sale or receipt of vapor products under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, may be seized and are subject to forfeiture except:</p>
+          </content>
+          <subsection eId="sec_82_25_090__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A conveyance used by any person as a common or contract carrier having in actual possession invoices or delivery tickets showing the true name and address of the consignor or seller, the true name of the consignee or purchaser, and the quantity and brands of the vapor products transported, unless it appears that the owner or other person in charge of the conveyance is a consenting party or privy to a violation of this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_090__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A conveyance subject to forfeiture under this section by reason of any act or omission of which the owner establishes to have been committed or omitted without his or her knowledge or consent; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_090__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A conveyance encumbered by a bona fide security interest if the secured party neither had knowledge of nor consented to the act or omission.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Property subject to forfeiture under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section may be seized by any agent of the department, the board, or law enforcement officer of this state upon process issued by any superior court or district court having jurisdiction over the property. Seizure without process may be made if:</p>
+          </content>
+          <subsection eId="sec_82_25_090__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The seizure is incident to an arrest or a search warrant or an inspection under an administrative inspection warrant; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_25_090__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department, board, or law enforcement officer has probable cause to believe that the property was used or is intended to be used in violation of this chapter and exigent circumstances exist making procurement of a search warrant impracticable.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section may not be construed to require the seizure of vapor products if the department's agent, board's agent, or law enforcement officer reasonably believes that the vapor products are possessed for personal consumption by the person in possession of the vapor products.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Any vapor products seized by a law enforcement officer must be turned over to the board as soon as practicable.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_090__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section does not apply to a motor carrier or freight forwarder as defined in Title 49 U.S.C. Sec. 13102 or an air carrier as defined in Title 49 U.S.C. Sec. 40102.
+[
+2019 c 445 s 118
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

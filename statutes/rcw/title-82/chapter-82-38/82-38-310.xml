@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.310"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_310">
+        <num>RCW 82.38.310</num>
+        <heading>Agreement with tribe for fuel taxes</heading>
+        <subsection eId="sec_82_38_310__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The governor may enter into an agreement with any federally recognized Indian tribe located on a reservation within this state regarding fuel taxes included in the price of fuel delivered to a retail station wholly owned and operated by a tribe, tribal enterprise, or tribal member licensed by the tribe to operate a retail station located on reservation or trust property. The agreement may provide mutually agreeable means to address any tribal immunities or any preemption of the fuel tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of this section do not repeal existing state/tribal fuel tax agreements or consent decrees in existence on May 15, 2007. The state and the tribe may agree to substitute an agreement negotiated under this section for an existing agreement or consent decree, or to enter into an agreement using a methodology similar to the state/tribal fuel tax agreements in effect on May 15, 2007.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_310__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If a new agreement is negotiated, the agreement must:</p>
+          </content>
+          <subsection eId="sec_82_38_310__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Require that the tribe or the tribal retailer acquire all fuel only from persons or companies operating lawfully in accordance with this chapter as a fuel distributor, supplier, or blender, or from a tribal distributor, supplier, or blender lawfully doing business according to all applicable laws;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_310__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide that the tribe will expend fuel tax proceeds or equivalent amounts on: Planning, construction, and maintenance of roads, bridges, and boat ramps; transit services and facilities; transportation planning; police services; and other highway-related purposes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_310__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Include provisions for audits or other means of ensuring compliance to certify the number of gallons of fuel purchased by the tribe for resale at tribal retail stations, and the use of fuel tax proceeds or their equivalent for the purposes identified in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_310__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection. Compliance reports must be delivered to the director of the department of licensing.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_310__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Information from the tribe or tribal retailers received by the state or open to state review under the terms of an agreement are deemed personal information under RCW
+42.56.230</p>
+          </content>
+          <subsection eId="sec_82_38_310__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and are exempt from public inspection and copying.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_310__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The governor may delegate the power to negotiate fuel tax agreements to the department of licensing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_310__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department of licensing must prepare and submit an annual report to the legislature on the status of existing agreements and any ongoing negotiations with tribes.
+[
+2013 c 225 s 130
+;
+2007 c 515 s 31
+;
+1995 c 320 s 3
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Effective date
+—
+2007 c 515:
+See note following RCW
+82.38.030
+.
+Legislative recognition, belief
+—
+1995 c 320:
+&quot;The legislature recognizes that certain Indian tribes located on reservations within this state dispute the authority of the state to impose a tax upon the tribe, or upon tribal members, based upon the distribution, sale, or other transfer of motor vehicle and other fuels to the tribe or its members when that distribution, sale, or other transfer takes place upon that tribe's reservation. While the legislature believes it has the authority to impose state motor vehicle and other fuel taxes under such circumstances, it also recognizes that all of the state citizens may benefit from resolution of these disputes between the respective governments.&quot; [
+1995 c 320 s 1
+.]
+Effective date
+—
+1995 c 320:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [May 11, 1995].&quot; [
+1995 c 320 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

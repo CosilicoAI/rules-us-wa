@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.270"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_270">
+        <num>RCW 74.09.270</num>
+        <heading>Failure to maintain trust funds in separate account—Penalties</heading>
+        <subsection eId="sec_74_09_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any person having any patient trust funds in his or her possession, custody, or control, who, knowing that he or she is violating any statute, regulation, or agreement, deliberately fails to deposit, transfer, or maintain said funds in a separate, designated, trust bank account as required by such statute, regulation, or agreement shall be guilty of a gross misdemeanor and shall be punished by imprisonment for up to three hundred sixty-four days in the county jail, or by a fine of not more than ten thousand dollars or as authorized by RCW
+9A.20.030
+, or by both such fine and imprisonment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_270__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Patient trust funds&quot; are funds received by any health care facility which belong to patients and are required by any state or federal statute, regulation, or by agreement to be kept in a separate trust bank account for the benefit of such patients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_270__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section shall not be construed to prevent a prosecution for theft.
+[
+2011 c 96 s 54
+;
+1979 ex.s. c 152 s 8
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 c 96:
+See note following RCW
+9A.20.021
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.62.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.62.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.62.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_62_010">
+        <num>RCW 74.62.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_62_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Aged, blind, and [or] disabled assistance program&quot; means the program established under RCW
+74.62.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Director&quot; or &quot;secretary&quot; means the secretary of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Essential needs and housing support program&quot; means the program established under RCW
+43.185C.220
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Essential needs support&quot; means personal health and hygiene items, cleaning supplies, other necessary items and transportation passes or tokens provided through an essential needs support entity established under RCW
+43.185C.220
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Housing support&quot; means assistance provided by a designated housing support entity established under RCW
+43.185C.220
+to maintain existing housing when the client is at substantial risk of becoming homeless, to obtain housing, or to obtain heat, electricity, natural gas, sewer, garbage, and water services when the client is at substantial risk of losing these services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Pregnant women assistance program&quot; means the program established under RCW
+74.62.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>In the construction of words and phrases used in this chapter, the singular number shall include the plural, the masculine gender shall include both the feminine and neuter genders, and the present tense shall include the past and future tenses, unless the context thereof shall clearly indicate to the contrary.
+[
+2011 1st sp.s. c 36 s 7
+.]
+NOTES:
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

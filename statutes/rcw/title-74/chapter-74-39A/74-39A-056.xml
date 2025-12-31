@@ -1,0 +1,535 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.056"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.056"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.056/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.056/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.056/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.056/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_056">
+        <num>RCW 74.39A.056</num>
+        <heading>Background checks on long-term care workers</heading>
+        <subsection eId="sec_74_39A_056__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A provider may not be employed in the care of and have unsupervised access to vulnerable adults if:</p>
+          </content>
+          <subsection eId="sec_74_39A_056__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provider is on the vulnerable adult abuse registry or on any other registry based upon a finding of abuse, abandonment, neglect, or financial exploitation of a vulnerable adult;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On or after October 1, 1998, the department of children, youth, and families, or its predecessor agency, has made a founded finding of abuse or neglect of a child against the provider. If the provider has received a certificate of parental improvement under chapter
+74.13
+RCW pertaining to the finding, the provider is not disqualified under this section;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A disciplining authority, including the department of health, has made a finding of abuse, abandonment, neglect, or financial exploitation of a minor or a vulnerable adult against the provider; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A court has issued an order that includes a finding of fact or conclusion of law that the provider has committed abuse, abandonment, neglect, or financial exploitation of a minor or vulnerable adult. If the provider has received a certificate of parental improvement under chapter
+74.13
+RCW pertaining to the finding of fact or conclusion of law, the provider is not disqualified under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A client who has elected to receive services from an individual provider must be notified of the results of a background check and of the client's right to request a copy of the background check's results under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When a background check produces a review required result, as defined in RCW
+43.20A.715
+, the authorized entity must provide the client who is the managing employer of the individual provider with a copy of the background check results and the Washington state record of arrests and prosecutions, if requested by the client. The individual provider may choose to provide a copy of the federal bureau of investigation record of arrests and prosecutions to the client.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall establish, by rule, a state registry which contains identifying information about long-term care workers identified under this chapter who have final substantiated findings of abuse, neglect, financial exploitation, or abandonment of a vulnerable adult as defined in RCW
+74.34.020
+. The rule must include disclosure, disposition of findings, notification, findings of fact, appeal rights, and fair hearing requirements. The department shall disclose, upon request, final substantiated findings of abuse, neglect, financial exploitation, or abandonment to any person so requesting this information. This information must also be shared with the department of health to advance the purposes of chapter
+18.88B
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Authorized entity&quot; means a service provider, licensee, contractor, or other public or private agency that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Is required to conduct background checks; and</p>
+            </content>
+            <subsection eId="sec_74_39A_056__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Is authorized to conduct background checks through the department's background check central unit.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Fingerprint-based background check&quot; means a search of in-state criminal history records through the Washington state patrol and national criminal history records through the federal bureau of investigation.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Home care agency provider&quot; means a long-term care worker paid by a home care agency, as described in RCW
+43.20A.710</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Managing employer&quot; has the same meaning as in RCW
+74.39A.009
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Provider&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An individual provider;</p>
+            </content>
+            <subsection eId="sec_74_39A_056__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An employee, licensee, or contractor of any of the following: A home care agency licensed under chapter
+70.127
+RCW; a nursing home under chapter
+18.51
+RCW; an assisted living facility under chapter
+18.20
+RCW; an enhanced services facility under chapter
+70.97
+RCW; a certified resident services and supports agency licensed or certified under chapter
+71A.12
+RCW; an adult family home under chapter
+70.128
+RCW; or any long-term care facility certified to provide medicaid or medicare services;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_056__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Any contractor of the department who may have unsupervised access to vulnerable adults; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_056__subsec_5__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The caregivers of a medical foster home, as under 38 C.F.R. 17.73.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_056__subsec_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Review required result&quot; means the result of a name and date of birth background check or fingerprint-based background check for an individual provider or a home care agency provider that requires the employer or an authorized entity to determine if a character, competence, and suitability review is necessary, and related implementing rules adopted by the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department shall adopt rules to implement this section.
+[
+2025 c 214 s 2
+;
+2025 c 108 s 4
+;
+2023 c 223 s 4
+;
+2021 c 203 s 3
+;
+2020 c 270 s 8
+;
+2018 c 278 s 8
+;
+2012 c 164 s 503
+;
+2012 c 1 s 101
+(Initiative Measure No. 1163, approved November 8, 2011).]
+NOTES:
+Reviser's note:
+This section was amended by 2025 c 108 s 4 and by 2025 c 214 s 2, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The state legislature proposes to eliminate the requirement that long-term care workers obtain criminal background checks and adequate training, which would jeopardize the safety and quality care of vulnerable elderly and persons with disabilities. Should the legislature take this action, this initiative will reinstate these critical protections for vulnerable elderly and persons with disabilities; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Taxpayers' investment will be protected by requiring regular program audits, including fraud investigations, and capping administrative expenses.&quot; [
+2012 c 1 s 1
+(Initiative Measure No. 1163, approved November 8, 2011).]
+Audits
+—
+2022 c 148; 2012 c 164; 2012 c 1 (Initiative Measure No. 1163):
+&quot;The state auditor shall conduct audits of the long-term in-home care program after consultation with affected disability and aging stakeholder groups. The first audit must be completed within twelve months after January 7, 2012, and must be completed on a biennial basis thereafter. As part of this auditing process, the state shall hire five additional fraud investigators to ensure that clients receiving services at taxpayers' expense are medically and financially qualified to receive the services and are actually receiving the services. An audit conducted by the state auditor under the authority of RCW
+43.09.020
+and
+43.09.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>may satisfy this requirement, provided that a performance audit of the program was completed in the preceding biennium.&quot; [
+2022 c 148 s 7
+;
+2012 c 164 s 709
+;
+2012 c 1 s 201
+(Initiative Measure No. 1163, approved November 8, 2011).]
+Spending limits
+—
+2012 c 1 (Initiative Measure No. 1163):
+&quot;The people hereby establish limits on the percentage of tax revenues that can be used for administrative expenses in the long-term in-home care program. Within one hundred eighty days of January 7, 2012, the state shall prepare a plan to cap administrative expenses so that at least ninety percent of taxpayer spending must be devoted to direct care. This limitation must be achieved within two years from January 7, 2012.&quot; [
+2012 c 1 s 202
+(Initiative Measure No. 1163, approved November 8, 2011).]
+Contingent effective dates
+—
+2012 c 1 (Initiative Measure No. 1163):
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 101 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.055
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 102 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.260
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Sections 103 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this act only take effect if RCW
+18.88B.020
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Sections 104 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this act only take effect if RCW
+18.88B.030
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Sections 105 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this act only take effect if RCW
+18.88B.040
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Sections 106 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.050
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Sections 107 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.073
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Sections 108 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.075
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Sections 109 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.085
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Sections 110 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.310
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Sections 111 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.330
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Sections 112 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.340
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>Sections 113 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.350
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>Sections 114 and 115</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this act only take effect if RCW
+74.39A.009
+is amended or repealed by the legislature in 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>Section 303 of this act takes effect only if one or more other sections of this act take effect pursuant to paragraphs</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>of this section.&quot; [
+2012 c 1 s 301
+(Initiative Measure No. 1163, approved November 8, 2011).]
+Application
+—
+2012 c 1 (Initiative Measure No. 1163):
+&quot;Notwithstanding any action of the legislature during 2011, all long-term care workers as defined under RCW
+74.39A.009</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_056__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>on the schedules set forth in those sections, as amended by chapter 164, Laws of 2012, except that long-term care workers employed by community residential service businesses are exempt to the extent provided in RCW
+18.88B.041
+,
+74.39A.056
+,
+74.39A.074
+,
+74.39A.331
+,
+74.39A.341
+, and
+74.39A.351
+.&quot; [
+2012 c 164 s 710
+;
+2012 c 1 s 303
+(Initiative Measure No. 1163, approved November 8, 2011).]
+Construction
+—
+2012 c 1 (Initiative Measure No. 1163):
+&quot;The provisions of this act are to be liberally construed to effectuate the intent, policies, and purposes of this act.&quot; [
+2012 c 1 s 305
+(Initiative Measure No. 1163, approved November 8, 2011).]
+Effective date
+—
+2012 c 1 (Initiative Measure No. 1163):
+&quot;This act takes effect sixty days from its *enactment by the people [January 7, 2012].&quot; [
+2012 c 1 s 307
+(Initiative Measure No. 1163, approved November 8, 2011).]
+*Reviser's note:
+Initiative Measure No. 1163 was approved by a vote of the people November 8, 2011. The secretary of state has determined that the effective date of Initiative Measure No. 1163 is January 7, 2012.
+Short title
+—
+2012 c 1 (Initiative Measure No. 1163):
+&quot;This act may be known and cited as the restoring quality home care initiative.&quot; [
+2012 c 1 s 308
+(Initiative Measure No. 1163, approved November 8, 2011).]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.057"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.057"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.057/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.057/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.057/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.057/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_057">
+        <num>RCW 82.32.057</num>
+        <heading>Application of interest to delinquent taxes—Extensions</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.057
+82.32.055
+&lt;&lt; 
+        82.32.057 &gt;&gt;
+82.32.060
+PDF
+RCW
+82.32.057
+Application of interest to delinquent taxes
+—
+Extensions.
+Except as otherwise provided in this chapter, interest applies to taxes that are not paid by the original due date even though the department has granted an extension as authorized under this chapter. However, the department may not assess penalties for late payment of any such tax that is paid in full by the extended due date.
+[
+2022 c 282 s 1
+.]
+NOTES:
+Application
+—
+2022 c 282:
+&quot;With regard to the imposition of interest, sections 1 and 2 of this act apply to taxes due under an extension granted by the department of revenue on or after January 1, 2023, except in cases where the department of revenue received the request for the extension before January 1, 2023.&quot; [
+2022 c 282 s 3
+.]
+Effective date
+—
+2022 c 282:
+&quot;Except for section 4 of this act, this act takes effect January 1, 2023.&quot; [
+2022 c 282 s 5
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

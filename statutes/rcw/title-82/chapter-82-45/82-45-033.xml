@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.033"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.033"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.033/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.033/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.033/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.033/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_033">
+        <num>RCW 82.45.033</num>
+        <heading>&quot;Controlling interest&quot; defined</heading>
+        <subsection eId="sec_82_45_033__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>As used in this chapter, the term &quot;controlling interest&quot; has the following meaning:</p>
+          </content>
+          <subsection eId="sec_82_45_033__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In the case of a profit corporation, either fifty percent or more of the total combined voting power of all classes of stock of the corporation entitled to vote, or fifty percent of the capital, profits, or beneficial interest in the voting stock of the corporation; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_033__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the case of any other corporation, or a partnership, association, trust, or other entity, fifty percent or more of the capital, profits, or beneficial interest in such corporation, partnership, association, trust, or other entity.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_033__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may, at the department's option, enforce the obligation of the seller under this chapter as provided in this subsection</p>
+          </content>
+          <subsection eId="sec_82_45_033__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In the transfer or acquisition of a controlling interest as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_033__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, either against the corporation in which a controlling interest is transferred or acquired, against the person or persons who acquired the controlling interest in the corporation or, when the corporation is not a publicly traded company, against the person or persons who transferred the controlling interest in the corporation; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_033__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the transfer or acquisition of a controlling interest as defined in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_033__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, either against the entity in which a controlling interest is transferred or acquired or against the person or persons who transferred or acquired the controlling interest in the entity.
+[
+2019 c 424 s 4
+;
+2010 1st sp.s. c 23 s 208
+;
+1993 sp.s. c 25 s 505
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+Effective date
+—
+2019 c 424:
+See notes following RCW
+82.45.060
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.32.655
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Findings
+—
+Intent
+—
+1993 sp.s. c 25:
+See note following RCW
+82.45.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

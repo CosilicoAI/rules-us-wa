@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.523"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.523"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.523/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.523/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.523/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.523/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_523">
+        <num>RCW 74.09.523</num>
+        <heading>PACE program—Definitions—Requirements</heading>
+        <subsection eId="sec_74_09_523__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_74_09_523__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;PACE&quot; means the program of all-inclusive care for the elderly, a managed care medicare/medicaid program authorized under sections 1894, 1905(a), and 1934 of the social security act and administered by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_523__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;PACE program agreement&quot; means an agreement between a PACE organization, the health care financing administration, and the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_523__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A PACE program may operate in the state only in accordance with a PACE program agreement with the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_523__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A PACE program shall at the time of entering into the initial PACE program agreement, and at each renewal thereof, demonstrate cash reserves to cover expenses in the event of insolvency.</p>
+          </content>
+          <subsection eId="sec_74_09_523__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The cash reserves at a minimum shall equal the sum of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_523__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>One month's total capitation revenue; and</p>
+            </content>
+            <subsection eId="sec_74_09_523__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>One month's average payment to subcontractors.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_523__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The program may demonstrate cash reserves to cover expenses of insolvency with one or more of the following: Reasonable and sufficient net worth, insolvency insurance, or parental guarantees.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_523__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A PACE program must provide full disclosure regarding the terms of enrollment and the option to disenroll at any time to all persons who seek to participate or who are participants in the program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_523__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department must establish rules to authorize long-term care clients enrolled in a PACE program to elect to continue their enrollment in a PACE program regardless of improved status related to functional criteria for nursing facility level of care, consistent with 42 C.F.R. Sec. 460.160</p>
+          </content>
+          <subsection eId="sec_74_09_523__subsec_5__subsec_b">
+            <num>(b)</num>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_523__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must develop and implement a coordinated plan to provide education about PACE program site operations under this section. The plan must include:</p>
+          </content>
+          <subsection eId="sec_74_09_523__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A strategy to assure that case managers and other staff with responsibilities related to eligibility determinations discuss the option and potential benefits of participating in a PACE program with all eligible long-term care clients;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_523__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Requirements that all clients eligible for placement in the community options program entry system waiver program that are age fifty-five or over and reside in a PACE service area be referred to the PACE provider for evaluation. The department's plan must assure that referrals are conducted in a manner that is consistent with federal requirements of Title XIX of the federal social security act; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_523__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Requirements for additional and ongoing training for case managers and other staff with responsibilities related to eligibility determinations in those counties in which a PACE program is operating. The training must include instruction in recognizing the benefits of continued enrollment in a PACE program for those clients who have experienced improved status related to functional criteria for nursing facility level of care.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_523__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department must identify a private entity that operates PACE program sites in Washington to provide the training required under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_523__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section at no cost to the state.
+[
+2013 c 258 s 1
+;
+2001 c 191 s 2
+.]
+NOTES:
+Finding
+—
+2001 c 191:
+&quot;The legislature finds that PACE programs provide essential care to the frail elderly in the state of Washington. PACE serves to enhance the quality of life and autonomy for frail, older adults, maximize the dignity of and respect for older adults, enable frail and older adults to live in their homes and their community as long as medically possible, and preserve and support the older adult's family unit.&quot; [
+2001 c 191 s 1
+.]
+Effective date
+—
+2001 c 191:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 7, 2001].&quot; [
+2001 c 191 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

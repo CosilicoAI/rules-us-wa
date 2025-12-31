@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.660"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.660"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.660/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.660/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.660/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.660/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_660">
+        <num>RCW 82.32.660</num>
+        <heading>Tax avoidance—Statutory application</heading>
+        <subsection eId="sec_82_32_660__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>RCW
+82.32.655
+does not apply to any tax periods ending before May 1, 2010, that were included in a completed field audit conducted by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_660__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, &quot;specific written instructions&quot; means tax reporting instructions provided to a taxpayer and which specifically identify the taxpayer to whom the instructions apply. Specific written instructions may be provided as part of an audit, tax assessment, determination, closing agreement, or in response to a binding ruling request.
+[
+2010 1st sp.s. c 23 s 202
+.]
+NOTES:
+Application
+—
+2010 1st sp.s. c 23 ss 201 and 202:
+See note following RCW
+82.32.655
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.32.655
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

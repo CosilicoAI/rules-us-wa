@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_040">
+        <num>RCW 82.16.040</num>
+        <heading>Exemption</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.16
+&gt;
+Section 82.16.040
+82.16.030
+&lt;&lt; 
+        82.16.040 &gt;&gt;
+82.16.0421
+PDF
+RCW
+82.16.040
+Exemption.
+The provisions of this chapter shall not apply to persons engaging in one or more businesses taxable under this chapter whose total gross income is less than two thousand dollars for a monthly period or portion thereof. Any person claiming exemption under this section may be required to file returns even though no tax may be due. If the total gross income for a taxable monthly period is two thousand dollars, or more, no exemption or deductions from the gross operating revenue is allowed by this provision.
+[
+1996 c 111 s 4
+;
+1961 c 15 s 82.16.040
+. Prior:
+1959 ex.s. c 3 s 17
+;
+1959 c 197 s 27
+;
+1935 c 180 s 39
+; RRS s 8370-39.]
+NOTES:
+Findings
+—
+Purpose
+—
+Effective date
+—
+1996 c 111:
+See notes following RCW
+82.32.030
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

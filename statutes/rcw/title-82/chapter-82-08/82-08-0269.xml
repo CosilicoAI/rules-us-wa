@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0269"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0269"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0269/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0269/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0269/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0269/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0269">
+        <num>RCW 82.08.0269</num>
+        <heading>Exemptions—Sales for use in states, territories, and possessions of the United States which are not contiguous to any other state</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0269
+82.08.0268
+&lt;&lt; 
+        82.08.0269 &gt;&gt;
+82.08.0271
+PDF
+RCW
+82.08.0269
+Exemptions
+—
+Sales for use in states, territories, and possessions of the United States which are not contiguous to any other state.
+The tax levied by RCW
+82.08.020
+shall not apply to sales for use in states, territories, and possessions of the United States which are not contiguous to any other state, but only when, as a necessary incident to the contract of sale, the seller delivers the subject matter of the sale to the purchaser or his or her designated agent at the usual receiving terminal of the carrier selected to transport the goods, under such circumstances that it is reasonably certain that the goods will be transported directly to a destination in such noncontiguous states, territories, and possessions.
+[
+2013 c 23 s 317
+;
+1980 c 37 s 36
+. Formerly RCW
+82.08.030
+(18).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

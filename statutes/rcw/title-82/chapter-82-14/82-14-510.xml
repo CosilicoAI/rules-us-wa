@@ -1,0 +1,453 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.510"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.510/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.510/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_510">
+        <num>RCW 82.14.510</num>
+        <heading>Sales and use tax for local revitalization financing</heading>
+        <subsection eId="sec_82_14_510__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any city or county that has been approved for a project award under RCW
+39.104.100
+may impose a sales and use tax under the authority of this section in accordance with the terms of this chapter. Except as provided in this section, the tax is in addition to other taxes authorized by law and must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the taxing jurisdiction of the city or county.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax authorized under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section is credited against the state taxes imposed under RCW
+82.08.020</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and
+82.12.020
+at the rate provided in RCW
+82.08.020</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The rate of tax imposed by a city or county may not exceed the lesser of:</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The rate provided in RCW
+82.08.020</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The aggregate rates of all other local sales and use taxes imposed by any taxing authority on the same taxable events;</p>
+            </content>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The aggregate rates of all taxes under RCW
+82.14.465
+and
+82.14.475
+and this section that are authorized but have not yet been imposed on the same taxable events by a city or county that has been approved to receive a state contribution by the department, the department of commerce, or the community economic revitalization board under chapter
+39.104
+, 39.100, or
+39.102
+RCW; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The percentage amount of distributions required under RCW
+82.08.020</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>multiplied by the rate of state taxes imposed under RCW
+82.08.020</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The rate, as determined by the city or county in consultation with the department, reasonably necessary to receive the project award under RCW
+39.104.100
+over ten months.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department, upon request, must assist a city or county in establishing its tax rate in accordance with subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section. Once the rate of tax is selected through the application process and approved under RCW
+39.104.100
+, it may not be increased.</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection, no tax may be imposed under the authority of this section before:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>July 1, 2011;</p>
+            </content>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>July 1st of the second calendar year following the year in which the application was approved under RCW
+39.104.100
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The state sales and use tax increment and state property tax increment for the preceding calendar year equal or exceed the amount of the project award approved under RCW
+39.104.100
+; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Bonds have been issued according to RCW
+39.104.110
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax imposed under this section expires the earlier of the date that the bonds issued under the authority of RCW
+39.104.110
+are retired or twenty-five years after the tax is first imposed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For a demonstration project described in RCW
+82.14.505</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>July 1, 2010; and</p>
+            </content>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Bonds have been issued according to RCW
+39.104.110
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The requirement to issue bonds in (a)(iv) or (c)</p>
+            </content>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_d__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_510__subsec_3__subsec_d__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>does not apply to demonstration projects authorized by RCW
+82.14.505</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>An ordinance or resolution adopted by the legislative authority of the city or county imposing a tax under this section must provide that:</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax will first be imposed on the first day of a fiscal year;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The cumulative amount of tax received by the city or county, in any fiscal year, may not exceed the amount approved by the department under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section;</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department must cease distributing the tax for the remainder of any fiscal year in which either:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The amount of tax received by the city or county equals the amount of distributions approved by the department for the fiscal year under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section; or
+(ii) The amount of revenue distributed to all sponsoring and cosponsoring local governments from taxes imposed under this section equals the annual state contribution limit;</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The tax will be distributed again, should it cease to be distributed for any of the reasons provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection, at the beginning of the next fiscal year, subject to the restrictions in this section; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The state is entitled to any revenue generated by the tax in excess of the amounts specified in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>If a city or county receives approval for more than one revitalization area within its jurisdiction, the city or county may impose a sales and use tax under this section for each revitalization area.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The department must determine the amount of tax receipts distributed to each city and county imposing a sales and use tax under the authority of this section and must advise a city or county when tax distributions for the fiscal year equal the amount determined by the department in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section. Determinations by the department of the amount of tax distributions attributable to a city or county are not appealable. The department must remit any tax receipts in excess of the amounts specified in subsection</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section to the state treasurer who must deposit the money in the general fund.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>If a city or county fails to comply with RCW
+82.32.765
+, no tax may be distributed in the subsequent fiscal year until such time as the city or county complies and the department calculates the state contribution amount according to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section for the fiscal year.</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For each fiscal year that a city or county imposes the tax under the authority of this section, the department must approve the amount of taxes that may be distributed to the city or county. The amount approved by the department under this subsection is the lesser of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The state contribution;</p>
+            </content>
+            <subsection eId="sec_82_14_510__subsec_10__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The amount of project award granted as provided in RCW
+39.104.100
+; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_510__subsec_10__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The total amount of revenues from local public sources dedicated or, in the case of carry forward revenues, deemed dedicated in the preceding calendar year, as reported in the required annual report under RCW
+82.32.765
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A city or county may not receive, in any fiscal year, more revenues from taxes imposed under the authority of this section than the amount approved annually by the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The amount of tax distributions received from taxes imposed under the authority of this section by all cities and counties is limited annually to not more than the amount of annual state contribution limit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>The definitions in RCW
+39.104.020
+apply to this section subject to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>of this section and unless the context clearly requires otherwise.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_14_510__subsec_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Local sales and use taxes&quot; means sales and use taxes imposed by cities, counties, public facilities districts, and other local governments under the authority of this chapter, chapter
+67.28
+RCW, or any other chapter, and that are credited against the state sales and use taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_510__subsec_13__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;State sales and use taxes&quot; means the taxes imposed in RCW
+82.08.020</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_510__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and
+82.12.020
+.
+[
+2016 c 207 s 4
+;
+2015 c 112 s 1
+;
+2010 c 164 s 9
+;
+2009 c 270 s 601
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

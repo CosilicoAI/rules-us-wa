@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.200"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_200">
+        <num>RCW 74.15.200</num>
+        <heading>Child abuse and neglect prevention training to parents and day care providers</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.200
+74.15.190
+&lt;&lt; 
+        74.15.200 &gt;&gt;
+74.15.210
+PDF
+RCW
+74.15.200
+Child abuse and neglect prevention training to parents and day care providers.
+The department shall have primary responsibility for providing child abuse and neglect prevention training to parents and licensed child day care providers of preschool age children participating in day care programs meeting the requirements of chapter
+74.15
+RCW. The department may limit training under this section to trainers' workshops and curriculum development using existing resources.
+[
+2017 3rd sp.s. c 6 s 415
+;
+1987 c 489 s 5
+.]
+NOTES:
+Effective date
+—
+2017 3rd sp.s. c 6 ss 102, 104-115, 201-227, 301-337, 401-419, 501-513, 801-803, and 805-822:
+See note following RCW
+43.216.025
+.
+Conflict with federal requirements
+—
+2017 3rd sp.s. c 6:
+See RCW
+43.216.908
+.
+Intent
+—
+1987 c 489:
+See note following RCW
+28A.300.150
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

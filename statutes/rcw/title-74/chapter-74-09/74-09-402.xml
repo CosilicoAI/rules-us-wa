@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.402"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.402"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.402/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.402/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.402/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.402/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_402">
+        <num>RCW 74.09.402</num>
+        <heading>Children's health care—Findings—Intent</heading>
+        <subsection eId="sec_74_09_402__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that:</p>
+          </content>
+          <subsection eId="sec_74_09_402__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Improving the health of children in Washington state is an investment in a productive and successful next generation. The health of children is critical to their success in school and throughout their lives;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_402__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Healthy children are ready to learn. In order to provide students with the opportunity to become responsible citizens, to contribute to their own economic well-being and to that of their families and communities, and to enjoy productive and satisfying lives, the state recognizes the importance that access to appropriate health services and improved health brings to the children of Washington state. In addition, fully immunized children are themselves protected, and in turn protect others, from contracting communicable diseases;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_402__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Children with health insurance coverage have better health outcomes than those who lack coverage. Children without health insurance coverage are more likely to be in poor health and more likely to delay receiving, or go without, needed health care services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_402__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Health care coverage for children in Washington state is the product of critical efforts in both the private and public sectors to help children succeed. Private health insurance coverage is complemented by public programs that meet needs of low-income children whose parents are not offered health insurance coverage through their employer or who cannot otherwise afford the costs of coverage. In 2006, thirty-five percent of children in Washington state had some form of public health coverage. Washington state is making progress in its efforts to increase the number of children with health care coverage. Yet, even with these efforts of both private and public sectors, many children in Washington state continue to lack health insurance coverage. In 2006, over seventy thousand children were uninsured. Almost two-thirds of these children are in families whose income is under two hundred fifty percent of the federal poverty level; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_402__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Improved health outcomes for the children of Washington state are the expected result of improved access to health care coverage. Linking children with a medical home that provides preventive and well child health services and referral to needed specialty services, linking children with needed behavioral health and dental services, more effectively managing childhood diseases, improving nutrition, and increasing physical activity are key to improving children's health. Care should be provided in appropriate settings by efficient providers, consistent with high quality care and at an appropriate stage, soon enough to avert the need for overly expensive treatment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_402__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is therefore the intent of the legislature that:</p>
+          </content>
+          <subsection eId="sec_74_09_402__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All children in the state of Washington have health care coverage by 2010. This should be accomplished by building upon and strengthening the successes of private health insurance coverage and publicly supported children's health insurance programs in Washington state. Access to coverage should be streamlined and efficient, with reductions in unnecessary administrative costs and mechanisms to expeditiously link children with a medical home;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_402__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The state, in collaboration with parents, schools, communities, health plans, and providers, take steps to improve health outcomes for the children of Washington state by linking children with a medical home, identifying health improvement goals for children, and linking innovative purchasing strategies to those goals.
+[
+2007 c 5 s 1
+;
+2005 c 279 s 1
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

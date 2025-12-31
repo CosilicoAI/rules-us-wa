@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.060"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_060">
+        <num>RCW 82.04.060</num>
+        <heading>&quot;Sale at wholesale,&quot; &quot;wholesale sale.&quot;</heading>
+        <subsection eId="sec_82_04_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any sale, which is not a sale at retail, of:</p>
+          </content>
+          <subsection eId="sec_82_04_060__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Tangible personal property;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_060__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Services defined as a retail sale in RCW
+82.04.050</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_060__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_04_060__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or (g);</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_060__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Activities defined as a retail sale in RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_060__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Prewritten computer software;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_060__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Services described in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_060__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Extended warranties as defined in RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_060__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Competitive telephone service, ancillary services, or telecommunications service as those terms are defined in RCW
+82.04.065
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_060__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Digital goods, digital codes, or digital automated services;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any charge made for labor and services rendered for persons who are not consumers, in respect to real or personal property, if such charge is expressly defined as a retail sale by RCW
+82.04.050
+when rendered to or for consumers. For the purposes of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The sale of any service for resale, if the sale is excluded from the definition of &quot;sale at retail&quot; and &quot;retail sale&quot; in RCW
+82.04.050</p>
+          </content>
+          <subsection eId="sec_82_04_060__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

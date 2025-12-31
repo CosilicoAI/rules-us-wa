@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02665"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02665"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02665/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02665/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02665/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02665/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_02665">
+        <num>RCW 82.08.02665</num>
+        <heading>Exemptions—Sales of watercraft, vessels to residents of foreign countries</heading>
+        <subsection eId="sec_82_08_02665__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>the vessel will not be used within this state for more than forty-five days and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02665__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>an appropriate exemption certificate supported by identification as required by the department of revenue and signed by the purchaser or the purchaser's agent establishes the fact that the purchaser is a resident of a foreign country and that the vessel is for use outside of this state. A copy of the exemption certificate is to be retained by the dealer.
+As used in this section, &quot;vessel&quot; means every watercraft used or capable of being used as a means of transportation on the water, other than a seaplane.
+[
+1999 c 358 s 6
+;
+1993 c 119 s 1
+.]
+NOTES:
+Effective date
+—
+1999 c 358 ss 1 and 3-21:
+See note following RCW
+82.04.3651
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

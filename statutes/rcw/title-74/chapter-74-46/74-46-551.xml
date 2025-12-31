@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.551"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.551"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.551/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.551/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.551/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.551/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_551">
+        <num>RCW 74.46.551</num>
+        <heading>Facility-based payment rates—Comparative analysis—Rate add-ons</heading>
+        <subsection eId="sec_74_46_551__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For fiscal year 2016 and subject to appropriation, the department shall do a comparative analysis of the facility-based payment rates calculated on July 1, 2015, using the payment methodology defined in this chapter, to the facility-based rates in effect June 30, 2010. If the facility-based payment rate calculated on July 1, 2015, is smaller than the facility-based payment rate on June 30, 2010, the difference must be provided to the individual nursing facilities as an add-on per medicaid resident day.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_551__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>During the comparative analysis performed in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_551__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, for fiscal year 2016, if it is found that the direct care rate for any facility calculated under this chapter is greater than the direct care rate in effect on June 30, 2010, then the facility must receive a ten percent direct care rate add-on to compensate that facility for taking on more acute clients than it has in the past.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_551__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The rate add-ons provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_551__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section are subject to the reconciliation and settlement process provided in RCW
+74.46.022</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

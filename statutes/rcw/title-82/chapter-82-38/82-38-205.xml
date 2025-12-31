@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.205"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.205/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.205/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_205">
+        <num>RCW 82.38.205</num>
+        <heading>Injunctions—Writs</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.38
+&gt;
+Section 82.38.205
+82.38.200
+&lt;&lt; 
+        82.38.205 &gt;&gt;
+82.38.210
+PDF
+RCW
+82.38.205
+Injunctions
+—
+Writs.
+No injunction or writ of mandate or other legal or equitable process may be issued in any suit, action, or proceeding in any court against this state or against any officer of the state to prevent or enjoin the collection under this chapter of any tax or any amount of tax required to be collected.
+[
+2013 c 225 s 206
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

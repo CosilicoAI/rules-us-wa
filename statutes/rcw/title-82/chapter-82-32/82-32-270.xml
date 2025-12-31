@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.270"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_270">
+        <num>RCW 82.32.270</num>
+        <heading>Accounting period prescribed</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.270
+82.32.265
+&lt;&lt; 
+        82.32.270 &gt;&gt;
+82.32.280
+PDF
+RCW
+82.32.270
+Accounting period prescribed.
+The taxes imposed hereunder, and the returns required therefor, shall be upon a calendar year basis; but, if any taxpayer in transacting his or her business, keeps books reflecting the same on a basis other than the calendar year, he or she may, with consent of the department of revenue, make his or her returns, and pay taxes upon the basis of his or her accounting period as shown by the method of keeping the books of his or her business.
+[
+2013 c 23 s 326
+;
+1975 1st ex.s. c 278 s 88
+;
+1961 c 15 s 82.32.270
+. Prior:
+1935 c 180 s 205
+; RRS s 8370-205.]
+NOTES:
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.450"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.450"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.450/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.450/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.450/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.450/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_450">
+        <num>RCW 74.12.450</num>
+        <heading>Application for assistance—Report on suspected child abuse or neglect—Notice to parent about application, location of child, and family reconciliation act</heading>
+        <subsection eId="sec_74_12_450__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever the department receives an application for assistance on behalf of a child under this chapter and an employee of the department has reason to believe that the child has suffered abuse or neglect, the employee shall cause a report to be made as provided under chapter
+26.44
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_450__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Whenever the department approves an application for assistance on behalf of a child under this chapter, the department shall make a reasonable effort to determine whether the child is living with a parent of the child. Whenever the child is living in the home of a relative other than a parent of the child, the department shall make reasonable efforts to notify the parent with whom the child has most recently resided that an application for assistance on behalf of the child has been approved by the department and shall advise the parent of his or her rights under this section, RCW
+74.12.460
+, and *sections 4 and 5 of this act, unless good cause exists not to do so based on a substantiated claim that the parent has abused or neglected the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_450__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Upon written request of the parent, the department shall notify the parent of the address and location of the child, unless there is a current investigation or pending case involving abuse or neglect by the parent under chapter
+13.34
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_450__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall notify and advise the parent of the provisions of the family reconciliation act under chapter
+13.32A
+RCW.
+[
+1995 c 401 s 2
+.]
+NOTES:
+*Reviser's note:
+Sections 4 and 5 of this act were vetoed by the governor.
+Severability
+—
+1995 c 401:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1995 c 401 s 7
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

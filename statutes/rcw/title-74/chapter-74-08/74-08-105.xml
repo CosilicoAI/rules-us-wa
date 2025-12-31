@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.105"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.105"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.105/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.105/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.105/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.105/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_105">
+        <num>RCW 74.08.105</num>
+        <heading>Out-of-state recipients</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08
+&gt;
+Section 74.08.105
+74.08.100
+&lt;&lt; 
+        74.08.105 &gt;&gt;
+74.08.210
+PDF
+RCW
+74.08.105
+Out-of-state recipients.
+No assistance payments shall be made to recipients living outside the state of Washington unless in the discretion of the secretary there is sound social reason for such out-of-state payments: PROVIDED, That the period for making such payments when authorized shall not exceed the length of time required to satisfy the residence requirements in the other state in order to be eligible for a grant in the same category of assistance as the recipient was eligible to receive in Washington.
+[
+1979 c 141 s 325
+;
+1959 c 26 s 74.08.105
+. Prior:
+1953 c 174 s 39
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

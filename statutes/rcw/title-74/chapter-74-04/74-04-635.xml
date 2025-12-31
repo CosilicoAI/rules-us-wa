@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.635"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.635"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.635/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.635/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.635/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.635/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_635">
+        <num>RCW 74.04.635</num>
+        <heading>State supplement to national program of supplemental security income—World War II Philippine veterans</heading>
+        <subsection eId="sec_74_04_635__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding any other provision of law, any person receiving benefits under RCW
+74.04.620
+on December 14, 1999, and who meets the requirements of subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_635__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section is eligible to receive benefits under this section although he or she does not retain a residence in the state and returns to the Republic of the Philippines, if he or she maintains a permanent residence in the Republic of the Philippines without any lapse of his or her presence in the Republic of the Philippines.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_635__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person subject to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_635__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section is eligible to receive benefits pursuant to this section if he or she was receiving benefits pursuant to RCW
+74.04.620
+on December 14, 1999, and meets both the following requirements:</p>
+          </content>
+          <subsection eId="sec_74_04_635__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>He or she is a veteran of World War II; and
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_635__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>He or she was a member of the government of the Commonwealth of the Philippines military forces who was in the service of the United States on July 26, 1941, or thereafter; or</p>
+            </content>
+            <subsection eId="sec_74_04_635__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>He or she was a Regular Philippine Scout who enlisted in Filipino-manned units of the United States army prior to October 6, 1945; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_04_635__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>He or she was a member of the Special Philippine Scouts who enlisted in the United States Armed Forces between October 6, 1945, and June 30, 1947.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_635__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Within funds appropriated for this purpose, the department is authorized to make a one-time lump sum payment of one thousand five hundred dollars to each person eligible for benefits under this section.</p>
+          </content>
+          <subsection eId="sec_74_04_635__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Benefits paid under this section are in lieu of benefits paid under RCW
+74.04.620
+for the period for which the benefits are paid.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_635__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Benefits are to be paid under this section for any period during which the recipient is receiving benefits under Title 8 of the federal social security act as a result of the application of federal Public Law 106-169, subject to any limitations imposed by this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_635__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section applies only to an individual who returns to the Republic of the Philippines for the period during which the individual establishes and maintains a residence in the Republic of the Philippines.
+[
+2001 c 111 s 2
+.]
+NOTES:
+Findings
+—
+2001 c 111:
+&quot;The legislature finds and declares:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_635__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>That soldiers who were members of the government of the Commonwealth of the Philippines military forces who were in the service of the United States of America on July 31, 1941, including the organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief of the Southwest Pacific Area or other competent authority in the Army of the United States, performed an invaluable function during World War II.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_635__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is in the public interest for the state of Washington to recognize those courageous soldiers who fought and defended American interests during World War II and who are currently receiving supplemental state benefits under RCW
+74.04.620
+as of December 14, 1999, by permitting them to return to their homeland to spend their last days without a complete forfeiture of benefits.&quot; [
+2001 c 111 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

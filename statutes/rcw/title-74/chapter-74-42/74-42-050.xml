@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_050">
+        <num>RCW 74.42.050</num>
+        <heading>Residents to be treated with consideration, respect—Complaints</heading>
+        <subsection eId="sec_74_42_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Residents shall be treated with consideration, respect, and full recognition of their dignity and individuality. Residents shall be encouraged and assisted in the exercise of their rights as residents of the facility and as citizens.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A resident or guardian, if any, may submit complaints or recommendations concerning the policies of the facility to the staff and to outside representatives of the resident's choice. No facility may restrain, interfere, coerce, discriminate, or retaliate in any manner against a resident who submits a complaint or recommendation.
+[
+1979 ex.s. c 211 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

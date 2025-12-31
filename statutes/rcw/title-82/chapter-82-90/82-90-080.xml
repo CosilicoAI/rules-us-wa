@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.90.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.90.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.90.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.90.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.90.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.90.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_90_080">
+        <num>RCW 82.90.080</num>
+        <heading>Conditions for lessors</heading>
+        <subsection eId="sec_82_90_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The underlying ownership of the qualified solar canopy vests exclusively in the same person; or</p>
+          </content>
+          <subsection eId="sec_82_90_080__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The lessor by written contract agrees to pass the economic benefit of the deferral to the lessee;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_90_080__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The lessee that receives the economic benefit of the deferral agrees in writing with the department to complete the annual tax performance report required under RCW
+82.32.534
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_90_080__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The economic benefit of the deferral passed to the lessee is no less than the amount of tax deferred by the lessor and is evidenced by written documentation of any type of payment, credit, or other financial arrangement between the lessor or owner of the eligible investment project and the lessee.
+[
+2023 c 374 s 20
+;
+2022 c 161 s 8
+.]
+NOTES:
+Tax preference performance statement
+—
+Automatic tax preference expiration
+—
+Exception
+—
+2022 c 161:
+See notes following RCW
+82.90.040
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

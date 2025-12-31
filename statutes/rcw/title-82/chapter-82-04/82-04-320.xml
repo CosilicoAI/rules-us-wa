@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.320"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.320/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.320/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_320">
+        <num>RCW 82.04.320</num>
+        <heading>Exemptions—Insurance business</heading>
+        <subsection eId="sec_82_04_320__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, this chapter does not apply to any person in respect to insurance business upon which a tax based on gross premiums is paid to the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_320__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of this section do not exempt any person engaging in the business of representing any insurance company, whether as general or local agent, or acting as broker for such companies.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_320__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The provisions of this section do not exempt any bonding company from tax with respect to gross income derived from the completion of any contract as to which it is a surety, or as to any liability as successor to the liability of the defaulting contractor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_320__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of this section, for periods preceding May 12, 2021, eligible captive insurers as defined in RCW
+48.201.020
+are deemed, in respect to their insurance business, to have paid a tax on gross premiums to the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_320__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Eligible captive insurers affiliated with a public institution of higher education that are exempt from paying a premium tax under RCW
+48.201.040
+are exempt from the tax imposed by this chapter in respect to their insurance business. For purposes of this subsection</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

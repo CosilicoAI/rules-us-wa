@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.035"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.035"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.035/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.035/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.035/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.035/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_035">
+        <num>RCW 74.13.035</num>
+        <heading>Crisis residential centers—Annual records, contents—Multiple licensing</heading>
+        <subsection eId="sec_74_13_035__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The number, age, and sex of children admitted to custody;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_035__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Who brought the children to the center;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_035__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Services provided to children admitted to the center;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_035__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The circumstances which necessitated the children being brought to the center;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_035__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The ultimate disposition of cases;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_035__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The number of children admitted to custody who ran away from the center and their ultimate disposition, if any;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_035__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Length of stay.
+The department may require the provision of additional information and may require each center to provide all such necessary information in a uniform manner.
+A center may, in addition to being licensed as such, also be licensed as a family foster home or group care facility and may house on the premises juveniles assigned for foster or group care.
+[
+1979 c 155 s 81
+.]
+NOTES:
+Effective date
+—
+Severability
+—
+1979 c 155:
+See notes following RCW
+13.04.011
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

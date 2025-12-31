@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.66.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.66.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.66.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_66_050">
+        <num>RCW 74.66.050</num>
+        <heading>Qui tam action—Relator rights and duties</heading>
+        <subsection eId="sec_74_66_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person may bring a civil action for a violation of RCW
+74.66.020
+for the person and for the government entity. The action may be known as a qui tam action and the person bringing the action as a qui tam relator. The action must be brought in the name of the government entity. The action may be dismissed only if the court , and the attorney general give written consent to the dismissal and their reason for consenting.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A relator filing an action under this chapter must serve a copy of the complaint and written disclosure of substantially all material evidence and information the person possesses on the attorney general in electronic format. The relator must file the complaint in camera. The complaint must remain under seal for at least sixty days, and may not be served on the defendant until the court so orders. The attorney general may elect to intervene and proceed with the action within sixty days after it receives both the complaint and the material evidence and information.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The attorney general may, for good cause shown, move the court for extensions of the time during which the complaint remains under seal under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section. The motions may be supported by affidavits or other submissions in camera. The defendant may not be required to respond to any complaint filed under this section until twenty days after the complaint is unsealed and served upon the defendant.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If the attorney general does not proceed with the action prior to the expiration of the sixty-day period or any extensions obtained under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, then the relator has the right to conduct the action.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>When a person brings an action under this section, no person other than the attorney general may intervene or bring a related action based on the facts underlying the pending action.
+[
+2012 c 241 s 205
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2012 c 241:
+See note following RCW
+74.66.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.670"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.670"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.670/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.670/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.670/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.670/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_670">
+        <num>RCW 74.04.670</num>
+        <heading>Long-term care services—Eligibility</heading>
+        <subsection eId="sec_74_04_670__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For purposes of RCW
+74.04.005</p>
+          </content>
+          <subsection eId="sec_74_04_670__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A spouse; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_670__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A dependent child under age twenty-one; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_670__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A dependent child with a disability; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_670__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A dependent child who is blind; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_670__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The dependent child in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_670__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_670__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection meets the federal supplemental security income program criteria for disabled and blind.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_670__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The dollar amounts specified in this section shall be increased annually, beginning in 2011, from year to year based on the percentage increase in the consumer price index for all urban consumers, all items, United States city average, rounded to the nearest one thousand dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_670__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section applies to individuals who are determined eligible for medical assistance with respect to long-term care services based on an application filed on or after May 1, 2006.
+[
+2025 c 58 s 2046
+;
+2007 c 161 s 1
+.]
+NOTES:
+Explanatory note
+—
+2025 c 58:
+See note following RCW
+1.16.050
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

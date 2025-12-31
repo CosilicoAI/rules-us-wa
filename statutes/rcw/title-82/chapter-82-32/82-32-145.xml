@@ -1,0 +1,506 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.145"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.145"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.145/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.145/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.145/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.145/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_145">
+        <num>RCW 82.32.145</num>
+        <heading>Limited liability business entity—Terminated, dissolved, abandoned, insolvent—Collection of unpaid trust fund taxes. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_32_145__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever the department has issued a warrant under RCW
+82.32.210
+for the collection of unpaid trust fund taxes from a limited liability business entity and that business entity has been terminated, dissolved, or abandoned, or is insolvent, the department may pursue collection of the entity's unpaid trust fund taxes, including penalties and interest on those taxes, against any or all of the responsible individuals. For purposes of this subsection, &quot;insolvent&quot; means the condition that results when the sum of the entity's debts exceeds the fair market value of its assets. The department may presume that an entity is insolvent if the entity refuses to disclose to the department the nature of its assets and liabilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Personal liability under this section may be imposed for state and local trust fund taxes.</p>
+          </content>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For a responsible individual who is the current or a former chief executive or chief financial officer, liability under this section applies regardless of fault or whether the individual was or should have been aware of the unpaid trust fund tax liability of the limited liability business entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For any other responsible individual, liability under this section applies only if he or she willfully fails to pay or to cause to be paid to the department the trust fund taxes due from the limited liability business entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All other responsible individuals are liable under this section only for trust fund tax liability that became due during the period he or she had the responsibility or duty to remit payment of the limited liability business entity's taxes to the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Persons described in subsection</p>
+          </content>
+          <subsection eId="sec_82_32_145__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section are exempt from liability under this section in situations where nonpayment of the limited liability business entity's trust fund taxes is due to reasons beyond their control as determined by the department by rule.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Any person having been issued a notice of assessment under this section is entitled to the appeal procedures under RCW
+82.32.160
+,
+82.32.170
+,
+82.32.180
+,
+82.32.190
+, and
+82.32.200
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section does not relieve the limited liability business entity of its trust fund tax liability or otherwise impair other tax collection remedies afforded by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Collection authority and procedures prescribed in this chapter apply to collections under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Chief executive&quot; means: The president of a corporation; or for other entities or organizations other than corporations or if the corporation does not have a president as one of its officers, the highest ranking executive manager or administrator in charge of the management of the company or organization.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Chief financial officer&quot; means: The treasurer of a corporation; or for entities or organizations other than corporations or if a corporation does not have a treasurer as one of its officers, the highest senior manager who is responsible for overseeing the financial activities of the entire company or organization.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Limited liability business entity&quot; means a type of business entity that generally shields its owners from personal liability for the debts, obligations, and liabilities of the entity, or a business entity that is managed or owned in whole or in part by an entity that generally shields its owners from personal liability for the debts, obligations, and liabilities of the entity. Limited liability business entities include corporations, limited liability companies, limited liability partnerships, trusts, general partnerships and joint ventures in which one or more of the partners or parties are also limited liability business entities, and limited partnerships in which one or more of the general partners are also limited liability business entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Manager&quot; has the same meaning as in RCW
+25.15.006
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Member&quot; has the same meaning as in RCW
+25.15.006
+, except that the term only includes members of member-managed limited liability companies.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Officer&quot; means any officer or assistant officer of a corporation, including the president, vice president, secretary, and treasurer.
+(g)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Responsible individual&quot; includes any current or former officer, manager, member, partner, or trustee of a limited liability business entity with an unpaid tax warrant issued by the department.</p>
+            </content>
+            <subsection eId="sec_82_32_145__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Responsible individual&quot; also includes any current or former employee or other individual, but only if the individual had the responsibility or duty to remit payment of the limited liability business entity's unpaid trust fund tax liability reflected in a tax warrant issued by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_145__subsec_9__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Whenever any taxpayer has one or more limited liability business entities as a member, manager, or partner, &quot;responsible individual&quot; also includes any current and former officers, members, or managers of the limited liability business entity or entities or of any other limited liability business entity involved directly in the management of the taxpayer. For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Trust fund taxes&quot; means taxes collected from purchasers and held in trust under RCW
+82.08.050
+, including taxes imposed under RCW
+82.08.020
+,
+82.08.150
+, and
+82.51.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Willfully fails to pay or to cause to be paid&quot; means that the failure was the result of an intentional, conscious, and voluntary course of action.
+[
+2020 c 301 s 6
+;
+2015 c 188 s 121
+;
+2012 c 39 s 8
+;
+2010 1st sp.s. c 23 s 801
+;
+1995 c 318 s 2
+;
+1987 c 245 s 1
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2020 c 301:
+See RCW
+82.51.900
+.
+Effective date
+—
+2015 c 188:
+See RCW
+25.15.903
+.
+Construction
+—
+Effective date
+—
+2012 c 39:
+See notes following RCW
+82.08.155
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.32.655
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+1995 c 318:
+See note following RCW
+82.04.030
+.
+PDF
+RCW
+82.32.145
+Limited liability business entity
+—
+Terminated, dissolved, abandoned, insolvent
+—
+Collection of unpaid trust fund taxes.
+(Effective January 1, 2026.)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever the department has issued a warrant under RCW
+82.32.210
+for the collection of unpaid trust fund taxes from a limited liability business entity and that business entity has been terminated, dissolved, or abandoned, or is insolvent, the department may pursue collection of the entity's unpaid trust fund taxes, including penalties and interest on those taxes, against any or all of the responsible individuals. For purposes of this subsection, &quot;insolvent&quot; means the condition that results when the sum of the entity's debts exceeds the fair market value of its assets. The department may presume that an entity is insolvent if the entity refuses to disclose to the department the nature of its assets and liabilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Personal liability under this section may be imposed for state and local trust fund taxes.</p>
+          </content>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For a responsible individual who is the current or a former chief executive or chief financial officer, liability under this section applies regardless of fault or whether the individual was or should have been aware of the unpaid trust fund tax liability of the limited liability business entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For any other responsible individual, liability under this section applies only if he or she willfully fails to pay or to cause to be paid to the department the trust fund taxes due from the limited liability business entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All other responsible individuals are liable under this section only for trust fund tax liability that became due during the period he or she had the responsibility or duty to remit payment of the limited liability business entity's taxes to the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Persons described in subsection</p>
+          </content>
+          <subsection eId="sec_82_32_145__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section are exempt from liability under this section in situations where nonpayment of the limited liability business entity's trust fund taxes is due to reasons beyond their control as determined by the department by rule.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Any person having been issued a notice of assessment under this section is entitled to the appeal procedures under RCW
+82.32.160
+,
+82.32.170
+,
+82.32.180
+,
+82.32.190
+, and
+82.32.200
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section does not relieve the limited liability business entity of its trust fund tax liability or otherwise impair other tax collection remedies afforded by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Collection authority and procedures prescribed in this chapter apply to collections under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_145__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Chief executive&quot; means: The president of a corporation; or for other entities or organizations other than corporations or if the corporation does not have a president as one of its officers, the highest ranking executive manager or administrator in charge of the management of the company or organization.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Chief financial officer&quot; means: The treasurer of a corporation; or for entities or organizations other than corporations or if a corporation does not have a treasurer as one of its officers, the highest senior manager who is responsible for overseeing the financial activities of the entire company or organization.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Limited liability business entity&quot; means a type of business entity that generally shields its owners from personal liability for the debts, obligations, and liabilities of the entity, or a business entity that is managed or owned in whole or in part by an entity that generally shields its owners from personal liability for the debts, obligations, and liabilities of the entity. Limited liability business entities include corporations, limited liability companies, limited liability partnerships, trusts, general partnerships and joint ventures in which one or more of the partners or parties are also limited liability business entities, and limited partnerships in which one or more of the general partners are also limited liability business entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Manager&quot; has the same meaning as in RCW
+25.15.006
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Member&quot; has the same meaning as in RCW
+25.15.006
+, except that the term only includes members of member-managed limited liability companies.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Officer&quot; means any officer or assistant officer of a corporation, including the president, vice president, secretary, and treasurer.
+(g)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Responsible individual&quot; includes any current or former officer, manager, member, partner, or trustee of a limited liability business entity with an unpaid tax warrant issued by the department.</p>
+            </content>
+            <subsection eId="sec_82_32_145__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Responsible individual&quot; also includes any current or former employee or other individual, but only if the individual had the responsibility or duty to remit payment of the limited liability business entity's unpaid trust fund tax liability reflected in a tax warrant issued by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_145__subsec_9__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Whenever any taxpayer has one or more limited liability business entities as a member, manager, or partner, &quot;responsible individual&quot; also includes any current and former officers, members, or managers of the limited liability business entity or entities or of any other limited liability business entity involved directly in the management of the taxpayer. For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Trust fund taxes&quot; means taxes collected from purchasers and held in trust under RCW
+82.08.050
+, including taxes imposed under RCW
+82.08.020
+,
+82.08.150
+,
+82.08.817
+,
+82.12.818
+,
+82.48A.010
+,
+82.48A.020
+, and
+82.51.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_145__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Willfully fails to pay or to cause to be paid&quot; means that the failure was the result of an intentional, conscious, and voluntary course of action.
+[
+2025 c 417 s 205
+;
+2020 c 301 s 6
+;
+2015 c 188 s 121
+;
+2012 c 39 s 8
+;
+2010 1st sp.s. c 23 s 801
+;
+1995 c 318 s 2
+;
+1987 c 245 s 1
+.]
+NOTES:
+Effective date
+—
+2025 c 417 ss 104, 105, 107-110, 201-206, 301-303, 604, and 903:
+See note following RCW
+46.17.355
+.
+Findings
+—
+Intent
+—
+2025 c 417:
+See note following RCW
+82.38.030
+.
+Automatic expiration date and tax preference performance statement exemption
+—
+2020 c 301:
+See RCW
+82.51.900
+.
+Effective date
+—
+2015 c 188:
+See RCW
+25.15.903
+.
+Construction
+—
+Effective date
+—
+2012 c 39:
+See notes following RCW
+82.08.155
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.32.655
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+1995 c 318:
+See note following RCW
+82.04.030
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

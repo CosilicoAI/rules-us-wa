@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.408"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.408"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.408/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.408/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.408/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.408/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_408">
+        <num>RCW 82.04.408</num>
+        <heading>Exemptions—Housing finance commission</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.408
+82.04.405
+&lt;&lt; 
+        82.04.408 &gt;&gt;
+82.04.410
+PDF
+RCW
+82.04.408
+Exemptions
+—
+Housing finance commission.
+This chapter does not apply to income received by the state housing finance commission under chapter
+43.180
+RCW.
+[
+1983 c 161 s 25
+.]
+NOTES:
+Effective dates
+—
+1983 c 161:
+See RCW
+43.180.904
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

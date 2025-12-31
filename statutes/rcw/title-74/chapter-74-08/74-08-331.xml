@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.331"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.331"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.331/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.331/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.331/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.331/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_331">
+        <num>RCW 74.08.331</num>
+        <heading>Unlawful practices—Obtaining assistance—Disposal of realty—Penalties</heading>
+        <subsection eId="sec_74_08_331__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any person who by means of a willfully false statement, or representation, or impersonation, or a willful failure to reveal any material fact, condition, or circumstance affecting eligibility or need for assistance, including medical care, surplus commodities, and food stamps or food stamp benefits transferred electronically, as required by law, or a willful failure to promptly notify the county office in writing as required by law or any change in status in respect to resources, or income, or need, or family composition, money contribution and other support, from whatever source derived, including unemployment insurance, or any other change in circumstances affecting the person's eligibility or need for assistance, or other fraudulent device, obtains, or attempts to obtain, or aids or abets any person to obtain any public assistance to which the person is not entitled or greater public assistance than that to which he or she is justly entitled is guilty of theft in the first degree under RCW
+9A.56.030
+and upon conviction thereof shall be punished by imprisonment in a state correctional facility for not more than fifteen years.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_331__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any person who by means of a willfully false statement or representation or by impersonation or other fraudulent device aids or abets in buying, selling, or in any other way disposing of the real property of a recipient of public assistance without the consent of the secretary is guilty of a gross misdemeanor and upon conviction thereof shall be punished by imprisonment for up to three hundred sixty-four days in the county jail or a fine of not to exceed one thousand dollars or by both.
+[
+2011 c 96 s 53
+;
+2003 c 53 s 368
+;
+1998 c 79 s 16
+;
+1997 c 58 s 303
+;
+1992 c 7 s 59
+;
+1979 c 141 s 329
+;
+1965 ex.s. c 34 s 1
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 c 96:
+See note following RCW
+9A.20.021
+.
+Intent
+—
+Effective date
+—
+2003 c 53:
+See notes following RCW
+2.48.180
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

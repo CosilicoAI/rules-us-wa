@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4263"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4263"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4263/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4263/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4263/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4263/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4263">
+        <num>RCW 82.04.4263</num>
+        <heading>Exemptions—Income received by the life sciences discovery fund authority</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4263
+82.04.4262
+&lt;&lt; 
+        82.04.4263 &gt;&gt;
+82.04.4264
+PDF
+RCW
+82.04.4263
+Exemptions
+—
+Income received by the life sciences discovery fund authority.
+This chapter does not apply to income received by the life sciences discovery fund authority under *chapter
+43.350
+RCW.
+[
+2005 c 424 s 11
+.]
+NOTES:
+*Reviser's note:
+Chapter
+43.350
+RCW was repealed and/or recodified by 2019 c 83 ss 5 and 6.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

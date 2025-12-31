@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.900"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.900"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.900/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.900/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.900/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.900/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_900">
+        <num>RCW 74.20A.900</num>
+        <heading>Severability—Alternative when method of notification held invalid</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.900
+74.20A.370
+&lt;&lt; 
+        74.20A.900 &gt;&gt;
+74.20A.910
+PDF
+RCW
+74.20A.900
+Severability
+—
+Alternative when method of notification held invalid.
+If any provision of this chapter or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of this chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable.
+If any method of notification provided for in this chapter is held invalid, service as provided for by the laws of the state of Washington for service of process in a civil action shall be substituted for the method held invalid.
+[
+1971 ex.s. c 164 s 27
+.]
+NOTES:
+Civil procedure
+—
+Commencement of actions: Chapter
+4.28
+RCW.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

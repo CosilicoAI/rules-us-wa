@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.38.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.38.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.38.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_38_020">
+        <num>RCW 74.38.020</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_38_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Area agency&quot; means an agency, other than a state agency, designated by the department to carry out programs or services approved by the department in a designated geographical area of the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Area plan&quot; means the document submitted annually by an area agency to the department for approval which sets forth</p>
+          </content>
+          <subsection eId="sec_74_38_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>goals and measurable objectives,</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_38_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>review of past expenditures and accounting of revenue for the previous year,</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_38_020__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>estimated revenue and expenditures for the ensuing year, and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_38_020__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>the planning, coordination, administration, social services, and evaluation activities to be undertaken to carry out the purposes of the Older Americans Act of 1965 (42 U.S.C. Sec. 3024 et seq.), as now or hereafter amended.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Office&quot; shall mean the office on aging which is the organizational unit within the department responsible for coordinating and administering aging problems.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Eligible persons&quot; means senior citizens who are:</p>
+          </content>
+          <subsection eId="sec_74_38_020__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Sixty-five years of age or more; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_38_020__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Sixty years of age or more and are either</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_38_020__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>nonemployed, or</p>
+            </content>
+            <subsection eId="sec_74_38_020__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>employed for twenty hours per week or less; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_38_020__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In need of services to enable them to remain in their customary homes because of physical, mental, or other debilitating impairments.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Low income&quot; means initial resources or subsequent income at or below forty percent of the state median income as promulgated by the secretary of the United States department of health, education and welfare for Title XX of the Social Security Act, or, in the alternative, a level determined by the department and approved by the legislature.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Income&quot; shall have the same meaning as in chapter
+74.04
+RCW, as now or hereafter amended; except, that money received from RCW
+74.38.060
+shall be excluded from this definition.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Resource&quot; shall have the same meaning as in chapter
+74.04
+RCW, as now or hereafter amended.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Need&quot; shall have the same meaning as in chapter
+74.04
+RCW, as now or hereafter amended.
+[
+1989 1st ex.s. c 9 s 817
+;
+1977 ex.s. c 321 s 2
+; 1975-'76 2nd ex.s. c 131 s 2.]
+NOTES:
+Effective date
+—
+Severability
+—
+1989 1st ex.s. c 9:
+See RCW
+43.70.910
+and
+43.70.920
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

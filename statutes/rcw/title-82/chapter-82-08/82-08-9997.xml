@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9997"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9997"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9997/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9997/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9997/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9997/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_9997">
+        <num>RCW 82.08.9997</num>
+        <heading>Exemptions—Retail sale of cannabis, useable cannabis, cannabis concentrates, and cannabis-infused products covered by cannabis agreement between state and tribe</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.9997
+82.08.9996
+&lt;&lt; 
+        82.08.9997 &gt;&gt;
+82.08.9998
+PDF
+RCW
+82.08.9997
+Exemptions
+—
+Retail sale of cannabis, useable cannabis, cannabis concentrates, and cannabis-infused products covered by cannabis agreement between state and tribe.
+The taxes imposed by this chapter do not apply to the retail sale of cannabis, useable cannabis, cannabis concentrates, and cannabis-infused products covered by an agreement entered into under RCW
+43.06.490
+. &quot;Cannabis,&quot; &quot;useable cannabis,&quot; &quot;cannabis concentrates,&quot; and &quot;cannabis-infused products&quot; have the same meaning as defined in RCW
+69.50.101
+. The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to this section.
+[
+2022 c 56 s 6
+;
+2022 c 16 s 154
+;
+2015 c 207 s 4
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2022 c 16 s 154 and by 2022 c 56 s 6, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025
+(2). For rule of construction, see RCW
+1.12.025
+(1).
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Intent
+—
+Finding
+—
+2015 c 207:
+See note following RCW
+43.06.490
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

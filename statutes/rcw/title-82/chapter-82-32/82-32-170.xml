@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.170"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_170">
+        <num>RCW 82.32.170</num>
+        <heading>Reduction of tax after payment—Petition—Conference—Determination by department</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.170
+82.32.160
+&lt;&lt; 
+        82.32.170 &gt;&gt;
+82.32.180
+PDF
+RCW
+82.32.170
+Reduction of tax after payment
+—
+Petition
+—
+Conference
+—
+Determination by department.
+Any person, having paid any tax, original assessment, additional assessment, or corrected assessment of any tax, may apply to the department within the time limitation for refund provided in this chapter, by petition in writing for a correction of the amount paid, and a conference for examination and review of the tax liability, in which petition he or she shall set forth the reasons why the conference should be granted, and the amount in which the tax, interest, or penalty, should be refunded. The department shall promptly consider the petition, and may grant or deny it. If denied, the petitioner shall be notified by mail, or electronically as provided in RCW
+82.32.135
+, thereof forthwith. If a conference is granted, the department shall notify the petitioner by mail, or electronically as provided in RCW
+82.32.135
+, of the time and place fixed therefor. After the hearing, the department may make such determination as may appear to it just and lawful, and shall mail a copy of its determination to the petitioner, or provide a copy of its determination electronically as provided in RCW
+82.32.135
+.
+[
+2013 c 23 s 324
+;
+2007 c 111 s 111
+;
+1967 ex.s. c 26 s 50
+;
+1961 c 15 s 82.32.170
+. Prior:
+1951 1st ex.s. c 9 s 11
+; 1939 c 225 s 29, part; 1935 c 180 s 199, part; RRS s 8370-199, part.]
+NOTES:
+Part headings not law
+—
+2007 c 111:
+See note following RCW
+82.16.120
+.
+Effective date
+—
+1967 ex.s. c 26:
+See note following RCW
+82.01.050
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

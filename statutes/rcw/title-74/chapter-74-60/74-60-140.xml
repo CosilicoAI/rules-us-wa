@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.140"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.140"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.140/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.140/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.140/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.140/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_140">
+        <num>RCW 74.60.140</num>
+        <heading>Multihospital locations, new hospitals, and changes in ownership</heading>
+        <subsection eId="sec_74_60_140__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If an entity owns or operates more than one hospital subject to assessment under this chapter, the entity shall pay the assessment for each hospital separately. However, if the entity operates multiple hospitals under a single medicaid provider number, it may pay the assessment for the hospitals in the aggregate.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_140__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding any other provision of this chapter, if a hospital subject to the assessment imposed under this chapter ceases to conduct hospital operations throughout a state fiscal year, the assessment for the quarter in which the cessation occurs shall be adjusted by multiplying the assessment computed under RCW
+74.60.030
+by a fraction, the numerator of which is the number of days during the year which the hospital conducts, operates, or maintains the hospital and the denominator of which is three hundred sixty-five. Immediately prior to ceasing to conduct, operate, or maintain a hospital, the hospital shall pay the adjusted assessment for the fiscal year to the extent not previously paid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_140__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding any other provision of this chapter, if a hospital previously subject to assessment is sold or transferred to another entity and remains subject to assessment, the assessment for that hospital shall be computed based upon the cost report data previously submitted by that hospital. The assessment shall be allocated between the transferor and transferee based on the number of days within the assessment period that each owned, operated, or maintained the hospital.
+[
+2013 2nd sp.s. c 17 s 14
+;
+2010 1st sp.s. c 30 s 16
+.]
+NOTES:
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

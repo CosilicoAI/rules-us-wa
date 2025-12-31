@@ -1,0 +1,392 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.440"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.440"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.440/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.440/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.440/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.440/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_440">
+        <num>RCW 82.04.440</num>
+        <heading>Credit—Persons taxable on multiple activities</heading>
+        <subsection eId="sec_82_04_440__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every person engaged in activities that are subject to tax under two or more provisions of RCW
+82.04.230
+through
+82.04.298
+, inclusive, is taxable under each provision applicable to those activities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_440__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Persons taxable under RCW
+82.04.2909</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_440__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>with respect to selling products in this state, including those persons who are also taxable under RCW
+82.04.261
+, are allowed a credit against those taxes for any</p>
+          </content>
+          <subsection eId="sec_82_04_440__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>manufacturing taxes paid with respect to the manufacturing of products so sold in this state, and/or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>extracting taxes paid with respect to the extracting of products so sold in this state or ingredients of products so sold in this state. Extracting taxes taken as credit under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_440__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section may also be taken under this subsection, if otherwise allowable under this subsection. The amount of the credit may not exceed the tax liability arising under this chapter with respect to the sale of those products.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_440__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Persons taxable as manufacturers under RCW
+82.04.240
+or
+82.04.260</p>
+          </content>
+          <subsection eId="sec_82_04_440__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_440__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Persons taxable under RCW
+82.04.230
+,
+82.04.240
+,
+82.04.2909</p>
+          </content>
+          <subsection eId="sec_82_04_440__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>gross receipts taxes paid to another state with respect to the sales of the products so extracted or manufactured in this state,</p>
+            </content>
+            <subsection eId="sec_82_04_440__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>manufacturing taxes paid with respect to the manufacturing of products using ingredients so extracted in this state, or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_440__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>manufacturing taxes paid with respect to manufacturing activities completed in another state for products so manufactured in this state. The amount of the credit may not exceed the tax liability arising under this chapter with respect to the extraction or manufacturing of those products.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_440__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For the purpose of this section:</p>
+          </content>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Gross receipts tax&quot; means a tax:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Which is imposed on or measured by the gross volume of business, in terms of gross receipts or in other terms, and in the determination of which the deductions allowed would not constitute the tax an income tax or value added tax; and</p>
+            </content>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Which is also not, pursuant to law or custom, separately stated from the sales price.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;State&quot; means</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the state of Washington,</p>
+            </content>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a state of the United States other than Washington, or any political subdivision of such other state,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the District of Columbia, and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>any foreign country or political subdivision thereof.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Manufacturing tax&quot; means a gross receipts tax imposed on the act or privilege of engaging in business as a manufacturer, and includes</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the taxes imposed in RCW
+82.04.240
+,
+82.04.2404
+,
+82.04.2909</p>
+            </content>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the tax imposed under RCW
+82.04.261
+on persons who are engaged in business as a manufacturer; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>similar gross receipts taxes paid to other states.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Extracting tax&quot; means a gross receipts tax imposed on the act or privilege of engaging in business as an extractor, and includes</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the tax imposed on extractors in RCW
+82.04.230
+and
+82.04.260</p>
+            </content>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the tax imposed under RCW
+82.04.261
+on persons who are engaged in business as an extractor; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_440__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>similar gross receipts taxes paid to other states.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_440__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Business,&quot; &quot;manufacturer,&quot; &quot;extractor,&quot; and other terms used in this section have the meanings given in RCW
+82.04.020
+through
+82.04.212
+[
+82.04.217
+], notwithstanding the use of those terms in the context of describing taxes imposed by other states.
+[
+2011 c 2 s 205
+(Initiative Measure No. 1107, approved November 2, 2010);
+2010 1st sp.s. c 23 s 513
+. Prior:
+2006 c 300 s 8
+;
+2006 c 84 s 6
+; (2007 c 54 s 10 expired July 22, 2007);
+2005 c 301 s 3
+; prior:
+2004 c 174 s 5
+;
+2004 c 24 s 7
+;
+2003 2nd sp.s. c 1 s 6
+;
+1998 c 312 s 9
+;
+1994 c 124 s 4
+;
+1987 2nd ex.s. c 3 s 2
+;
+1985 c 190 s 1
+;
+1981 c 172 s 5
+;
+1967 ex.s. c 149 s 16
+;
+1965 ex.s. c 173 s 12
+;
+1961 c 15 s 82.04.440
+; prior:
+1959 c 211 s 3
+;
+1951 1st ex.s. c 9 s 1
+;
+1950 ex.s. c 5 s 2
+; 1949 c 228 s 2-A;
+1943 c 156 s 3
+;
+1941 c 178 s 3
+;
+1939 c 225 s 3
+;
+1937 c 227 s 3
+;
+1935 c 180 s 6
+; Rem. Supp. 1949 s 8370-6.]
+NOTES:
+Findings
+—
+Construction
+—
+2011 c 2 (Initiative Measure No. 1107):
+See notes following RCW
+82.08.0293
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Contingent expiration date
+—
+2007 c 54 s 10:
+&quot;Section 10 of this act expires if the contingency in section 29 of this act occurs.&quot; [
+2007 c 54 s 31
+.]  The contingency in section 29, chapter 54, Laws of 2007 occurred on December 1, 2006.
+Effective dates
+—
+Contingent effective date
+—
+2006 c 300:
+See note following RCW
+82.04.261
+.
+Effective date
+—
+2006 c 84 ss 2-8:
+See note following RCW
+82.04.2404
+.
+Findings
+—
+Intent
+—
+2006 c 84:
+See note following RCW
+82.04.2404
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+2005 c 301:
+See notes following RCW
+82.04.294
+.
+Effective date
+—
+2004 c 174:
+See note following RCW
+82.04.2908
+.
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.
+Finding
+—
+2003 2nd sp.s. c 1:
+See note following RCW
+82.04.4461
+.
+Effective date
+—
+Savings
+—
+1998 c 312:
+See notes following RCW
+82.04.332
+.
+Retroactive application
+</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

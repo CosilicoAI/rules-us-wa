@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.110"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_110">
+        <num>RCW 82.26.110</num>
+        <heading>When credit may be obtained for tax paid</heading>
+        <subsection eId="sec_82_26_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Credit allowed under this section shall be determined based on the tax rate in effect for the period for which the tax imposed by this chapter, for which a credit is sought, was paid.
+[
+2007 c 221 s 4
+;
+2005 c 180 s 9
+;
+1975 1st ex.s. c 278 s 76
+;
+1961 c 15 s 82.26.110
+. Prior:
+1959 ex.s. c 5 s 21
+.]
+NOTES:
+Effective date
+—
+2005 c 180:
+See note following RCW
+82.26.105
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

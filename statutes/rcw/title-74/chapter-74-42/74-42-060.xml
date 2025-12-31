@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.060"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_060">
+        <num>RCW 74.42.060</num>
+        <heading>Management of residents' financial affairs</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.060
+74.42.058
+&lt;&lt; 
+        74.42.060 &gt;&gt;
+74.42.070
+PDF
+RCW
+74.42.060
+Management of residents' financial affairs.
+The facility shall allow a resident or the resident's guardian to manage the resident's financial affairs. The facility may assist a resident in the management of his or her financial affairs if the resident requests assistance in writing and the facility complies with the recordkeeping requirements of RCW
+74.42.130
+and the provisions of *chapter . . . (Senate Bill No. 2335), Laws of 1979.
+[
+1979 ex.s. c 211 s 6
+.]
+NOTES:
+*Reviser's note:
+Senate Bill No. 2335 was not enacted during the 1979 legislative sessions. A similar bill was enacted in 1980 and became 1980 c 177, which is codified primarily in chapter
+74.46
+RCW.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

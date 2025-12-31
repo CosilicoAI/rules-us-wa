@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.840"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.840"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.840/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.840/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.840/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.840/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_840">
+        <num>RCW 74.09.840</num>
+        <heading>Prior authorization</heading>
+        <subsection eId="sec_74_09_840__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning January 1, 2024, the authority shall require each managed care organization to comply with the following standards related to prior authorization for health care services and prescription drugs:</p>
+          </content>
+          <subsection eId="sec_74_09_840__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The managed care organization shall meet the following time frames for prior authorization determinations and notifications to a participating provider or facility that submits the prior authorization request through an electronic prior authorization process, as designated by each managed care organization:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For electronic standard prior authorization requests, the managed care organization shall make a decision and notify the provider or facility of the results of the decision within three calendar days, excluding holidays, of submission of an electronic prior authorization request by the provider or facility that contains the necessary information to make a determination. If insufficient information has been provided to the managed care organization to make a decision, the managed care organization shall request any additional information from the provider or facility within one calendar day of submission of the electronic prior authorization request.</p>
+            </content>
+            <subsection eId="sec_74_09_840__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For electronic expedited prior authorization requests, the managed care organization shall make a decision and notify the provider or facility of the results of the decision within one calendar day of submission of an electronic prior authorization request by the provider or facility that contains the necessary information to make a determination. If insufficient information has been provided to the managed care organization to make a decision, the managed care organization shall request any additional information from the provider or facility within one calendar day of submission of the electronic prior authorization request.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The managed care organization shall meet the following time frames for prior authorization determinations and notifications to a participating provider or facility that submits the prior authorization request through a process other than an electronic prior authorization process described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_840__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section:</p>
+          </content>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For nonelectronic standard prior authorization requests, the managed care organization shall make a decision and notify the provider or facility of the results of the decision within five calendar days of submission of a nonelectronic prior authorization request by the provider or facility that contains the necessary information to make a determination. If insufficient information has been provided to the managed care organization to make a decision, the managed care organization shall request any additional information from the provider or facility within five calendar days of submission of the nonelectronic prior authorization request.</p>
+            </content>
+            <subsection eId="sec_74_09_840__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For nonelectronic expedited prior authorization requests, the managed care organization shall make a decision and notify the provider or facility of the results of the decision within two calendar days of submission of a nonelectronic prior authorization request by the provider or facility that contains the necessary information to make a determination. If insufficient information has been provided to the managed care organization to make a decision, the managed care organization shall request any additional information from the provider or facility within one calendar day of submission of the nonelectronic prior authorization request.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In any instance in which a managed care organization has determined that a provider or facility has not provided sufficient information for making a determination under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, a managed care organization may establish a specific reasonable time frame for submission of the additional information. This time frame must be communicated to the provider and enrollee with a managed care organization's request for additional information.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The prior authorization requirements of the managed care organization must be described in detail and written in easily understandable language. The managed care organization shall make its most current prior authorization requirements and restrictions, including the written clinical review criteria, available to providers and facilities in an electronic format upon request. The prior authorization requirements must be based on peer-reviewed clinical review criteria. The clinical review criteria must be evidence-based criteria and must accommodate new and emerging information related to the appropriateness of clinical criteria with respect to black and indigenous people, other people of color, gender, and underserved populations. The clinical review criteria must be evaluated and updated, if necessary, at least annually.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Each managed care organization shall establish and maintain a prior authorization application programming interface that is consistent with final rules issued by the federal centers for medicare and medicaid services and published in the federal register, and that indicates that a prior authorization denial or authorization of a service less intensive than that included in the original request is an adverse benefit determination and is subject to the managed care organization's grievance and appeal process under RCW
+48.43.535
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each managed care organization shall establish and maintain an interoperable electronic process or application programming interface that automates the process for in-network providers to determine whether a prior authorization is required for a covered prescription drug. The interoperable electronic process or application programming interface must support the exchange of prior authorization requests and determinations for prescription drugs, including information on covered alternative prescription drugs, beginning January 1, 2027, and must:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Allow providers to identify prior authorization information and documentation requirements;</p>
+            </content>
+            <subsection eId="sec_74_09_840__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Facilitate the exchange of prior authorization requests and determinations from its electronic health records or practice management system; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_840__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Indicate that a prior authorization denial or authorization of a drug other than the one included in the original prior authorization request is an adverse benefit determination and is subject to the managed care organization's grievance and appeal process under RCW
+48.43.535
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Regardless of whether federal rules related to standards for using an application programming interface to communicate prior authorization status to providers are revoked, delayed, suspended, or not finalized after February 8, 2024, the requirements of</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection shall be enforced beginning January 1, 2027.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_840__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing in this section applies to prior authorization determinations made pursuant to RCW
+71.24.618
+or
+74.09.490
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_840__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_74_09_840__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Expedited prior authorization request&quot; means a request by a provider or facility for approval of a health care service or prescription drug where:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The passage of time:
+(A) Could seriously jeopardize the life or health of the enrollee;
+(B) Could seriously jeopardize the enrollee's ability to regain maximum function; or
+(C) In the opinion of a provider or facility with knowledge of the enrollee's medical condition, would subject the enrollee to severe pain that cannot be adequately managed without the health care service or prescription drug that is the subject of the request; or</p>
+            </content>
+            <subsection eId="sec_74_09_840__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The enrollee is undergoing a current course of treatment using a nonformulary drug.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_840__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Standard prior authorization request&quot; means a request by a provider or facility for approval of a health care service or prescription drug where the request is made in advance of the enrollee obtaining a health care service or prescription drug that is not required to be expedited.
+[
+2025 c 25 s 3
+;
+2023 c 382 s 3
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

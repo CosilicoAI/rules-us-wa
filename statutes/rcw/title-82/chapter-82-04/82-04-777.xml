@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.777"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.777"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.777/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.777/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.777/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.777/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_777">
+        <num>RCW 82.04.777</num>
+        <heading>Application of chapter—Amounts received under chapter  70A.555 RCW</heading>
+        <subsection eId="sec_82_04_777__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to the receipts of a battery stewardship organization formed under chapter
+70A.555
+RCW from charges to participating producers under a battery stewardship program as provided in RCW
+70A.555.060
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_777__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section is not subject to the requirements of RCW
+82.32.805
+and
+82.32.808
+and is not subject to an expiration date.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_777__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in RCW
+70A.555.010
+apply throughout this section unless the context clearly requires otherwise.
+[
+2023 c 434 s 22
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

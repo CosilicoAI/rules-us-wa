@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.275"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.275"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.275/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.275/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.275/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.275/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_275">
+        <num>RCW 74.39A.275</num>
+        <heading>Individual provider overtime—Annual expenditure reports to legislature and joint legislative-executive overtime oversight task force</heading>
+        <subsection eId="sec_74_39A_275__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The number of individual providers receiving payment for more than forty hours in a workweek, specifying how many of those individual providers were eligible for those hours due to meeting the conditions of RCW
+74.39A.525
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_275__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The number of hours paid and the amount paid for hours in excess of forty hours in a workweek, specifying how many of those hours and payments were for individual providers eligible for those hours and payments due to meeting the conditions of RCW
+74.39A.525</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_275__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_275__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In reporting the information required in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_275__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_275__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the department must provide total amounts, averages, and a display of the distribution of the amounts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_275__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The information required must be provided by department region and county of client, department program, and must be specified for individual providers by the number of clients they serve.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_275__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any personally identifiable information of consumers and individual providers used to develop this report is confidential under RCW
+43.17.410
+and exempt from public disclosure, inspection, or copying in accordance with chapter
+42.56R
+CW. However, information may be released in aggregate form, with any personally identifiable information redacted, for the purpose of statistical analysis and oversight of agency performance and actions.
+[
+2018 c 278 s 21
+;
+2016 sp.s. c 30 s 3
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.
+Effective date
+—
+Overtime emergency rules
+—
+2016 sp.s. c 30:
+See notes following RCW
+74.39A.270
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

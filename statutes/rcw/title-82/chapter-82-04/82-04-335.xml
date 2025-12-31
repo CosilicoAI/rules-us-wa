@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.335"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.335"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.335/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.335/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.335/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.335/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_335">
+        <num>RCW 82.04.335</num>
+        <heading>Exemptions—Agricultural fairs</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.335
+82.04.334
+&lt;&lt; 
+        82.04.335 &gt;&gt;
+82.04.337
+PDF
+RCW
+82.04.335
+Exemptions
+—
+Agricultural fairs.
+This chapter shall not apply to any business of any bona fide agricultural fair, if no part of the net earnings therefrom inures to the benefit of any stockholder or member of the association conducting the same: PROVIDED, That any amount paid for admission to any exhibit, grandstand, entertainment, or other feature conducted within the fairgrounds by others shall be taxable under the provisions of this chapter, except as otherwise provided by law.
+[
+1965 ex.s. c 145 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

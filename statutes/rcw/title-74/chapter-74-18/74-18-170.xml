@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.170"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_170">
+        <num>RCW 74.18.170</num>
+        <heading>Rehabilitation or habilitation facilities authorized</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.18
+&gt;
+Section 74.18.170
+74.18.150
+&lt;&lt; 
+        74.18.170 &gt;&gt;
+74.18.180
+PDF
+RCW
+74.18.170
+Rehabilitation or habilitation facilities authorized.
+The department may establish, construct, and/or operate rehabilitation or habilitation facilities to provide instruction in alternative skills necessary to adjust to blindness or substantial vision loss, to assist blind persons to develop increased confidence and independence, or to provide other services consistent with the purposes of this chapter. The department shall adopt rules concerning selection criteria for participation, services, and other matters necessary for efficient and effective operation of such facilities.
+[
+2003 c 409 s 16
+;
+1983 c 194 s 16
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

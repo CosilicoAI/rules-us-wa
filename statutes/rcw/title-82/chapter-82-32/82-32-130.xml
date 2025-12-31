@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.130"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_130">
+        <num>RCW 82.32.130</num>
+        <heading>Notice and orders—Service</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.130
+82.32.120
+&lt;&lt; 
+        82.32.130 &gt;&gt;
+82.32.135
+PDF
+RCW
+82.32.130
+Notice and orders
+—
+Service.
+Notwithstanding any other law, any notice or order required by this title to be mailed to any taxpayer may be provided electronically as provided in RCW
+82.32.135
+, served in the manner prescribed by law for personal service of summons and complaint in the commencement of actions in the superior courts of the state. However if the notice or order is mailed, it shall be addressed to the address of the taxpayer as shown by the records of the department, or, if no such address is shown, to such address as the department is able to ascertain by reasonable effort. Failure of the taxpayer to receive such notice or order whether served, mailed, or provided electronically as provided in RCW
+82.32.135
+shall not release the taxpayer from any tax or any increases or penalties thereon.
+[
+2007 c 111 s 108
+;
+1979 ex.s. c 95 s 2
+;
+1975 1st ex.s. c 278 s 81
+;
+1967 c 237 s 20
+;
+1961 c 15 s 82.32.130
+. Prior:
+1935 c 180 s 196
+; RRS s 8370-196.]
+NOTES:
+Part headings not law
+—
+2007 c 111:
+See note following RCW
+82.16.120
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.820"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.820"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.820/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.820/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.820/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.820/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_820">
+        <num>RCW 82.12.820</num>
+        <heading>Exemptions—Warehouse and grain elevators and distribution centers</heading>
+        <subsection eId="sec_82_12_820__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Wholesalers or third-party warehousers who own or operate warehouses or grain elevators, and retailers who own or operate distribution centers, and who have paid the tax levied under RCW
+82.12.020
+on:</p>
+          </content>
+          <subsection eId="sec_82_12_820__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Material-handling equipment and racking equipment and labor and services rendered in respect to installing, repairing, cleaning, altering, or improving the equipment; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_820__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Materials incorporated in the construction of a warehouse or grain elevator, are eligible for an exemption on tax paid in the form of a remittance or credit against tax owed. The amount of the remittance or credit is computed under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_820__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section and is based on the state share of use tax.</p>
+          </content>
+          <subsection eId="sec_82_12_820__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person claiming an exemption from state tax in the form of a remittance under this section must pay the tax imposed by RCW
+82.12.020
+to the department. The person may then apply to the department for remittance of all or part of the tax paid under RCW
+82.12.020
+. For grain elevators with bushel capacity of one million but less than two million, the remittance is equal to fifty percent of the amount of tax paid. For warehouses with square footage of two hundred thousand or more and for grain elevators with bushel capacity of two million or more, the remittance is equal to one hundred percent of the amount of tax paid for qualifying construction materials, and fifty percent of the amount of tax paid for qualifying material-handling equipment and racking equipment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_820__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall determine eligibility under this section based on information provided by the buyer and through audit and other administrative records. The buyer shall on a quarterly basis submit an information sheet, in a form and manner as required by the department by rule, specifying the amount of exempted tax claimed and the qualifying purchases or acquisitions for which the exemption is claimed. The buyer shall retain, in adequate detail to enable the department to determine whether the equipment or construction meets the criteria under this section: Invoices; proof of tax paid; documents describing the material-handling equipment and racking equipment; location and size of warehouses, if applicable; and construction invoices and documents.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_820__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall on a quarterly basis remit or credit exempted amounts to qualifying persons who submitted applications during the previous quarter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_820__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Warehouse, grain elevators, and material-handling equipment and racking equipment for which an exemption, credit, or deferral has been or is being received under chapter
+82.60
+, 82.62, or
+82.63
+RCW or RCW
+82.08.02565
+or
+82.12.02565
+are not eligible for any remittance under this section. Materials incorporated in warehouses and grain elevators upon which construction was initiated prior to May 20, 1997, are not eligible for a remittance under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_820__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The lessor or owner of the warehouse or grain elevator is not eligible for a remittance or credit under this section unless the underlying ownership of the warehouse or grain elevator and material-handling equipment and racking equipment vests exclusively in the same person, or unless the lessor by written contract agrees to pass the economic benefit of the exemption to the lessee in the form of reduced rent payments.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_820__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The definitions in RCW
+82.08.820
+apply to this section.
+[
+2006 c 354 s 13
+;
+2005 c 513 s 12
+;
+2003 c 5 s 13
+;
+2000 c 103 s 9
+;
+1997 c 450 s 3
+.]
+NOTES:
+Effective dates
+—
+2006 c 354:
+See note following RCW
+82.04.4268
+.
+Effective dates
+—
+2005 c 513:
+See note following RCW
+82.04.4266
+.
+Finding
+—
+Intent
+—
+Retroactive application
+—
+Effective date
+—
+2003 c 5:
+See notes following RCW
+82.12.010
+.
+Findings
+—
+Intent
+—
+Report
+—
+Effective date
+—
+1997 c 450:
+See notes following RCW
+82.08.820
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

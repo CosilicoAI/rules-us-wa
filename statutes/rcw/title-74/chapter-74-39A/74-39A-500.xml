@@ -1,0 +1,318 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.500"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.500"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.500/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.500/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.500/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.500/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_500">
+        <num>RCW 74.39A.500</num>
+        <heading>Consumer directed employer program—Establishment—Structure—Vendor qualifications—Transition—Department duties</heading>
+        <subsection eId="sec_74_39A_500__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department may establish and implement a consumer directed employer program to provide personal care, respite care, and similar services to individuals with functional impairments under programs authorized through the medicaid state plan or medicaid waiver authorities and similar state-funded in-home care programs.</p>
+          </content>
+          <subsection eId="sec_74_39A_500__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The consumer directed employer program is a consumer directed program and must be operated in a manner consistent with federal medicaid requirements. The consumer directed employer is the legal employer of individual providers.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Under the consumer directed employer program, the consumer is the managing employer of individual providers and retains the primary right to select, dismiss, assign hours, and supervise the work of one or more individual providers, as long as the consumer's actions are consistent with the consumer's plan of care, this chapter, and state and federal law.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall endeavor to select and contract with one consumer directed employer to be a medicaid provider that will coemploy individual providers. The department shall make every effort to select a single qualified vendor. In the event it is not possible to contract with a single vendor, the department is authorized to contract with up to two vendors. The department's activities to identify, select, and contract with a consumer directed employer are exempt from the requirements of chapter
+39.26
+RCW.</p>
+          </content>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When contracting with a consumer directed employer, the department should seek to contract with a vendor that demonstrates:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A strong commitment to consumer choice, self-direction, and maximizing consumer autonomy and control over daily decisions; and</p>
+            </content>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A commitment to recruiting and retaining a high quality and diverse workforce and working with a broad coalition of stakeholders in an effort to understand the changing needs of the workforce and consumer needs and preferences.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Additional factors the department should consider in selecting a vendor include, but are not limited to, the vendor's:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Ability to provide maximum support to consumers to focus on directing their own services through a model that recognizes that the provision of employer responsibility and human resource administration support is integral to successful self-directed home care programs;</p>
+            </content>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Commitment to engage and work closely with consumers in design, implementation, and ongoing operations through an advisory board, focus group, or other methods as approved by the department;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Focus on workforce retention and creating incentives for qualified and trained providers to meet the growing needs of state long-term care consumers;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Ability to meet the state's interest in preventing or mitigating disruptions to consumer services;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Ability to deliver high quality training, health care, and retirement, which may include participation in existing trusts that deliver those benefits;
+(vi) Ability to comply with the terms and conditions of employment of individual providers at the time of the transition;
+(vii) Commitment to involving its home care workforce in decision making;
+(viii) Vision for including and enhancing home care workers as a valued member of the consumer's care team, as desired and authorized by the consumer and reflected in the consumer's plan of care; and
+(ix) Ability to build and adapt technology tools that can enhance efficiency and provide better quality of services.</p>
+            </content>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Ability to comply with the terms and conditions of employment of individual providers at the time of the transition;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Commitment to involving its home care workforce in decision making;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>Vision for including and enhancing home care workers as a valued member of the consumer's care team, as desired and authorized by the consumer and reflected in the consumer's plan of care; and
+(ix) Ability to build and adapt technology tools that can enhance efficiency and provide better quality of services.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In order to be qualified as a consumer directed employer, an entity must meet the requirements in:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Its contract with the department;</p>
+            </content>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the medicaid state plan;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>rules adopted under this chapter, if any; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_500__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>this section.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any qualified and willing individual may apply to become an employee of a consumer directed employer and may work as an individual provider when selected by a consumer.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A consumer directed employer that holds a contract with the department to provide medicaid services through the employment of individual providers is deemed to be a certified medicaid provider.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A consumer directed employer is not a home care agency under chapter
+70.127
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A consumer directed employer does not need a separate licensure or certification category.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>A consumer directed employer that also provides home care services under chapter
+70.127
+RCW must demonstrate to the department's satisfaction that it operates the programs under separate business units, and that its business structures, policies, and procedures will prevent any conflicts of interest.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the department selects and contracts with a consumer directed employer, the department shall determine when to terminate the department's contracts with individual providers.</p>
+          </content>
+          <subsection eId="sec_74_39A_500__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Until the department determines the transition to the consumer directed employer program is complete, the state shall continue to administer the individual provider program for the remaining contracted individual providers and to act as the public employer solely for the purpose of collective bargaining under RCW
+74.39A.270
+for those directly contracted individual providers.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_500__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Once the department determines that the transition to the consumer directed employer is complete, the department may no longer contract with individual providers, unless there are not any contracted consumer directed employers available.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department of labor and industries shall initially place individual providers employed by a consumer directed employer in the classification for the home care services and home care referral registry. After the department determines that the transition to the consumer directed employer program is complete, the department of labor and industries may, if necessary, adjust the classification and rate in accordance with chapter
+51.16
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>After the date on which the department enters into a contract with the consumer directed employer and determines the transition to the consumer directed employer program is complete, biennial funding in the next ensuing biennium for case management and social work shall be reduced by no more than: Two million nine hundred eight thousand dollars for area agencies on aging; one million three hundred sixty-one thousand dollars for home and community services; and one million two hundred eighty-nine thousand dollars for developmental disabilities.
+[
+2024 c 224 s 4
+;
+2021 c 186 s 1
+;
+2018 c 278 s 3
+.]
+NOTES:
+Retroactive application
+—
+Applicability
+—
+2024 c 224:
+See note following RCW
+49.46.800
+.
+Findings
+—
+Intent
+—
+2018 c 278:
+&quot;The legislature finds that quality long-term in-home care services allow Washington seniors, persons with disabilities, and their families the choice of remaining in their own homes and communities, including whether to receive residential services, use licensed home care agencies, or coemploy individual providers.
+The legislature further finds that long-term in-home care services are a less costly alternative to institutional care, saving Washington taxpayers significant amounts through lower reimbursement rates. Thousands of Washington seniors and persons with disabilities exercise their choice to live in their own homes and receive needed assistance through in-home services.
+The legislature finds that many Washington seniors and persons with disabilities currently receive long-term in-home care services from individual providers hired directly by them under programs authorized through the medicaid state plan or medicaid waiver authorities and similar state-funded in-home care programs.
+The legislature further finds that establishing a consumer directed employer program will:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Support the state's intent for consumers to direct their own services;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>allow the state to focus on the provision of case management services to consumers;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>enhance the efficient and effective delivery of home-based services by using an entity that provides the administrative functions of an employer and supports the consumer to manage the services provided in their own homes;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>eliminate the possible classification of the state as the joint employer of individual providers;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>prevent or reduce unnecessary and costly utilization of hospitals and institutions by taking a step toward integration of home care workers into a coordinated delivery system; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_500__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>support the development of new technology and interventions to enhance the skills of home care workers and services provided to consumers.
+The legislature does not intend for the consumer directed employer program to replace the consumers' option to select a qualified home care agency to provide authorized in-home care.&quot; [
+2018 c 278 s 1
+.]
+Consumer directed employer procurement process
+—
+Transition
+—
+Readiness review
+—
+Limitations
+—
+2021 c 186; 2018 c 278:
+&quot;Upon the governor's signature of this act into law, the department of social and health services may begin the procurement process to select a consumer directed employer. The department shall initiate the transition of individual providers to the consumer directed employer no later than December 31, 2021, when it determines it is ready to do so based upon a readiness review conducted by the department. Nothing in this act shall be deemed to result in individual providers becoming state employees or vesting in the state's public employment retirement system.&quot; [
+2021 c 186 s 3
+;
+2018 c 278 s 30
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

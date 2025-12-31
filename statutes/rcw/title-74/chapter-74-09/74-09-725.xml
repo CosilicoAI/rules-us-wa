@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.725"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.725"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.725/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.725/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.725/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.725/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_725">
+        <num>RCW 74.09.725</num>
+        <heading>Prostate cancer screening. (&lt;i&gt;Effective until June 30, 2027.&lt;/i&gt;)</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.725
+74.09.719
+&lt;&lt; 
+        74.09.725 &gt;&gt;
+74.09.730
+PDF
+RCW
+74.09.725
+Prostate cancer screening.
+(Effective until June 30, 2027.)
+The authority shall provide coverage for prostate cancer screening under this chapter, provided that the screening is delivered upon the recommendation of the patient's physician, *advanced registered nurse practitioner, or physician assistant.
+[
+2011 1st sp.s. c 15 s 46
+;
+2006 c 367 s 8
+.]
+NOTES:
+*Reviser's note:
+The term &quot;advanced registered nurse practitioner&quot; was changed to &quot;advanced practice registered nurse&quot; by 2024 c 239 s 1, effective June 30, 2027.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+PDF
+RCW
+74.09.725
+Prostate cancer screening.
+(Effective June 30, 2027.)
+The authority shall provide coverage for prostate cancer screening under this chapter, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+[
+2025 c 58 s 5168
+;
+2011 1st sp.s. c 15 s 46
+;
+2006 c 367 s 8
+.]
+NOTES:
+Effective date
+—
+2025 c 58 ss 5058-5170:
+See note following RCW
+7.68.030
+.
+Explanatory note
+—
+2025 c 58:
+See note following RCW
+1.16.050
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

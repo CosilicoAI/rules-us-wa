@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43393"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43393"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43393/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43393/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43393/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43393/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_43393">
+        <num>RCW 82.04.43393</num>
+        <heading>Deductions—Paymaster services</heading>
+        <subsection eId="sec_82_04_43393__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax there may be deducted from the measure of tax, amounts that a qualified employer of record engaged in providing paymaster services receives from an affiliated business to cover employee costs of a qualified employee. However, no exclusion is allowed under this section for any employee costs incurred in connection with a contractual obligation of the taxpayer to provide services, including staffing services as defined in RCW
+82.04.540
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43393__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_04_43393__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Affiliated&quot; has the same meaning as provided in RCW
+82.32.655</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43393__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Employee costs&quot; are the actual cost of wages and salaries, benefits, workers' compensation, payroll taxes, withholding, or other assessments paid to or on behalf of an employee.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43393__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Functional employment relationship&quot; means having control over the work schedule and activities of the employees and control over all employment decisions such as salary, discipline, hiring, or layoffs.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43393__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Paymaster services&quot; means providing payroll and related human resource services.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43393__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Qualified employee&quot; means an employee with whom the affiliated business has a functional employment relationship. Neither the employer of record, nor any other affiliate, may have a functional employment relationship with the employee.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43393__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Qualified employer of record&quot; is a person who:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43393__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Has no functional employment relationship with a qualified employee; and</p>
+            </content>
+            <subsection eId="sec_82_04_43393__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Has no contractual liability with a qualified employee for the employee costs. A qualified employer of record may have statutory or common law liability to the qualified employees or to third parties for employee costs.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_43393__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>RCW
+82.32.805</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43393__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>does not apply to the deduction authorized in this section.
+[
+2013 2nd sp.s. c 13 s 102
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2013 2nd sp.s. c 13:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43393__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the supreme court's decision in
+William Rogers v. Tacoma
+, while clarifying the taxation of temporary staffing agencies, resulted in differing interpretations of regulatory requirements in order to qualify for a pass-through exclusion from Washington B&amp;O taxes for payroll reimbursements made within an affiliated group.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43393__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature passed Second Engrossed Substitute Senate Bill No. 6143 during the 2010 legislative session that directed the department of revenue to conduct a review and provide a report on the state's tax policies with respect to the taxation of intercompany transactions. The report affirms that centralized payroll reporting systems can result in an additional layer of tax for Washington businesses. Exclusions for payroll reimbursements allow businesses to have efficient administrative costs without incurring an additional tax obligation resulting exclusively from streamlining payroll processes. Further, this treatment of allowing for an exclusion of payroll cost reimbursements within a centralized payroll system is consistent with historical tax practices of the department of revenue prior to the
+William Rogers
+decision.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43393__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department of revenue continues to work with taxpayers to study taxation of transactions within and between affiliated business organizations in order to determine the appropriate policies and to identify areas where statutory and regulatory changes may be necessary.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43393__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature finds that the tax policy of allowing exclusions for payroll cost reimbursements within a centralized payroll reporting system is appropriate and should be affirmed. The legislature adopts the historical tax policy of allowing exclusions for payroll cost reimbursements within a centralized payroll reporting system of an affiliated group and requires the implementation of such tax policy from October 1, 2013. In affirming this tax policy, the legislature also intends to monitor these transactions to ensure they are being used appropriately and not for tax avoidance purposes and to monitor the potential impact on state revenue collections. The legislature does not intend for part I of this act to retroactively create a right of refund for taxes paid on payroll cost reimbursements prior to the enactment of this statute.&quot; [
+2013 2nd sp.s. c 13 s 101
+.]
+Effective date
+—
+2013 2nd sp.s. c 13:
+&quot;Except as otherwise provided in this act, this act takes effect October 1, 2013.&quot; [
+2013 2nd sp.s. c 13 s 1904
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

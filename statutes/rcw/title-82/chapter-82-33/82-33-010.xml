@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.33.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.33.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.33.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_33_010">
+        <num>RCW 82.33.010</num>
+        <heading>Economic and revenue forecast council—Oversight and approval of economic and revenue forecasts</heading>
+        <subsection eId="sec_82_33_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The council shall employ an economic, revenue, and transportation revenue forecast supervisor to supervise the preparation of all economic and revenue forecasts, transportation revenue forecasts under RCW
+82.33.015
+, and the presentation of state budget outlooks. As used in this chapter, &quot;supervisor&quot; means the economic, revenue, and transportation revenue forecast supervisor. Approval by an affirmative vote of at least seven members of the council is required for any decisions regarding employment of the supervisor. Employment of the supervisor shall terminate after each term of three years. At the end of the first year of each three-year term the council shall consider extension of the supervisor's term by one year. The council may fix the compensation of the supervisor. The supervisor shall employ staff sufficient to accomplish the purposes of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The economic and revenue forecast council shall oversee the preparation of and approve, by an affirmative vote of at least seven members, the official, optimistic, and pessimistic state economic and revenue forecasts prepared under RCW
+82.33.020
+. If the council is unable to approve a forecast before a date required in RCW
+82.33.020
+, the supervisor shall submit the forecast without approval and the forecast shall have the same effect as if approved by the council.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The economic and revenue forecast council shall oversee the preparation of and approve, by an affirmative vote of at least seven members, the state budget outlook prepared under RCW
+82.33.060
+. If the council is unable to approve a state budget outlook before a date required in RCW
+82.33.060
+, the supervisor shall submit the outlook prepared under RCW
+82.33.060
+without approval and the outlook shall have the same effect as if approved by the council.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A councilmember who does not cast an affirmative vote for approval of the official economic and revenue forecast or the state budget outlook may request, and the supervisor shall provide, an alternative economic and revenue forecast or state budget outlook based on assumptions specified by the member including, for purposes of the state budget outlook, revenues to and expenditures from additional funds.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Members of the economic and revenue forecast council shall serve without additional compensation but shall be reimbursed for travel expenses in accordance with RCW
+44.04.120
+while attending sessions of the council or on official business authorized by the council. Nonlegislative members of the council shall be reimbursed for travel expenses in accordance with RCW
+43.03.050
+and
+43.03.060
+.
+[
+2023 c 390 s 1
+;
+2012 1st sp.s. c 8 s 2
+;
+1990 c 229 s 1
+;
+1984 c 138 s 4
+. Formerly RCW
+82.01.130
+.]
+NOTES:
+Effective date
+—
+1990 c 229:
+See note following RCW
+41.06.087
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

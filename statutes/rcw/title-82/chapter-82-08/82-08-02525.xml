@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02525"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02525"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02525/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02525/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02525/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02525/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_02525">
+        <num>RCW 82.08.02525</num>
+        <heading>Exemptions—Sale of copied public records by state and local agencies</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.02525
+82.08.0252
+&lt;&lt; 
+        82.08.02525 &gt;&gt;
+82.08.0253
+PDF
+RCW
+82.08.02525
+Exemptions
+—
+Sale of copied public records by state and local agencies.
+The tax levied by RCW
+82.08.020
+does not apply to the sale of public records by state and local agencies, as the terms are defined in RCW
+42.56.010
+, that are copied or transferred electronically under a request for the record for which no fee is charged other than a statutorily set fee or a fee to reimburse the agency for its actual costs directly incident to the copying. A request for a record includes a request for a document not available to the public but available to those persons who by law are allowed access to the document, such as requests for fire reports, law enforcement reports, taxpayer information, and academic transcripts.
+[
+2011 c 60 s 49
+;
+2009 c 535 s 505
+;
+1996 c 63 s 1
+.]
+NOTES:
+Effective date
+—
+2011 c 60:
+See RCW
+42.17A.919
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Effective date
+—
+1996 c 63:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect April 1, 1996.&quot; [
+1996 c 63 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

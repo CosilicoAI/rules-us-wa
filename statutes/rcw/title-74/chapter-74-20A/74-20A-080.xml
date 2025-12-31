@@ -1,0 +1,417 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.080"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_080">
+        <num>RCW 74.20A.080</num>
+        <heading>Order to withhold and deliver—Issuance and service—Contents—Effect—Duties of person served—Processing fee</heading>
+        <subsection eId="sec_74_20A_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The secretary may issue to any person, firm, corporation, association, political subdivision, department of the state, or agency, subdivision, or instrumentality of the United States, an order to withhold and deliver property of any kind, including but not restricted to earnings which are or might become due, owing, or belonging to the debtor, when the secretary has reason to believe that there is in the possession of such person, firm, corporation, association, political subdivision, department of the state, or agency, subdivision, or instrumentality of the United States property which is or might become due, owing, or belonging to said debtor. Such order to withhold and deliver may be issued:</p>
+          </content>
+          <subsection eId="sec_74_20A_080__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At any time, if a responsible parent's support order:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Contains notice that withholding action may be taken against earnings, wages, or assets without further notice to the parent; or</p>
+            </content>
+            <subsection eId="sec_74_20A_080__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Includes a statement that other income-withholding action under this chapter may be taken without further notice to the responsible parent;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Twenty-one days after service of a notice of support debt under RCW
+74.20A.040
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Twenty-one days after service of a notice and finding of parental responsibility under RCW
+74.20A.056
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Twenty-one days after service of a notice of support owed under RCW
+26.23.110
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Twenty-one days after service of a notice and finding of financial responsibility under RCW
+74.20A.055
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>When appropriate under RCW
+74.20A.270
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The order to withhold and deliver shall:</p>
+          </content>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>State the amount to be withheld on a periodic basis if the order to withhold and deliver is being served to secure payment of monthly current support;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>State the amount of the support debt accrued;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>State in summary the terms of RCW
+74.20A.090
+and
+74.20A.100
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Be served:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>In the manner prescribed for the service of a summons in a civil action;</p>
+            </content>
+            <subsection eId="sec_74_20A_080__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>By certified mail, return receipt requested;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_080__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>By electronic means if there is an agreement between the secretary and the person, firm, corporation, association, political subdivision, department of the state, or agency, subdivision, or instrumentality of the United States to accept service by electronic means;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_080__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>By regular mail to a responsible parent's employer unless the division of child support reasonably believes that service of process in the manner prescribed in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>or</p>
+            </content>
+            <subsection eId="sec_74_20A_080__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection is required for initiating an action to ensure employer compliance with the withholding requirement; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>By regular mail to an address if designated by the financial institution as a central levy or garnishment address, and if the notice is clearly identified as a levy or garnishment order. Before the division of child support may initiate an action for noncompliance with a withholding action against a financial institution, the division of child support must serve the order to withhold and deliver on the financial institution in the manner described in (d)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>or</p>
+            </content>
+            <subsection eId="sec_74_20A_080__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The division of child support must use income withholding forms adopted and required by the United States department of health and human services to take withholding actions under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any person, firm, corporation, association, political subdivision, department of the state, or agency, subdivision, or instrumentality of the United States upon whom service has been made is hereby required to:</p>
+          </content>
+          <subsection eId="sec_74_20A_080__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Answer said order to withhold and deliver within twenty days, exclusive of the day of service, under oath and in writing, and shall make true answers to the matters inquired of therein; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide further and additional answers when requested by the secretary.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The returned answer or a payment remitted to the division of child support by the employer constitutes proof of service of the order to withhold and deliver in the case where the order was served by regular mail.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Any such person, firm, corporation, association, political subdivision, department of the state, or agency, subdivision, or instrumentality of the United States in possession of any property which may be subject to the claim of the department shall:</p>
+          </content>
+          <subsection eId="sec_74_20A_080__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Immediately withhold such property upon receipt of the order to withhold and deliver; and</p>
+            </content>
+            <subsection eId="sec_74_20A_080__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Within seven working days deliver the property to the secretary;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_080__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Continue to withhold earnings payable to the debtor at each succeeding disbursement interval as provided for in RCW
+74.20A.090
+, and deliver amounts withheld from earnings to the secretary within seven working days of the date earnings are payable to the debtor;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_080__subsec_6__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Deliver amounts withheld from periodic payments to the secretary within seven working days of the date the payments are payable to the debtor;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_6__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Inform the secretary of the date the amounts were withheld as requested under this section; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Furnish to the secretary a good and sufficient bond, satisfactory to the secretary, conditioned upon final determination of liability.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>An order to withhold and deliver served under this section shall not expire until:</p>
+          </content>
+          <subsection eId="sec_74_20A_080__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Released in writing by the division of child support;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Terminated by court order;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A person or entity, other than an employer as defined in Title
+50
+RCW, who has received the order to withhold and deliver does not possess property of or owe money to the debtor; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_080__subsec_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>An employer who has received the order to withhold and deliver no longer employs, contracts, or owes money to the debtor under a contract of employment, express or implied.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Where money is due and owing under any contract of employment, express or implied, or is held by any person, firm, corporation, or association, political subdivision, or department of the state, or agency, subdivision, or instrumentality of the United States subject to withdrawal by the debtor, such money shall be delivered by remittance payable to the order of the secretary.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Delivery to the secretary of the money or other property held or claimed shall satisfy the requirement and serve as full acquittance of the order to withhold and deliver.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>A person, firm, corporation, or association, political subdivision, department of the state, or agency, subdivision, or instrumentality of the United States that complies with the order to withhold and deliver under this chapter is not civilly liable to the debtor for complying with the order to withhold and deliver under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The secretary may hold the money or property delivered under this section in trust for application on the indebtedness involved or for return, without interest, in accordance with final determination of liability or nonliability.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Exemptions contained in RCW
+74.20A.090
+apply to orders to withhold and deliver issued under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>The secretary shall also, on or before the date of service of the order to withhold and deliver, mail or cause to be mailed a copy of the order to withhold and deliver to the debtor at the debtor's last known post office address, or, in the alternative, a copy of the order to withhold and deliver shall be served on the debtor in the same manner as a summons in a civil action on or before the date of service of the order or within two days thereafter. The copy of the order shall be mailed or served together with a concise explanation of the right to petition for judicial review. This requirement is not jurisdictional, but, if the copy is not mailed or served as in this section provided, or if any irregularity appears with respect to the mailing or service, the superior court, in its discretion on motion of the debtor promptly made and supported by affidavit showing that the debtor has suffered substantial injury due to the failure to mail the copy, may set aside the order to withhold and deliver and award to the debtor an amount equal to the damages resulting from the secretary's failure to serve on or mail to the debtor the copy.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>An order to withhold and deliver issued in accordance with this section has priority over any other wage assignment, garnishment, attachment, or other legal process.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_080__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>The division of child support shall notify any person, firm, corporation, association, or political subdivision, department of the state, or agency, subdivision, or instrumentality of the United States required to withhold and deliver the earnings of a debtor under this action that they may deduct a processing fee from the remainder of the debtor's earnings, even if the remainder would otherwise be exempt under RCW
+74.20A.090
+. The processing fee shall not exceed ten dollars for the first disbursement to the department and one dollar for each subsequent disbursement under the order to withhold and deliver.
+[
+2021 c 35 s 17
+;
+2002 c 199 s 7
+;
+2000 c 86 s 8
+;
+1998 c 160 s 1
+. Prior:
+1997 c 130 s 7
+;
+1997 c 58 s 907
+;
+1994 c 230 s 20
+; prior:
+1989 c 360 s 10
+;
+1989 c 175 s 154
+;
+1985 c 276 s 6
+;
+1979 ex.s. c 171 s 6
+;
+1973 1st ex.s. c 183 s 9
+;
+1971 ex.s. c 164 s 8
+.]
+NOTES:
+Effective date
+—
+1998 c 160 ss 1, 5, and 8:
+&quot;Sections 1, 5, and 8 of this act take effect October 1, 1998.&quot; [
+1998 c 160 s 9
+.]
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Effective dates
+—
+1989 c 360 ss 9, 10, 16, and 39:
+See note following RCW
+74.20A.060
+.
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

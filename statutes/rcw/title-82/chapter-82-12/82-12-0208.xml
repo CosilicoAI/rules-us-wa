@@ -1,0 +1,260 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0208"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0208"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0208/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0208/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0208/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0208/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0208">
+        <num>RCW 82.12.0208</num>
+        <heading>Exemptions—Digital codes</heading>
+        <subsection eId="sec_82_12_0208__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply in respect to the use of a digital code for one or more digital products, if the use of the digital products to which the digital code relates is exempt from the tax levied by RCW
+82.12.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of this chapter do not apply to the use by a business or other organization of digital goods, digital codes, digital automated services, or services defined as a retail sale in *RCW
+82.04.050</p>
+          </content>
+          <subsection eId="sec_82_12_0208__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>for the purpose of making the digital good or digital automated service, including a digital good or digital automated service acquired through the use of a digital code, or service defined as a retail sale in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>available free of charge for the use or enjoyment of the general public. For purposes of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>does not apply unless the user has the legal right to broadcast, rebroadcast, transmit, retransmit, license, relicense, distribute, redistribute, or exhibit the product, in whole or in part, to the general public.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The provisions of this chapter do not apply to the use by students of digital goods furnished by a public or private elementary or secondary school, or an institution of higher education as defined in section 1001 or 1002 of the federal higher education act of 1965 (Title 20 U.S.C. Secs. 1001 and 1002), as existing on July 1, 2009.</p>
+          </content>
+          <subsection eId="sec_82_12_0208__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provisions of this chapter do not apply in respect to the use of digital goods that are:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Of a noncommercial nature, such as personal email communications;</p>
+            </content>
+            <subsection eId="sec_82_12_0208__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Created solely for an internal audience; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_12_0208__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Created solely for the business needs of the person who created the digital good, including business email communications, but not including the type of digital good that is offered for sale.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>does not apply to the use of any digital goods purchased by the user, the user's donor, or anybody on the user's behalf.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The provisions of this chapter do not apply in respect to the use of digital products or digital codes obtained by the end user free of charge.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The provisions of this chapter do not apply to the use by a business of digital goods, and services rendered in respect to digital goods, where the digital goods and services rendered in respect to digital goods are used solely for business purposes. The exemption provided by this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>also applies to the use by a business of a digital code if all of the digital goods to be obtained through the use of the code will be used solely for business purposes. For purposes of this subsection</p>
+          </content>
+          <subsection eId="sec_82_12_0208__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A business or other organization subject to the tax imposed in RCW
+82.12.020
+on the use of digital goods, digital codes, digital automated services, prewritten computer software, or services defined as a retail sale in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>that are concurrently available for use within and outside this state is entitled to apportion the amount of tax due this state based on users in this state compared to users everywhere. The department may authorize or require an alternative method of apportionment supported by the taxpayer's records that fairly reflects the proportion of in-state to out-of-state use by the taxpayer of the digital goods, digital automated services, prewritten computer software, or services defined as a retail sale in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No apportionment under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>is allowed unless the apportionment method is supported by the taxpayer's records kept in the ordinary course of business.</p>
+          </content>
+          <subsection eId="sec_82_12_0208__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Concurrently available for use within and outside this state&quot; means that employees or other agents of the taxpayer may use the digital goods, digital automated services, prewritten computer software, or services defined as a retail sale in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>simultaneously at one or more locations within this state and one or more locations outside this state. A digital code is concurrently available for use within and outside this state if employees or other agents of the taxpayer may use the digital goods or digital automated services to be obtained by the code simultaneously at one or more locations within this state and one or more locations outside this state; and</p>
+            </content>
+            <subsection eId="sec_82_12_0208__subsec_7__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;User&quot; means an employee or agent of the taxpayer who is authorized by the taxpayer to use the digital goods, digital automated services, prewritten computer software, or services defined as a retail sale in *RCW
+82.04.050</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>in the performance of his or her duties as an employee or other agent of the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Except as provided in (b)</p>
+            </content>
+            <subsection eId="sec_82_12_0208__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>does not apply in respect to programming that is sold on a pay-per-program basis or that allows the buyer to access a library of programs at any time for a specific charge for that service.
+(ii) The exemption provided in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>applies to the sale of programming described in</p>
+          </content>
+          <subsection eId="sec_82_12_0208__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0208__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>if the seller is subject to a franchise fee in this state under the authority of Title 47 U.S.C. Sec. 542</p>
+          </content>
+          <subsection eId="sec_82_12_0208__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>on the gross revenue derived from the sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0208__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

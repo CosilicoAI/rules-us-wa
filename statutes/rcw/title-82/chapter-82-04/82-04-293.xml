@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.293"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.293"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.293/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.293/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.293/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.293/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_293">
+        <num>RCW 82.04.293</num>
+        <heading>International investment management services—Definitions</heading>
+        <subsection eId="sec_82_04_293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person is engaged in the business of providing qualifying international investment management services, if:</p>
+          </content>
+          <subsection eId="sec_82_04_293__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Such person is engaged primarily in the business of providing investment management services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>At least ten percent of the gross income of such person is derived from providing investment management services to any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Collective investment funds commercially domiciled, as defined in RCW
+82.56.010
+, outside the United States; or</p>
+            </content>
+            <subsection eId="sec_82_04_293__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Collective investment funds with at least ten percent of their investments located outside the United States;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>More than twenty-five percent of such person's employees are located in this state; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Such person is a member of an affiliated group that collectively has:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Ten or more offices located in at least eight foreign countries;</p>
+            </content>
+            <subsection eId="sec_82_04_293__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>At least five hundred full-time employees worldwide;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_293__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Worldwide gross revenue of more than four hundred million dollars during the entire current or immediately preceding calendar year; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_293__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Average assets under management of more than two hundred billion dollars during the entire current or immediately preceding calendar year.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An affiliate of a person engaged in the business of providing qualifying international investment management services is deemed to also be engaged in the business of providing qualifying international investment management services if the affiliate:</p>
+          </content>
+          <subsection eId="sec_82_04_293__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is primarily engaged in providing portfolio management, fund administration, fund distribution, or transfer agent services, or any combination of these activities, to, either directly or indirectly through such affiliate's affiliated group, any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Collective investment funds commercially domiciled, as defined in RCW
+82.56.010
+, outside the United States; or</p>
+            </content>
+            <subsection eId="sec_82_04_293__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Collective investment funds with at least ten percent of their investments located outside the United States; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Satisfies the requirement under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Affiliate&quot; and &quot;affiliated&quot; mean a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person.</p>
+            </content>
+            <subsection eId="sec_82_04_293__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Affiliated group&quot; means any group of two or more persons that are all affiliated with each other.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Collective investment fund&quot; includes:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A mutual fund or other regulated investment company, as defined in section 851</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the internal revenue code of 1986, as amended;</p>
+            </content>
+            <subsection eId="sec_82_04_293__subsec_3__subsec_a__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An &quot;investment company,&quot; as that term is used in section 3</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the investment company act of 1940, as well as any entity that would be an investment company for this purpose but for the exemptions contained in section 3</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_c">
+            <num>(c)</num>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_23">
+          <num>(23)</num>
+          <content>
+            <p>of the internal revenue code of 1986, as amended, or a similar plan maintained by a state or local government, or a plan, trust, or custodial arrangement established to self-insure benefits required by federal, state, or local law;
+(iv) A fund maintained by a tax-exempt organization, as defined in section 501(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the internal revenue code of 1986, as amended, for operating, quasi-endowment, or endowment purposes;</p>
+          </content>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Funds that are established for the benefit of such tax-exempt organizations, such as charitable remainder trusts, charitable lead trusts, charitable annuity trusts, or other similar trusts; or
+(vi) Collective investment funds similar to those described in (c)</p>
+            </content>
+            <subsection eId="sec_82_04_293__subsec_3__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Collective investment funds similar to those described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>created under the laws of a foreign jurisdiction.</p>
+          </content>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Investment management services&quot; means managing the collective assets of a collective investment fund by engaging, either directly or indirectly through such person's affiliated group, in all of the following activities:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_293__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Portfolio management;</p>
+            </content>
+            <subsection eId="sec_82_04_293__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>fund administration;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_293__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>fund distribution; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_293__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>transfer agent services.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Investments are located outside the United States if the underlying assets in which the investment constitutes a beneficial interest reside or are created, issued or held outside the United States.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If a person engaged in the business of providing international investment management services no longer meets the Washington state employment eligibility requirements under subsection</p>
+          </content>
+          <subsection eId="sec_82_04_293__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, then an amount equal to the entire economic benefit accruing to the person in the current and immediately prior nine consecutive calendar years, or the consecutive years since July 1, 2019, whichever is less, as a result of the preferential tax rate under RCW
+82.04.290</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>is immediately due and payable.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_293__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must assess interest, but not penalties, on the amounts due under this section. The interest must be assessed at the rate provided for delinquent excise taxes under chapter
+82.32
+RCW and accrue until the taxes for which a tax preference has been used are repaid.
+[
+2019 c 426 s 3
+;
+1997 c 7 s 3
+;
+1995 c 229 s 1
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Automatic expiration date and tax preference performance statement exemption
+—
+Effective date
+—
+2019 c 426 ss 2 and 3:
+See notes following RCW
+82.04.290
+.
+Savings
+—
+Effective date
+—
+1997 c 7:
+See notes following RCW
+82.04.255
+.
+Effective date
+—
+1995 c 229:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 c 229 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

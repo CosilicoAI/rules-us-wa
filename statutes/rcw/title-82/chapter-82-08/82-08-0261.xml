@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0261"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0261"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0261/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0261/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0261/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0261/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0261">
+        <num>RCW 82.08.0261</num>
+        <heading>Exemptions—Sales of personal property for use connected with private or common carriers in interstate or foreign commerce</heading>
+        <subsection eId="sec_82_08_0261__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, the tax levied by RCW
+82.08.020
+does not apply to sales of tangible personal property (other than the type referred to in RCW
+82.08.0262
+) for use by the purchaser in connection with the business of operating as a private or common carrier by air, rail, or water in interstate or foreign commerce. However, any actual use of such property in this state is, at the time of such actual use, subject to the tax imposed by chapter
+82.12
+RCW.</p>
+          </content>
+          <subsection eId="sec_82_08_0261__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>With respect to the sale of liquefied natural gas to a business operating as a private or common carrier by water in interstate or foreign commerce, the buyer is entitled to a partial exemption from the tax levied by RCW
+82.08.020
+and the associated local sales taxes. The exemption under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0261__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>is for the state and local retail sales taxes on ninety percent of the amount of the liquefied natural gas transported and consumed outside this state by the buyer.</p>
+          </content>
+          <subsection eId="sec_82_08_0261__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Sellers are relieved of the obligation to collect the state and local retail sales taxes on sales eligible for the partial exemption provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0261__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to buyers who are registered with the department if the seller:</p>
+          </content>
+          <subsection eId="sec_82_08_0261__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Obtains a completed exemption certificate from the buyer, which must include the buyer's tax registration number with the department; or</p>
+            </content>
+            <subsection eId="sec_82_08_0261__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Captures the relevant data elements as allowed under the streamlined sales and use tax agreement, including the buyer's tax registration number with the department.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0261__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Buyers entitled to a partial exemption under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0261__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must either:</p>
+          </content>
+          <subsection eId="sec_82_08_0261__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Pay the full amount of state and local retail sales tax to the seller on the sale, including the amount of tax qualifying for exemption under this subsection</p>
+            </content>
+            <subsection eId="sec_82_08_0261__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the seller did not collect the retail sales tax from the buyer, remit to the department the state and local retail sales taxes due on all liquefied natural gas consumed in this state and on ten percent of the liquefied natural gas that is transported and consumed outside of this state.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0261__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section does not apply to the sale of liquefied natural gas on or after July 1, 2028, for use as fuel in any marine vessel.
+[
+2014 c 216 s 405
+;
+1980 c 37 s 28
+. Formerly RCW
+82.08.030</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

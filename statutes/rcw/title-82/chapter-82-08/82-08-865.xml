@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.865"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.865"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.865/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.865/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.865/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.865/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_865">
+        <num>RCW 82.08.865</num>
+        <heading>Exemptions—Diesel, biodiesel, and aircraft fuel for farm fuel users</heading>
+        <subsection eId="sec_82_08_865__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of diesel fuel, biodiesel fuel, or aircraft fuel, to a farm fuel user for agricultural purposes. This exemption applies to a fuel blend if all of the component fuels of the blend would otherwise be exempt under this subsection if the component fuels were sold as separate products. This exemption is available only if the buyer provides the seller with an exemption certificate in a form and manner prescribed by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in RCW
+82.04.213
+and this subsection apply to this section.</p>
+          </content>
+          <subsection eId="sec_82_08_865__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Agricultural purposes&quot; means the performance of activities directly related to the growing, raising, or producing of agricultural products.</p>
+            </content>
+            <subsection eId="sec_82_08_865__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Agricultural purposes&quot; does not include: (A) Heating space for human habitation or water for human consumption; or (B) transporting on public roads individuals, agricultural products, farm machinery or equipment, or other tangible personal property, except when the transportation is incidental to transportation on private property and the fuel used for such transportation is not subject to tax under chapter
+82.38
+RCW.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_865__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Aircraft fuel&quot; is defined as provided in RCW
+82.42.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_865__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Biodiesel fuel&quot; is defined as provided in RCW
+19.112.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_865__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Diesel fuel&quot; is defined as provided in 26 U.S.C. 4083, as amended or renumbered as of January 1, 2006.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_865__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Farm fuel user&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_865__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A farmer; or</p>
+            </content>
+            <subsection eId="sec_82_08_865__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a person who provides horticultural services for farmers, such as soil preparation services, crop cultivation services, and crop harvesting services.
+[
+2010 c 106 s 218
+;
+2007 c 443 s 1
+;
+2006 c 7 s 1
+.]
+NOTES:
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Effective date
+—
+2007 c 443:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 11, 2007].&quot; [
+2007 c 443 s 3
+.]
+Effective date
+—
+2006 c 7:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 6, 2006].&quot; [
+2006 c 7 s 3
+.]
+Additional sales tax exemption for motor vehicle and special fuel: RCW
+82.08.0255
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

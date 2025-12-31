@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4265"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4265"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4265/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4265/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4265/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4265/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4265">
+        <num>RCW 82.04.4265</num>
+        <heading>Exemptions—Comprehensive cancer centers</heading>
+        <subsection eId="sec_82_04_4265__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to amounts received by a comprehensive cancer center to the extent the amounts are exempt from federal income tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4265__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;comprehensive cancer center&quot; means a cancer center that has written confirmation that it is recognized by the national cancer institute as a comprehensive cancer center and that qualifies as an exempt organization under 26 U.S.C. Sec. 501(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4265__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>as existing on July 1, 2006.
+[
+2005 c 514 s 401
+.]
+NOTES:
+Effective date
+—
+2005 c 514 ss 401-403:
+&quot;Sections 401 through 403 of this act take effect July 1, 2006.&quot; [
+2005 c 514 s 1304
+.]
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

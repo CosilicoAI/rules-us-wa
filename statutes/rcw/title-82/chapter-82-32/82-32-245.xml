@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.245"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.245"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.245/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.245/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.245/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.245/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_245">
+        <num>RCW 82.32.245</num>
+        <heading>Search for and seizure of property—Warrant—Procedure</heading>
+        <subsection eId="sec_82_32_245__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>When there is probable cause to believe that there is property within this state, not otherwise exempt from process or execution, in the possession or control of any taxpayer against whom a tax warrant has been filed which remains unsatisfied, any judge of the superior court or district court in the county in which such property is located may, upon the request of the sheriff or agent of the department authorized to collect taxes, issue a warrant directed to such officers commanding the search for and seizure of the property described in the request for warrant.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_245__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Application for, issuance, and execution and return of the warrant authorized by this section and for return of any property seized shall be in accordance with the criminal rules of the superior court and the justice court.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_245__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The sheriff or agent of the department shall levy execution upon property seized pursuant to this section as provided in RCW
+82.32.220
+and
+82.32.230
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_245__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Nothing in this section shall require the application for and issuance of any warrant not otherwise required by law.
+[
+1985 c 414 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

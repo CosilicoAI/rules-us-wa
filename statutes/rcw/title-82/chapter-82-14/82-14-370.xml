@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.370"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.370"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.370/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.370/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.370/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.370/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_370">
+        <num>RCW 82.14.370</num>
+        <heading>Sales and use tax for public facilities in rural counties</heading>
+        <subsection eId="sec_82_14_370__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislative authority of a rural county may impose a sales and use tax in accordance with the terms of this chapter. The tax is in addition to other taxes authorized by law and must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the county. The rate of tax may not exceed 0.09 percent of the selling price in the case of a sales tax or value of the article used in the case of a use tax, except that for rural counties with population densities between 60 and 100 persons per square mile, the rate shall not exceed 0.04 percent before January 1, 2000.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax imposed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section must be deducted from the amount of tax otherwise required to be collected or paid over to the department of revenue under chapter
+82.08
+or
+82.12
+RCW. The department of revenue must perform the collection of such taxes on behalf of the county at no cost to the county.</p>
+          </content>
+          <subsection eId="sec_82_14_370__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Moneys collected under this section may only be used to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Finance public facilities serving economic development purposes in rural counties;</p>
+            </content>
+            <subsection eId="sec_82_14_370__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Finance the construction of affordable workforce housing infrastructure or facilities; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_370__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Finance personnel in economic development offices.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The public facility must be listed as an item in the officially adopted county overall economic development plan, or the economic development section of the county's comprehensive plan, or the comprehensive plan of a city or town located within the county for those counties planning under RCW
+36.70A.040
+, or provide affordable workforce housing infrastructure or facilities. For those counties that do not have an adopted overall economic development plan and do not plan under the growth management act, the public facility must be listed in the county's capital facilities plan or the capital facilities plan of a city or town located within the county, or provide affordable workforce housing infrastructure or facilities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In implementing this section, the county must consult with cities, towns, and port districts located within the county and the associate development organization serving the county to ensure that the expenditure of money collected under this section meets the goals of creating, attracting, expanding, and retaining businesses, providing family-wage jobs, and providing affordable workforce housing infrastructure or facilities and the use of money collected under this section meets the requirements of</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection. Each county collecting money under this section must provide a report to the office of the state auditor within 150 days after the close of each fiscal year identifying in detail each new and continuing public facility project, economic development purpose project, affordable workforce housing infrastructure or facilities project, economic development staff position, and qualifying provider project funded with the tax authorized under this section and the amount of tax proceeds allocated to such project or position in the prior fiscal year. Any projects financed prior to June 10, 2004, from the proceeds of obligations to which the tax imposed under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section has been pledged may not be deemed to be new projects under this subsection. No new projects funded with money collected under this section may be for justice system facilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The definitions in this section apply throughout this section.</p>
+          </content>
+          <subsection eId="sec_82_14_370__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Public facilities&quot; means bridges, roads, domestic and industrial water facilities, sanitary sewer facilities, earth stabilization, storm sewer facilities, railroads, electrical facilities, natural gas facilities, research, testing, training, and incubation facilities in innovation partnership zones designated under RCW
+43.330.270
+, buildings, structures, telecommunications infrastructure, transportation infrastructure, or commercial infrastructure, or port facilities in the state of Washington.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Economic development purposes&quot; means those purposes which facilitate the creation or retention of businesses and jobs in a county, including affordable workforce housing infrastructure or facilities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Economic development office&quot; means an office of a county, port districts, or an associate development organization as defined in RCW
+43.330.010
+, which promotes economic development purposes within the county.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Affordable workforce housing infrastructure or facilities&quot; means housing infrastructure, facilities, or land that a qualifying provider owns or uses for housing for single persons, families, or unrelated persons living together whose income is no more than 120 percent of the median income, adjusted for housing size, for the county where the housing is located.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Qualifying provider&quot; means a nonprofit entity as defined in RCW
+84.36.560
+, a nonprofit entity or qualified cooperative association as defined in RCW
+84.36.049
+, a housing authority created under RCW
+35.82.030
+or
+35.82.300
+, a public corporation established under RCW
+35.21.660
+or
+35.21.730
+, or a county or municipal corporation.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>No tax may be collected under this section before July 1, 1998.</p>
+          </content>
+          <subsection eId="sec_82_14_370__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, no tax may be collected under this section by a county more than 25 years after the date that a tax is first imposed under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_370__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For counties imposing the tax before August 1, 2009, and meeting the definition of a rural county as of August 1, 2009, the tax expires December 31, 2054.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>By December 31, 2024, the state auditor must provide a publicly accessible report on its website containing the project information and other expenditure information included in the annual report required under subsection</p>
+          </content>
+          <subsection eId="sec_82_14_370__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section for each county. The publicly accessible report must also include the total amount of revenue collected by the county under this section in the prior fiscal year. The state auditor must develop a standardized expenditure report for the project information and other expenditure information included in the annual report submitted by counties. This subsection applies to reports filed beginning in 2024 based on 2023 expenditures and thereafter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For purposes of this section, &quot;rural county&quot; means a county with a population density of less than 100 persons per square mile or a county smaller than 225 square miles as determined by the office of financial management pursuant to RCW
+43.62.035
+.
+[
+2024 c 58 s 1
+;
+2023 c 411 s 1
+;
+2022 c 175 s 1
+;
+2012 c 225 s 4
+;
+2009 c 511 s 1
+. Prior:
+2007 c 478 s 1
+;
+2007 c 250 s 1
+;
+2004 c 130 s 2
+;
+2002 c 184 s 1
+;
+1999 c 311 s 101
+;
+1998 c 55 s 6
+;
+1997 c 366 s 3
+.]
+NOTES:
+Effective date
+—
+2007 c 478:
+&quot;This act takes effect August 1, 2007.&quot; [
+2007 c 478 s 2
+.]
+Intent
+—
+2004 c 130:
+&quot;It is the intent of the legislature in enacting this 2004 act to reaffirm the original goals of the 1997 act which first provided distressed counties with the local option sales and use tax contained in RCW
+82.14.370
+. The local option tax is now available to all rural counties and the continuing legislative goal for RCW
+82.14.370
+is to promote the creation, attraction, expansion, and retention of businesses and provide for family-wage jobs.&quot; [
+2004 c 130 s 1
+.]
+Finding
+—
+Intent
+—
+1999 c 311:
+&quot;The legislature finds that while Washington's economy is currently prospering, economic growth continues to be uneven, particularly as between metropolitan and rural areas. This has created in effect two Washingtons: One afflicted by inadequate infrastructure to support and attract investment, another suffering from congestion and soaring housing prices. In order to address these problems, the legislature intends to use resources strategically to build on our state's strengths while addressing threats to our prosperity.&quot; [
+1999 c 311 s 1
+.]
+Part headings and subheadings not law
+—
+1999 c 311:
+&quot;Part headings and subheadings used in this act are not any part of the law.&quot; [
+1999 c 311 s 601
+.]
+Effective date
+—
+1999 c 311:
+&quot;Sections 1, 101, 201, 301 through 305, 401, 402, 601, and 605 of this act take effect August 1, 1999.&quot; [
+1999 c 311 s 604
+.]
+Severability
+—
+1999 c 311:
+&quot;If any provision of this act or its ap</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A strategically designed plan of assistance, emphasizing state, local, and private sector leadership and partnership;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A comprehensive and significant array of business assistance, services, and tax incentives that are accountable and performance driven;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>An array of community assistance including infrastructure development and business retention, attraction, and expansion programs that will provide a competitive advantage to rural distressed areas throughout Washington; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Regulatory relief to reduce and streamline zoning, permitting, and regulatory requirements in order to enhance the capability of businesses to grow and prosper in rural distressed areas.&quot; [
+1997 c 366 s 1
+.]
+Goals
+—
+1997 c 366:
+&quot;The primary goals of chapter 366, Laws of 1997 are to:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Promote the ongoing operation of business in rural distressed areas;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Promote the expansion of existing businesses in rural distressed areas;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Attract new businesses to rural distressed areas;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Assist in the development of new businesses from within rural distressed areas;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Provide family-wage jobs to the citizens of rural distressed areas; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_370__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Promote the development of communities of excellence in rural distressed areas.&quot; [
+1997 c 366 s 2
+.]
+Severability
+—
+1997 c 366:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1997 c 366 s 11
+.]
+Captions and part headings not law
+—
+1997 c 366:
+&quot;Section captions and part headings used in this act are not any part of the law.&quot; [
+1997 c 366 s 12
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

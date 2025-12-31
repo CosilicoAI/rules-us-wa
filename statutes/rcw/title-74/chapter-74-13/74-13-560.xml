@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.560"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.560"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.560/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.560/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.560/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.560/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_560">
+        <num>RCW 74.13.560</num>
+        <heading>Educational continuity—Protocol development</heading>
+        <subsection eId="sec_74_13_560__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The administrative regions of the department shall, in collaboration with school districts within their region as required by RCW
+28A.225.360
+, develop protocols specifying specific strategies for communication, coordination, and collaboration regarding the status and progress of children in out-of-home care placed in the region, and children in the region who are the subject of a dependency proceeding. The purpose of the protocols is to maximize the educational continuity and achievement for the children. The protocols must include methods to assure effective sharing of information, consistent with RCW
+28A.225.330
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_560__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The protocols required by this section must also include protocols for making best interest determinations for students in out-of-home care, and children who are the subject of a dependency proceeding that comply with RCW
+28A.225.350
+. The protocols for making best interest determinations must be implemented before changing the school placement of a student.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_560__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section, &quot;children who are the subject of a dependency proceeding&quot; means a child or youth who is located in Washington state and the subject of a shelter care or dependency order pursuant to chapter
+13.34
+RCW, and &quot;out-of-home care&quot; has the same meaning as in RCW
+13.34.030
+.
+[
+2022 c 78 s 9
+. Prior:
+2018 c 284 s 59
+;
+2018 c 139 s 4
+;
+2009 c 520 s 88
+;
+2003 c 112 s 3
+.]
+NOTES:
+Effective date
+—
+2018 c 139:
+See note following RCW
+28A.225.350
+.
+Findings
+—
+Intent
+—
+2003 c 112:
+See note following RCW
+74.13.550
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

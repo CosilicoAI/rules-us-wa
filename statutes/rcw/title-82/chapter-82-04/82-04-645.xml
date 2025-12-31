@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.645"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.645"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.645/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.645/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.645/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.645/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_645">
+        <num>RCW 82.04.645</num>
+        <heading>Exemptions—Financial institutions—Amounts received from certain affiliated persons</heading>
+        <subsection eId="sec_82_04_645__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to amounts received by a financial institution from an affiliated person if the amounts are received from transactions that are required to be at arm's length under sections 23A or 23B of the federal reserve act as existing on June 1, 2010, or such subsequent date as may be provided by the department by rule, consistent with the purposes of this section. For purposes of this subsection, &quot;financial institution&quot; has the same meaning as in RCW
+82.04.080
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_645__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>As used in this section, &quot;affiliated&quot; means under common control. &quot;Control&quot; means the possession, directly or indirectly, of more than fifty percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise.
+[
+2011 c 174 s 102
+;
+2010 1st sp.s. c 23 s 110
+.]
+NOTES:
+Contingency
+—
+Application
+—
+2010 1st sp.s. c 23 ss 102-112:
+See notes following RCW
+82.04.067
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.170"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_170">
+        <num>RCW 74.13.170</num>
+        <heading>Therapeutic family home program for youth in custody under chapter  13.34 RCW</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.170
+74.13.110
+&lt;&lt; 
+        74.13.170 &gt;&gt;
+74.13.232
+PDF
+RCW
+74.13.170
+Therapeutic family home program for youth in custody under chapter
+13.34
+RCW.
+The department may, through performance-based contracts with agencies, implement a therapeutic family home program for up to fifteen youth in the custody of the department under chapter
+13.34
+RCW. The program shall strive to develop and maintain a mutually reinforcing relationship between the youth and the therapeutic staff associated with the program.
+[
+2018 c 284 s 44
+;
+2009 c 520 s 70
+;
+1991 c 326 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

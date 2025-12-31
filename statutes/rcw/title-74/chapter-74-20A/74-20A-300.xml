@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.300"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.300"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.300/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.300/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.300/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.300/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_300">
+        <num>RCW 74.20A.300</num>
+        <heading>Medical support—Health care coverage required</heading>
+        <subsection eId="sec_74_20A_300__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Whenever a support order is entered or modified under this chapter, the department shall require either or both parents to provide medical support for any dependent child, in the nature of health care coverage or a monthly payment toward the premium, as provided under RCW
+26.09.105
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_300__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A parent ordered to provide health care coverage shall provide proof of such coverage or proof that such coverage is unavailable to the department within twenty days of the entry of the order.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_300__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A parent required to provide health care coverage must notify the department and the other parent when coverage terminates.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_300__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Every order requiring a parent to provide health care coverage shall be entered in compliance with *RCW
+26.23.050
+and be subject to direct enforcement as provided under chapter
+26.18
+RCW.
+[
+2018 c 150 s 110
+;
+2009 c 476 s 6
+;
+1994 c 230 s 22
+;
+1989 c 416 s 6
+.]
+NOTES:
+*Reviser's note:
+The reference to RCW
+26.23.050
+appears to refer to the amendments made by 1989 c 416 s 8 that were subsequently vetoed by the governor.
+Effective date
+—
+2009 c 476:
+See note following RCW
+26.09.105
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

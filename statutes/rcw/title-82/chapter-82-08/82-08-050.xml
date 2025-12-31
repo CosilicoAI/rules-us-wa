@@ -1,0 +1,331 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_050">
+        <num>RCW 82.08.050</num>
+        <heading>Buyer to pay, seller to collect tax—Statement of tax—Exception—Penalties</heading>
+        <subsection eId="sec_82_08_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed in this chapter must be paid by the buyer to the seller. Each seller must collect from the buyer the full amount of the tax payable in respect to each taxable sale in accordance with the schedule of collections adopted by the department under the provisions of RCW
+82.08.060
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax required by this chapter, to be collected by the seller, is deemed to be held in trust by the seller until paid to the department. Any seller who appropriates or converts the tax collected to the seller's own use or to any use other than the payment of the tax to the extent that the money required to be collected is not available for payment on the due date as prescribed in this chapter is guilty of a gross misdemeanor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Except as otherwise provided in this section, if any seller fails to collect the tax imposed in this chapter or, having collected the tax, fails to pay it to the department in the manner prescribed by this chapter, whether such failure is the result of the seller's own acts or the result of acts or conditions beyond the seller's control, the seller is, nevertheless, personally liable to the state for the amount of the tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Sellers are not relieved from personal liability for the amount of the tax unless they maintain proper records of exempt or nontaxable transactions and provide them to the department when requested.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Sellers are not relieved from personal liability for the amount of tax if they fraudulently fail to collect the tax or if they solicit purchasers to participate in an unlawful claim of exemption.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Sellers are not relieved from personal liability for the amount of tax if they accept an exemption certificate from a purchaser claiming an entity-based exemption if:</p>
+          </content>
+          <subsection eId="sec_82_08_050__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The subject of the transaction sought to be covered by the exemption certificate is actually received by the purchaser at a location operated by the seller in Washington; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Washington provides an exemption certificate that clearly and affirmatively indicates that the claimed exemption is not available in Washington. Graying out exemption reason types on a uniform form and posting it on the department's website is a clear and affirmative indication that the grayed out exemptions are not available.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Sellers are relieved from personal liability for the amount of tax if they obtain a fully completed exemption certificate or capture the relevant data elements required under the streamlined sales and use tax agreement within 90 days, or a longer period as may be provided by rule by the department, subsequent to the date of sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the seller has not obtained an exemption certificate or all relevant data elements required under the streamlined sales and use tax agreement within the period allowed subsequent to the date of sale, the seller may, within 120 days, or a longer period as may be provided by rule by the department, subsequent to a request for substantiation by the department, either prove that the transaction was not subject to tax by other means or obtain a fully completed exemption certificate from the purchaser, taken in good faith.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Sellers are relieved from personal liability for the amount of tax if they obtain a blanket exemption certificate for a purchaser with which the seller has a recurring business relationship. The department may not request from a seller renewal of blanket exemption certificates or updates of exemption certificate information or data elements if there is a recurring business relationship between the buyer and seller. For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Sellers are relieved from personal liability for the amount of tax if they obtain a copy of a direct pay permit issued under RCW
+82.32.087
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The amount of tax, until paid by the buyer to the seller or to the department, constitutes a debt from the buyer to the seller. Any seller who fails or refuses to collect the tax as required with intent to violate the provisions of this chapter or to gain some advantage or benefit, either direct or indirect, and any buyer who refuses to pay any tax due under this chapter is guilty of a misdemeanor.</p>
+          </content>
+          <subsection eId="sec_82_08_050__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax required by this chapter to be collected by the seller need not be stated separately from the selling price or collected separately from the buyer on the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>All retail sales through vending machines; or</p>
+            </content>
+            <subsection eId="sec_82_08_050__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Retail sales of medical equipment paid by a health insurance provider, if the following conditions are met:
+(A) The payment for the medical equipment is a fixed amount set by contract between the medical supply vendor and the health insurance provider; and
+(B) The medical supply vendor is not entitled to collect the balance from the covered person, or other persons, after contractual amounts are paid by the health insurance provider.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall adopt rules as may be necessary to administer the provisions of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Where a buyer has failed to pay to the seller the tax imposed by this chapter and the seller has not paid the amount of the tax to the department, the department may, in its discretion, proceed directly against the buyer for collection of the tax. If the department proceeds directly against the buyer for collection of the tax as authorized in this subsection, the department may add a penalty of 10 percent of the unpaid tax to the amount of the tax due for failure of the buyer to pay the tax to the seller, regardless of when the tax may be collected by the department. In addition to the penalty authorized in this subsection, all of the provisions of chapter
+82.32
+RCW, including those relative to interest and penalties, apply. For the sole purpose of applying the various provisions of chapter
+82.32
+RCW, the 25th day of the month following the tax period in which the purchase was made will be considered as the due date of the tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_050__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_050__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Exemption certificate&quot; means documentation furnished by a buyer to a seller to claim an exemption from sales tax. An exemption certificate includes a reseller permit or other documentation authorized in RCW
+82.04.470
+furnished by a buyer to a seller to substantiate a wholesale sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Health insurance provider&quot; includes, but is not limited to, commercial insurers, the medicaid program, and the medicare program.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_050__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Seller&quot; includes a certified service provider, as defined in RCW
+82.32.020
+, acting as agent for the seller.
+[
+2025 c 411 s 3
+;
+2017 3rd sp.s. c 28 s 211
+;
+2010 c 112 s 8
+;
+2010 c 106 s 217
+. Prior:
+2009 c 563 s 206
+;
+2009 c 289 s 2
+;
+2007 c 6 s 1202
+; prior:
+2003 c 168 s 203
+;
+2003 c 76 s 3
+;
+2003 c 53 s 400
+;
+2001 c 188 s 4
+;
+1993 sp.s. c 25 s 704
+;
+1992 c 206 s 2
+;
+1986 c 36 s 1
+;
+1985 c 38 s 1
+;
+1971 ex.s. c 299 s 7
+;
+1965 ex.s. c 173 s 15
+;
+1961 c 15 s 82.08.050
+; prior:
+1951 c 44 s 1
+;
+1949 c 228 s 6
+;
+1941 c 71 s 3
+;
+1939 c 225 s 11
+;
+1937 c 227 s 7
+;
+1935 c 180 s 21
+; Rem. Supp. 1949 s 8370-21.]
+NOTES:
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2025 c 411:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2025 c 411 s 6
+.]
+Findings
+—
+Intent
+—
+2017 3rd sp.s. c 28 ss 201-214:
+See note following RCW
+82.08.0531
+.
+Existing rights and liability
+—
+Severability
+—
+Application
+—
+Effective dates
+—
+2017 3rd sp.s. c 28:
+See notes following RCW
+82.08.0531
+.
+Retroactive application
+—
+2010 c 112:
+See note following RCW
+82.32.780
+.
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Finding
+—
+Intent
+—
+Construction
+—
+Effective date
+—
+Reports and recommendations
+—
+2009 c 563:
+See notes following RCW
+82.32.780
+.
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Intent
+—
+2003 c 76:
+&quot;It is the intent of the legislature to exempt from business and occupation tax and to relieve from the obligation to collect sales and use tax from certain sellers with very limited connections to Washington. These sellers are currently relieved from the obligation to collect sales and use tax because of the provisions of the federal internet tax freedom act. The legislature intends to continue to relieve these particular </p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

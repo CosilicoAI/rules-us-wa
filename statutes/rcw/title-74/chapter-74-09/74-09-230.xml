@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.230"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.230"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.230/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.230/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.230/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.230/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_230">
+        <num>RCW 74.09.230</num>
+        <heading>False statements, fraud—Penalties</heading>
+        <subsection eId="sec_74_09_230__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>knowingly makes or causes to be made any false statement or representation of a material fact in any application for any payment under any medical care program authorized under this chapter or other applicable law, or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_230__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>at any time knowingly makes or causes to be made any false statement or representation of a material fact for use in determining rights to such payment, or knowingly falsifies, conceals, or covers up by any trick, scheme, or device a material fact in connection with such application or payment, or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_230__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>having knowledge of the occurrence of any event affecting</p>
+          </content>
+          <subsection eId="sec_74_09_230__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>the initial or continued right to any payment, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_230__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>the initial or continued right to any such payment of any other individual in whose behalf he or she has applied for or is receiving such payment, conceals or fails to disclose such event with an intent fraudulently to secure such payment either in a greater amount or quantity than is due or when no such payment is authorized,
+shall be guilty of a class C felony: PROVIDED, That the fine, if imposed, shall not be in an amount more than twenty-five thousand dollars, except as authorized by RCW
+9A.20.030
+.
+[
+2018 c 201 s 7011
+;
+2013 c 23 s 203
+;
+1979 ex.s. c 152 s 4
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

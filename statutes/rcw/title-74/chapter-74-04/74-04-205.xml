@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.205"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.205/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.205/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_205">
+        <num>RCW 74.04.205</num>
+        <heading>Simplified reporting for the food stamp program</heading>
+        <subsection eId="sec_74_04_205__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To the maximum extent allowable by federal law, the department shall implement simplified reporting for the food stamp program by October 31, 2004.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_205__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;simplified reporting&quot; means the only change in circumstance that a recipient of a benefit program must report between eligibility reviews is an increase of income that would result in ineligibility for the benefit program or a change of address. Every six months the assistance unit must either complete a semiannual report or participate in an eligibility review.
+[
+2004 c 54 s 3
+.]
+NOTES:
+Findings
+—
+Conflict with federal requirements
+—
+2004 c 54:
+See notes following RCW
+28A.235.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

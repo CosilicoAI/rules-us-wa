@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.49.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.49.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.49.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_49_030">
+        <num>RCW 82.49.030</num>
+        <heading>Payment of tax—Deposit in general fund and derelict vessel removal account</heading>
+        <subsection eId="sec_82_49_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The excise tax imposed under this chapter is due and payable to the department of licensing, county auditor or other agent, or subagent appointed by the director of the department of licensing at the time of registration of a vessel. The department of licensing shall not issue or renew a registration for a vessel until the tax is paid in full.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Twenty-five percent of the excise tax collected each fiscal year under this chapter must be deposited in the derelict vessel removal account created in RCW
+79.100.100
+. The remaining excise tax collected under this chapter must be deposited in the general fund.
+[
+2022 c 124 s 2
+;
+2010 c 161 s 1045
+;
+2000 c 103 s 18
+;
+1991 sp.s. c 16 s 925
+;
+1989 c 393 s 10
+;
+1983 c 7 s 10
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2022 c 124:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the department of natural resources' derelict vessel removal program is seen as a national model for vessel removal, yet funding for the program is not sufficient to remove all sunken and abandoned vessels from state waters.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that since 2002, the department's derelict vessel removal program has removed almost 1,000 vessels and eliminated environmental and habitat threats to some 10.6 cumulative miles of Washington's waters.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature further finds that the number of derelict vessels continues to increase due to insufficient funding to address the increased need as more vessels are added to the list each year, resulting in some vessels lingering for years. Currently, there are around 270 identified vessels of concern, or 7,500 linear feet of vessels. These derelict vessels have critical impacts on water quality, salmon, and southern resident killer whales.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>It is the intent of the legislature to provide reliable funding for the derelict vessel removal program to:</p>
+          </content>
+          <subsection eId="sec_82_49_030__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Remove all currently known derelict vessels by 2031;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_49_030__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Support enforcement programs to reduce overall vessel abandonment and ensure compliance with vessel registration and insurance requirements;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_49_030__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Increase investments in proactive approaches like the derelict vessel turn-in program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_49_030__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Utilize the results of a pilot vessel recycling program to work toward a more ongoing, permanent vessel recycling program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_49_030__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Through the vessel turn-in program and collaborative partnerships, increase capacity to address abandoned and derelict vessels that pose a threat to the public but are not on state-owned aquatic lands; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_49_030__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Provide additional support to authorized public entities, particularly in more rural areas that lack on-water resources, so they are able to initiate more removals within their jurisdiction.&quot; [
+2022 c 124 s 1
+.]
+Effective date
+—
+Intent
+—
+Legislation to reconcile chapter 161, Laws of 2010 and other amendments made during the 2010 legislative session
+—
+2010 c 161:
+See notes following RCW
+46.04.013
+.
+Severability
+—
+Effective date
+—
+1991 sp.s. c 16:
+See notes following RCW
+9.46.100
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

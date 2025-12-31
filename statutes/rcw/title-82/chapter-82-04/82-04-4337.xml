@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4337"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4337"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4337/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4337/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4337/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4337/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4337">
+        <num>RCW 82.04.4337</num>
+        <heading>Deductions—Certain amounts received by assisted living facilities</heading>
+        <subsection eId="sec_82_04_4337__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An assisted living facility licensed under chapter
+18.20
+RCW may deduct from the measure of tax amounts received as compensation for providing adult residential care, enhanced adult residential care, or assisted living services under contract with the department of social and health services authorized by chapter
+74.39A
+RCW to residents who are medicaid recipients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4337__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;adult residential care,&quot; &quot;enhanced adult residential care,&quot; and &quot;assisted living services&quot; have the same meaning as in RCW
+74.39A.009
+.
+[
+2012 c 10 s 72
+;
+2004 c 174 s 7
+.]
+NOTES:
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Effective date
+—
+2004 c 174:
+See note following RCW
+82.04.2908
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.055"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_055">
+        <num>RCW 74.20.055</num>
+        <heading>Designated agency under federal law—Role of prosecuting attorneys</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.055
+74.20.045
+&lt;&lt; 
+        74.20.055 &gt;&gt;
+74.20.057
+PDF
+RCW
+74.20.055
+Designated agency under federal law
+—
+Role of prosecuting attorneys.
+The department of social and health services office of support enforcement is the designated agency in Washington state to administer the child support program under Title IV-D of the federal social security act and is responsible for providing necessary and mandated support enforcement services and ensuring that such services are available statewide. It is the intent of the legislature to enhance the total child support program in this state by granting the office of support enforcement administrative powers and flexibility. If the exercise of this authority is used to supplant or replace the role of the prosecuting attorneys for reasons other than economy or federal compliance, the Washington association of prosecuting attorneys shall report to the committees on judiciary of the senate and house of representatives.
+[
+1985 c 276 s 17
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

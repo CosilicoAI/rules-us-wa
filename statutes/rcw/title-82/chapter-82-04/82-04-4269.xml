@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4269"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4269"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4269/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4269/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4269/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4269/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4269">
+        <num>RCW 82.04.4269</num>
+        <heading>Exemptions—Seafood product businesses. (Expires July 1, 2035.)</heading>
+        <subsection eId="sec_82_04_4269__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to the value of products or the gross proceeds of sales derived from:</p>
+          </content>
+          <subsection eId="sec_82_04_4269__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Manufacturing seafood products that remain in a raw, raw frozen, or raw salted state at the completion of the manufacturing by that person; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4269__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Selling manufactured seafood products that remain in a raw, raw frozen, or raw salted state to purchasers who transport in the ordinary course of business the goods out of this state. A person taking an exemption under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4269__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>must keep and preserve records for the period required by RCW
+82.32.070
+establishing that the goods were transported by the purchaser in the ordinary course of business out of this state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4269__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person claiming the exemption provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4269__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires July 1, 2035.
+[
+2023 c 422 s 4
+;
+2020 c 139 s 7
+;
+2015 3rd sp.s. c 6 s 204
+;
+2012 2nd sp.s. c 6 s 203
+;
+2010 c 114 s 113
+;
+2006 c 354 s 2
+.]
+NOTES:
+Tax preference performance statement
+—
+2023 c 422 ss 2-5:
+See note following RCW
+82.04.4268
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 202-205:
+See note following RCW
+82.04.4266
+.
+Existing rights, liabilities, or obligations
+—
+Effective dates
+—
+Contingent effective dates
+—
+2012 2nd sp.s. c 6:
+See notes following RCW
+82.04.29005
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective dates
+—
+2006 c 354:
+See note following RCW
+82.04.4268
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

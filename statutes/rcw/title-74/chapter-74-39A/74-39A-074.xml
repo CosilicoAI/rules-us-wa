@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.074"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.074"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.074/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.074/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.074/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.074/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_074">
+        <num>RCW 74.39A.074</num>
+        <heading>Training requirements for long-term care workers—Rules</heading>
+        <subsection eId="sec_74_39A_074__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Only training curriculum approved by the department may be used to fulfill the training requirements specified in this section. The department shall only approve training curriculum that:</p>
+          </content>
+          <subsection eId="sec_74_39A_074__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Has been developed with input from consumer and worker representatives; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_074__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Requires comprehensive instruction by qualified instructors on the competencies and training topics in this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_074__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Individual providers under RCW
+74.39A.270
+shall be compensated for training time required by this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_074__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements.</p>
+          </content>
+          <subsection eId="sec_74_39A_074__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Rules adopted under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_074__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that all long-term care workers who were unable to complete the training required in subsection</p>
+          </content>
+          <subsection eId="sec_74_39A_074__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section have had adequate access to complete the required training, whichever is later. Once the department determines a rule adopted under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_074__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>is no longer necessary, it must repeal the rule under RCW
+34.05.353
+.</p>
+          </content>
+          <subsection eId="sec_74_39A_074__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of training compliance with subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_074__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section and provide the legislature with a report.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_074__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department shall adopt rules to implement this section.
+[
+2021 c 203 s 7
+;
+2017 c 216 s 1
+;
+2012 c 164 s 401
+;
+2012 c 1 s 107
+(Initiative Measure No. 1163, approved November 8, 2011).]
+NOTES:
+Effective date
+—
+Retroactive application
+—
+2021 c 203:
+See notes following RCW
+43.43.832
+.
+Finding
+—
+Intent
+—
+Rules
+—
+Effective date
+—
+2012 c 164:
+See notes following RCW
+18.88B.010
+.
+Intent
+—
+Findings
+—
+Performance audits
+—
+Spending limits
+—
+Contingent effective dates
+—
+Application
+—
+Construction
+—
+Effective date
+—
+Short title
+—
+2012 c 1 (Initiative Measure No. 1163):
+See notes following RCW
+74.39A.056
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

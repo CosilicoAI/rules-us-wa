@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.380"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.380"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.380/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.380/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.380/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.380/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_380">
+        <num>RCW 74.08.380</num>
+        <heading>Acceptance of federal act</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08
+&gt;
+Section 74.08.380
+74.08.370
+&lt;&lt; 
+        74.08.380 &gt;&gt;
+74.08.390
+PDF
+RCW
+74.08.380
+Acceptance of federal act.
+The state hereby accepts the provisions of that certain act of the congress of the United States entitled, An Act to provide for the general welfare by establishing a system of federal old age benefits, and by enabling the several states to make more adequate provisions for aged persons, blind persons, dependent and crippled children, maternal and child welfare, public health, and the administration of their unemployment compensation laws; to establish a social security board; to raise revenue; and for other purposes, and such other act with like or similar objects as may be enacted.
+[
+1959 c 26 s 74.08.380
+. Prior:
+1937 c 156 s 12
+;
+1935 c 182 s 26
+; RRS s 9998-26.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

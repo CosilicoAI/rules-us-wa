@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.85.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.85.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.85.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_85_080">
+        <num>RCW 82.85.080</num>
+        <heading>Annual tax performance report</heading>
+        <subsection eId="sec_82_85_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each recipient of a deferral of taxes granted under this chapter must file a complete annual tax performance report with the department under RCW
+82.32.534
+. If the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.85.030
+, the lessee must file a complete annual tax performance report, and the applicant is not required to file a complete annual tax performance report.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If, on the basis of a tax performance report under RCW
+82.32.534
+or other information, the department finds that an investment project is not eligible for tax deferral under this chapter due to the fact the investment project is no longer used for qualified activities, the amount of deferred taxes outstanding for the investment project is immediately due and payable.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_080__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the economic benefits of a tax deferral under this chapter are passed to a lessee as provided in RCW
+82.85.030
+, the lessee is responsible for payment to the extent the lessee has received the economic benefit.
+[
+2020 c 139 s 48
+;
+2015 3rd sp.s. c 6 s 408
+.]
+NOTES:
+Application
+—
+2015 3rd sp.s. c 6 ss 406-409:
+See note following RCW
+82.85.060
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

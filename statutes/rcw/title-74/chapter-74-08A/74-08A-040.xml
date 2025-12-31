@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_040">
+        <num>RCW 74.08A.040</num>
+        <heading>Indian tribes—Program access—Funding—Rules</heading>
+        <subsection eId="sec_74_08A_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>provide eligible Indian tribes ongoing, meaningful opportunities to participate in the development, oversight, and operation of the state temporary assistance for needy families program;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>certify annually that it is providing equitable access to the state temporary assistance for needy families program to Indian people whose tribe is not administering a tribal temporary assistance for needy families program;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>coordinate and cooperate with eligible Indian tribes that elect to operate a tribal temporary assistance for needy families program as provided for in P.L. 104-193;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>upon approval by the secretary of the federal department of health and human services of a tribal temporary assistance for needy families program, transfer a fair and equitable amount of the state maintenance of effort funds to the eligible Indian tribe; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>establish rules related to the operation of this section and RCW
+74.08A.050
+, covering, at a minimum, appropriate uses of state maintenance of effort funds and annual reports on program operations. The legislature shall specify the amount of state maintenance of effort funds to be transferred in the biennial appropriations act.
+[
+1997 c 58 s 107
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

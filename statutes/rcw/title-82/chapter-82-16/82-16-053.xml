@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.053"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.053"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.053/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.053/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.053/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.053/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_053">
+        <num>RCW 82.16.053</num>
+        <heading>Deductions in computing tax—Light and power businesses</heading>
+        <subsection eId="sec_82_16_053__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax under this chapter, a light and power business may deduct from gross income the lesser of the amounts determined under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_053__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_053__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_16_053__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fifty percent of wholesale power cost paid during the reporting period, if the light and power business has fewer than five and one-half customers per mile of line.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_053__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Forty percent of wholesale power cost paid during the reporting period, if the light and power business has more than five and one-half but less than eleven customers per mile.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_053__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Thirty percent of the wholesale power cost paid during the reporting period, if the light and power business has more than eleven but less than seventeen customers per mile of line.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_053__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Zero if the light and power business has more than seventeen customers per mile of line.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_053__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Wholesale power cost multiplied by the percentage by which the average retail electric power rates for the light and power business exceed the state average electric power rate. If more than fifty percent of the kilowatt-hours sold by a light and power business are sold to irrigators, then only sales to nonirrigators shall be used to calculate the average electric power rate for that light and power business. For purposes of this subsection, the department shall determine state average electric power rate each year based on the most recent available data and shall inform taxpayers of its determination.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_053__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Four hundred thousand dollars per month.
+[
+1996 c 145 s 1
+;
+1994 c 236 s 1
+.]
+NOTES:
+Effective date
+—
+1996 c 145:
+&quot;This act shall take effect July 1, 1996.&quot; [
+1996 c 145 s 2
+.]
+Effective date
+—
+1994 c 236:
+&quot;This act shall take effect July 1, 1994.&quot; [
+1994 c 236 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

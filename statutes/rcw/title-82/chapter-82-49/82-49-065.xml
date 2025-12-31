@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.49.065"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.065"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.49.065/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.065/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.49.065/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.065/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_49_065">
+        <num>RCW 82.49.065</num>
+        <heading>Refunds—When, to whom—Amounts</heading>
+        <subsection eId="sec_82_49_065__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Refunds of the excise tax imposed under this chapter must be handled in the same manner and under the same terms and conditions as provided in RCW
+88.02.350
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_065__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The excise tax imposed under this chapter may be refunded to the person who paid the excise tax at the same time the registration fee under chapter
+88.02
+RCW was paid. The amount of the excise tax that may be refunded includes:</p>
+          </content>
+          <subsection eId="sec_82_49_065__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The entire amount of the excise tax, if the entire amount of the registration fee is also refunded; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_49_065__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any amount that was greater than the amount due.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_49_065__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Excise tax refunds include interest at the rate specified in RCW
+82.32.060
+.
+[
+2010 c 161 s 1046
+;
+2003 c 53 s 405
+;
+1992 c 154 s 4
+;
+1989 c 68 s 3
+.]
+NOTES:
+Effective date
+—
+Intent
+—
+Legislation to reconcile chapter 161, Laws of 2010 and other amendments made during the 2010 legislative session
+—
+2010 c 161:
+See notes following RCW
+46.04.013
+.
+Intent
+—
+Effective date
+—
+2003 c 53:
+See notes following RCW
+2.48.180
+.
+Effective date
+—
+1992 c 154:
+See note following RCW
+82.48.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

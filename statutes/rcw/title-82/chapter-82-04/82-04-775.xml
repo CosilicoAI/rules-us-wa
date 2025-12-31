@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.775"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.775"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.775/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.775/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.775/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.775/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_775">
+        <num>RCW 82.04.775</num>
+        <heading>Application of chapter—Amounts received under chapter  70A.535 RCW</heading>
+        <subsection eId="sec_82_04_775__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to amounts received from the generation, purchase, sale, transfer, or retirement of credits under chapter
+70A.535
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_775__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_775__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.
+[
+2021 c 317 s 16
+.]
+NOTES:
+Severability
+—
+2021 c 317:
+See note following RCW
+70A.535.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

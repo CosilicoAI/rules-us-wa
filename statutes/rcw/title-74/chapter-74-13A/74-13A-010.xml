@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_010">
+        <num>RCW 74.13A.010</num>
+        <heading>Prospective adoptive parent's fee for cost of adoption services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13A
+&gt;
+Section 74.13A.010
+74.13A.007
+&lt;&lt; 
+        74.13A.010 &gt;&gt;
+74.13A.015
+PDF
+RCW
+74.13A.010
+Prospective adoptive parent's fee for cost of adoption services.
+When a child proposed for adoption is placed with a prospective adoptive parent the department may charge such parent a fee in payment or part payment of such adoptive parent's part of the cost of the adoption services rendered and to be rendered by the department.
+In charging such fees the department shall treat a husband and wife as a single prospective adoptive parent.
+Each such fee shall be fixed according to a sliding scale based on the ability to pay of the prospective adoptive parent or parents.
+Such fee scale shall be annually fixed by the secretary after considering the recommendations of the committee designated by the secretary to advise him or her on child welfare and pursuant to the regulations to be issued by the secretary in accordance with the provisions of Title
+34
+RCW.
+The secretary may waive, defer, or provide for payment in installments without interest of, any such fee whenever in his or her judgment payment or immediate payment would cause economic hardship to such adoptive parent or parents.
+Nothing in this section shall require the payment of a fee to the state of Washington in a case in which an adoption results from independent placement or placement by a licensed child-placing or supervising agency.
+[
+2009 c 520 s 64
+;
+1971 ex.s. c 63 s 2
+. Formerly RCW
+74.13.103
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

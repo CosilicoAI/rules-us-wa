@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4289"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4289"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4289/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4289/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4289/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4289/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4289">
+        <num>RCW 82.04.4289</num>
+        <heading>Exemption—Compensation for patient services or attendant sales of drugs dispensed pursuant to prescription by certain nonprofit organizations</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4289
+82.04.4287
+&lt;&lt; 
+        82.04.4289 &gt;&gt;
+82.04.4290
+PDF
+RCW
+82.04.4289
+Exemption
+—
+Compensation for patient services or attendant sales of drugs dispensed pursuant to prescription by certain nonprofit organizations.
+This chapter does not apply to amounts derived as compensation for services rendered to patients or from sales of drugs for human use pursuant to a prescription furnished as an integral part of services rendered to patients by a kidney dialysis facility operated as a nonprofit corporation, a nonprofit hospice agency licensed under chapter
+70.127
+RCW, and nursing homes and homes for unwed mothers operated as religious or charitable organizations, but only if no part of the net earnings received by such an institution inures directly or indirectly, to any person other than the institution entitled to deduction hereunder. &quot;Prescription&quot; and &quot;drug&quot; have the same meaning as in RCW
+82.08.0281
+.
+[
+2003 c 168 s 402
+;
+1998 c 325 s 1
+;
+1993 c 492 s 305
+;
+1981 c 178 s 2
+;
+1980 c 37 s 10
+. Formerly RCW
+82.04.430
+(9).]
+NOTES:
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Findings
+—
+Intent
+—
+1993 c 492:
+See notes following RCW
+43.20.050
+.
+Short title
+—
+Savings
+—
+Reservation of legislative power
+—
+Effective dates
+—
+1993 c 492:
+See RCW
+43.72.910
+through
+43.72.915
+.
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

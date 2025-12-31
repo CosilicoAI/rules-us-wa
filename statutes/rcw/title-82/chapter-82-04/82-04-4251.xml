@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4251"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4251"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4251/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4251/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4251/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4251/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4251">
+        <num>RCW 82.04.4251</num>
+        <heading>Exemptions—Convention and tourism promotion</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4251
+82.04.425
+&lt;&lt; 
+        82.04.4251 &gt;&gt;
+82.04.426
+PDF
+RCW
+82.04.4251
+Exemptions
+—
+Convention and tourism promotion.
+This chapter does not apply to amounts received by a nonprofit corporation organized under chapter
+24.03A
+RCW as payments or contributions from the state or any county, city, town, municipal corporation, quasi-municipal corporation, federally recognized Indian tribe, port district, or public corporation for the promotion of conventions and tourism.
+[
+2021 c 176 s 5244
+;
+2006 c 310 s 1
+.]
+NOTES:
+Effective date
+—
+2021 c 176:
+See note following RCW
+24.03A.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

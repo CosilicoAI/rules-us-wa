@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02685"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02685"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02685/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02685/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02685/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02685/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_02685">
+        <num>RCW 82.12.02685</num>
+        <heading>Exemptions—Use of tangible personal property related to farmworker housing. (Expires January 1, 2032.)</heading>
+        <subsection eId="sec_82_12_02685__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter shall not apply in respect to the use of tangible personal property that becomes an ingredient or component of buildings or other structures, in which at least 50 percent of housing units in the development are used as farmworker housing, during the course of constructing, repairing, decorating, or improving the buildings or other structures by any person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption provided in this section for farmworker housing provided on a year-round basis only applies if that housing is built to the current building code for single-family or multifamily dwellings according to the state building code, chapter
+19.27
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Any farmworker housing built under this section shall be used according to this section for at least five consecutive years from the date the housing is approved for occupancy, or the full amount of a tax otherwise due shall be immediately due and payable together with interest, but not penalties, from the date the housing is approved for occupancy until the date of payment. If at any time farmworker housing ceases to be used in the manner specified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the full amount of tax otherwise due shall be immediately due and payable with interest, but not penalties, from the date the housing ceases to be used as farmworker housing until the date of payment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The exemption provided in this section shall not apply to housing built for the occupancy of an employer, family members of an employer, or persons owning stock or shares in a farm partnership or corporation business.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If during any agricultural season in the qualifying five years under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section the housing is occupied by a farmworker who does not have an H-2A visa, then the housing will be considered not to be exclusively built for workers on an H-2A visa.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The definitions in RCW
+82.08.02745</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02685__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section expires January 1, 2032.
+[
+2022 c 56 s 7
+;
+2021 c 250 s 2
+;
+1997 c 438 s 2
+;
+1996 c 117 s 2
+.]
+NOTES:
+Tax preference performance statement
+—
+Effective date
+—
+2021 c 250:
+See notes following RCW
+82.08.02745
+.
+Effective date
+—
+1997 c 438:
+See note following RCW
+82.08.02745
+.
+Effective date
+—
+1996 c 117:
+See note following RCW
+82.08.02745
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

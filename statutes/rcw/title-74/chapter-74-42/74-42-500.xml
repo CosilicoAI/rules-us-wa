@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.500"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.500"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.500/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.500/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.500/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.500/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_500">
+        <num>RCW 74.42.500</num>
+        <heading>Toilet and bathing facilities</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.500
+74.42.490
+&lt;&lt; 
+        74.42.500 &gt;&gt;
+74.42.510
+PDF
+RCW
+74.42.500
+Toilet and bathing facilities.
+Toilet and bathing facilities shall be located in or near residents' rooms and shall be appropriate in number, size, and design to meet the needs of the residents. The facility shall provide an adequate supply of hot water at all times for resident use. Plumbing shall be equipped with control valves that automatically regulate the temperature of the hot water used by residents.
+[
+1979 ex.s. c 211 s 50
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

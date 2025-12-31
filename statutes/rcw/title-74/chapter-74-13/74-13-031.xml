@@ -1,0 +1,679 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.031"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.031"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.031/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.031/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.031/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.031/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_031">
+        <num>RCW 74.13.031</num>
+        <heading>Duties of department—Child welfare services—Children's services advisory committee</heading>
+        <subsection eId="sec_74_13_031__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall develop, administer, supervise, and monitor a coordinated and comprehensive plan that establishes, aids, and strengthens services for the protection and care of runaway, dependent, or neglected children.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Within available resources, the department shall recruit an adequate number of prospective adoptive and foster homes, both regular and specialized, i.e. homes for children of ethnic minority, including Indian homes for Indian children, sibling groups, children with disabilities or behavioral health conditions, teens, pregnant and parenting teens, and the department shall annually provide data and information to the governor and the legislature concerning the department's success in:</p>
+          </content>
+          <subsection eId="sec_74_13_031__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Placing children with relatives;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>providing supports to kinship caregivers including guardianship assistance payments;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>supporting relatives to pass home studies and become licensed caregivers; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>meeting the need for nonrelative family foster homes when children cannot be placed with relatives.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall investigate complaints of any recent act or failure to act on the part of a parent or caretaker that results in death, serious physical or emotional harm, or sexual abuse or exploitation, or that presents an imminent risk of serious harm, and on the basis of the findings of such investigation, offer child welfare services in relation to the problem to such parents, legal custodians, or persons serving in loco parentis, and/or bring the situation to the attention of an appropriate court, or another community agency. An investigation is not required of nonaccidental injuries which are clearly not the result of a lack of care or supervision by the child's parents, legal custodians, or persons serving in loco parentis. If the investigation reveals that a crime against a child may have been committed, the department shall notify the appropriate law enforcement agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall make recommendations to the legislature about the types of services that need to be offered to children who have been identified by a state or local agency as being a victim of either sex trafficking or severe forms of trafficking in persons described under the trafficking victims protection act of 2000, 22 U.S.C. Sec. 7101 et seq.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For children identified as victims of sex trafficking and victims of severe forms of trafficking in persons described under the trafficking victims protection act of 2000, 22 U.S.C. Sec. 7101 et seq., the department:</p>
+          </content>
+          <subsection eId="sec_74_13_031__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Shall assess and offer services to dependent children as described under RCW
+13.34.030
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>May assess and offer services to children who have not been found dependent.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>As provided in RCW
+26.44.030
+, the department may respond to a report of child abuse or neglect by using the family assessment response.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department shall offer, on a voluntary basis, family reconciliation services to families who are in conflict.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The department shall monitor placements of children in out-of-home care and in-home dependencies to assure the safety, well-being, and quality of care being provided is within the scope of the intent of the legislature as defined in RCW
+74.13.010
+and
+74.15.010
+. Under this section children in out-of-home care and in-home dependencies and their caregivers shall receive a private and individual face-to-face visit each month. The department shall randomly select no less than ten percent of the caregivers currently providing care to receive one unannounced face-to-face visit in the caregiver's home per year. No caregiver will receive an unannounced visit through the random selection process for two consecutive years. If the caseworker makes a good faith effort to conduct the unannounced visit to a caregiver and is unable to do so, that month's visit to that caregiver need not be unannounced. The department is encouraged to group monthly visits to caregivers by geographic area so that in the event an unannounced visit cannot be completed, the caseworker may complete other required monthly visits. The department shall use a method of random selection that does not cause a fiscal impact to the department.
+The department shall conduct the monthly visits with children and caregivers to whom it is providing child welfare services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The department shall have authority to accept custody of children from parents and to accept custody of children from juvenile courts, where authorized to do so under law, to provide child welfare services including placement for adoption, to provide for the routine and necessary medical, dental, and mental health care, or necessary emergency care of the children, and to provide for the physical care of such children and make payment of maintenance costs if needed. Except where required by Public Law 95-608 (25 U.S.C. Sec. 1915), no private adoption agency which receives children for adoption from the department shall discriminate on the basis of race, creed, or color when considering applications in their placement for adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The department may accept custody of children from parents through a voluntary placement agreement to provide child welfare services. The department may place children with a relative, a suitable person, or a licensed foster home under a voluntary placement agreement. In seeking a placement for a voluntary placement agreement, the department should consider the preferences of the parents and attempt to place with relatives or suitable persons over licensed foster care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The department shall have authority to provide temporary shelter to children who have run away from home and who are admitted to crisis residential centers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>The department shall have authority to purchase care for children.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>The department shall establish a children's services advisory committee which shall assist the secretary in the development of a partnership plan for utilizing resources of the public and private sectors, and advise on all matters pertaining to child welfare, licensing of child care agencies, adoption, and services related thereto. At least one member shall represent the adoption community.</p>
+          </content>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall provide continued extended foster care services to eligible youth who request extended foster care. The department shall develop policies and procedures to ensure that dependent youth aged 15 and older are informed of the extended foster care program.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall pursue federal reimbursement, where appropriate, when a youth is:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Enrolled in a secondary education program or a secondary education equivalency program;</p>
+            </content>
+            <subsection eId="sec_74_13_031__subsec_13__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Enrolled and participating in a postsecondary academic or postsecondary vocational education program;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13_031__subsec_13__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Participating in a program or activity designed to promote employment or remove barriers to employment;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13_031__subsec_13__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Engaged in employment for eighty hours or more per month; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Not able to engage in any of the activities described in (b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (iv) of this subsection due to a documented medical condition.</p>
+            </content>
+            <subsection eId="sec_74_13_031__subsec_13__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>of this subsection due to a documented medical condition.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To be eligible for extended foster care services, the youth must have been dependent at the time that he or she reached age 18 years. If the dependency case of the youth was dismissed pursuant to RCW
+13.34.267
+, he or she may receive extended foster care services pursuant to a voluntary placement agreement under RCW
+74.13.336
+or pursuant to an order of dependency issued by the court under RCW
+13.34.268
+. A youth whose dependency case was dismissed by the court may request extended foster care services before reaching age 21 years. Eligible youths may unenroll and reenroll in extended foster care through a voluntary placement agreement an unlimited number of times between ages 18 and 21.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department shall not create additional eligibility requirements for extended foster care. The department shall develop and implement rules and policies designed to provide age-appropriate social work support for youth in extended foster care through a codesign process that includes those with lived experience in the foster care system.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department shall make efforts to ensure that extended foster care services maximize medicaid reimbursements. This must include the department ensuring that health and mental health extended foster care providers participate in medicaid, unless the condition of the extended foster care youth requires specialty care that is not available among participating medicaid providers or there are no participating medicaid providers in the area. The department shall coordinate other services to maximize federal resources and the most cost-efficient delivery of services to extended foster care youth.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The department shall allow eligible youth to reenter the extended foster care program an unlimited number of times through a voluntary placement agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A youth enrolled in extended foster care may elect to receive a licensed foster care placement or may live independently. A youth who is not in a licensed foster care placement is eligible for a monthly supervised independent living subsidy effective the date the youth signs the voluntary placement agreement, agrees to dependency, or informs their social worker that they are living independently, whichever occurs first.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_13__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The department shall pursue federal reimbursement, where appropriate, when a youth is residing in an approved supervised independent living setting. If the youth is not residing in an approved supervised independent living setting, the department is to work with the youth to help identify an appropriate living arrangement until the youth is living in a safe location approved by the department or the court. During this time, the department shall continue to pay the monthly supervised independent living subsidy.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>The department shall have authority to provide adoption support benefits on behalf of youth ages 18 to 21 years who achieved permanency through adoption at age 16 or older and who meet the criteria described in subsection</p>
+          </content>
+          <subsection eId="sec_74_13_031__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_15__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>The department shall have the authority to provide guardianship subsidies on behalf of youth ages 18 to 21 who achieved permanency through guardianship and who meet the criteria described in subsection</p>
+          </content>
+          <subsection eId="sec_74_13_031__subsec_16__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_16__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>The department shall refer cases to the division of child support whenever state or federal funds are expended for the care and maintenance of a child, including a child with a developmental disability who is placed as a result of an action under chapter
+13.34
+RCW, unless the department finds that there is good cause not to pursue collection of child support against the parent or parents of the child. Cases involving individuals age 18 through 20 shall not be referred to the division of child support unless required by federal law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>The department shall have authority within funds appropriated for foster care services to purchase care for Indian children who are in the custody of a federally recognized Indian tribe or tribally licensed child-placing agency pursuant to parental consent, tribal court order, or state juvenile court order. The purchase of such care is exempt from the requirements of chapter
+74.13B
+RCW and may be purchased from the federally recognized Indian tribe or tribally licensed child-placing agency, and shall be subject to the same eligibility standards and rates of support applicable to other children for whom the department purchases care.
+Notwithstanding any other provision of RCW
+13.32A.170
+through
+13.32A.200
+,
+43.185C.295
+,
+74.13.035
+, and
+74.13.036
+, or of this section all services to be provided by the department under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>of this section, subject to the limitations of these subsections, may be provided by any program offering such services funded pursuant to Titles II and III of the federal juvenile justice and delinquency prevention act of 1974.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>The department may, within funds appropriated for guardianship subsidies, provide subsidies for eligible guardians who are appointed as guardian of an Indian child by the tribal court of a federally recognized tribe located in Washington state, as defined in RCW
+13.38.040
+. The provision of subsidies shall be subject to the same eligibility standards and rates of support applicable to other children for whom the department provides subsidies. To be eligible, the guardian must either be certified by a department-licensed child-placing agency or licensed by a federally recognized tribe located in Washington state that is a Title IV-E agency, as defined in 45 C.F.R. 1355.20.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>Within amounts appropriated for this specific purpose, the department shall provide preventive services to families with children that prevent or shorten the duration of an out-of-home placement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>The department shall have authority to provide independent living services to youths, including individuals who have attained eighteen years of age, and have not attained twenty-three years of age, who are or have been in the department's care and custody, or who are or were nonminor dependents.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>The department shall consult at least quarterly with foster parents, including members of the foster parent association of Washington state, for the purpose of receiving information and comment regarding how the department is performing the duties and meeting the obligations specified in this section and RCW
+74.13.250
+regarding the recruitment of foster homes, reducing foster parent turnover rates, providing effective training for foster parents, and administering a coordinated and comprehensive plan that strengthens services for the protection of children. Consultation shall occur at the regional and statewide levels.</p>
+          </content>
+          <subsection eId="sec_74_13_031__subsec_22__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall, within current funding levels, place on its public website a document listing the duties and responsibilities the department has to a child subject to a dependency petition including, but not limited to, the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_22__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Reasonable efforts, including the provision of services, toward reunification of the child with his or her family;</p>
+            </content>
+            <subsection eId="sec_74_13_031__subsec_22__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Sibling visits subject to the restrictions in RCW
+13.34.136</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13_031__subsec_22__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Parent-child visits;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13_031__subsec_22__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Statutory preference for placement with a relative or other suitable person, if appropriate; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_22__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Statutory preference for an out-of-home placement that allows the child to remain in the same school or school district, if practical and in the child's best interests.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_22__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The document must be prepared in conjunction with a community-based organization and must be updated as needed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_22__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall have the authority to purchase legal representation for parents or kinship caregivers, or both, of children who are at risk of being dependent, or who are dependent, to establish or modify a parenting plan under RCW
+13.34.155
+or chapter
+26.09
+, 26.26A, or
+26.26B
+RCW or secure orders establishing other relevant civil legal relationships authorized by law, when it is necessary for the child's safety, permanence, or well-being. The department's purchase of legal representation for kinship caregivers must be within the department's appropriations. This subsection does not create an entitlement to legal representation purchased by the department and does not create judicial authority to order the department to purchase legal representation for a parent or kinship caregiver. Such determinations are solely within the department's discretion. The term &quot;kinship caregiver&quot; as used in this section means a caregiver who meets the definition of &quot;kin&quot; in RCW
+74.13.600</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_031__subsec_22__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department is encouraged to work with the office of public defense parent representation program and the office of civil legal aid to develop a cost-effective system for providing effective civil legal representation for parents and kinship caregivers if it exercises its authority under this subsection.
+[
+2024 c 298 s 8
+;
+2024 c 192 s 5
+;
+2023 c 221 s 3
+;
+2020 c 274 s 61
+. Prior:
+2019 c 172 s 8
+;
+2019 c 46 s 5045
+; prior:
+2018 c 284 s 37
+;
+2018 c 80 s 1
+;
+2018 c 34 s 5
+; prior:
+2017 3rd sp.s. c 20 s 7
+;
+2017 c 265 s 2
+;
+2015 c 240 s 3
+;
+2014 c 122 s 2
+; prior:
+2013 c 332 s 10
+; (2013 c 332 s 9 expired December 1, 2013);
+2013 c 32 s 2
+; (2013 c 32 s 1 expired December 1, 2013); prior:
+2012 c 259 s 8
+;
+2012 c 52 s 2
+; prior:
+2011 c 330 s 5
+;
+2011 c 160 s 2
+; prior:
+2009 c 520 s 51
+;
+2009 c 491 s 7
+; (2009 c 235 s 4 expired October 1, 2010);
+2009 c 235 s 2
+;
+2008 c 267 s 6
+;
+2007 c 413 s 10
+; prior:
+2006 c 266 s 1
+;
+2006 c 221 s 3
+;
+2004 c 183 s 3
+;
+2001 c 192 s 1
+;
+1999 c 267 s 8
+;
+1998 c 314 s 10
+; prior:
+1997 c 386 s 32
+;
+1997 c 272 s 1
+;
+1995 c 191 s 1
+;
+1990 c 146 s 9
+; prior:
+1987 c 505 s 69
+;
+1987 c 170 s 10
+;
+1983 c 246 s 4
+;
+1982 c 118 s 3
+;
+1981 c 298 s 16
+;
+1979 ex.s. c 165 s 22
+;
+1979 c 155 s 77
+;
+1977 ex.s. c 291 s 22
+; 1975-'76 2nd ex.s. c 71 s 4;
+1973 1st ex.s. c 101 s 2
+;
+1967 c 172 s 17
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2024 c 192 s 5 and by 2024 c 298 s 8, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the federal fostering connections to success and increasing adoptions act of 2008 provides important new opportunities for the state to use federal funding to promote permanency and positive outcomes for youth in foster care and for those who age out of the foster care system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature also finds that research regarding former foster youth is generally sobering. Longitudinal research on the adult functioning of former foster youth indicates a disproportionate likelihood that youth aging out of foster care and those who spent several years in care will experience poor outcomes in a variety of areas, including limited human capital upon which to build economic security; untreated mental or behavioral health problems; involvement in the criminal justice and corrections systems; and early parenthood combined with second-generation child welfare involvement. The legislature further finds that research also demonstrates that access to adequate and appropriate supports during the period of transition from foster care to independence can have significant positive impacts on adult functioning and can improve outcomes relating to educational attainment and postsecondary enrollment; employment and earnings; and reduced rates of teen pregnancies.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature intends to clarify existing authority for foster care services beyond age eighteen and to establish authority for future expansion of housing and other supports for youth aging out of foster care and youth who achieved permanency in later adolescence.&quot; [
+2009 c 235 s 1
+.]
+Effective date
+—
+2008 c 267 s 6:
+&quot;Section 6 of this act takes effect December 31, 2008.&quot; [
+2008 c 267 s 14
+.]
+Severability
+—
+2007 c 413:
+See note following RCW
+13.34.215
+.
+Construction
+—
+2006 c 266:
+&quot;Nothing in this act shall be construed to create:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An entitlement to services;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Judicial authority to extend the jurisdiction of juvenile court in a proceeding under chapter
+13.34
+RCW to a youth who has attained eighteen years of age or to order the provision of services to the youth; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A private right of action or claim on the part of any individual, entity, or agency against the department of social and health services or any contractor of the department.&quot; [
+2006 c 266 s 2
+.]
+Adoption of rules
+—
+2006 c 266:
+&quot;The department of social and health services is authorized to adopt rules establishing eligibility for independent living services and placement for youths under this act.&quot; [
+2006 c 266 s 3
+.]
+Study and report
+—
+2006 c 266:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning in July 2008 and subject to the approval of its governing board, the Washington state institute for public policy shall conduct a study measuring the outcomes for foster youth who have received continued support pursuant to RCW
+74.13.031</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The institute is authorized to accept nonstate funds to conduct the study required in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_031__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.&quot; [
+2006 c 266 s 4
+.]
+Finding
+—
+2006 c 221:
+See note following RCW
+13.34.315
+.
+Effective date
+—
+2004 c 183:
+See note following RCW
+13.34.160
+.
+Findings
+—
+Intent
+—
+Severability
+—
+1999 c 267:
+See notes following RCW
+43.20A.790
+.
+Application
+—
+Effective date
+—
+1997 c 386:
+See notes following RCW
+13.50.010
+.
+Effective date
+—
+1997 c 272:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 1997.&quot; [
+1997 c 272 s 8
+.]
+Effective date
+—
+1987 c 170 ss 10 and 11:
+&quot;Sections 10 and 11 of this act shall take effect July 1, 1988.&quot; [
+1987 c 170 s 16
+.]
+Severability
+—
+1987 c 170:
+See note following RCW
+13.04.030
+.
+Severability
+—
+1981 c 298:
+See note following RCW
+13.32A.040
+.
+Effective dates
+—
+Severability
+—
+1977 ex.s. c 291:
+See notes following RCW
+13.04.005
+.
+Severability
+—
+1967 c 172:
+See note following RCW
+74.15.010
+.
+Declaration of purpose
+—
+1967 c 172:
+See RCW
+74.15.010
+.
+Abuse of child: Chapter
+26.44
+RCW.
+Licensing of agencies caring for or placing children, expectant mothers, and individuals with developmental disabilities: Chapter
+74.15
+RCW.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

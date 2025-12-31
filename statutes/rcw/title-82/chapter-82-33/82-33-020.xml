@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.33.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.33.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.33.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_33_020">
+        <num>RCW 82.33.020</num>
+        <heading>Economic, revenue, and transportation forecast supervisor—Economic and revenue forecasts—Transportation revenue forecast—Submittal of forecasts—Estimated tuition fees revenue</heading>
+        <subsection eId="sec_82_33_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Four times each year the supervisor must prepare, subject to the approval of the economic and revenue forecast council under RCW
+82.33.010
+:</p>
+          </content>
+          <subsection eId="sec_82_33_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An official state economic and revenue forecast;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_33_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An unofficial state economic and revenue forecast based on optimistic economic and revenue projections; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_33_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An unofficial state economic and revenue forecast based on pessimistic economic and revenue projections.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_33_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Beginning with the September 2024, and four times each year thereafter, the supervisor must prepare, subject to the approval of the transportation economic and revenue forecast council created under RCW
+82.33.015
+, an official transportation revenue forecast for the transportation budget. Additionally, the supervisor must prepare unofficial projections as deemed warranted by the supervisor, which may include optimistic and pessimistic assumptions. For purposes of this subsection, the transportation revenue forecast for the transportation budget includes, but is not limited to, transportation taxes, vehicle fees, drivers' fees, fares and tolls, and aircraft and vessel fees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The supervisor must submit forecasts prepared under this section, along with any unofficial forecasts provided under RCW
+82.33.010
+, to the governor and the members of the ways and means committee of the senate and appropriations committee of the house of representatives and the chairs of the committees on transportation of the senate and house of representatives, including one copy to the staff of each of the committees, on or before November 20th, February 20th in the even-numbered years, March 20th in the odd-numbered years, June 27th, and September 27th. All forecasts must be based on the most recent economic and revenue forecast council economic forecast. All forecasts must include both estimated receipts and estimated revenues in conformance with generally accepted accounting principles as provided by RCW
+43.88.037
+. In odd-numbered years, the period covered by forecasts for the state general fund and related funds must cover the current fiscal biennium and the next ensuing fiscal biennium, and the period for the transportation related funds must cover the current fiscal biennium and the next two ensuing fiscal biennia. In even-numbered years, the period covered by the forecasts for the state general fund and related funds shall be current fiscal and the next two ensuing fiscal biennia, and the period for the transportation related funds shall be the current fiscal and the next two ensuing fiscal biennia.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>All agencies of state government must provide to the supervisor immediate access to all information relating to economic and revenue forecasts. Revenue collection information must be available to the supervisor the first business day following the conclusion of each collection period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The economic, revenue, and transportation revenue forecast supervisor and staff must share information, data, and files with the tax research section of the department of revenue and the department of licensing but may not duplicate the duties and functions of one another.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>As part of its forecasts under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the supervisor must provide estimated revenue from tuition fees as defined in RCW
+28B.15.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The economic and revenue forecast council must, in consultation with the economic and revenue forecast work group created in RCW
+82.33.040
+, review the existing economic and revenue forecast council revenue model, data, and methodologies and in light of recent economic changes, engage outside experts if necessary, and recommend changes to the economic and revenue forecast council revenue forecasting process to increase confidence and promote accuracy in the revenue forecast. The recommendations are due by September 30, 2012, and every five years thereafter.
+[
+2023 c 390 s 3
+. Prior:
+2015 c 3 s 14
+;
+2012 1st sp.s. c 8 s 3
+;
+2012 c 182 s 1
+;
+2005 c 319 s 137
+;
+1992 c 231 s 34
+;
+1990 c 229 s 2
+; prior:
+1987 c 505 s 79
+;
+1987 c 502 s 10
+;
+1986 c 112 s 2
+;
+1984 c 138 s 1
+. Formerly RCW
+82.01.120
+.]
+NOTES:
+Effective date
+—
+2015 c 3:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [February 19, 2015].&quot; [
+2015 c 3 s 16
+.]
+Effective date
+—
+2012 c 182:
+&quot;This act takes effect October 1, 2012.&quot; [
+2012 c 182 s 2
+.]
+Findings
+—
+Intent
+—
+Part headings
+—
+Effective dates
+—
+2005 c 319:
+See notes following RCW
+43.17.020
+.
+Effective date
+—
+1992 c 231:
+See note following RCW
+28B.10.016
+.
+Effective date
+—
+1990 c 229:
+See note following RCW
+41.06.087
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

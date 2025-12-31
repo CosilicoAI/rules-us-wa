@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.705"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.705"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.705/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.705/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.705/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.705/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_705">
+        <num>RCW 74.13.705</num>
+        <heading>Background checks—Out-of-state requests—Fees</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.705
+74.13.700
+&lt;&lt; 
+        74.13.705 &gt;&gt;
+74.13.710
+PDF
+RCW
+74.13.705
+Background checks
+—
+Out-of-state requests
+—
+Fees.
+The department shall charge a fee to process a request made by a person in another state for an individual's child abuse or neglect history in this state or other background history on the individual possessed by the department. All proceeds from the fees collected must go directly to aiding the cost associated with the department conducting background checks.
+[
+2013 c 162 s 3
+.]
+NOTES:
+Findings
+—
+Rules
+—
+2013 c 162:
+See notes following RCW
+74.13.700
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

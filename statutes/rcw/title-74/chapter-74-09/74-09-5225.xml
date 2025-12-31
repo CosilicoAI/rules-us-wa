@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5225"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5225"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5225/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5225/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5225/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5225/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_5225">
+        <num>RCW 74.09.5225</num>
+        <heading>Medical assistance—Payments for services provided by rural hospitals—Participation in Washington rural health access preservation pilot</heading>
+        <subsection eId="sec_74_09_5225__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Payments for recipients eligible for medical assistance programs under this chapter for services provided by hospitals, regardless of the beneficiary's managed care enrollment status, shall be made based on allowable costs incurred during the year, when services are provided by a rural hospital certified by the centers for medicare and medicaid services as a critical access hospital, unless the critical access hospital is participating in the Washington rural health access preservation pilot described in subsection</p>
+          </content>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. Any additional payments made by the authority for the healthy options program shall be no more than the additional amounts per service paid under this section for other medical assistance programs.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning on July 24, 2005, except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, a moratorium shall be placed on additional hospital participation in critical access hospital payments under this section. However, rural hospitals that applied for certification to the centers for medicare and medicaid services prior to January 1, 2005, but have not yet completed the process or have not yet been approved for certification, remain eligible for medical assistance payments under this section.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The purpose of the Washington rural health access preservation pilot is to develop an alternative service and payment system to the critical access hospital authorized under section 1820 of the social security act to sustain essential services in rural communities.</p>
+            </content>
+            <subsection eId="sec_74_09_5225__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For the purposes of state law, any rural hospital approved by the department of health for participation in critical access hospital payments under this section that participates in the Washington rural health access preservation pilot identified by the state office of rural health and ceases to participate in critical access hospital payments may renew participation in critical access hospital associated payment methodologies under this section at any time.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_5225__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The Washington rural health access preservation pilot is subject to the following requirements:
+(A) In the pilot formation or development, the department of health, health care authority, and Washington state hospital association will identify goals for the pilot project before any hospital joins the pilot project;
+(B) Participation in the pilot is optional and no hospital may be required to join the pilot;
+(C) Before a hospital enters the pilot program, the health care authority must provide information to the hospital regarding how the hospital could end its participation in the pilot if the pilot is not working in its community;
+(D) Payments for services delivered by public health care service districts participating in the Washington rural health access preservation pilot to recipients eligible for medical assistance programs under this chapter must be based on an alternative, value-based payment methodology established by the authority. Subject to the availability of amounts appropriated for this specific purpose, the payment methodology must provide sufficient funding to sustain essential services in the areas served, including but not limited to emergency and primary care services. The methodology must adjust payment amounts based on measures of quality and value, rather than volume. As part of the pilot, the health care authority shall encourage additional payers to use the adopted payment methodology for services delivered by the pilot participants to individuals insured by those payers;
+(E) The department of health, health care authority, and Washington state hospital association will report interim progress to the legislature no later than December 1, 2018, and will report on the results of the pilot no later than six months following the conclusion of the pilot. The reports will describe any policy changes identified during the course of the pilot that would support small critical access hospitals; and
+(F) Funds appropriated for the Washington rural heal</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning January 1, 2015, payments for recipients eligible for medical assistance programs under this chapter for services provided by a hospital, regardless of the beneficiary's managed care enrollment status, shall be increased to one hundred twenty-five percent of the hospital's fee-for-service rates, when services are provided by a rural hospital that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Was certified by the centers for medicare and medicaid services as a sole community hospital as of January 1, 2013;</p>
+            </content>
+            <subsection eId="sec_74_09_5225__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Had a level III adult trauma service designation from the department of health as of January 1, 2014;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_5225__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Had less than one hundred fifty acute care licensed beds in fiscal year 2011; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_5225__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Is owned and operated by the state or a political subdivision.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The enhanced payment rates under this subsection shall be considered the hospital's medicaid payment rate for purposes of any other state or private programs that pay hospitals according to medicaid payment rates.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_5225__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Hospitals participating in the certified public expenditures program may not receive the increased reimbursement rates provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_5225__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>for inpatient services.
+[
+2017 c 198 s 1
+; (2023 c 443 s 2 expired January 1, 2024);
+2016 sp.s. c 31 s 2
+;
+2014 c 57 s 2
+;
+2011 1st sp.s. c 15 s 31
+;
+2005 c 383 s 1
+;
+2001 2nd sp.s. c 2 s 2
+.]
+NOTES:
+Reviser's note:
+The contingency in 2023 c 443 s 4 occurred, and therefore 2023 c 443 s 2 expired.
+Finding
+—
+Intent
+—
+2016 sp.s. c 31:
+&quot;The legislature finds that small critical access hospitals provide essential services to their communities. The legislature recognizes the need to offer small critical access hospitals the opportunity to pilot different delivery and payment models than may be currently allowed under the critical access hospital program. The legislature also intends to allow these participating hospitals to return to the critical access hospital program if they so choose.&quot; [
+2016 sp.s. c 31 s 1
+.]
+Findings
+—
+2014 c 57:
+&quot;The legislature finds that promoting a financially viable health care system in all parts of the state is a critical interest. The federal centers for medicare and medicaid services has recognized the crucial role hospitals play in providing care in rural areas by creating the sole community hospital program, which allows certain small rural hospitals to receive enhanced payments for medicare services. The legislature further finds that creating a similar reimbursement system for the state's medicaid program for sole community hospitals will promote the long-term financial viability of the rural health care system in those communities.&quot; [
+2014 c 57 s 1
+.]
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Findings
+—
+2001 2nd sp.s. c 2:
+&quot;The legislature finds that promoting a financially viable health care system in all parts of the state is a paramount interest. The health care financing administration has recognized the crucial role that hospitals play in providing care in rural areas by creating the crit</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.815"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.815"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.815/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.815/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.815/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.815/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_815">
+        <num>RCW 74.04.815</num>
+        <heading>Military dependents—Home and community-based services programs</heading>
+        <subsection eId="sec_74_04_815__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>As used in this section:</p>
+          </content>
+          <subsection eId="sec_74_04_815__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Dependent&quot; means a spouse, birth child, adopted child, or stepchild of a military service member.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_815__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Legal resident&quot; means a person who maintains Washington as his or her principal establishment, home of record, or permanent home and to where, whenever absent due to military obligation, he or she intends to return.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_815__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Military service&quot; means service in the armed forces, armed forces reserves, or membership in the Washington national guard.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_815__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Military service member,&quot; for the purposes of this section, is expanded to mean a person who is currently in military service or who has separated from military service in the previous eighteen months either through retirement or military separation.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_815__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A dependent, who is a legal resident of the state, having previously been determined to be eligible for developmental disability services through the department, shall retain eligibility as long as he or she remains a legal resident of the state regardless of having left the state due to the military service member's military assignment outside the state. If the state eligibility requirements change, the dependent shall retain eligibility until a reeligibility determination is made.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_815__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Upon assessment determination, the department shall direct that services be provided consistent with Title
+71A
+RCW and appropriate rules if the dependent furnishes:</p>
+          </content>
+          <subsection eId="sec_74_04_815__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A copy of the military service member's DD-214 or other equivalent discharge paperwork; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_815__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Proof of the military service member's legal residence in the state, as provided under RCW
+46.16A.140
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_815__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For dependents who received developmental disability services and who left the state due to the military service member's military assignment outside the state, upon the dependent's return to the state and when a request for services is made, the department must:</p>
+          </content>
+          <subsection eId="sec_74_04_815__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Determine eligibility for services which may include request for waiver services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_815__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide notification for the service eligibility determination which includes notification for denial of services; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_815__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Provide due process through the appeals processes established by the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_815__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>To continue eligibility under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_815__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the dependent is required to inform the department of his or her current address and provide updates as requested by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_815__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The secretary shall request a waiver from the appropriate federal agency if it is necessary to implement the provisions of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_815__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department may adopt rules necessary to implement the provisions of this section.
+[
+2014 c 180 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

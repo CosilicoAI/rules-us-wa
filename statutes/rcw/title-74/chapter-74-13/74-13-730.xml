@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.730"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.730"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.730/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.730/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.730/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.730/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_730">
+        <num>RCW 74.13.730</num>
+        <heading>Certificates of parental improvement—Administrative review</heading>
+        <subsection eId="sec_74_13_730__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who applies for a certificate of parental improvement pursuant to RCW
+74.13.720
+has the right to seek review of the secretary's denial of this certificate request as provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_730__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The written notice provided by the department denying a request for a certificate of parental improvement must be sent by mail to the requestor's last known address and include at least the following information in plain language:</p>
+          </content>
+          <subsection eId="sec_74_13_730__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The reason or reasons for the secretary's denial of a certificate of parental improvement request following a founded finding of physical abuse or negligent treatment or maltreatment; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_730__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>That the requestor has a right to challenge the secretary's decision not to issue a certificate of parental improvement, including a description of the process for requesting a review of the secretary's decision to deny a request for a certificate of parental improvement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_730__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Within forty-five calendar days after the department has placed a notice in the mail to the address on the request notifying the requestor that the secretary is denying the request for a certificate of parental improvement pursuant to RCW
+74.13.720
+, the requestor may request that the secretary review this determination. The request for review must be made in writing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_730__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a requestor does not request a review as provided in this section, the requestor may not further challenge the secretary's decision not to issue a certificate of parental improvement following a founded finding of physical abuse or negligent treatment or maltreatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_730__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Upon receipt of a written request for review, the secretary shall review and, if appropriate, may change the decision and issue a certificate of parental improvement. The secretary may designate the appropriate staff to conduct this review. The review must be completed within thirty days after receiving the written request for review. Upon completion of this review, the department shall notify the requestor in writing of the secretary's determination.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_730__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If the secretary does not alter the decision not to issue a certificate of parental improvement following a child abuse or neglect finding, the requestor may request an adjudicative hearing to contest this decision. The adjudicative proceeding is governed by the administrative procedure act, chapter
+34.05
+RCW, and this section. The request for an adjudicative proceeding must be filed within forty-five calendar days of the date that the department placed the agency review determination in the mail to the address on the request. If a timely request for an adjudicative proceeding is not made as provided in this section, the requestor may not further challenge the secretary's decision and has no right to review by the secretary, an adjudicative hearing, or judicial review of the determination not to issue a certificate of parental improvement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_730__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Reviews and hearings conducted under this section are confidential and are not open to the public. Information about reports, reviews, and hearings may be disclosed only in accordance with federal and state laws pertaining to child welfare records and child protective services reports.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_730__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The secretary shall establish procedures for reviewing requests for certificates of parental improvement and requests to alter the decision to deny a request for a certificate of parental improvement by administrative rule, including by emergency rule making if necessary. The secretary may adopt additional rules to implement this section.
+[
+2020 c 270 s 2
+.]
+NOTES:
+Effective date
+—
+2020 c 270:
+See note following RCW
+74.13.720
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.170"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_170">
+        <num>RCW 74.60.170</num>
+        <heading>Estimated hospital net financial benefit determined by the authority—Formula—Modification</heading>
+        <subsection eId="sec_74_60_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The estimated hospital net financial benefit under this chapter shall be determined by the authority by summing the following anticipated hospital payments, including all applicable federal matching funds, RCW
+74.60.110
+for payments to small rural disproportionate share hospitals, RCW
+74.60.120
+for supplemental payments to hospitals, RCW
+74.60.130
+for directed payments, RCW
+74.60.020</p>
+          </content>
+          <subsection eId="sec_74_60_170__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>for quality improvement incentives, minus the total assessments paid by all hospitals under RCW
+74.60.030
+for hospital assessments, and minus any taxes paid on RCW
+74.60.130
+for managed care payments.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_170__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If, for any reason including reduction or elimination of federal matching funds, the estimated hospital net financial benefit falls below one hundred thirty million dollars in any state fiscal year, the office of financial management shall direct the authority to modify the assessment rates provided for in RCW
+74.60.030
+, and the office of financial management is authorized to direct the authority to adjust the amounts disbursed from the fund, including disbursements for payments under RCW
+74.60.020</p>
+          </content>
+          <subsection eId="sec_74_60_170__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>and payments to hospitals under RCW
+74.60.090
+through
+74.60.130
+and
+74.60.020</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_170__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>must bear the same relationship to the total of such adjusted payments as originally provided in this chapter.
+[
+2023 c 430 s 15
+;
+2017 c 228 s 14
+.]
+NOTES:
+Contingent effective date
+—
+2023 c 430:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2017 c 228:
+See note following RCW
+74.60.005
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

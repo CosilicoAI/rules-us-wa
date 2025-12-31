@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.900"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.900"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.900/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.900/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.900/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.900/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_900">
+        <num>RCW 82.32.900</num>
+        <heading>Work group created—Transition plan—Taxing liquefied natural gas used for marine vessel transportation</heading>
+        <subsection eId="sec_82_32_900__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department of licensing must convene a work group that includes, at a minimum, representatives from the department of transportation, the trucking industry, manufacturers of compressed natural gas and liquefied natural gas, and any other stakeholders as deemed necessary, for the following purposes:</p>
+          </content>
+          <subsection eId="sec_82_32_900__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To evaluate the annual license fee in lieu of fuel tax under RCW
+82.38.075
+to determine a fee that more closely represents the average consumption of vehicles by weight and to make recommendations to the transportation committees of the legislature by December 1, 2014, on an updated fee schedule.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_900__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To develop a transition plan to move vehicles powered by liquefied natural gas and compressed natural gas from the annual license fee in lieu of fuel tax to the fuel tax under RCW
+82.38.030
+. The transition plan must incorporate stakeholder feedback and must include draft legislation and cost and revenue estimates. The transition plan must be submitted to the transportation committees of the legislature by December 1, 2015.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_900__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department of revenue must convene a work group that includes, at a minimum, representatives from the department of transportation, the marine shipping industry, manufacturers of liquefied natural gas, and any other stakeholders as deemed necessary, for the purpose of examining the appropriate level and manner of taxing liquefied natural gas used for marine vessel transportation. The department must make recommendations to the fiscal committees of the legislature by December 1, 2025.
+[
+2014 c 216 s 209
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

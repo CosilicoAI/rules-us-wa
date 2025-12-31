@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.70.080"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.70.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.70.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_70_080">
+        <num>RCW 74.70.080</num>
+        <heading>Federal approval. (Contingent expiration date.)</heading>
+        <subsection eId="sec_74_70_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority may modify or make adjustments to any methodology, fee amount, or other provision specified in this chapter to the minimum extent necessary to meet the requirements of federal law or regulations or to obtain federal approval. If the authority, after consulting with ambulance transport providers, determines that a modification is needed, the authority shall execute a declaration stating that this determination has been made and that the actual or projected available fee amount for a state fiscal year remains approximately equal to the actual or projected aggregate fee schedule amount for each applicable state fiscal year, as defined by RCW
+74.70.050</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

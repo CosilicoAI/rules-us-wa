@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.200"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_200">
+        <num>RCW 74.42.200</num>
+        <heading>Supervision of health care by physician—When required</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.200
+74.42.190
+&lt;&lt; 
+        74.42.200 &gt;&gt;
+74.42.210
+PDF
+RCW
+74.42.200
+Supervision of health care by physician
+—
+When required.
+The health care of each resident shall be under the continuing supervision of a physician: PROVIDED, That a resident of a facility licensed pursuant to chapter
+18.51
+RCW but not certified by the federal government under Title XVIII or Title XIX of the Social Security Act as now or hereafter amended shall not be required to receive the continuing supervision of a health care practitioner licensed pursuant to chapter
+18.22
+, 18.25, 18.32, 18.57, 18.71, and
+18.83
+RCW, nor shall the state of Washington require such continuing supervision as a condition of licensing. The physician shall see the resident whenever necessary, and as required and/or consistent with state and federal regulations.
+[
+1980 c 184 s 8
+;
+1979 ex.s. c 211 s 20
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

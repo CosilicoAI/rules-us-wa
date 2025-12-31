@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.345"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.345"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.345/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.345/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.345/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.345/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_345">
+        <num>RCW 82.14.345</num>
+        <heading>Sales and use tax for criminal justice purposes</heading>
+        <subsection eId="sec_82_14_345__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_345__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>may not impose the tax authorized under this section.</p>
+          </content>
+          <subsection eId="sec_82_14_345__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>To establish that the city or county qualifies under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection, the city or county must submit documentation, in a form and manner prescribed by the criminal justice training commission, demonstrating the city or county meets the requirements of RCW
+43.101.540
+. A city or county that wishes to impose the tax authorized under this section may submit documentation to the commission before the commission finalizes the form and manner of such submittals and may not be penalized for doing so. However, once the commission has established the form and manner of the submission, all cities and counties must make submissions as prescribed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the commission, in consultation with the office of the attorney general, is unable to verify the submittal within 45 calendar days of receipt, the commission shall notify the city or county of any deficiencies.</p>
+            </content>
+            <subsection eId="sec_82_14_345__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The city or county may, at this time, and conditioned on the city or county submitting supplemental documentation rectifying the stated deficiencies, authorize the tax established under this section. The commission shall thereafter notify the city or county of any outstanding deficiencies within 45 calendar days of receipt of the supplemental documentation.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_345__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>If the city or county has not rectified all deficiencies within 180 calendar days of its initial submittal under this section, as verified by the criminal justice training commission, the office of the state treasurer must withhold $100,000 of the tax collected under this section each month until the month in which the city or county comes into compliance with the requirements of RCW
+43.101.540
+as verified by the criminal justice training commission.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The tax authorized in this section is in addition to any other taxes authorized by law and must be collected from those persons who are taxable by the state pursuant to chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within such city or county.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_345__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The rate of tax under this section equals 0.1 percent of the selling price, in the case of a sales tax, or value of the article used, in the case of a use tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_345__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Moneys received from the tax imposed under this section must be expended for criminal justice purposes.</p>
+          </content>
+          <subsection eId="sec_82_14_345__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Cities and counties who impose the tax authorized under this section shall, within one calendar year of imposition of the tax and annually thereafter, make a report to either the association of Washington cities or the Washington state association of counties on how the moneys received from the tax were expended.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>By December 1, 2025, and annually thereafter, the association of Washington cities and Washington state association of counties shall compile all information received pursuant to</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection and submit a report to the appropriate committees of the legislature detailing the purposes for which each city and county expended the moneys received from the tax.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_345__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_14_345__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Criminal justice purposes&quot; means activities that substantially assist the criminal justice system, which may include circumstances where ancillary benefit to the civil justice and behavioral health systems occurs, and which includes:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Domestic violence services, such as those provided by domestic violence programs, community advocates, and legal advocates, as those terms are defined in RCW
+70.123.020
+;</p>
+            </content>
+            <subsection eId="sec_82_14_345__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Staffing adequate public defenders to provide appropriate defense for individuals;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_345__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Diversion programs;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_345__subsec_5__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Reentry work for inmates;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_5__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Local government programs that have a reasonable relationship to reducing the numbers of people interacting with the criminal justice system including, but not limited to, reducing homelessness or improving behavioral health;
+(vi) Community placements for juvenile offenders; and
+(vii) Community outreach and assistance programs, alternative response programs, and mental health crisis response including, but not limited to, the recovery navigator program.</p>
+            </content>
+            <subsection eId="sec_82_14_345__subsec_5__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Community placements for juvenile offenders; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_345__subsec_5__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Community outreach and assistance programs, alternative response programs, and mental health crisis response including, but not limited to, the recovery navigator program.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_345__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Qualified city or county&quot; means either a city or county where the voters have not repealed by referendum a tax imposed pursuant to RCW
+82.14.340
+or rejected a ballot proposition to impose a tax pursuant to RCW
+82.14.450
+in the previous 12 months.
+[
+2025 c 350 s 201
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.023"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.023"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.023/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.023/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.023/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.023/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_023">
+        <num>RCW 82.32.023</num>
+        <heading>Definition of product for agreement purposes</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.023
+82.32.020
+&lt;&lt; 
+        82.32.023 &gt;&gt;
+82.32.026
+PDF
+RCW
+82.32.023
+Definition of product for agreement purposes.
+For purposes of construing those provisions of the streamlined sales and use tax agreement that have been incorporated into this title, and unless the context requires otherwise, the terms &quot;product&quot; and &quot;products&quot; refer to tangible personal property, digital goods, digital codes, digital automated services, other services, extended warranties, and anything else that can be sold or used.
+[
+2009 c 535 s 1112
+;
+2007 c 6 s 104
+.]
+NOTES:
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

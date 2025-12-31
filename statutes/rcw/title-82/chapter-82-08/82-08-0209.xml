@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0209"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0209"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0209/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0209/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0209/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0209/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0209">
+        <num>RCW 82.08.0209</num>
+        <heading>Exemptions—Qualifying grant</heading>
+        <subsection eId="sec_82_08_0209__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to a grantee's receipt of a qualifying grant that is exempt from business and occupation tax under RCW
+82.04.767
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0209__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing in this section may be construed to:</p>
+          </content>
+          <subsection eId="sec_82_08_0209__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Imply that the tax levied by RCW
+82.08.020
+applies to any circumstance not described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0209__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section; or</p>
+          </content>
+          <subsection eId="sec_82_08_0209__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide an exemption from the tax levied by RCW
+82.08.020
+for the grantee's use of a qualifying grant to acquire products in a transaction meeting the definition of &quot;retail sale&quot; in RCW
+82.04.050
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0209__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_08_0209__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Grantee&quot; means the recipient of a qualifying grant.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0209__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Product&quot; means the same as in RCW
+82.32.023
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0209__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Qualifying grant&quot; means the same as in RCW
+82.04.767
+.
+[
+2021 c 4 s 4
+.]
+NOTES:
+Retroactive application
+—
+Automatic expiration date and tax preference performance statement exemption
+—
+Effective date
+—
+2021 c 4:
+See notes following RCW
+82.04.767
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

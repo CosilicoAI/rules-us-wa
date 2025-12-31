@@ -1,0 +1,381 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.460"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.460"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.460/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.460/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.460/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.460/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_460">
+        <num>RCW 82.04.460</num>
+        <heading>Apportionable income—Taxable in Washington and another state. (&lt;i&gt;Effective until January 1, 2034.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_460__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, any person earning apportionable income taxable under this chapter and also taxable in another state must, for the purpose of computing tax liability under this chapter, apportion to this state, in accordance with RCW
+82.04.462
+, that portion of the person's apportionable income derived from business activities performed within this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must by rule provide a method of apportioning the apportionable income of financial institutions, where such apportionable income is taxable under RCW
+82.04.290
+. The rule adopted by the department must, to the extent feasible, be consistent with the multistate tax commission's recommended formula for the apportionment and allocation of net income of financial institutions as existing on June 1, 2010, or such subsequent date as may be provided by the department by rule, consistent with the purposes of this section, except that:</p>
+          </content>
+          <subsection eId="sec_82_04_460__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department's rule must provide for a single factor apportionment method based on the receipts factor; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The definition of &quot;financial institution&quot; contained in appendix A to the multistate tax commission's recommended formula for the apportionment and allocation of net income of financial institutions is advisory only.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may by rule provide a method or methods of apportioning or allocating gross income derived from sales of telecommunications service and competitive telephone service taxed under this chapter, if the gross proceeds of sales subject to tax under this chapter do not fairly represent the extent of the taxpayer's income attributable to this state. The rule must provide for an equitable and constitutionally permissible division of the tax base.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply unless the context clearly requires otherwise:</p>
+          </content>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Apportionable income&quot; means gross income of the business generated from engaging in apportionable activities, including income received from apportionable activities performed outside this state if the income would be taxable under this chapter if received from activities in this state, less the exemptions and deductions allowable under this chapter. For purposes of this subsection, &quot;apportionable activities&quot; means only those activities taxed under:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>RCW
+82.04.255
+;</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>RCW
+82.04.260</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>RCW
+82.04.280</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>RCW
+82.04.285
+;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>RCW
+82.04.286
+;
+(vi) RCW
+82.04.290
+;
+(vii) RCW
+82.04.2907
+;
+(viii) RCW
+82.04.2908
+;
+(ix) RCW
+82.04.263
+, but only to the extent of any activity that would be taxable under any of the provisions enumerated under (a)</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>RCW
+82.04.290
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>RCW
+82.04.2907
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>RCW
+82.04.2908
+;
+(ix) RCW
+82.04.263
+, but only to the extent of any activity that would be taxable under any of the provisions enumerated under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (viii) of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>if the tax classification in RCW
+82.04.263
+did not exist; and</p>
+          </content>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>RCW
+82.04.280</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or exempted under RCW
+82.04.759
+, but only with respect to advertising.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Taxable in another state&quot; means that the taxpayer is subject to a business activities tax by another state on its income received from engaging in apportionable activities; or the taxpayer is not subject to a business activities tax by another state on its income received from engaging in apportionable activities, but any other state has jurisdiction to subject the taxpayer to a business activities tax on such income under the substantial nexus standards in RCW
+82.04.067</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, any person earning apportionable income taxable under this chapter and also taxable in another state must, for the purpose of computing tax liability under this chapter, apportion to this state, in accordance with RCW
+82.04.462
+, that portion of the person's apportionable income derived from business activities performed within this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must by rule provide a method of apportioning the apportionable income of financial institutions, where such apportionable income is taxable under RCW
+82.04.290
+. The rule adopted by the department must, to the extent feasible, be consistent with the multistate tax commission's recommended formula for the apportionment and allocation of net income of financial institutions as existing on June 1, 2010, or such subsequent date as may be provided by the department by rule, consistent with the purposes of this section, except that:</p>
+          </content>
+          <subsection eId="sec_82_04_460__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department's rule must provide for a single factor apportionment method based on the receipts factor; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The definition of &quot;financial institution&quot; contained in appendix A to the multistate tax commission's recommended formula for the apportionment and allocation of net income of financial institutions is advisory only.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may by rule provide a method or methods of apportioning or allocating gross income derived from sales of telecommunications service and competitive telephone service taxed under this chapter, if the gross proceeds of sales subject to tax under this chapter do not fairly represent the extent of the taxpayer's income attributable to this state. The rule must provide for an equitable and constitutionally permissible division of the tax base.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply unless the context clearly requires otherwise:</p>
+          </content>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Apportionable income&quot; means gross income of the business generated from engaging in apportionable activities, including income received from apportionable activities performed outside this state if the income would be taxable under this chapter if received from activities in this state, less the exemptions and deductions allowable under this chapter. For purposes of this subsection, &quot;apportionable activities&quot; means only those activities taxed under:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>RCW
+82.04.255
+;</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>RCW
+82.04.260</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>RCW
+82.04.280</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>RCW
+82.04.285
+;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>RCW
+82.04.286
+;
+(vi) RCW
+82.04.290
+;
+(vii) RCW
+82.04.2907
+;
+(viii) RCW
+82.04.2908
+;
+(ix) RCW
+82.04.263
+, but only to the extent of any activity that would be taxable under any of the provisions enumerated under (a)</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>RCW
+82.04.290
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>RCW
+82.04.2907
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>RCW
+82.04.2908
+;
+(ix) RCW
+82.04.263
+, but only to the extent of any activity that would be taxable under any of the provisions enumerated under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (viii) of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_4__subsec_i__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>if the tax classification in RCW
+82.04.263
+did not exist; and</p>
+          </content>
+          <subsection eId="sec_82_04_460__subsec_4__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>RCW
+82.04.260</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_460__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>and
+82.04.280</p>
+          </content>
+          <subsection eId="sec_82_04_460__subsec_14__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Taxable in another state&quot; means that the taxpayer is subject to a business activities tax by another state on its income received from engaging in apportionable activities; or the taxpayer is not subject to a business activities tax by another state on its income received from engaging in apportionable activities, but any other state has jurisdiction to subject the taxpayer to a business activities tax on such income under the substantial nexus standards in RCW
+82.04.067</p>
+            </content>
+            <subsection eId="sec_82_04_460__subsec_14__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

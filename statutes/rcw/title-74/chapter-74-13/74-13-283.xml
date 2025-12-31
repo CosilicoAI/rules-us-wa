@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.283"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.283"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.283/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.283/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.283/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.283/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_283">
+        <num>RCW 74.13.283</num>
+        <heading>Washington state identicards—Foster youth</heading>
+        <subsection eId="sec_74_13_283__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For the purpose of assisting foster youth in obtaining a Washington state identicard, submission of the information and materials listed in this subsection from the department to the department of licensing is sufficient proof of identity and residency and shall serve as the necessary authorization for the youth to apply for and obtain a Washington state identicard:</p>
+          </content>
+          <subsection eId="sec_74_13_283__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A written signed statement prepared on department letterhead, verifying the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_283__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The youth is a minor who resides in Washington;</p>
+            </content>
+            <subsection eId="sec_74_13_283__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Pursuant to a court order, the youth is dependent and the department is the legal custodian of the youth under chapter
+13.34
+RCW or under the interstate compact on the placement of children;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13_283__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The youth's full name and date of birth;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13_283__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The youth's social security number, if available;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13_283__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>A brief physical description of the youth;
+(vi) The appropriate address to be listed on the youth's identicard; and
+(vii) Contact information for the appropriate person with the department.</p>
+            </content>
+            <subsection eId="sec_74_13_283__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The appropriate address to be listed on the youth's identicard; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13_283__subsec_1__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Contact information for the appropriate person with the department.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13_283__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A photograph of the youth, which may be digitized and integrated into the statement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_283__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may provide the statement and the photograph via any of the following methods, whichever is most efficient or convenient:</p>
+          </content>
+          <subsection eId="sec_74_13_283__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Delivered via first-class mail or electronically to the headquarters office of the department of licensing; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_283__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Hand-delivered to a local office of the department of licensing by a department caseworker.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_283__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A copy of the statement shall be provided to the youth who shall provide the copy to the department of licensing when making an in-person application for a Washington state identicard.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_283__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To the extent other identifying information is readily available, the department shall include the additional information with the submission of information required under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_283__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.
+[
+2018 c 284 s 46
+;
+2009 c 520 s 73
+;
+2008 c 267 s 7
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

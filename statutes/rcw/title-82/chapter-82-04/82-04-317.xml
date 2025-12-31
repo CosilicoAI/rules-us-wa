@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.317"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.317"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.317/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.317/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.317/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.317/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_317">
+        <num>RCW 82.04.317</num>
+        <heading>Exemptions—Motor vehicle sales by manufacturers at wholesale auctions to dealers</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.317
+82.04.315
+&lt;&lt; 
+        82.04.317 &gt;&gt;
+82.04.320
+PDF
+RCW
+82.04.317
+Exemptions
+—
+Motor vehicle sales by manufacturers at wholesale auctions to dealers.
+This chapter does not apply to amounts received by a motor vehicle manufacturer, as defined in RCW
+19.118.021
+, or by a financing subsidiary of such motor vehicle manufacturer which subsidiary is at least fifty percent owned by the manufacturer, from the sale of motor vehicles at wholesale auctions to dealers licensed under chapter
+46.70
+RCW or dealers licensed by any other state.
+[
+1997 c 4 s 1
+.]
+NOTES:
+Effective date
+—
+1997 c 4:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 18, 1997].&quot; [
+1997 c 4 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

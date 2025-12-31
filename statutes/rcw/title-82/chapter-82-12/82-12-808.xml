@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.808"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.808"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.808/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.808/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.808/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.808/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_808">
+        <num>RCW 82.12.808</num>
+        <heading>Exemptions—Use of medical supplies, chemicals, or materials by comprehensive cancer centers</heading>
+        <subsection eId="sec_82_12_808__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply in respect to the use of medical supplies, chemicals, or materials by a comprehensive cancer center. The exemption in this section does not apply to the use of construction materials, office equipment, building equipment, administrative supplies, or vehicles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_808__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in RCW
+82.04.4265
+and
+82.08.808
+apply to this section.
+[
+2005 c 514 s 403
+.]
+NOTES:
+Part headings not law
+—
+2005 c 514:
+&quot;Part headings used in this act are not any part of the law.&quot; [
+2005 c 514 s 1301
+.]
+Severability
+—
+2005 c 514:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2005 c 514 s 1309
+.]
+Effective date
+—
+2005 c 514 ss 401-403:
+See note following RCW
+82.04.4265
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

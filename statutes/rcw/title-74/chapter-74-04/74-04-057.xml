@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.057"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.057"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.057/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.057/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.057/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.057/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_057">
+        <num>RCW 74.04.057</num>
+        <heading>Promulgation of rules and regulations to qualify for federal funds</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.057
+74.04.055
+&lt;&lt; 
+        74.04.057 &gt;&gt;
+74.04.060
+PDF
+RCW
+74.04.057
+Promulgation of rules and regulations to qualify for federal funds.
+The department is authorized to promulgate such rules and regulations as are necessary to qualify for any federal funds available under Title XVI of the federal social security act, and any other combination of existing programs of assistance consistent with federal law and regulations.
+[
+1969 ex.s. c 173 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

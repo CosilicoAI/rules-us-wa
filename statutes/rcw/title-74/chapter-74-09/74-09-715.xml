@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.715"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.715"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.715/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.715/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.715/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.715/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_715">
+        <num>RCW 74.09.715</num>
+        <heading>Access to dental care</heading>
+        <subsection eId="sec_74_09_715__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Enhanced reimbursement rates for certified dentists for specific procedures, to begin no sooner than July 1, 2009;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_715__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Reimbursement for trained medical providers for preventive oral health services, to begin no sooner than July 1, 2009;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_715__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Training, development, and implementation through a partnership with the University of Washington school of dentistry;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_715__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Local program coordination including outreach and case management; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_715__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>An evaluation that measures the change in utilization rates and cost savings.
+[
+2011 1st sp.s. c 15 s 44
+;
+2008 c 146 s 13
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Findings
+—
+Intent
+—
+Severability
+—
+2008 c 146:
+See notes following RCW
+74.41.040
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

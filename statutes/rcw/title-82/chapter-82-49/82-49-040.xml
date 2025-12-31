@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.49.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.49.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.49.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_49_040">
+        <num>RCW 82.49.040</num>
+        <heading>Depreciation schedule for use in determining fair market value</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.49
+&gt;
+Section 82.49.040
+82.49.030
+&lt;&lt; 
+        82.49.040 &gt;&gt;
+82.49.050
+PDF
+RCW
+82.49.040
+Depreciation schedule for use in determining fair market value.
+The department of revenue shall prepare at least once each year a depreciation schedule for use in the determination of fair market value for the purposes of this chapter. The schedule shall be based upon information available to the department of revenue pertaining to the current fair market value of vessels. The fair market value of a vessel for the purposes of this chapter shall be based on the most recent purchase price depreciated according to the year of the most recent purchase of the vessel. The most recent purchase price is the consideration, whether money, credit, rights, or other property expressed in terms of money, paid or given or contracted to be paid or given by the purchaser to the seller for the vessel.
+[
+1983 c 7 s 11
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

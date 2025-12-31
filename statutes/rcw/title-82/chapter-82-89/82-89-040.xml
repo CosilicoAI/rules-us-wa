@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.89.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.89.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.89.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_89_040">
+        <num>RCW 82.89.040</num>
+        <heading>Tax deferral certificates. (Expires January 1, 2033.)</heading>
+        <subsection eId="sec_82_89_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters
+82.08
+, 82.12, 82.14, and
+81.104
+RCW on each eligible investment project. The certificate may only be used to make purchases of materials and equipment, labor, or services to be incorporated in the eligible investment project at the location listed on the certificate.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>No certificate may be issued for an investment project that has already received a deferral under this chapter or chapter
+82.60
+or
+82.85
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No certificate may be issued for an eligible investment project that has not had an application approved by the department as provided in RCW
+82.89.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must keep a running total of all deferrals granted under this chapter during each fiscal biennium.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section expires January 1, 2033.
+[
+2022 c 185 s 4
+.]
+NOTES:
+Tax preference performance automatic expiration exception
+—
+Tax preference performance statement
+—
+2022 c 185:
+See notes following RCW
+82.89.070
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,412 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.520"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.520"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.520/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.520/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.520/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.520/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_520">
+        <num>RCW 82.32.520</num>
+        <heading>Sourcing of calls</heading>
+        <subsection eId="sec_82_32_520__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except for the defined telecommunications services listed in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the sale of telecommunications service as defined in RCW
+82.04.065
+sold on a call-by-call basis is sourced to</p>
+          </content>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>each level of taxing jurisdiction where the call originates and terminates in that jurisdiction or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>each level of taxing jurisdiction where the call either originates or terminates and in which the service address is also located.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_520__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except for the defined telecommunications services listed in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, a sale of telecommunications service as defined in RCW
+82.04.065
+sold on a basis other than a call-by-call basis, is sourced to the customer's place of primary use.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The sales of telecommunications service as defined in RCW
+82.04.065
+that are listed in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section is sourced to each level of taxing jurisdiction as follows:</p>
+          </content>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A sale of mobile telecommunications services, other than air-ground radiotelephone service and prepaid calling service, is sourced to the customer's place of primary use as required by RCW
+82.08.066
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A sale of postpaid calling service is sourced to the origination point of the telecommunications signal as first identified by either</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the seller's telecommunications system, or</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>information received by the seller from its service provider, where the system used to transport such signals is not that of the seller.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A sale of prepaid calling service or a sale of a prepaid wireless calling service is sourced as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>When a prepaid calling service or a prepaid wireless calling service is received by the purchaser at a business location of the seller, the sale is sourced to that business location;</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>When a prepaid calling service or a prepaid wireless calling service is not received by the purchaser at a business location of the seller, the sale is sourced to the location where receipt by the purchaser or the purchaser's donee, designated as such by the purchaser, occurs, including the location indicated by instructions for delivery to the purchaser or donee, known to the seller;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>When</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection do not apply, the sale is sourced to the location indicated by an address for the purchaser that is available from the business records of the seller that are maintained in the ordinary course of the seller's business when use of this address does not constitute bad faith;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>When</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection do not apply, the sale is sourced to the location indicated by an address for the purchaser obtained during the consummation of the sale, including the address of a purchaser's payment instrument, if no other address is available, when use of this address does not constitute bad faith;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>When (c)</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_v__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>of this subsection do not apply, including the circumstance where the seller is without sufficient information to apply those provisions, the sale is sourced as provided in RCW
+82.32.730</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>In the case of a sale of prepaid wireless calling service,</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>of this subsection includes as an option the location associated with the mobile telephone number.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A sale of a private communication service is sourced as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Service for a separate charge related to a customer channel termination point is sourced to each level of jurisdiction in which such customer channel termination point is located.</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Service where all customer termination points are located entirely within one jurisdiction or levels of jurisdiction is sourced in such jurisdiction in which the customer channel termination points are located.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Service for segments of a channel between two customer channel termination points located in different jurisdictions and which segment of channel are separately charged is sourced fifty percent in each level of jurisdiction in which the customer channel termination points are located.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_520__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Service for segments of a channel located in more than one jurisdiction or levels of jurisdiction and which segments are not separately billed is sourced in each jurisdiction based on the percentage determined by dividing the number of customer channel termination points in the jurisdiction by the total number of customer channel termination points.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_520__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this chapter.</p>
+          </content>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Air-ground radiotelephone service&quot; means air-ground radio service, as defined in 47 C.F.R. Sec. 22.99, as amended or renumbered as of January 1, 2003, in which common carriers are authorized to offer and provide radio telecommunications service for hire to subscribers in aircraft.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Call-by-call basis&quot; means any method of charging for telecommunications services where the price is measured by individual calls.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Communications channel&quot; means a physical or virtual path of communications over which signals are transmitted between or among customer channel termination points.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Customer&quot; means the person or entity that contracts with the seller of telecommunications services. If the end user of telecommunications services is not the contracting party, the end user of the telecommunications service is the customer of the telecommunications service. &quot;Customer&quot; does not include a reseller of telecommunications service or for mobile telecommunications service of a serving carrier under an agreement to serve the customer outside the home service provider's licensed service area.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Customer channel termination point&quot; means the location where the customer either inputs or receives the communications.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;End user&quot; means the person who uses the telecommunications service. In the case of an entity, the term end user means the individual who uses the service on behalf of the entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Home service provider&quot; means the same as that term is defined in RCW
+82.04.065
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Mobile telecommunications service&quot; means the same as that term is defined in RCW
+82.04.065
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Place of primary use&quot; means the street address representative of where the customer's use of the telecommunications service primarily occurs, which must be the residential street address or the primary business street address of the customer. In the case of mobile telecommunications services, &quot;place of primary use&quot; must be within the licensed service area of the home service provider.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Postpaid calling service&quot; means the telecommunications service obtained by making a payment on a call-by-call basis either through the use of a credit card or payment mechanism such as a bank card, travel card, credit card, or debit card, or by charge made to a telephone number that is not associated with the origination or termination of the telecommunications service. A postpaid calling service includes a telecommunications service, except a prepaid wireless calling service, that would be a prepaid calling service except it is not exclusively a telecommunications service.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>&quot;Prepaid calling service&quot; means the right to access exclusively telecommunications services, which must be paid for in advance and which enables the origination of calls using an access number and/or authorization code, whether manually or electronically dialed, and that is sold in predetermined units or dollars of which the number declines with use in a known amount.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>&quot;Prepaid wireless calling service&quot; means a telecommunications service that provides the right to use mobile wireless service as well as other nontelecommunications services, including the download of digital products delivered electronically, content, and ancillary services, which must be paid for in advance that is sold in predetermined units or dollars of which the number declines with use in a known amount.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>&quot;Private communication service&quot; means a telecommunications service that entitles the customer to exclusive or priority use of a communications channel or group of channels between or among termination points, regardless of the manner in which such channel or channels are connected, and includes switching capacity, extension lines, stations, and any other associated services that are provided in connection with the use of such channel or channels.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>&quot;Service address&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The location of the telecommunications equipment to which a customer's call is charged and from which the call originates or terminates, regardless of where the call is billed or paid;</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the location in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection is not known, the origination point of the signal of the telecommunications services first identified by either the seller's telecommunications system or in information received by the seller from its service provider, where the system used to transport such signals is not that of the seller;</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>If the locations in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_520__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_82_32_520__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection are not known, the location of the customer's place of primary use.
+[
+2010 c 106 s 228
+. Prior:
+2007 c 54 s 18
+;
+2007 c 6 s 1001
+;
+2004 c 153 s 403
+;
+2003 c 168 s 501
+.]
+NOTES:
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Severability
+—
+2007 c 54:
+See note following RCW
+82.04.050
+.
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

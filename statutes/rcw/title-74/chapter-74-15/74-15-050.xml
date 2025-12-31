@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_050">
+        <num>RCW 74.15.050</num>
+        <heading>Fire protection—Powers and duties of chief of the Washington state patrol</heading>
+        <subsection eId="sec_74_15_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In consultation with the children's services advisory committee and with the advice and assistance of persons representative of the various type agencies to be licensed, to adopt recognized minimum standard requirements pertaining to each category of agency established pursuant to chapter
+74.15
+RCW and RCW
+74.13.031
+, except foster family homes and child-placing agencies, necessary to protect all persons residing therein from fire hazards;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To make or cause to be made such inspections and investigations of agencies, other than foster family homes or child-placing agencies, as he or she deems necessary;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To make a periodic review of requirements under RCW
+74.15.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_050__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>and to adopt necessary changes after consultation as required in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To issue to applicants for licenses hereunder, other than foster family homes or child-placing agencies, who comply with the requirements, a certificate of compliance, a copy of which shall be presented to the department before a license shall be issued, except that an initial license may be issued as provided in RCW
+74.15.120
+.
+[
+2009 c 520 s 15
+;
+1995 c 369 s 62
+;
+1986 c 266 s 123
+;
+1982 c 118 s 8
+;
+1979 c 141 s 357
+;
+1967 c 172 s 5
+.]
+NOTES:
+Effective date
+—
+1995 c 369:
+See note following RCW
+43.43.930
+.
+Severability
+—
+1986 c 266:
+See note following RCW
+38.52.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

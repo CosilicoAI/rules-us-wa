@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_090">
+        <num>RCW 82.44.090</num>
+        <heading>Penalty for issuing a dealer's license, plates, or a registration without collecting tax</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.44
+&gt;
+Section 82.44.090
+82.44.065
+&lt;&lt; 
+        82.44.090 &gt;&gt;
+82.44.100
+PDF
+RCW
+82.44.090
+Penalty for issuing a dealer's license, plates, or a registration without collecting tax.
+It is unlawful for the county auditor or any other person to issue a dealer's license or dealer's license plates or a registration or identification plates with respect to any motor vehicle without collecting, with the required vehicle license fee, the amount of any locally imposed motor vehicle excise tax due. Any violation of this section shall constitute a gross misdemeanor.
+[
+2010 c 161 s 913
+;
+2006 c 318 s 6
+;
+1961 c 15 s 82.44.090
+. Prior:
+1943 c 144 s 8
+; Rem. Supp. 1943 s 6312-122; prior:
+1937 c 228 s 7
+.]
+NOTES:
+Effective date
+—
+Intent
+—
+Legislation to reconcile chapter 161, Laws of 2010 and other amendments made during the 2010 legislative session
+—
+2010 c 161:
+See notes following RCW
+46.04.013
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

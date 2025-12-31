@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.980"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.980"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.980/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.980/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.980/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.980/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_980">
+        <num>RCW 82.08.980</num>
+        <heading>Exemptions—Labor, services, and personal property related to the manufacture of commercial airplanes. (Expires July 1, 2040.)</heading>
+        <subsection eId="sec_82_08_980__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to:</p>
+          </content>
+          <subsection eId="sec_82_08_980__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Charges, for labor and services rendered in respect to the constructing of new buildings, made to</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_980__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a manufacturer engaged in the manufacturing of commercial airplanes or the fuselages or wings of commercial airplanes or</p>
+            </content>
+            <subsection eId="sec_82_08_980__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a port district, political subdivision, or municipal corporation, to be leased to a manufacturer engaged in the manufacturing of commercial airplanes or the fuselages or wings of commercial airplanes;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_980__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Sales of tangible personal property that will be incorporated as an ingredient or component of such buildings during the course of the constructing; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_980__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Charges made for labor and services rendered in respect to installing, during the course of constructing such buildings, building fixtures not otherwise eligible for the exemption under RCW
+82.08.02565</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_980__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption is available only when the buyer provides the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_980__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No application is necessary for the tax exemption in this section. However, in order to qualify under this section before starting construction, the port district, political subdivision, or municipal corporation must have entered into an agreement with the manufacturer to build such a facility. A person claiming the exemption under this section is subject to all the requirements of chapter
+82.32
+RCW. In addition, the person must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_980__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The exemption in this section applies to buildings or parts of buildings, including buildings or parts of buildings used for the storage of raw materials or finished product, that are used primarily in the manufacturing of any one or more of the following products:</p>
+          </content>
+          <subsection eId="sec_82_08_980__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Commercial airplanes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_980__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Fuselages of commercial airplanes; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_980__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Wings of commercial airplanes.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_980__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For the purposes of this section, &quot;commercial airplane&quot; has the meaning given in RCW
+82.32.550
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_980__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section expires July 1, 2040.
+[
+2017 c 135 s 25
+;
+2013 3rd sp.s. c 2 s 3
+;
+2010 c 114 s 126
+;
+2003 2nd sp.s. c 1 s 11
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Finding
+—
+2003 2nd sp.s. c 1:
+See note following RCW
+82.04.4461
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

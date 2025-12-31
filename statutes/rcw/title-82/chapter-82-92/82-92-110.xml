@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.110"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_110">
+        <num>RCW 82.92.110</num>
+        <heading>Discontinued compliance with program requirements—Payment of taxes, interest, and penalties</heading>
+        <subsection eId="sec_82_92_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If a conditional recipient voluntarily opts to discontinue compliance with the requirements of this chapter, the recipient must notify the city and department within 60 days of the change in use or intended discontinuance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If, after the department has issued a sales and use tax deferral certificate and the conditional recipient has received a certificate of occupancy, the city finds that a portion of an investment project is changed or will be changed to disqualify the recipient for sales and use tax deferral eligibility under this chapter, the city must notify the department and all deferred sales and use taxes are immediately due and payable. The department must assess interest at the rate provided for delinquent taxes and penalties retroactively to the date of deferral. A debt for deferred taxes will not be extinguished by insolvency or other failure of the recipient.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_110__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section does not apply after 10 years from the date of the certificate of occupancy.
+[
+2022 c 241 s 13
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

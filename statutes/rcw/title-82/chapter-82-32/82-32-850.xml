@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.850"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.850"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.850/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.850/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.850/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.850/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_850">
+        <num>RCW 82.32.850</num>
+        <heading>Significant commercial airplane manufacturing—Tax preference—Contingent effective date</heading>
+        <subsection eId="sec_82_32_850__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Chapter 2, Laws of 2013 3rd sp. sess. takes effect contingent upon the siting of a significant commercial airplane manufacturing program in the state of Washington. If a significant commercial airplane manufacturing program is not sited in the state of Washington by June 30, 2017, chapter 2, Laws of 2013 3rd sp. sess. does not take effect.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_32_850__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Commercial airplane&quot; has the same meaning provided in RCW
+82.32.550
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_850__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;New model, or any version or variant of an existing model, of a commercial airplane&quot; means a commercial airplane manufactured with a carbon fiber composite fuselage or carbon fiber composite wings or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_850__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Significant commercial airplane manufacturing program&quot; means an airplane program in which the following products, including final assembly, will commence manufacture at a new or existing location within Washington state on or after July 9, 2014:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_850__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The new model, or any version or variant of an existing model, of a commercial airplane; and</p>
+            </content>
+            <subsection eId="sec_82_32_850__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Fuselages and wings of a new model, or any version or variant of an existing model, of a commercial airplane.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_850__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Siting&quot; means a final decision, made on or after November 1, 2013, by a manufacturer to locate a significant commercial airplane manufacturing program in Washington state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department must make a determination regarding whether the contingency in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section occurs and must provide written notice of the date on which such contingency occurs and chapter 2, Laws of 2013 3rd sp. sess. takes effect. If the department determines that the contingency in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section has not occurred by June 30, 2017, the department must provide written notice stating that chapter 2, Laws of 2013 3rd sp. sess. does not take effect. Written notice under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>must be provided to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department.
+[
+2013 3rd sp.s. c 2 s 2
+.]
+NOTES:
+Reviser's note:
+The department of revenue determined that the contingency in section 2, chapter 2 (Engrossed Substitute Senate Bill No. 5952), Laws of 2013 3rd sp.s. occurred and that the bill took effect July 9, 2014.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the people of Washington have benefited enormously from the presence of the aerospace industry in Washington state. The legislature further finds that the industry continues to provide good wages and benefits for the thousands of engineers, mechanics, and support staff working directly in the industry throughout the state. The legislature further finds that suppliers and vendors that support the aerospace industry in turn provide a range of well-paying jobs. In 2003, and again in 2006, and 2007, the legislature determined it was in the public interest to encourage the continued presence of the aerospace industry through the provision of tax incentives. To this end, and in recognition of the continuing extreme importance of the aerospace industry in Washington, it is the legislature's intent to reaffirm and build upon prior aerospace tax incentive legislation in a fiscally prudent manner.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes the tax preferences extended in this act as intended to create or retain jobs, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to maintain and grow Washington's aerospace industry workforce. To help achieve this public policy objective, it is the legislature's intent to conditionally extend aerospace industry tax preferences until July 1, 2040, in recognition of intent by the state's aerospace industry sector to maintain and grow its workforce within the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_850__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The joint legislative audit and review committee must review the tax preferences provided in this act and report to the legislature by December 1, 2019, and every five years thereafter. As part of its tax preference reviews, the committee must specifically assess changes in aerospace industry employment in Washington in comparison with other states and internationally. To the extent practicable, the committee must use occupational data statistics provided by the bureau of labor statistics and state agencies responsible for administering unemployment insurance to perform this assessment.&quot; [
+2013 3rd sp.s. c 2 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

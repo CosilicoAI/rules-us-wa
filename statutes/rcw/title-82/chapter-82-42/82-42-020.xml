@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.42.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.42.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.42.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_42_020">
+        <num>RCW 82.42.020</num>
+        <heading>Aircraft fuel tax imposed—Rate</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.42
+&gt;
+Section 82.42.020
+82.42.010
+&lt;&lt; 
+        82.42.020 &gt;&gt;
+82.42.030
+PDF
+RCW
+82.42.020
+Aircraft fuel tax imposed
+—
+Rate.
+There is levied upon every distributor of aircraft fuel, an excise tax at the rate of 18 cents on each gallon of aircraft fuel sold, delivered, or used in this state. There must be collected from every user of aircraft fuel either the use tax imposed by RCW
+82.12.020
+or the retail sales tax imposed by RCW
+82.08.020
+. The taxes imposed by this chapter must be collected and paid to the state but once in respect to any aircraft fuel.
+[
+2022 c 182 s 201
+;
+2013 c 225 s 302
+;
+2005 c 341 s 3
+;
+2003 c 375 s 5
+;
+1996 c 104 s 13
+;
+1982 1st ex.s. c 25 s 2
+;
+1969 ex.s. c 254 s 2
+;
+1967 ex.s. c 10 s 2
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2022 c 182:
+See notes following RCW
+70A.65.240
+.
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Effective date
+—
+2005 c 341:
+See note following RCW
+47.68.230
+.
+Effective date
+—
+2003 c 375:
+See note following RCW
+47.68.240
+.
+Severability
+—
+Effective date
+—
+1982 1st ex.s. c 25:
+See notes following RCW
+82.42.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

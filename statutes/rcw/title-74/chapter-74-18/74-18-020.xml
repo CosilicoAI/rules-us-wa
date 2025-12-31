@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_020">
+        <num>RCW 74.18.020</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_18_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Department&quot; means an agency of state government called the department of services for the blind.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Director&quot; means the director of the department of services for the blind. The director is appointed by the governor with the consent of the senate.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Rehabilitation council for the blind&quot; means the body of members appointed by the governor in accordance with the provisions of RCW
+74.18.070
+to advise the state agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Blind person&quot; means a person who:</p>
+          </content>
+          <subsection eId="sec_74_18_020__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Has no vision or whose vision with corrective lenses is so limited that the individual requires alternative methods or skills to do efficiently those things that are ordinarily done with sight by individuals with normal vision;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_18_020__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>has an eye condition of a progressive nature which may lead to blindness; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_18_020__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>is blind for purposes of the business enterprise program as set forth in RCW
+74.18.200
+through
+74.18.230
+in accordance with requirements of the Randolph-Sheppard Act of 1936.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_18_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Telephonic reading service&quot; means audio information provided by telephone, including the acquisition and distribution of daily newspapers and other information of local, state, or national interest.
+[
+2003 c 409 s 3
+;
+1983 c 194 s 2
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

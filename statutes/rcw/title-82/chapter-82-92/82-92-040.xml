@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_040">
+        <num>RCW 82.92.040</num>
+        <heading>Conditional certification</heading>
+        <subsection eId="sec_82_92_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The investment project is, or will be, at the time of completion, in conformance with all local plans and regulations that apply at the time the application is approved;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The investment project will occur on land that constitutes underdeveloped property;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The area where the investment project will occur is located within an area zoned for residential or mixed uses;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The terms and conditions of the implementation of the development meets the requirements of this chapter and any requirements of the city that are not otherwise inconsistent with this chapter;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_040__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The land where the investment project will occur was not acquired through a condemnation proceeding under Title
+8
+RCW; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_040__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>All other requirements of this chapter have been satisfied as well as any other requirements of the city that are not otherwise inconsistent with this chapter.
+[
+2022 c 241 s 6
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

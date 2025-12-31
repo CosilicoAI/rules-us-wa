@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.901"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.901"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.901/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.901/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.901/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.901/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_901">
+        <num>RCW 74.18.901</num>
+        <heading>Conflict with federal requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.18
+&gt;
+Section 74.18.901
+74.18.230
+&lt;&lt; 
+        74.18.901 &gt;&gt;
+End of Chapter
+PDF
+RCW
+74.18.901
+Conflict with federal requirements.
+If any part of this chapter is found to be in conflict with federal requirements which are a condition precedent to the allocation of federal funds to the state, the conflicting part of this chapter is hereby declared to be inoperative solely to the extent of the conflict, and the findings or determination shall not affect the operation of the remainder of this chapter.
+[
+1983 c 194 s 25
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

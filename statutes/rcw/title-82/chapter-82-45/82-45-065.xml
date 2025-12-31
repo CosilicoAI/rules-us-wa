@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.065"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.065"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.065/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.065/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.065/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.065/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_065">
+        <num>RCW 82.45.065</num>
+        <heading>Tax preferences—Expiration dates</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.45
+&gt;
+Section 82.45.065
+82.45.060
+&lt;&lt; 
+        82.45.065 &gt;&gt;
+82.45.070
+PDF
+RCW
+82.45.065
+Tax preferences
+—
+Expiration dates.
+See RCW
+82.32.805
+for the expiration date of new tax preferences for the tax imposed under this chapter.
+[
+2013 2nd sp.s. c 13 s 1718
+.]
+NOTES:
+Effective date
+—
+2013 2nd sp.s. c 13:
+See note following RCW
+82.04.43393
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

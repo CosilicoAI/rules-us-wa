@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.600"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.600"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.600/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.600/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.600/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.600/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_600">
+        <num>RCW 74.04.600</num>
+        <heading>Supplemental security income program—Purpose</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.600
+74.04.541
+&lt;&lt; 
+        74.04.600 &gt;&gt;
+74.04.610
+PDF
+RCW
+74.04.600
+Supplemental security income program
+—
+Purpose.
+The purpose of RCW
+74.04.600
+through
+74.04.650
+is to recognize and accept that certain act of congress known as Public Law 92-603 and Public Law 93-66, and to enable the department of social and health services to take advantage of and implement the provisions of that act. The state shall provide assistance to those individuals who were eligible or would have been eligible for benefits under this state's old age assistance, disability assistance, and aid to the blind programs as they were in effect in December, 1973 but who will no longer be eligible for such program due to Title XVI of the Social Security Act.
+[
+1973 2nd ex.s. c 10 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.42.220"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.42.220/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.42.220/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_42_220">
+        <num>RCW 82.42.220</num>
+        <heading>Claim of refund or credit</heading>
+        <subsection eId="sec_82_42_220__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Claims for refund or credit for aircraft fuel taxes paid under this chapter must be filed with the department on forms prescribed by the department and must contain and be supported by such information and documentation as the department may require. Claims for refund of aircraft fuel taxes must be for at least twenty dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_220__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any amount determined to be refundable by the department must first be credited on any amounts then due and payable from a person to whom the refund is due.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_220__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No refund or credit may be approved by the department unless a written claim for refund or credit stating the specific grounds upon which the claim is founded is filed with the department:</p>
+          </content>
+          <subsection eId="sec_82_42_220__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Within thirteen months from the date of purchase or from the last day of the month following the close of the reporting period for which the refundable amount or credit is due with respect to refunds or credits allowed and if not filed within this period the right to refund is barred; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_42_220__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Within five years from the last day of the month following the close of the reporting period for which the overpayment is due with respect to the refunds or credits allowed for aircraft fuel tax licensees.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_42_220__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must refund any amount paid that has been verified by the department to be more than twenty dollars over the amount actually due for the reporting period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_220__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Payment credits may not be carried forward and applied to subsequent tax returns for a person licensed under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_220__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Within thirty days after disallowing any refund claim in whole or in part, the department must provide written notice of its action to the claimant.</p>
+          </content>
+          <subsection eId="sec_82_42_220__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Interest must be paid upon any refundable amount or credit due at the rate of one percent per month from the last day of the calendar month following the reporting period for which the refundable amount or credit is due.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_42_220__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The interest must be paid:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_42_220__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>In the case of a refund, to the last day of the calendar month following the date upon which the claim is approved by the department; and</p>
+            </content>
+            <subsection eId="sec_82_42_220__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>In the case of a credit, to the same date as that to which interest is computed on the tax or amount against which the credit is applied.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_42_220__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the department determines that any overpayment has been made intentionally or by reason of carelessness, interest is not allowed.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_42_220__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The department must pay interest of one percent on any refund payable that is issued more than thirty state business days after the receipt of a claim properly filed and completed. After the end of the thirty business day period, additional interest accrues at the rate of one percent on the amount payable for each thirty calendar day period.
+[
+2013 c 225 s 416
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

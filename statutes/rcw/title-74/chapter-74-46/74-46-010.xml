@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_010">
+        <num>RCW 74.46.010</num>
+        <heading>Short title—Purpose—Finding</heading>
+        <subsection eId="sec_74_46_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter may be known and cited as the &quot;nursing facility medicaid payment system.&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The purposes of this chapter are to set forth principles to guide the nursing facility medicaid payment system and specify the manner by which legislative appropriations for medicaid nursing facility services are to be allocated as payment rates among nursing facilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature finds that the medicaid nursing facility rates calculated under this chapter provide sufficient reimbursement to efficient and economically operating facilities and bear a reasonable relationship to costs.
+[
+2010 1st sp.s. c 34 s 1
+;
+1998 c 322 s 1
+;
+1980 c 177 s 1
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 34:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2010.&quot; [
+2010 1st sp.s. c 34 s 23
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

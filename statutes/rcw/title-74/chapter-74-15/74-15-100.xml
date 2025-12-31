@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.100"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_100">
+        <num>RCW 74.15.100</num>
+        <heading>License application, issuance, duration—Reclassification—Location changes</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.100
+74.15.090
+&lt;&lt; 
+        74.15.100 &gt;&gt;
+74.15.110
+PDF
+RCW
+74.15.100
+License application, issuance, duration
+—
+Reclassification
+—
+Location changes.
+Each agency shall make application for a license or renewal of license to the department on forms prescribed by the department. A licensed agency having foster family homes under its supervision may make application for a license on behalf of any such foster family home. Such a foster home license shall cease to be valid when the home is no longer under the supervision of that agency. Upon receipt of such application, the department shall either grant or deny a license within ninety days unless the application is for licensure as a foster family home, in which case RCW
+74.15.040
+shall govern. A license shall be granted if the agency meets the minimum requirements set forth in this chapter and RCW
+74.13.031
+and the departmental requirements consistent herewith, except that an initial license may be issued as provided in RCW
+74.15.120
+. Licenses provided for in this chapter and RCW
+74.13.031
+shall be issued for a period of three years. The licensee, however, shall advise the secretary of any material change in circumstances which might constitute grounds for reclassification of license as to category. The license issued under this chapter is not transferable and applies only to the licensee. The license shall be limited to a particular location which shall be stated on the license. For licensed foster family homes having an acceptable history of child care, the license may remain in effect for thirty days after a move, except that this will apply only if the family remains intact and children are placed in their care. Licensees must notify their licensor before moving to a new location and may request a continuation of the license at the new location. The department shall conduct a home inspection following notification that a foster family home has moved to a new location. Provided the new location and licensees meet minimum licensing standards, the licensor shall amend the license to reflect the new location. Licensees whose family remains intact and have no children placed in their care at the time of a move to a new location shall notify their licensor within ninety days of moving. If the licensee is in good standing at the time of the move, the licensor shall place the home on no-referral status and complete a home inspection within thirty days of notification. Such licensees shall remain on no-referral status and no new placements may be made in their home until the inspection is complete and the licensor determines that the new location meets minimum licensing standards.
+[
+2020 c 73 s 2
+;
+2018 c 284 s 68
+. Prior:
+2009 c 520 s 16
+;
+2009 c 206 s 1
+;
+2006 c 265 s 403
+;
+1995 c 302 s 8
+;
+1982 c 118 s 11
+;
+1979 c 141 s 360
+;
+1967 c 172 s 10
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2020 c 73:
+&quot;The legislature finds that at least forty-six foster home licenses were closed between 2017 and 2019 due to failure to notify the department of children, youth, and families of a change of residence within thirty days of relocation. In recognition of the importance of maintaining foster placements in Washington, the legislature intends to provide licensing continuation for foster families without a foster child in their care at the time of relocation if the licensee meets minimum licensing standards and completes a home inspection within thirty days of providing notice of relocation.&quot; [
+2020 c 73 s 1
+.]
+Effective date
+—
+2006 c 265:
+See RCW
+43.216.902
+.
+Intent
+—
+1995 c 302:
+See note following RCW
+74.15.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.85.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.85.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.85.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_85_040">
+        <num>RCW 82.85.040</num>
+        <heading>Deferral application. (Expires January 1, 2026.)</heading>
+        <subsection eId="sec_82_85_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Application for deferral of taxes under this chapter must be made before initiation of the construction of the investment project or acquisition of equipment or machinery. The application must be made to the department in a form and manner prescribed by the department. The deferrals are available on a first-in-time basis. The application must contain information regarding the location of the investment project, the applicant's average employment in the state for the prior year, estimated or actual new employment related to the project, estimated or actual wages of employees related to the project, estimated or actual costs, time schedules for completion and operation, and other information required by the department. The department must rule on the application within sixty days.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may not approve applications for more than two eligible investment projects per calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires January 1, 2026.
+[
+2017 3rd sp.s. c 37 s 803
+;
+2015 3rd sp.s. c 6 s 404
+.]
+NOTES:
+Effective date
+—
+2017 3rd sp.s. c 37 ss 101-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+See note following RCW
+82.04.2404
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

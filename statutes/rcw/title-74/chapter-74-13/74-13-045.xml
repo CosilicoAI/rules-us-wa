@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.045"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.045"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.045/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.045/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.045/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.045/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_045">
+        <num>RCW 74.13.045</num>
+        <heading>Complaint resolution process</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.045
+74.13.042
+&lt;&lt; 
+        74.13.045 &gt;&gt;
+74.13.055
+PDF
+RCW
+74.13.045
+Complaint resolution process.
+The department shall develop and implement an informal, nonadversarial complaint resolution process to be used by clients of the department, foster parents, and other affected individuals who have complaints regarding a department policy or procedure, the application of such a policy or procedure, or the performance of an entity that has entered into a performance-based contract with the department, related to programs administered under this chapter. The process shall not apply in circumstances where the complainant has the right under Title
+13
+,
+26
+, or
+74
+RCW to seek resolution of the complaint through judicial review or through an adjudicative proceeding.
+Nothing in this section shall be construed to create substantive or procedural rights in any person. Participation in the complaint resolution process shall not entitle any person to an adjudicative proceeding under chapter
+34.05
+RCW or to superior court review. Participation in the process shall not affect the right of any person to seek other statutorily or constitutionally permitted remedies.
+The department shall develop procedures to assure that clients and foster parents are informed of the availability of the complaint resolution process and how to access it. The department shall incorporate information regarding the complaint resolution process into the training for foster parents and department caseworkers.
+The department shall compile complaint resolution data including the nature of the complaint and the outcome of the process.
+[
+2018 c 284 s 41
+;
+2009 c 520 s 57
+;
+1998 c 245 s 146
+;
+1991 c 340 s 2
+.]
+NOTES:
+Intent
+—
+1991 c 340:
+&quot;It is the intent of the legislature to provide timely, thorough, and fair procedures for resolution of grievances of clients, foster parents, and the community resulting from decisions made by the department of social and health services related to programs administered pursuant to this chapter. Grievances should be resolved at the lowest level possible. However, all levels of the department should be accountable and responsible to individuals who are experiencing difficulties with agency services or decisions. It is the intent of the legislature that grievance procedures be made available to individuals who do not have other remedies available through judicial review or adjudicative proceedings.&quot; [
+1991 c 340 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

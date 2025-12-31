@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_100">
+        <num>RCW 82.87.100</num>
+        <heading>Allocation of long-term capital gains and losses—Credit. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_87_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For purposes of the tax imposed under this chapter, long-term capital gains and losses are allocated to Washington as follows:</p>
+          </content>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Long-term capital gains or losses from the sale or exchange of tangible personal property are allocated to this state if the property was located in this state at the time of the sale or exchange. Long-term capital gains or losses from the sale or exchange of tangible personal property are also allocated to this state even though the property was not located in this state at the time of the sale or exchange if:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The property was located in the state at any time during the taxable year in which the sale or exchange occurred or the immediately preceding taxable year;</p>
+            </content>
+            <subsection eId="sec_82_87_100__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The taxpayer was a resident at the time the sale or exchange occurred; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_87_100__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The taxpayer is not subject to the payment of an income or excise tax legally imposed on the long-term capital gains or losses by another taxing jurisdiction.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Long-term capital gains or losses derived from intangible personal property are allocated to this state if the taxpayer was domiciled in this state at the time the sale or exchange occurred.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A credit is allowed against the tax imposed in RCW
+82.87.040
+equal to the amount of any legally imposed income or excise tax paid by the taxpayer to another taxing jurisdiction on capital gains derived from capital assets within the other taxing jurisdiction to the extent such capital gains are included in the taxpayer's Washington capital gains. The amount of credit under this subsection may not exceed the total amount of tax due under this chapter, and there is no carryback or carryforward of any unused credits.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>As used in this section, &quot;taxing jurisdiction&quot; means a state of the United States other than the state of Washington, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or any foreign country or political subdivision of a foreign country.
+[
+2021 c 196 s 11
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.
+PDF
+RCW
+82.87.100
+Allocation of long-term capital gains and losses
+—
+Credit.
+(Effective January 1, 2026.)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For purposes of the tax imposed under this chapter, long-term capital gains and losses are allocated to Washington as follows:</p>
+          </content>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Long-term capital gains or losses from the sale or exchange of tangible personal property are allocated to this state if the property was located in this state at the time of the sale or exchange. Long-term capital gains or losses from the sale or exchange of tangible personal property are also allocated to this state even though the property was not located in this state at the time of the sale or exchange if:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The property was located in the state at any time during the taxable year in which the sale or exchange occurred or the immediately preceding taxable year;</p>
+            </content>
+            <subsection eId="sec_82_87_100__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The taxpayer was a resident at the time the sale or exchange occurred; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_87_100__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The taxpayer is not subject to the payment of an income or excise tax legally imposed on the long-term capital gains or losses by another taxing jurisdiction.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Long-term capital gains or losses derived from intangible personal property are allocated to this state if the taxpayer was domiciled in this state at the time the sale or exchange occurred.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A credit is allowed against the tax imposed in RCW
+82.87.040
+for legally imposed income or excise tax paid by the taxpayer to another taxing jurisdiction on capital gains derived from capital assets within the other taxing jurisdiction to the extent such capital gains are included in the taxpayer's Washington capital gains. The amount of credit under this subsection is the lesser of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_100__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The total amount of tax due under this chapter derived from such capital assets; or</p>
+            </content>
+            <subsection eId="sec_82_87_100__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the total amount of tax paid to the other taxing jurisdiction on the capital gains derived from such capital assets. The credit under this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>is nonrefundable, and there is no carryback or carryforward of any unused credits.</p>
+          </content>
+          <subsection eId="sec_82_87_100__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>As used in this section, &quot;taxing jurisdiction&quot; means a state of the United States other than the state of Washington, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or any foreign country or political subdivision of a foreign country.
+[
+2025 c 409 s 8
+;
+2021 c 196 s 11
+.]
+NOTES:
+Effective date
+—
+2025 c 409 ss 3, 4, 8, 10, and 15:
+See note following RCW
+82.87.160
+.
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

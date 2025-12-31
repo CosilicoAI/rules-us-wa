@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.601"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.601"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.601/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.601/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.601/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.601/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_601">
+        <num>RCW 82.04.601</num>
+        <heading>Exemptions—Affixing stamp services for cigarette sales</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.601
+82.04.600
+&lt;&lt; 
+        82.04.601 &gt;&gt;
+82.04.610
+PDF
+RCW
+82.04.601
+Exemptions
+—
+Affixing stamp services for cigarette sales.
+This chapter does not apply to compensation allowed under RCW
+82.24.295
+for wholesalers and retailers for their services in affixing the stamps required under chapter
+82.24
+RCW. For purposes of this section, &quot;wholesaler,&quot; &quot;retailer,&quot; and &quot;stamp&quot; have the same meaning as in chapter
+82.24
+RCW.
+[
+2007 c 221 s 5
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

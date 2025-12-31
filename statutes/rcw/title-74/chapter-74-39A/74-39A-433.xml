@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.433"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.433"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.433/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.433/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.433/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.433/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_433">
+        <num>RCW 74.39A.433</num>
+        <heading>Continuing education for long-term care workers work group</heading>
+        <subsection eId="sec_74_39A_433__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall convene a work group to review existing available continuing education courses offered to long-term care workers under RCW
+74.39A.341
+and provide input and recommendations for the inclusion of topics relevant to individual providers caring for a family member to be incorporated into the development of new continuing education courses. The work group must consist of stakeholders with an interest in the continuing education training requirements for individual providers, including individual providers who are caregivers to a family member with an intellectual or developmental disability, individual providers who are adult children who are caregivers to a parent, the contracted training entity providing continuing education to long-term care workers, and consumers receiving care from an individual provider who is a family member.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_433__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall convene the work group by July 1, 2024, and the work group shall provide recommendations for the development of new courses to the secretary and the contracted training entity by March 1, 2025. By July 1, 2025, the contracted training entity shall submit a continuing education training course development plan that includes a specific timeline for the incorporation of topics identified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_433__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section to the secretary and the relevant committees of the legislature. Beginning September 1, 2025, the contracted training entity shall prioritize the development of courses that address the topics identified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_433__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and the continuing education course development plan when it conducts its next scheduled continuing education course update and development for long-term care workers. The contracted training entity shall continue the development of new courses that address the recommended topics identified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_433__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and the continuing education course development plan in its regular continuing education course development.
+[
+2024 c 322 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

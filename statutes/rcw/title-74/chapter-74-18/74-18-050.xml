@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_050">
+        <num>RCW 74.18.050</num>
+        <heading>Appointment of personnel</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.18
+&gt;
+Section 74.18.050
+74.18.045
+&lt;&lt; 
+        74.18.050 &gt;&gt;
+74.18.060
+PDF
+RCW
+74.18.050
+Appointment of personnel.
+The director may appoint such personnel as necessary, none of whom shall be members of the rehabilitation council for the blind. The director and other personnel who are assigned substantial responsibility for formulating agency policy or directing and controlling a major administrative division, together with their confidential secretaries, up to a maximum of six persons, shall be exempt from the provisions of chapter
+41.06
+RCW.
+[
+2003 c 409 s 5
+;
+1983 c 194 s 5
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

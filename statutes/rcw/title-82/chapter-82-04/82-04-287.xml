@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.287"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.287"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.287/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.287/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.287/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.287/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_287">
+        <num>RCW 82.04.287</num>
+        <heading>Tax on alternative jet fuel</heading>
+        <subsection eId="sec_82_04_287__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within the state in the business of manufacturing alternative jet fuel; as to such persons, the amount of the tax with respect to such business is, in the case of manufacturers, equal to the value of the product manufactured, or in the case of processors for hire, equal to the gross income of the business, multiplied by the rate of 0.275 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Upon every person engaging in making sales, at retail or wholesale, of manufactured alternative jet fuel; as to such persons, the amount of the tax with respect to such business is equal to the gross proceeds of sales of the alternative jet fuel, multiplied by the rate of 0.275 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section, &quot;alternative jet fuel&quot; means a fuel that can be blended and used with conventional petroleum jet fuels without the need to modify aircraft engines and existing fuel distribution infrastructure and that has lower greenhouse gas emissions based on a full life-cycle analysis when compared to conventional petroleum jet fuel for which it is capable as serving as a substitute, as certified by the department of ecology using the methods for determining the carbon intensity of fuels under chapter
+70A.535
+RCW. &quot;Alternative jet fuel&quot; includes jet fuels derived from coprocessed feedstocks at a conventional petroleum refinery as certified by the department of ecology using the methods for determining the carbon intensity of fuels under chapter
+70A.535
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A person reporting under the tax rate provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+          <subsection eId="sec_82_04_287__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The tax rate under subsections</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section takes effect on the first day of the first calendar quarter following the month in which the department receives notice from the department of ecology that there are one or more facilities operating in this state with a cumulative production capacity of at least 20,000,000 gallons of alternative jet fuel each year, as required in RCW
+70A.535.150
+.</p>
+          </content>
+          <subsection eId="sec_82_04_287__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The tax rate expires nine calendar years after the close of the calendar year in which the tax rate under subsections</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section takes effect.
+[
+2023 c 232 s 9
+.]
+NOTES:
+Tax preference performance statement
+—
+2023 c 232 ss 9-12:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences contained in sections 9 through 12, chapter 232, Laws of 2023. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes these tax preferences as ones intended to improve industry competitiveness as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to encourage the production and use of alternative jet fuels. It is also the legislature's intent to support the development of the alternative jet fuels industry in Washington by providing targeted tax relief for such businesses.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature intends to extend the expiration date of the tax preferences contained in this act if a review finds:</p>
+          </content>
+          <subsection eId="sec_82_04_287__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An increase in the production and use of alternative jet fuels in Washington by persons claiming the tax preferences in this act;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_287__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>That the production and use of alternative jet fuels in this state does not result in additional pollution including, but not limited to, pollution from per- and polyfluoroalkyl substances, noxious gases, ultrafine particles, lead, or other metals; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_287__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>That the alternative jet fuel industry has created measurable economic growth in Washington.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The review conducted by the joint legislative audit and review committee must include a racial equity analysis on air travel-related pollution in communities near an international airport owned by a port district in a county with a population greater than 1,500,000.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may access and use data from an international airport owned by a port district in a county with a population greater than 1,500,000, the University of Washington, reports compiled by the Washington State University pursuant to section 7 of this act, and any other data collected by the state as it deems necessary.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_287__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The joint legislative audit and review committee must complete a preliminary report by December 1, 2032.&quot; [
+2023 c 232 s 8
+.]
+Effective date
+—
+2023 c 232 ss 9-12:
+&quot;Sections 9 through 12 of this act take effect July 1, 2024.&quot; [
+2023 c 232 s 15
+.]
+Automatic expiration date exemption
+—
+2023 c 232:
+&quot;RCW
+82.32.805
+does not apply to this act.&quot; [
+2023 c 232 s 14
+.]
+Intent
+—
+2023 c 232:
+See note following RCW
+70A.535.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

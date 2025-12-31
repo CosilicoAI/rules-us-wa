@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39_050">
+        <num>RCW 74.39.050</num>
+        <heading>Individuals with functional disabilities—Self-directed care</heading>
+        <subsection eId="sec_74_39_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An adult person with a functional disability living in his or her own home may direct and supervise a paid personal aide in the performance of a health care task.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The following requirements shall guide the provision of self-directed care under chapter 336, Laws of 1999:</p>
+          </content>
+          <subsection eId="sec_74_39_050__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Health care tasks are those medical, nursing, or home health services that enable the person to maintain independence, personal hygiene, and safety in his or her own home, and that are services that a person without a functional disability would customarily and personally perform without the assistance of a licensed health care provider.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39_050__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The individual who chooses to self-direct a health care task is responsible for initiating self-direction by informing the health care professional who has ordered the treatment which involves that task of the individual's intent to perform that task through self-direction.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39_050__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When state funds are used to pay for self-directed tasks, a description of those tasks will be included in the client's comprehensive assessment, and subject to review with each annual reassessment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39_050__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>When a licensed health care provider orders treatment involving a health care task to be performed through self-directed care, the responsibility to ascertain that the patient understands the treatment and will be able to follow through on the self-directed care task is the same as it would be for a patient who performs the health care task for himself or herself, and the licensed health care provider incurs no additional liability when ordering a health care task which is to be performed through self-directed care.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39_050__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The role of the personal aide in self-directed care is limited to performing the physical aspect of health care tasks under the direction of the person for whom the tasks are being done. This shall not affect the ability of a person who acts as a personal aide by performing self-directed health care tasks to also provide other home care services, such as personal care or homemaker services, which enable the client to remain at home.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39_050__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The responsibility to initiate self-directed health care tasks, to possess the necessary knowledge and training for those tasks, and to exercise judgment regarding the manner of their performance rests and remains with the person who has chosen to self-direct those tasks, including the decision to employ and dismiss a personal aide.
+[
+2022 c 86 s 2
+;
+1999 c 336 s 3
+.]
+NOTES:
+Finding
+—
+Intent
+—
+1999 c 336:
+See note following RCW
+74.39.007
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

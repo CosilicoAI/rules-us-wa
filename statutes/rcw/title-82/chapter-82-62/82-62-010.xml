@@ -1,0 +1,307 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.62.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.62.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.62.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_62_010">
+        <num>RCW 82.62.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_62_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Applicant&quot; means a person applying for a tax credit under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of revenue.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Eligible area&quot; means a &quot;rural county&quot; as defined in RCW
+82.14.370
+.</p>
+          </content>
+          <subsection eId="sec_82_62_010__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Eligible business project&quot; means manufacturing or research and development activities which are conducted by an applicant in an eligible area at a specific facility, provided the applicant's average qualified employment positions at the specific facility will be at least fifteen percent greater in the four consecutive full calendar quarters after the calendar quarter during which the first qualified employment position is filled than the applicant's average qualified employment positions at the same facility in the four consecutive full calendar quarters immediately preceding the calendar quarter during which the first qualified employment position is filled.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_62_010__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Eligible business project&quot; does not include any portion of a business project undertaken by a light and power business as defined in RCW
+82.16.010
+or that portion of a business project creating qualified full-time employment positions outside an eligible area.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;First qualified employment position&quot; means the first qualified employment position filled for which a credit under this chapter is sought.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Manufacturing&quot; means the same as defined in RCW
+82.04.120
+. &quot;Manufacturing&quot; also includes:</p>
+          </content>
+          <subsection eId="sec_82_62_010__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Before July 1, 2010:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_62_010__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Computer programming, the production of computer software, and other computer-related services, but only when the computer programming, production of computer software, or other computer-related services are performed by a manufacturer as defined in RCW
+82.04.110
+and contribute to the production of a new, different, or useful substance or article of tangible personal property for sale; and</p>
+            </content>
+            <subsection eId="sec_82_62_010__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the activities performed by research and development laboratories and commercial testing laboratories; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_62_010__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning July 1, 2010, the activities performed by research and development laboratories and commercial testing laboratories.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Person&quot; has the meaning given in RCW
+82.04.030
+.</p>
+          </content>
+          <subsection eId="sec_82_62_010__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Qualified employment position&quot; means a permanent full-time employee employed in the eligible business project during four consecutive full calendar quarters.</p>
+            </content>
+            <subsection eId="sec_82_62_010__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For seasonal employers, &quot;qualified employment position&quot; also includes the equivalent of a full-time employee in work hours for four consecutive full calendar quarters.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_62_010__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;full time&quot; means a normal workweek of at least thirty-five hours.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_62_010__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Once a permanent, full-time employee has been employed, a position does not cease to be a qualified employment position solely due to periods in which the position goes vacant, as long as:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_62_010__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The cumulative period of any vacancies in that position is not more than one hundred twenty days in the four-quarter period; and</p>
+            </content>
+            <subsection eId="sec_82_62_010__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>During a vacancy, the employer is training or actively recruiting a replacement permanent, full-time employee for the position.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Recipient&quot; means a person receiving tax credits under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Research and development&quot; means the development, refinement, testing, marketing, and commercialization of a product, service, or process before commercial sales have begun, but only when such activities are intended to ultimately result in the production of a new, different, or useful substance or article of tangible personal property for sale. As used in this subsection, &quot;commercial sales&quot; excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed one million dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Seasonal employee&quot; means an employee of a seasonal employer who works on a seasonal basis. For the purposes of this subsection and subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>of this section, &quot;seasonal basis&quot; means a continuous employment period of less than twelve consecutive months.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Seasonal employer&quot; means a person who regularly hires more than fifty percent of its employees to work on a seasonal basis.
+[
+2010 1st sp.s. c 16 s 11
+;
+2010 c 106 s 232
+;
+2007 c 485 s 1
+;
+2001 c 320 s 12
+;
+1999 sp.s. c 9 s 3
+;
+1999 c 164 s 305
+;
+1996 c 290 s 5
+;
+1994 sp.s. c 7 s 705
+;
+1993 sp.s. c 25 s 410
+;
+1988 c 42 s 17
+;
+1986 c 116 s 15
+.]
+NOTES:
+Retroactive application
+—
+2010 1st sp.s. c 16 ss 2 and 11:
+See note following RCW
+82.60.020
+.
+Effective date
+—
+2010 1st sp.s. c 16:
+See note following RCW
+82.60.010
+.
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Application
+—
+2007 c 485:
+&quot;Sections 1 through 3 and 5 of this act apply with respect to applications for credit under chapter
+82.62
+RCW received by the department of revenue on or after January 1, 2008.&quot; [
+2007 c 485 s 7
+.]
+Application
+—
+Effective date
+—
+2007 c 485:
+See notes following RCW
+82.62.020
+.
+Effective date
+—
+2001 c 320:
+See note following RCW
+11.02.005
+.
+Intent
+—
+Severability
+—
+Effective date
+—
+1999 sp.s. c 9:
+See notes following RCW
+82.04.120
+.
+Findings
+—
+Intent
+—
+Part headings and subheadings not law
+—
+Effective date
+—
+Severability
+—
+1999 c 164:
+See notes following RCW
+43.160.010
+.
+Savings
+—
+1999 c 164 ss 301-303, 305, 306, and 601-603:
+See note following RCW
+82.60.020
+.
+Finding
+—
+Intent
+—
+Severability
+—
+1994 sp.s. c 7:
+See notes following RCW
+43.70.540
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Severability
+—
+1988 c 42:
+See note following RCW
+4.24.480
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

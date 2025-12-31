@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_040">
+        <num>RCW 74.34.040</num>
+        <heading>Reports—Contents—Identity confidential</heading>
+        <subsection eId="sec_74_34_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Identification of the vulnerable adult;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The nature and extent of the suspected abuse, neglect, exploitation, or abandonment;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Evidence of previous abuse, neglect, exploitation, or abandonment;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The name and address of the person making the report; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any other helpful information.
+Unless there is a judicial proceeding or the person consents, the identity of the person making the report is confidential.
+[
+1986 c 187 s 2
+;
+1984 c 97 s 10
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.34.030
+was repealed by
+1999 c 176 s 35
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

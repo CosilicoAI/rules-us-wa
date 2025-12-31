@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.802"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.802"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.802/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.802/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.802/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.802/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_802">
+        <num>RCW 74.13.802</num>
+        <heading>Child welfare housing assistance program</heading>
+        <subsection eId="sec_74_13_802__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Within funds appropriated for this specific purpose, the department shall administer a child welfare housing assistance program, which provides housing vouchers, rental assistance, navigation, and other support services to eligible families.</p>
+          </content>
+          <subsection eId="sec_74_13_802__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall operate or contract for the operation of the child welfare housing assistance program under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section in one or more counties west of the crest of the Cascade mountain range and one or more counties east of the crest of the Cascade mountain range.</p>
+          </content>
+          <subsection eId="sec_74_13_802__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The child welfare housing assistance program is intended to reduce the need for foster care placement and to shorten the time that children remain in out-of-home care when placement is necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department or entities contracted with the department under this section may continue to provide housing assistance through the child welfare housing assistance program after the department is no longer providing child welfare or child protective services to the family.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department shall adopt rules to establish formal procedures for implementation of the child welfare housing assistance program.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The following families are eligible for assistance from the child welfare housing assistance program:</p>
+          </content>
+          <subsection eId="sec_74_13_802__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A parent with a child who is dependent pursuant to chapter
+13.34
+RCW and a lack of appropriate housing is a remaining barrier to reunification; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A parent of a child who is a candidate for foster care as defined in RCW
+26.44.020
+and whose housing instability is a barrier to the child remaining in the home.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall contract with an outside entity or entities, who must have a demonstrated understanding of the importance of stable housing for children and families involved or at risk of being involved with the child welfare system, to operate the child welfare housing assistance program. If no outside entity or entities are available to operate the program or specific parts of the program, the department may operate the program or the specific parts that are not operated by an outside entity.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Families may be referred to the child welfare housing assistance program by a department caseworker, an attorney, a guardian ad litem as defined in chapter
+13.34
+RCW, a parent ally as defined in RCW
+2.70.060
+, an office of public defense social worker, or the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department shall consult with a stakeholder group that must include, but is not limited to, the following:</p>
+          </content>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Parent allies;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Parent attorneys and social workers managed by the office of public defense parent representation program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department of commerce;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Housing experts;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Community-based organizations;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Advocates; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Behavioral health providers.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The stakeholder group established in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section shall begin meeting after July 28, 2019, and assist the department in design of the child welfare housing assistance program in areas including, but not limited to:</p>
+          </content>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Equitable racial, geographic, ethnic, and gender distribution of program support;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Eligibility criteria;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Creating a definition of homeless for purposes of eligibility for the program; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Options for program design that include outside entities operating the entire program or specific parts of the program.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Beginning November 1, 2024, the department shall annually report data and outcomes for the child welfare housing assistance program to the legislature. At a minimum, when available, the report must include the following information:</p>
+          </content>
+          <subsection eId="sec_74_13_802__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Distribution of the child welfare housing assistance program by race, geography, ethnicity, and gender including a discussion of whether this distribution was equitable;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any recommendations for legislative changes to the child welfare housing assistance program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The number of unhoused parents on the waiting list for vouchers supported by the child welfare housing assistance program and the average time spent on the waiting list;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The percentage of funding spent on housing assistance for families to prevent out-of-home placement, support reunification, provide for program administration, or other purposes; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_802__subsec_7__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The percentage of funding spent on program administration, rental assistance to families, and supportive services necessary to receive federal housing voucher support.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The child welfare housing assistance program established in this section is subject to the availability of funds appropriated for this purpose.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_802__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, the department shall serve families eligible for the child welfare housing assistance program who are placed on a waiting list of any kind in an attempt to serve all families eligible for the child welfare housing assistance program and eliminate any waiting lists.
+[
+2025 c 163 s 1
+;
+2023 c 321 s 1
+;
+2022 c 297 s 965
+;
+2020 c 33 s 7
+;
+2019 c 328 s 1
+.]
+NOTES:
+Effective date
+—
+2023 c 321:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 30, 2023.&quot; [
+2023 c 321 s 2
+.]
+Effective date
+—
+2022 c 297:
+See note following RCW
+43.79.565
+.
+Intent
+—
+2020 c 33:
+See note following RCW
+74.13.715
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

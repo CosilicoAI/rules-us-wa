@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.531"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.531"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.531/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.531/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.531/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.531/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_531">
+        <num>RCW 82.32.531</num>
+        <heading>Nexus—Trade convention attendance or participation</heading>
+        <subsection eId="sec_82_32_531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For purposes of the taxes imposed or authorized under chapters
+82.04
+, 82.08, 82.12, and
+82.14
+RCW, the department may not make a determination of nexus based solely on the attendance or participation of one or more representatives of a person at a single trade convention per year in Washington state in determining if such person is physically present in this state for the purposes of establishing substantial nexus with this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_531__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to persons making retail sales at a trade convention, including persons taking orders for products or services where receipt will occur in Washington state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_531__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_32_531__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Not marketed to the general public&quot; means that the sponsor of a trade convention limits its marketing efforts for the trade convention to its members and specific invited guests of the sponsoring organization.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_531__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Physically present in this state&quot; and &quot;substantial nexus with this state&quot; have the same meaning as provided in RCW
+82.04.067
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_531__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Trade convention&quot; means an exhibition for a specific industry or profession, which is not marketed to the general public, for the purposes of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_531__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Exhibiting, demonstrating, and explaining services, products, or equipment to potential customers; or</p>
+            </content>
+            <subsection eId="sec_82_32_531__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The exchange of information, ideas, and attitudes in regards to that industry or profession.
+[
+2016 c 137 s 3
+.]
+NOTES:
+Reviser's note:
+Section 3, chapter 137, Laws of 2016 expires January 1, 2027, pursuant to the automatic expiration date established in RCW
+82.32.805</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 3 of this act. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_531__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_531__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to encourage participation in Washington trade conventions. It is the legislature's intent to allow a business to participate in one trade convention in Washington each year without that participation being the sole basis for establishing physical presence nexus with the state for tax purposes. Pursuant to chapter
+43.136
+RCW, the joint legislative audit and review committee must review the new tax preference established under section 3 of this act by December 31, 2025.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_531__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that the number of businesses participating in trade conventions in Washington has increased from 2015 levels, then the legislature intends for the legislative auditor to recommend extending the expiration date of the tax preference. If the joint legislative audit and review committee finds that the number of businesses participating in trade conventions in Washington has not increased above 2015 levels, then the joint legislative audit and review committee must make recommendations on how the tax preference can be improved to accomplish that legislative objective. To obtain the data necessary to perform this review, the joint legislative audit and review committee must request the required information from the department of revenue and the Washington state convention center operated under chapter
+36.100
+RCW.&quot; [
+2016 c 137 s 1
+.]
+Effective date
+—
+2016 c 137:
+See note following RCW
+82.04.067
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

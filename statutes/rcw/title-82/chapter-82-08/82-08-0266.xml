@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0266"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0266"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0266/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0266/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0266/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0266/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0266">
+        <num>RCW 82.08.0266</num>
+        <heading>Exemptions—Sales of watercraft to nonresidents for use outside the state</heading>
+        <subsection eId="sec_82_08_0266__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>the watercraft will not be used within this state for more than forty-five days and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0266__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>an appropriate exemption certificate supported by identification ascertaining residence as required by the department of revenue and signed by the purchaser or his or her agent establishing the fact that the purchaser is a nonresident and that the watercraft is for use outside of this state, a copy of which shall be retained by the dealer.
+[
+2013 c 23 s 316
+;
+1999 c 358 s 5
+;
+1980 c 37 s 33
+. Formerly RCW
+82.08.030</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

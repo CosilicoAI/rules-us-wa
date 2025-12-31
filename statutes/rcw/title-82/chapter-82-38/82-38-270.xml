@@ -1,0 +1,316 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.270"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_270">
+        <num>RCW 82.38.270</num>
+        <heading>Violations—Penalties</heading>
+        <subsection eId="sec_82_38_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>It is unlawful for a person to:</p>
+          </content>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Have dyed special fuel in the fuel supply tank of a vehicle that is licensed or required to be licensed for highway use or maintain dyed special fuel in bulk storage for highway use, unless the person maintains an uncanceled dyed special fuel user license or is otherwise exempt under this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Hold dyed special fuel for use, intended use, sale, or intended sale in a manner in violation of this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Evade a tax or fee imposed under this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>File a false statement of a material fact regarding the administration and enforcement of this chapter or otherwise commit any fraud or make a false representation on a fuel tax license application, fuel tax refund application, fuel tax return, fuel tax record, or fuel tax refund claim;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Act as a fuel licensee unless the person holds an uncanceled fuel license issued by the department authorizing the person to engage in that business;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Knowingly assist another person to evade a tax or fee imposed by this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Knowingly operate a conveyance for the purpose of hauling, transporting, or delivering fuel in bulk and not possess an invoice, bill of sale, or other statement showing the name, address, and tax license number of the seller or consignor, the destination, the name, address, and tax license number of the purchaser or consignee, and the number of gallons;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Refuse to permit the department or its authorized representative to examine the person's books, papers, records, storage facilities, and equipment used in conjunction with the use, distribution, or sale of fuel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Display, or cause to permit to be displayed, or to have in possession, any fuel license knowing the same to be fictitious, or to have been suspended, canceled, revoked, or altered;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Lend to, or knowingly permit the use of, by one not entitled thereto, any fuel license issued to the person lending it or permitting it to be used;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Display or to represent as one's own any fuel license not issued to the person displaying the same;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>Use or to conspire with any governmental official, agent, or employee for the use of any requisition, purchase order, or any card or any authority to which the person is not specifically entitled by government regulations, for the purpose of obtaining any fuel or other inflammable petroleum products upon which the fuel tax has not been paid;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>Sell or dispense natural gas or propane for their own use or the use of others into tanks of vehicles powered by this fuel when the vehicle does not display a valid decal or other identifying device as provided in RCW
+82.38.075
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>Knowingly display, or cause to permit to be displayed, or possess, a fictitious or altered international fuel tax agreement decal or license;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>Fail to display, or improperly display, a valid international fuel tax agreement decal associated with a valid international fuel tax agreement license;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_1__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>Operate a motor vehicle as provided in RCW
+82.38.090</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_270__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>without having first obtained a license as required by this chapter; and</p>
+          </content>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_q">
+            <num>(q)</num>
+            <content>
+              <p>Offer for sale as taxed fuel, fuel which the seller knows or has reason to know to be untaxed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A single violation of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section is a gross misdemeanor under chapter
+9A.20
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Multiple violations of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section and violations of subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section are a class C felony under chapter
+9A.20
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_270__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Violations of subsection</p>
+          </content>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_3__subsec_q">
+            <num>(q)</num>
+            <content>
+              <p>of this section are a gross misdemeanor under chapter
+9A.20
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_270__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In addition to other penalties and remedies provided by law, the court must order a person or corporation found guilty of violating subsection</p>
+          </content>
+          <subsection eId="sec_82_38_270__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_4__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Pay the tax or fee evaded plus interest, commencing at the date the tax or fee was first due, at the rate of twelve percent per year, compounded monthly; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_270__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Pay a penalty of 100 percent of the tax evaded.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_270__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The tax imposed by this chapter is held in trust by the licensee until paid to the department, and a licensee who appropriates the tax to the licensee's own use or to any use other than the payment of the tax is guilty of a felony or gross misdemeanor in accordance with the theft and anticipatory provisions of Title
+9A
+RCW. A person, partnership, corporation, or corporate officer who fails to pay to the department the tax is personally liable to the state for the amount of the tax.
+[
+2024 c 1 s 11
+;
+2013 c 225 s 127
+;
+2007 c 515 s 30
+;
+2003 c 358 s 14
+;
+2000 2nd sp.s. c 4 s 10
+;
+1995 c 287 s 4
+;
+1979 c 40 s 19
+;
+1977 c 26 s 4
+;
+1971 ex.s. c 175 s 28
+.]
+NOTES:
+Effective date
+—
+2024 c 1:
+See note following RCW
+46.87.020
+.
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Effective date
+—
+2007 c 515:
+See note following RCW
+82.38.030
+.
+Captions not law
+—
+2003 c 358:
+&quot;Captions used in this act are not part of the law.&quot; [
+2003 c 358 s 16
+.]
+Effective dates
+—
+2000 2nd sp.s. c 4 ss 4-10:
+See note following RCW
+43.89.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

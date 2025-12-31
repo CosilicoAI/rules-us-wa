@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.368"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.368"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.368/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.368/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.368/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.368/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_368">
+        <num>RCW 82.04.368</num>
+        <heading>Exemptions—Nonprofit organizations—Credit and debt services</heading>
+        <subsection eId="sec_82_04_368__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Presenting individual and community credit education programs including credit and debt counseling;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_368__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Obtaining creditor cooperation allowing a debtor to repay debt in an orderly manner;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_368__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Establishing and administering negotiated repayment programs for debtors; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_368__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Providing advice or assistance to a debtor with regard to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_368__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.
+[
+1993 c 390 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

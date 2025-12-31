@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.014"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.014"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.014/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.014/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.014/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.014/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_014">
+        <num>RCW 74.04.014</num>
+        <heading>Office of fraud and accountability—Authority—Confidentiality</heading>
+        <subsection eId="sec_74_04_014__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In carrying out the provisions of this chapter, the office of fraud and accountability shall have prompt access to all individuals, records, electronic data, reports, audits, reviews, documents, and other materials available to the department of revenue, department of labor and industries, department of children, youth, and families, employment security department, department of licensing, and any other government entity that can be used to help facilitate investigations of fraud or abuse as determined necessary by the director of the office of fraud and accountability.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_014__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The investigator shall have access to all original child care records maintained by licensed and unlicensed child care providers with the consent of the provider or with a court order or valid search warrant.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_014__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Information gathered by the department, the office, or the fraud ombuds shall be safeguarded and remain confidential as required by applicable state or federal law. Whenever information or assistance requested under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_014__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_014__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section is, in the judgment of the director, unreasonably refused or not provided, the director of the office of fraud and accountability must report the circumstances to the secretary immediately.
+[
+2018 c 58 s 9
+;
+2013 c 23 s 193
+;
+2012 c 253 s 4
+;
+2011 1st sp.s. c 42 s 24
+.]
+NOTES:
+Effective date
+—
+2018 c 58:
+See note following RCW
+28A.655.080
+.
+Findings
+—
+Purpose
+—
+2012 c 253:
+See note following RCW
+74.08.580
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+2011 1st sp.s. c 42:
+See notes following RCW
+74.08A.260
+.
+Finding
+—
+2011 1st sp.s. c 42:
+See note following RCW
+74.04.004
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

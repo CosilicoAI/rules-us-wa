@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.205"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.205/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.205/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_205">
+        <num>RCW 74.34.205</num>
+        <heading>Abandonment, abuse, or neglect—Exceptions</heading>
+        <subsection eId="sec_74_34_205__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any vulnerable adult who relies upon and is being provided spiritual treatment in lieu of medical treatment in accordance with the tenets and practices of a well-recognized religious denomination may not for that reason alone be considered abandoned, abused, or neglected.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_205__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any vulnerable adult may not be considered abandoned, abused, or neglected under this chapter by any health care provider, facility, facility employee, agency, agency employee, or individual provider who participates in good faith in the withholding or withdrawing of life-sustaining treatment from a vulnerable adult under chapter
+70.122
+RCW, or who acts in accordance with chapter
+7.70
+RCW or other state laws to withhold or withdraw treatment, goods, or services.
+[
+1999 c 176 s 16
+.]
+NOTES:
+Findings
+—
+Purpose
+—
+Severability
+—
+Conflict with federal requirements
+—
+1999 c 176:
+See notes following RCW
+74.34.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

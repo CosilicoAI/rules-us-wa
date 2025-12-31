@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.62.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.62.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.62.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_62_030">
+        <num>RCW 82.62.030</num>
+        <heading>Allowance of tax credits—Limitations—Expiration</heading>
+        <subsection eId="sec_82_62_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall keep a running total of all credits allowed under this chapter during each fiscal year. The department shall not allow any credits which would cause the total to exceed seven million five hundred thousand dollars in any fiscal year. If all or part of an application for credit is disallowed under this subsection, the disallowed portion shall be carried over to the next fiscal year. However, the carryover into the next fiscal year is only permitted to the extent that the cap for the next fiscal year is not exceeded.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No recipient may use the tax credits to decertify a union or to displace existing jobs in any community in the state.</p>
+          </content>
+          <subsection eId="sec_82_62_030__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The credit may be used against any tax due under chapter
+82.04
+RCW, and, except as otherwise provided under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_62_030__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Credits earned expire the first day of January of the year that is six years from the later of the year that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_62_030__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The department is notified by the recipient, or a representative of the recipient, that the recipient has ceased engaging in business within this state as those terms are defined in chapter
+82.04
+RCW;</p>
+            </content>
+            <subsection eId="sec_82_62_030__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department closes the recipient's tax reporting account; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_62_030__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The recipient last claimed the credit on a return filed with the department.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_62_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>No refunds may be granted for unused credits under this section.
+[
+2022 c 56 s 12
+;
+2007 c 485 s 3
+;
+2001 c 320 s 13
+;
+1999 c 164 s 306
+;
+1997 c 366 s 5
+;
+1996 c 1 s 3
+;
+1986 c 116 s 17
+.]
+NOTES:
+Application
+—
+2007 c 485:
+See note following RCW
+82.62.010
+.
+Application
+—
+Effective date
+—
+2007 c 485:
+See notes following RCW
+82.62.020
+.
+Effective date
+—
+2001 c 320:
+See note following RCW
+11.02.005
+.
+Findings
+—
+Intent
+—
+Part headings and subheadings not law
+—
+Effective date
+—
+Severability
+—
+1999 c 164:
+See notes following RCW
+43.160.010
+.
+Savings
+—
+1999 c 164 ss 301-303, 305, 306, and 601-603:
+See note following RCW
+82.60.020
+.
+Intent
+—
+Goals
+—
+Severability
+—
+Captions and part headings not law
+—
+1997 c 366:
+See notes following RCW
+82.14.370
+.
+Effective date
+—
+1996 c 1:
+See note following RCW
+82.04.255
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

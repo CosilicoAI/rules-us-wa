@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.062"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.062"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.062/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.062/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.062/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.062/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_062">
+        <num>RCW 74.04.062</num>
+        <heading>Disclosure of recipient location to police officer or immigration official</heading>
+        <subsection eId="sec_74_04_062__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To the extent allowed under federal law, upon written request of a law enforcement officer from a state, local, or tribal law enforcement agency, the department or authority shall disclose to such officer whether the recipient has accessed his or her public assistance benefits in the last 30 days for the purpose of assisting the officer in confirming whether the recipient is alive if the recipient is the subject of a missing person's report as described in RCW
+36.28A.120
+. For purposes of this section, &quot;law enforcement officer&quot; and &quot;law enforcement agency&quot; have the same meaning as defined in RCW
+10.122.020
+.
+[
+2024 c 208 s 1
+;
+2011 1st sp.s. c 15 s 67
+;
+1997 c 58 s 1006
+;
+1973 c 152 s 2
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Severability
+—
+1973 c 152:
+See note following RCW
+74.04.060
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

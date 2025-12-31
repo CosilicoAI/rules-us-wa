@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.1051"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.1051"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.1051/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.1051/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.1051/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.1051/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_1051">
+        <num>RCW 74.13.1051</num>
+        <heading>Foster youth education and plans for the future—Memoranda of understanding among agencies—Transfer of responsibilities from the department—Indicators relating to education outcomes</heading>
+        <subsection eId="sec_74_13_1051__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In order to proactively support foster youth to complete high school, enroll and complete postsecondary education, and successfully implement their own plans for their futures, the department, the student achievement council, and the office of the superintendent of public instruction shall enter into, or revise existing, memoranda of understanding that:</p>
+          </content>
+          <subsection eId="sec_74_13_1051__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Facilitate student referral, data and information exchange, agency roles and responsibilities, and cooperation and collaboration among state agencies and nongovernmental entities; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_1051__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Effectuate the transfer of responsibilities from the department to the office of the superintendent of public instruction with respect to the programs in RCW
+28A.300.592
+, and from the department to the student achievement council with respect to the program in RCW
+28B.77.250
+in a smooth, expedient, and coordinated fashion.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_1051__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The student achievement council and the office of the superintendent of public instruction shall establish a set of indicators relating to the outcomes provided in RCW
+28A.300.590
+and
+28A.300.592
+to provide consistent services for youth, facilitate transitions among contractors, and support outcome-driven contracts. The student achievement council and the superintendent of public instruction shall collaborate with nongovernmental contractors and the department to develop a list of the most critical indicators, establishing a common set of indicators to be used in the outcome-driven contracts in RCW
+28A.300.590
+and
+28A.300.592
+.
+[
+2020 c 233 s 3
+;
+2017 3rd sp.s. c 6 s 405
+;
+2016 c 71 s 6
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2020 c 233:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_1051__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that students in foster care, experiencing homelessness, or both, have the lowest high school graduation and postsecondary completion outcomes compared to other student populations. The legislature also finds that these students change schools at significantly higher rates than their general student population peers, and that these changes can disrupt academic progress. The legislature further finds that these students have disproportionate suspension and expulsion rates, and require special education services at much higher rates than other students.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_1051__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature acknowledges that, as a result, only forty-six percent of Washington students who experienced foster care during high school, and fifty-five percent of students experiencing homelessness, graduated from high school on time in 2018. By comparison, the statewide four-year graduation rate for the class of 2019 was nearly eighty-one percent. Furthermore, students of color are disproportionately represented in the foster care system and in homeless student populations, and their academic outcomes are significantly lower than their white peers. Additionally, students who do not achieve positive education outcomes experience high rates of unemployment, poverty, adult homelessness, and incarceration.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_1051__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature, therefore, intends to provide the opportunity for an equitable education for students in foster care, experiencing homelessness, or both. In accomplishing this goal, the legislature intends to achieve parity in education outcomes for these students, both in comparison to their general student population peers and throughout the education continuum of prekindergarten to postsecondary education.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_1051__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In 2018 the legislature directed the department of children, youth, and families and other entities in chapter 299, Laws of 2018, to convene a work group focused on students in foster care and students experiencing homelessness. The legislature resolves to continue this work group to improve education outcomes for these students.&quot; [
+2020 c 233 s 1
+.]
+Effective date
+—
+2017 3rd sp.s. c 6 ss 102, 104-115, 201-227, 301-337, 401-419, 501-513, 801-803, and 805-822:
+See note following RCW
+43.216.025
+.
+Conflict with federal requirements
+—
+2017 3rd sp.s. c 6:
+See RCW
+43.216.908
+.
+Intent
+—
+2016 c 71:
+See note following RCW
+28A.300.590
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

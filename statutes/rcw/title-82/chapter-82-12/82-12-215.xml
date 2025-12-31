@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.215"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.215"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.215/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.215/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.215/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.215/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_215">
+        <num>RCW 82.12.215</num>
+        <heading>Exemptions—Large private airplanes. (Expires July 1, 2031.)</heading>
+        <subsection eId="sec_82_12_215__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Upon request, the department of transportation must provide to the department of revenue information needed by the department of revenue to verify eligibility under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_215__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, the conditions, limitation, and definitions in RCW
+82.08.215
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_215__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2031.
+[
+2020 c 304 s 2
+;
+2013 2nd sp.s. c 13 s 1104
+.]
+NOTES:
+*Reviser's note:
+RCW
+47.68.250
+was amended by 2021 c 131 s 2, changing subsection</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02915"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02915"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02915/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02915/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02915/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02915/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_02915">
+        <num>RCW 82.08.02915</num>
+        <heading>Exemptions—Sales used by health or social welfare organizations for alternative housing for youth in crisis</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.02915
+82.08.0291
+&lt;&lt; 
+        82.08.02915 &gt;&gt;
+82.08.02917
+PDF
+RCW
+82.08.02915
+Exemptions
+—
+Sales used by health or social welfare organizations for alternative housing for youth in crisis.
+The tax levied by RCW
+82.08.020
+shall not apply to sales to health or social welfare organizations, as defined in RCW
+82.04.431
+, of items necessary for new construction of alternative housing for youth in crisis, so long as the facility will be a licensed agency under chapter
+74.15
+RCW, upon completion.
+[
+1998 c 183 s 1
+;
+1997 c 386 s 56
+;
+1995 c 346 s 1
+.]
+NOTES:
+Effective date
+—
+1997 c 386 ss 56, 57:
+&quot;Sections 56 and 57 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 1997.&quot; [
+1997 c 386 s 71
+.]
+Effective date
+—
+1995 c 346:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [May 13, 1995].&quot; [
+1995 c 346 s 4
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

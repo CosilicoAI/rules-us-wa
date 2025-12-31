@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.275"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.275"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.275/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.275/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.275/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.275/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_275">
+        <num>RCW 74.08A.275</num>
+        <heading>Employability screening</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.275
+74.08A.270
+&lt;&lt; 
+        74.08A.275 &gt;&gt;
+74.08A.280
+PDF
+RCW
+74.08A.275
+Employability screening.
+Each recipient approved to receive temporary assistance for needy families shall be subject to an employability screening under RCW
+74.08A.260
+after determination of program eligibility and before referral to job search. If the employability screening determines the recipient is not employable, or meets the criteria specified in RCW
+74.08A.270
+for a good cause exemption to work requirements, the department shall defer the job search requirement under RCW
+74.08A.285
+.
+[
+2003 c 383 s 2
+;
+1999 c 340 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

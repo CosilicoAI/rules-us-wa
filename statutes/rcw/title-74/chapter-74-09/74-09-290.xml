@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.290"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_290">
+        <num>RCW 74.09.290</num>
+        <heading>Audits and investigations of providers—Patient records—Penalties</heading>
+        <subsection eId="sec_74_09_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Conduct audits and investigations of providers of medical and other services furnished pursuant to this chapter or other applicable law, except that the Washington medical commission shall generally serve in an advisory capacity to the secretary or director in the conduct of audits or investigations of physicians. Any overpayment discovered as a result of an audit of a provider under this authority shall be offset by any underpayments discovered in that same audit sample. In order to determine the provider's actual, usual, customary, or prevailing charges, the secretary or director may examine such random representative records as necessary to show accounts billed and accounts received except that in the conduct of such examinations, patient names, other than public assistance applicants or recipients, shall not be noted, copied, or otherwise made available to the department or authority. In order to verify costs incurred by the department or authority for treatment of public assistance applicants or recipients, the secretary or director may examine patient records or portions thereof in connection with services to such applicants or recipients rendered by a health care provider, notwithstanding the provisions of RCW
+5.60.060
+,
+18.53.200
+,
+18.83.110
+, or any other statute which may make or purport to make such records privileged or confidential: PROVIDED, That no original patient records shall be removed from the premises of the health care provider, and that the disclosure of any records or information by the department or the authority is prohibited and shall be punishable as a class C felony according to chapter
+9A.20
+RCW, unless such disclosure is directly connected to the official purpose for which the records or information were obtained: PROVIDED FURTHER, That the disclosure of patient information as required under this section shall not subject any physician or other health services provider to any liability for breach of any confidential relationship betwee</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Approve or deny applications to participate as a provider of services furnished pursuant to this chapter or other applicable law;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Terminate or suspend eligibility to participate as a provider of services furnished pursuant to this chapter or other applicable law; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Adopt, promulgate, amend, and repeal administrative rules, in accordance with the administrative procedure act, chapter
+34.05
+RCW, to carry out the policies and purposes of this section and RCW
+74.09.200
+through
+74.09.280
+.
+[
+2019 c 55 s 19
+;
+2018 c 201 s 7015
+;
+2011 1st sp.s. c 15 s 19
+;
+1994 sp.s. c 9 s 749
+;
+1990 c 100 s 5
+;
+1983 1st ex.s. c 41 s 23
+;
+1979 ex.s. c 152 s 10
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Severability
+—
+Headings and captions not law
+—
+Effective date
+—
+1994 sp.s. c 9:
+See RCW
+18.79.900
+through
+18.79.902
+.
+Severability
+—
+1983 1st ex.s. c 41:
+See note following RCW
+26.09.060
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

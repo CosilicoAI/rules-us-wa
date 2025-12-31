@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0268"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0268"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0268/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0268/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0268/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0268/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0268">
+        <num>RCW 82.12.0268</num>
+        <heading>Exemptions—Use of form lumber by persons engaged in constructing, repairing, etc., structures for consumers</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.0268
+82.12.0267
+&lt;&lt; 
+        82.12.0268 &gt;&gt;
+82.12.02685
+PDF
+RCW
+82.12.0268
+Exemptions
+—
+Use of form lumber by persons engaged in constructing, repairing, etc., structures for consumers.
+The provisions of this chapter shall not apply in respect to the use of form lumber by any person engaged in the constructing, repairing, decorating or improving of new or existing buildings or other structures under, upon or above real property of or for consumers: PROVIDED, That such lumber is used or to be used first by such person for the molding of concrete in a single such contract, project or job and is thereafter incorporated into the product of that same contract, project or job as an ingredient or component thereof.
+[
+1980 c 37 s 67
+. Formerly RCW
+82.12.030
+(17).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

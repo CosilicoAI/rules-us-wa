@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.810"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.810"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.810/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.810/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.810/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.810/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_810">
+        <num>RCW 74.13.810</num>
+        <heading>Child malnutrition field guide</heading>
+        <subsection eId="sec_74_13_810__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Be concise, but provide references to additional comprehensive and trauma-informed resources for department staff to access if needed;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_810__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Be easily accessible by department staff;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_810__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Describe how to identify signs of child malnutrition;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_810__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Include appropriate questions to ask the child and others close to the child when child malnutrition is suspected;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_810__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Include the appropriate next steps department staff may take when child malnutrition is suspected; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_810__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Include any additional information the department deems relevant.
+[
+2023 c 70 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

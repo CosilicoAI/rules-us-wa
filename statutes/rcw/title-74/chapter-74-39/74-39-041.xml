@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39.041"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.041"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39.041/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.041/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39.041/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.041/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39_041">
+        <num>RCW 74.39.041</num>
+        <heading>Community residential options—Nursing facility eligible clients</heading>
+        <subsection eId="sec_74_39_041__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To the extent of available funds and subject to any conditions placed on appropriations for this purpose, the department may provide one or more home and community-based waiver programs in accordance with section 1915</p>
+          </content>
+          <subsection eId="sec_74_39_041__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the federal social security act for Washington residents who have a gross income in excess of three hundred percent of the federal supplemental security income benefit level. The waiver services provided in accordance with this section may differ from, and shall operate with a separate limit or limits on total enrollment than, those provided for persons who are categorically needy as defined in Title XIX of the federal social security act. The department shall adopt rules to establish eligibility criteria, applicable income standards, and the specific waiver services to be provided. Total annual enrollment levels and the services to be provided shall be as specified in the waiver agreement or agreements with the federal government, subject to any conditions on appropriations for this purpose.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39_041__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If a nursing facility resident becomes eligible for home and community-based waiver service alternatives to nursing facility care, but chooses to continue to reside in a nursing facility, the department must allow that choice. However, if the resident is a medicaid recipient, the resident must require a nursing facility level of care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_041__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If a recipient of home and community-based waiver services may continue to receive home and community-based waiver services, despite an otherwise disqualifying level of income, but chooses to seek admission to a nursing facility, the department must allow that choice. However, if the resident is a medicaid recipient, the resident must require a nursing facility level of care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_041__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department will fully disclose to all individuals eligible for waiver services under this section the services available in different long-term care settings.
+[
+2001 c 269 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

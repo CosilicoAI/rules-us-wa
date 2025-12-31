@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_030">
+        <num>RCW 82.24.030</num>
+        <heading>Stamps</heading>
+        <subsection eId="sec_82_24_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In order to enforce collection of the tax hereby levied, the department of revenue must design and have printed stamps of such size and denominations as may be determined by the department. The stamps must be affixed on the smallest container or package that will be handled, sold, used, consumed, or distributed, to permit the department to readily ascertain by inspection, whether or not such tax has been paid or whether an exemption from the tax applies.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as otherwise provided in this chapter, only a wholesaler may cause to be affixed on every package of cigarettes, stamps of an amount equaling the tax due thereon or stamps identifying the cigarettes as exempt before he or she sells, offers for sale, uses, consumes, handles, removes, or otherwise disturbs and distributes the same. However, where it is established to the satisfaction of the department that it is impractical to affix such stamps to the smallest container or package, the department may authorize the affixing of stamps of appropriate denomination to a large container or package.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Except as otherwise provided in this chapter, only wholesalers may purchase or obtain cigarette stamps. Wholesalers may not sell or provide stamps to any other wholesaler or person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Each roll of stamps, or group of sheets, must have a separate serial number, which is legible at the point of sale. The department of revenue must keep records of which wholesaler purchases each roll or group of sheets. If the department of revenue permits wholesalers to purchase partial rolls or sheets, in no case may stamps bearing the same serial number be sold to more than one wholesaler. The remainder of the roll or sheet, if any, must either be retained for later purchases by the same wholesaler or destroyed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Nothing in this section may be construed as limiting any otherwise lawful activity under a cigarette tax compact pursuant to chapter
+43.06
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_030__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>In order to enforce collection of the tax in the case of roll-your-own cigarettes, a retailer must affix a stamp or stamps to each box or similar container provided by the retailer to the consumer. The box or similar container must be used by a consumer to transport roll-your-own cigarettes from the retailer's place of business. A retailer must provide cigarette tubes to a consumer in one or more twenty unit denominations. Stamps must be for an amount equaling the tax due under this chapter. Each cigarette tube or paper provided to the consumer is deemed a cigarette for purposes of imposing and collecting taxes under this chapter. Stamps for roll-your-own cigarettes must be issued and affixed in a manner determined by the department but as consistent as practicable with the stamping requirements for wholesalers.
+[
+2012 2nd sp.s. c 4 s 2
+;
+2003 c 114 s 2
+;
+1995 c 278 s 2
+;
+1990 c 216 s 1
+;
+1975 1st ex.s. c 278 s 61
+;
+1961 c 15 s 82.24.030
+. Prior:
+1959 c 270 s 3
+; prior: 1949 c 228 s 13, part; 1943 c 156 s 11, part; 1941 c 178 s 13, part; 1939 c 225 s 23, part; 1935 c 180 s 82, part; Rem. Supp. 1949 s 8370-82, part.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2012.&quot; [
+2012 2nd sp.s. c 4 s 13
+.]
+Effective date
+—
+1995 c 278:
+See note following RCW
+82.24.010
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

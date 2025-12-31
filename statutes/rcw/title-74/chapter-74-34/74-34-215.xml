@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.215"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.215"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.215/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.215/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.215/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.215/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_215">
+        <num>RCW 74.34.215</num>
+        <heading>Financial exploitation of vulnerable adults</heading>
+        <subsection eId="sec_74_34_215__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Pending an investigation by the financial institution, the department, or law enforcement, if a financial institution reasonably believes that financial exploitation of a vulnerable adult may have occurred, may have been attempted, or is being attempted, the financial institution may, but is not required to, refuse a transaction requiring disbursal of funds contained in the account:</p>
+          </content>
+          <subsection eId="sec_74_34_215__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Of the vulnerable adult;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_215__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On which the vulnerable adult is a beneficiary, including a trust or guardianship account; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_215__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Of a person suspected of perpetrating financial exploitation of a vulnerable adult.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_215__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A financial institution may also refuse to disburse funds under this section if the department, law enforcement, or the prosecuting attorney's office provides information to the financial institution demonstrating that it is reasonable to believe that financial exploitation of a vulnerable adult may have occurred, may have been attempted, or is being attempted.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_215__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A financial institution is not required to refuse to disburse funds when provided with information alleging that financial exploitation may have occurred, may have been attempted, or is being attempted, but may use its discretion to determine whether or not to refuse to disburse funds based on the information available to the financial institution.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_215__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A financial institution that refuses to disburse funds based on a reasonable belief that financial exploitation of a vulnerable adult may have occurred, may have been attempted, or is being attempted shall:</p>
+          </content>
+          <subsection eId="sec_74_34_215__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Make a reasonable effort to notify all parties authorized to transact business on the account orally or in writing; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_215__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Report the incident to the adult protective services division of the department and local law enforcement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_215__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any refusal to disburse funds as authorized by this section based on the reasonable belief of a financial institution that financial exploitation of a vulnerable adult may have occurred, may have been attempted, or is being attempted will expire upon the sooner of:</p>
+          </content>
+          <subsection eId="sec_74_34_215__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Ten business days after the date on which the financial institution first refused to disburse the funds if the transaction involved the sale of a security or offer to sell a security, as defined in RCW
+21.20.005
+, unless sooner terminated by an order of a court of competent jurisdiction;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_215__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Five business days after the date on which the financial institution first refused to disburse the funds if the transaction did not involve the sale of a security or offer to sell a security, as defined in RCW
+21.20.005
+, unless sooner terminated by an order of a court of competent jurisdiction; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_215__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The time when the financial institution is satisfied that the disbursement will not result in financial exploitation of a vulnerable adult.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_215__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A court of competent jurisdiction may enter an order extending the refusal by the financial institution to disburse funds based on a reasonable belief that financial exploitation of a vulnerable adult may have occurred, may have been attempted, or is being attempted. A court of competent jurisdiction may also order other protective relief as authorized by RCW
+7.40.010
+and *
+74.34.130
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_215__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>A financial institution or an employee of a financial institution is immune from criminal, civil, and administrative liability for refusing to disburse funds or disbursing funds under this section and for actions taken in furtherance of that determination if the determination of whether or not to disburse funds was made in good faith.
+[
+2010 c 133 s 3
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.34.130
+was repealed by 2021 c 215 s 170, effective July 1, 2022.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

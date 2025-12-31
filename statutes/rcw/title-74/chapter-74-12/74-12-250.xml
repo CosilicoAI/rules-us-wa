@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.250"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_250">
+        <num>RCW 74.12.250</num>
+        <heading>Payment of grant to another—Limited guardianship</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.250
+74.12.240
+&lt;&lt; 
+        74.12.250 &gt;&gt;
+74.12.255
+PDF
+RCW
+74.12.250
+Payment of grant to another
+—
+Limited guardianship.
+If the department, after investigation, finds that any applicant for assistance under this chapter or any recipient of funds under this chapter would not use, or is not utilizing, the grant adequately for the needs of his or her child or children or would dissipate the grant or is dissipating such grant, or would be or is unable to manage adequately the funds paid on behalf of said child and that to provide or continue payments to the applicant or recipient would be contrary to the welfare of the child, the department may make such payments to another individual who is interested in or concerned with the welfare of such child and relative: PROVIDED, That the department shall provide such counseling and other services as are available and necessary to develop greater ability on the part of the relative to manage funds in such manner as to protect the welfare of the family. Periodic review of each case shall be made by the department to determine if said relative is able to resume management of the assistance grant. If after a reasonable period of time the payments to the relative cannot be resumed, the department may request the attorney general to file a petition in the superior court for the appointment of a guardian for the child or children. Such petition shall set forth the facts warranting such appointment. Notice of the hearing on such petition shall be served upon the recipient and the department not less than ten days before the date set for such hearing. Such petition may be filed with the clerk of [the] superior court and all process issued and served without payment of costs. If upon the hearing of such petition the court is satisfied that it is for the best interest of the child or children, and all parties concerned, that a guardian be appointed, he or she shall order the appointment, and may require the guardian to render to the court a detailed itemized account of expenditures of such assistance payments at such time as the court may deem advisable.
+It is the intention of this section that the guardianship herein provided for shall be a special and limited guardianship solely for the purpose of safeguarding the assistance grants made to dependent children. Such guardianship shall terminate upon the termination of such assistance grant, or sooner on order of the court, upon good cause shown.
+[
+2013 c 23 s 205
+;
+1997 c 58 s 506
+;
+1963 c 228 s 21
+;
+1961 c 206 s 1
+.]
+NOTES:
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

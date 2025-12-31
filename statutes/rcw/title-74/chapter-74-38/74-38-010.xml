@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.38.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.38.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.38.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_38_010">
+        <num>RCW 74.38.010</num>
+        <heading>Legislative recognition—Public policy</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.38
+&gt;
+Section 74.38.010
+Beginning of Chapter
+&lt;&lt; 
+        74.38.010 &gt;&gt;
+74.38.020
+PDF
+RCW
+74.38.010
+Legislative recognition
+—
+Public policy.
+The legislature recognizes the need for the development and expansion of alternative services and forms of care for senior citizens. Such services should be designed to restore individuals to, or maintain them at, the level of independent living they are capable of attaining. These alternative services and forms of care should be designed to both complement the present forms of institutional care and create a system whereby appropriate services can be rendered according to the care needs of an individual. The provision of service should continue until the client is able to function independently, moves to an institution, moves from the state, dies, or withdraws from the program.
+Therefore, it shall be the policy of this state to develop, expand, or maintain those programs which provide an alternative to institutional care when that form of care is premature, unnecessary, or inappropriate.
+[
+1977 ex.s. c 321 s 1
+; 1975-'76 2nd ex.s. c 131 s 1.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

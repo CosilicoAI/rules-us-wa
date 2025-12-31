@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.302"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.302"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.302/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.302/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.302/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.302/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_302">
+        <num>RCW 82.24.302</num>
+        <heading>Exceptions—Sales by tribal retailers—Yakama Nation</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.24
+&gt;
+Section 82.24.302
+82.24.300
+&lt;&lt; 
+        82.24.302 &gt;&gt;
+82.24.500
+PDF
+RCW
+82.24.302
+Exceptions
+—
+Sales by tribal retailers
+—
+Yakama Nation.
+The taxes imposed by this chapter do not apply to the sale, use, consumption, handling, possession, or distribution of cigarettes by a tribal retailer during the effective period of a cigarette tax agreement under RCW
+43.06.466
+.
+[
+2008 c 228 s 2
+.]
+NOTES:
+Authorization for agreement
+—
+Effective date
+—
+2008 c 228:
+See notes following RCW
+43.06.466
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

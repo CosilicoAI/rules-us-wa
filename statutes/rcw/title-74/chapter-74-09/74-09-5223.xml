@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5223"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5223"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5223/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5223/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5223/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5223/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_5223">
+        <num>RCW 74.09.5223</num>
+        <heading>Findings—Chronic care management</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.5223
+74.09.5222
+&lt;&lt; 
+        74.09.5223 &gt;&gt;
+74.09.5225
+PDF
+RCW
+74.09.5223
+Findings
+—
+Chronic care management.
+The legislature finds that chronic care management, including comprehensive medication management services, provided by licensed pharmacists and qualified providers is a critical component of a collaborative, multidisciplinary, inter-professional approach to the treatment of chronic diseases for targeted individuals, to improve the quality of care and reduce overall cost in the treatment of such diseases.
+[
+2013 c 261 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_100">
+        <num>RCW 82.16.100</num>
+        <heading>Solid waste business not subject to chapter</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.16
+&gt;
+Section 82.16.100
+82.16.090
+&lt;&lt; 
+        82.16.100 &gt;&gt;
+82.16.110
+PDF
+RCW
+82.16.100
+Solid waste business not subject to chapter.
+The business of collection, receipt, transfer, including transportation between any locations, storage, or disposal of solid waste is not subject to this chapter. Any such business activities are subject to taxation under the classification in RCW
+82.04.290
+(2). &quot;Solid waste&quot; for purposes of this section is defined in RCW
+82.18.010
+.
+[
+2001 c 320 s 8
+.]
+NOTES:
+Effective date
+—
+2001 c 320:
+See note following RCW
+11.02.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

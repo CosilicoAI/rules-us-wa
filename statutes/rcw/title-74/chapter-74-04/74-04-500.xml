@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.500"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.500"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.500/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.500/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.500/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.500/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_500">
+        <num>RCW 74.04.500</num>
+        <heading>Food stamp program—Authorized</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.500
+74.04.480
+&lt;&lt; 
+        74.04.500 &gt;&gt;
+74.04.510
+PDF
+RCW
+74.04.500
+Food stamp program
+—
+Authorized.
+The department is authorized to establish a food stamp or benefit program under the federal food stamp act of 1977, as amended.
+[
+1998 c 79 s 9
+;
+1991 c 126 s 3
+;
+1979 c 141 s 322
+;
+1969 ex.s. c 172 s 4
+.]
+NOTES:
+Overpayment, recovery: RCW
+74.04.300
+.
+Unlawful use of food stamps: RCW
+9.91.140
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

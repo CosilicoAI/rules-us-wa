@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.015"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.015/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.015/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_015">
+        <num>RCW 74.08A.015</num>
+        <heading>Time limits—State of emergency extension</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.015
+74.08A.010
+&lt;&lt; 
+        74.08A.015 &gt;&gt;
+74.08A.020
+PDF
+RCW
+74.08A.015
+Time limits
+—
+State of emergency extension.
+All families who have received temporary assistance for needy families since March 1, 2020, are eligible for the extension under RCW
+74.08A.010
+(4)(a)(ii), regardless of whether they are current recipients. Eligible families shall only receive temporary assistance for needy families benefits that accrue after July 25, 2021.
+[
+2023 c 418 s 4
+;
+2021 c 239 s 3
+.]
+NOTES:
+Conflict with federal requirements
+—
+Contingent effective date
+—
+2021 c 239:
+See notes following RCW
+74.08A.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

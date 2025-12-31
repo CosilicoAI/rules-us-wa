@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.802"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.802"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.802/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.802/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.802/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.802/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_802">
+        <num>RCW 82.12.802</num>
+        <heading>Vessels held in inventory by dealer or manufacturer—Tax on personal use—Documentation—Rules</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.802
+82.12.801
+&lt;&lt; 
+        82.12.802 &gt;&gt;
+82.12.803
+PDF
+RCW
+82.12.802
+Vessels held in inventory by dealer or manufacturer
+—
+Tax on personal use
+—
+Documentation
+—
+Rules.
+If a vessel held in inventory is used by a vessel dealer or vessel manufacturer for personal use, use tax shall be due based only on the reasonable rental value of the vessel used, but only if the vessel dealer or manufacturer can show that the vessel is truly held for sale and that the dealer or manufacturer is and has been making good faith efforts to sell the vessel. The department may by rule require dealers and manufacturers to provide vessel logs or other documentation showing that vessels are truly held for sale.
+[
+1997 c 293 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

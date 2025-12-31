@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.130"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_130">
+        <num>RCW 82.24.130</num>
+        <heading>Seizure and forfeiture</heading>
+        <subsection eId="sec_82_24_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The following are subject to seizure and forfeiture:</p>
+          </content>
+          <subsection eId="sec_82_24_130__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Subject to RCW
+82.24.250
+, any articles taxed in this chapter that are found at any point within this state, which articles are held, owned, or possessed by any person, and that do not have the stamps affixed to the packages or containers; any container or package of cigarettes possessed or held for sale that does not comply with this chapter; and any container or package of cigarettes that is manufactured, sold, or possessed in violation of RCW
+82.24.570
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_130__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All conveyances, including aircraft, vehicles, or vessels, which are used, or intended for use, to transport, or in any manner to facilitate the transportation, for the purpose of sale or receipt of property described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_130__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, except:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_130__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A conveyance used by any person as a common or contract carrier having in actual possession invoices or delivery tickets showing the true name and address of the consignor or seller, the true name of the consignee or purchaser, and the quantity and brands of the cigarettes transported, unless it appears that the owner or other person in charge of the conveyance is a consenting party or privy to a violation of this chapter;</p>
+            </content>
+            <subsection eId="sec_82_24_130__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A conveyance subject to forfeiture under this section by reason of any act or omission of which the owner thereof establishes to have been committed or omitted without his or her knowledge or consent;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_24_130__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A conveyance encumbered by a bona fide security interest if the secured party neither had knowledge of nor consented to the act or omission.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_24_130__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any vending machine or commercial cigarette-making machine used for the purpose of violating the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_130__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any cigarettes that are stamped, sold, imported, or offered or possessed for sale in this state in violation of RCW
+70.158.030</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_130__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Property subject to forfeiture under this chapter may be seized by any agent of the department authorized to collect taxes, any enforcement officer of the board, or law enforcement officer of this state upon process issued by any superior court or district court having jurisdiction over the property. Seizure without process may be made if:</p>
+          </content>
+          <subsection eId="sec_82_24_130__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The seizure is incident to an arrest or a search under a search warrant or an inspection under an administrative inspection warrant; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_130__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department, the board, or the law enforcement officer has probable cause to believe that the property was used or is intended to be used in violation of this chapter and exigent circumstances exist making procurement of a search warrant impracticable.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_130__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding the foregoing provisions of this section, articles taxed in this chapter which are in the possession of a wholesaler, licensed under Washington state law, for a period of time necessary to affix the stamps after receipt of the articles, are not considered contraband unless they are manufactured, sold, or possessed in violation of RCW
+82.24.570
+.
+[
+2012 2nd sp.s. c 4 s 8
+. Prior:
+2003 c 114 s 7
+;
+2003 c 113 s 4
+;
+2003 c 25 s 9
+;
+1999 c 193 s 3
+;
+1997 c 420 s 5
+;
+1990 c 216 s 5
+;
+1987 c 496 s 2
+;
+1972 ex.s. c 157 s 5
+;
+1961 c 15 s 82.24.130
+; prior:
+1941 c 178 s 16
+;
+1935 c 180 s 88
+; Rem. Supp. 1941 s 8370-88.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Conflict of law
+—
+Severability
+—
+Effective date
+—
+2003 c 25:
+See RCW
+70.158.900
+and
+70.158.901
+.
+Intent
+—
+Finding
+—
+Severability
+—
+Effective date
+—
+1999 c 193:
+See notes following RCW
+82.24.035
+.
+Severability
+—
+1972 ex.s. c 157:
+See note following RCW
+82.24.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.324"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.324"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.324/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.324/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.324/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.324/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_324">
+        <num>RCW 82.04.324</num>
+        <heading>Exemptions—Qualifying blood, tissue, or blood and tissue banks</heading>
+        <subsection eId="sec_82_04_324__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to amounts received by a qualifying blood bank, a qualifying tissue bank, or a qualifying blood and tissue bank to the extent the amounts are exempt from federal income tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_324__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_82_04_324__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Qualifying blood bank&quot; means a blood bank that qualifies as an exempt organization under 26 U.S.C. 501(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_324__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>as existing on June 10, 2004, is registered pursuant to 21 C.F.R., part 607 as existing on June 10, 2004, and whose primary business purpose is the collection, preparation, and processing of blood. &quot;Qualifying blood bank&quot; does not include a comprehensive cancer center that is recognized as such by the national cancer institute.</p>
+          </content>
+          <subsection eId="sec_82_04_324__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Qualifying tissue bank&quot; means a tissue bank that qualifies as an exempt organization under 26 U.S.C. 501(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_324__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>as existing on June 10, 2004, is registered pursuant to 21 C.F.R., part 1271 as existing on June 10, 2004, and whose primary business purpose is the recovery, processing, storage, labeling, packaging, or distribution of human bone tissue, ligament tissue and similar musculoskeletal tissues, skin tissue, heart valve tissue, or human eye tissue. &quot;Qualifying tissue bank&quot; does not include a comprehensive cancer center that is recognized as such by the national cancer institute.</p>
+          </content>
+          <subsection eId="sec_82_04_324__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Qualifying blood and tissue bank&quot; is a bank that qualifies as an exempt organization under 26 U.S.C. 501(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_324__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>as existing on June 10, 2004, is registered pursuant to 21 C.F.R., part 607 and part 1271 as existing on June 10, 2004, and whose primary business purpose is the collection, preparation, and processing of blood, and the recovery, processing, storage, labeling, packaging, or distribution of human bone tissue, ligament tissue and similar musculoskeletal tissues, skin tissue, and heart valve tissue. &quot;Qualifying blood and tissue bank&quot; does not include a comprehensive cancer center that is recognized as such by the national cancer institute.
+[
+2004 c 82 s 1
+; (2013 2nd sp.s. c 13 s 1202 repealed by 2013 2nd sp.s. c 13 s 1907);
+1995 2nd sp.s. c 9 s 3
+.]
+NOTES:
+Intent
+—
+2013 2nd sp.s. c 13:
+&quot;Part XII of this act is intended to allow flexibility for nonprofit organizations where qualifying activities will be provided by more than one organization. It is not the legislature's intent to expand the lines of nontaxable activity. Therefore, the legislature further intends to reassess the changes made in part XII of this act to ensure the actual fiscal impact reasonably conforms with the fiscal estimate provided in the fiscal note for the legislation.&quot; [
+2013 2nd sp.s. c 13 s 1201
+.]
+Effective date
+—
+2013 2nd sp.s. c 13:
+See note following RCW
+82.04.43393
+.
+Effective date
+—
+1995 2nd sp.s. c 9:
+See note following RCW
+84.36.035
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

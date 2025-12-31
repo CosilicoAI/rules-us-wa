@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.290"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_290">
+        <num>RCW 74.04.290</num>
+        <heading>Subpoena of witnesses, books, records, etc</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.290
+74.04.280
+&lt;&lt; 
+        74.04.290 &gt;&gt;
+74.04.300
+PDF
+RCW
+74.04.290
+Subpoena of witnesses, books, records, etc.
+In carrying out any of the provisions of this title, the secretary, the director, county administrators, hearing examiners, or other duly authorized officers of the department or authority shall have power to subpoena witnesses, administer oaths, take testimony and compel the production of such papers, books, records and documents as they may deem relevant to the performance of their duties. Subpoenas issued under this power shall be under RCW
+43.20A.605
+.
+[
+2011 1st sp.s. c 15 s 68
+;
+1983 1st ex.s. c 41 s 22
+;
+1979 ex.s. c 171 s 2
+;
+1979 c 141 s 305
+;
+1969 ex.s. c 173 s 2
+;
+1959 c 26 s 74.04.290
+. Prior:
+1939 c 216 s 26
+; RRS s 10007-126a.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Severability
+—
+1983 1st ex.s. c 41:
+See note following RCW
+26.09.060
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

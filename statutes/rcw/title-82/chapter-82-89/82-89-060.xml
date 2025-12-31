@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.89.060"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.89.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.89.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_89_060">
+        <num>RCW 82.89.060</num>
+        <heading>Repayment schedule—Interest, penalties, and insolvency—Transfer of ownership</heading>
+        <subsection eId="sec_82_89_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The recipient must begin paying the deferred taxes in the second year after the date certified by the department as the date on which the eligible investment project has been operationally completed. The first payment of 10 percent of the deferred taxes is due on December 31st of the second calendar year after the certified date, with subsequent annual payments of 10 percent of the deferred taxes due on December 31st for each of the following nine years.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may authorize an accelerated repayment schedule upon request of the recipient.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Interest may not be charged on any taxes deferred under this chapter for the period of deferral, although all other penalties and interest applicable to delinquent excise taxes may be assessed and imposed for delinquent payments under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_060__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must assess interest at the rate provided for delinquent taxes, but not penalties, retroactively to the date of deferral for a recipient who must repay deferred taxes under this chapter because the department has found that a purchase is not eligible for tax deferral.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_060__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The debt for deferred taxes are not extinguished by insolvency or other failure of the recipient.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_060__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Transfer of ownership does not terminate the deferral. The deferral is transferred, subject to the successor meeting the eligibility requirements of this chapter, for the remaining periods of the deferral.
+[
+2022 c 185 s 6
+.]
+NOTES:
+Tax preference performance automatic expiration exception
+—
+Tax preference performance statement
+—
+2022 c 185:
+See notes following RCW
+82.89.070
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

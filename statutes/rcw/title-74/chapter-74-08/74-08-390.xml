@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.390"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.390"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.390/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.390/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.390/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.390/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_390">
+        <num>RCW 74.08.390</num>
+        <heading>Research, projects, to effect savings by restoring self-support—Waiver of public assistance requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08
+&gt;
+Section 74.08.390
+74.08.380
+&lt;&lt; 
+        74.08.390 &gt;&gt;
+74.08.580
+PDF
+RCW
+74.08.390
+Research, projects, to effect savings by restoring self-support
+—
+Waiver of public assistance requirements.
+The department of social and health services may conduct research studies, pilot projects, demonstration projects, surveys and investigations for the purpose of determining methods to achieve savings in public assistance programs by means of restoring individuals to maximum self-support and personal independence and preventing social and physical disablement, and for the accomplishment of any of such purposes may employ consultants or enter into contracts with any agency of the federal, state or local governments, nonprofit corporations, universities or foundations.
+Pursuant to this authority the department may waive the enforcement of specific statutory requirements, regulations, and standards in one or more counties or on a statewide basis by formal order of the secretary. The order establishing the waiver shall provide alternative methods and procedures of administration, shall not be in conflict with the basic purposes, coverage, or benefits provided by law, shall not be general in scope but shall apply only for the duration of such a project and shall not take effect unless the secretary of health, education and welfare of the United States has agreed, for the same project, to waive the public assistance plan requirements relative to statewide uniformity.
+[
+1979 c 141 s 332
+;
+1969 ex.s. c 173 s 7
+;
+1963 c 228 s 17
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

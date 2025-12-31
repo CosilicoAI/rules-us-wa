@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.280"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.280"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.280/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.280/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.280/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.280/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_280">
+        <num>RCW 82.32.280</num>
+        <heading>Tax declared additional</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.280
+82.32.270
+&lt;&lt; 
+        82.32.280 &gt;&gt;
+82.32.290
+PDF
+RCW
+82.32.280
+Tax declared additional.
+Taxes imposed hereunder shall be in addition to any and all other licenses, taxes, and excises levied or imposed by the state or any municipal subdivision thereof.
+[
+1961 c 15 s 82.32.280
+. Prior:
+1935 c 180 s 206
+; RRS s 8370-206.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

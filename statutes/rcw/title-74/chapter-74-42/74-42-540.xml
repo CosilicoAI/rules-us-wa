@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.540"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.540"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.540/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.540/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.540/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.540/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_540">
+        <num>RCW 74.42.540</num>
+        <heading>Building requirements</heading>
+        <subsection eId="sec_74_42_540__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The facility shall be accessible to and usable by all residents, personnel, and the public, including individuals with disabilities: PROVIDED, That no substantial structural changes shall be required in any facilities constructed prior to January 1, 1980.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_540__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The facility shall meet the requirements of American national standards institute (ANSI) standard No. A117.1</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_540__subsec_1961">
+          <num>(1961)</num>
+          <content>
+            <p>under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_540__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_540__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may waive, for as long as the department considers appropriate, provisions of ANSI standard No. A117.1</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_540__subsec_1961">
+          <num>(1961)</num>
+          <content>
+            <p>if:</p>
+          </content>
+          <subsection eId="sec_74_42_540__subsec_1961__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The construction plans for the facility or a part of the facility were approved by the department before March 18, 1974;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_540__subsec_1961__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The provisions would result in unreasonable hardship on the facility if strictly enforced; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_540__subsec_1961__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The waiver does not adversely affect the health and safety of the residents.
+[
+1979 ex.s. c 211 s 54
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

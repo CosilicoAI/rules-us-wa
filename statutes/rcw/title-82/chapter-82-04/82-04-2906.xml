@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2906"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2906"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2906/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2906/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2906/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2906/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_2906">
+        <num>RCW 82.04.2906</num>
+        <heading>Tax on certain chemical dependency services. (&lt;i&gt;Effective until January 1, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of providing intensive inpatient or recovery house residential treatment services for chemical dependency, certified by the department of social and health services, for which payment from the United States or any instrumentality thereof or from the state of Washington or any municipal corporation or political subdivision thereof is received as compensation for or to support those services; as to such persons the amount of tax with respect to such business shall be equal to the gross income from such services multiplied by the rate of 0.484 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the persons described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section receive income from sources other than those described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section or provide services other than those named in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, that income and those services are subject to tax as otherwise provided in this chapter.
+[
+2003 c 343 s 1
+.]
+PDF
+RCW
+82.04.2906
+Tax on certain chemical dependency services.
+(Effective January 1, 2027.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of providing intensive inpatient or recovery house residential treatment services for chemical dependency, certified by the department of social and health services, for which payment from the United States or any instrumentality thereof or from the state of Washington or any municipal corporation or political subdivision thereof is received as compensation for or to support those services; as to such persons the amount of tax with respect to such business shall be equal to the gross income from such services multiplied by the rate of 0.5 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the persons described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section receive income from sources other than those described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section or provide services other than those named in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2906__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, that income and those services are subject to tax as otherwise provided in this chapter.
+[
+2025 c 420 s 111
+;
+2003 c 343 s 1
+.]
+NOTES:
+Effective date
+—
+2025 c 420 ss 101-108 and 110-112:
+See note following RCW
+82.04.230
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Necessity of act
+—
+2025 c 420:
+See notes following RCW
+82.04.230
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

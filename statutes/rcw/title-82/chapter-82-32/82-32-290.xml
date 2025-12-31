@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.290"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_290">
+        <num>RCW 82.32.290</num>
+        <heading>Unlawful acts—Penalties</heading>
+        <subsection eId="sec_82_32_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>is guilty of a gross misdemeanor in accordance with chapter
+9A.20
+RCW.</p>
+          </content>
+          <subsection eId="sec_82_32_290__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>It is unlawful:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_290__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For any person to engage in business after revocation of a certificate of registration unless the person's certification of registration has been reinstated;</p>
+            </content>
+            <subsection eId="sec_82_32_290__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For the president, vice president, secretary, treasurer, or other officer of any company to cause or permit the company to engage in business after revocation of a certificate of registration unless the company's certificate of registration has been reinstated; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_290__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>For any person to make any false or fraudulent return or false statement in any return, with intent to defraud the state or evade the payment of any tax or part thereof.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_290__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any person violating any of the provisions of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>is guilty of a class C felony in accordance with chapter
+9A.20
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In addition to the foregoing penalties, any person who knowingly swears to or verifies any false or fraudulent return, or any return containing any false or fraudulent statement with the intent aforesaid, is guilty of the offense of perjury in the second degree and must be punished, upon conviction thereof, by a fine of not more than one thousand dollars.</p>
+          </content>
+          <subsection eId="sec_82_32_290__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>It is unlawful for any person to knowingly sell, purchase, install, transfer, manufacture, create, design, update, repair, use, possess, or otherwise make available, in this state, any automated sales suppression device or phantom-ware. However, it is not unlawful for persons to possess or use automated sales suppression devices or phantom-ware as authorized in RCW
+82.32.670</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_290__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>It is unlawful for any person who has been convicted of violating this section to engage in business, or participate in any business as an owner, officer, director, partner, trustee, member, or manager of the business, unless:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_290__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>All taxes, penalties, and interest lawfully due are paid;</p>
+            </content>
+            <subsection eId="sec_82_32_290__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The person pays in full all penalties and fines imposed on the person for violating this section; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_290__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The person, if the person is engaging in business subject to tax under this title, or the business in which the person participates, enters into a written agreement with the department for the electronic monitoring of the business's sales, by a method acceptable to the department, for five years at the business's expense.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_290__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any person violating the provisions of this subsection, including material breach of the monitoring agreement under (b)</p>
+            </content>
+            <subsection eId="sec_82_32_290__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection, is guilty of a class C felony in accordance with chapter
+9A.20
+RCW and, as applicable,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_290__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_290__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Any person violating the provisions of this subsection by furnishing an automated sales suppression device or phantom-ware to another person or by updating or repairing another person's automated sales suppression device or phantom-ware is, in addition to the punishments prescribed in chapter
+9A.20
+RCW, subject to a mandatory fine fixed by the court in an amount equal to the greater of ten thousand dollars, the defendant's gain from the commission of the crime, or the state's loss from the commission of the crime. For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_290__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_290__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The definitions in RCW
+82.32.670
+apply to this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_290__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>All penalties or punishments provided in this section are in addition to all other penalties provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_290__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For the purposes of this section, &quot;return&quot; has the same meaning as in RCW
+82.32.050
+.
+[
+2022 c 41 s 3
+;
+2013 c 309 s 2
+;
+2010 c 112 s 11
+;
+2009 c 563 s 211
+;
+1985 c 414 s 2
+;
+1975 1st ex.s. c 278 s 89
+;
+1961 c 15 s 82.32.290
+. Prior:
+1935 c 180 s 207
+; RRS s 8370-207.]
+NOTES:
+Effective date
+—
+2010 c 112 ss 2, 3, 11, 12, and 15:
+See note following RCW
+82.32.780
+.
+Retroactive application
+—
+2010 c 112:
+See note following RCW
+82.32.780
+.
+Finding
+—
+Intent
+—
+Construction
+—
+Effective date
+—
+Reports and recommendations
+—
+2009 c 563:
+See notes following RCW
+82.32.780
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

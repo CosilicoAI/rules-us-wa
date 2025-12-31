@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.798"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.798"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.798/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.798/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.798/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.798/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_798">
+        <num>RCW 82.12.798</num>
+        <heading>Exemptions—Use of feminine hygiene products</heading>
+        <subsection eId="sec_82_12_798__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.12.020
+does not apply to the use of feminine hygiene products.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_798__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Feminine hygiene products&quot; has the same meaning as provided in RCW
+82.08.798
+.
+[
+2020 c 350 s 4
+.]
+NOTES:
+Tax preference performance statement
+—
+Findings
+—
+Intent
+—
+Exemption from automatic expiration date of new tax preference
+—
+Effective date
+—
+2020 c 350:
+See notes following RCW
+82.08.798
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

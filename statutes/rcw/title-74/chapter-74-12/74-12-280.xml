@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.280"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.280"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.280/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.280/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.280/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.280/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_280">
+        <num>RCW 74.12.280</num>
+        <heading>Rules for coordination of services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.280
+74.12.260
+&lt;&lt; 
+        74.12.280 &gt;&gt;
+74.12.290
+PDF
+RCW
+74.12.280
+Rules for coordination of services.
+The department is hereby authorized to adopt rules that will provide for coordination between the services provided pursuant to chapter
+74.13
+RCW and the services provided under the temporary assistance for needy families program in order to provide welfare and related services which will best promote the welfare of such children and their families and conform with the provisions of Public Law 87-543 (HR 10606).
+[
+1997 c 59 s 22
+;
+1983 c 3 s 191
+;
+1963 c 228 s 24
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

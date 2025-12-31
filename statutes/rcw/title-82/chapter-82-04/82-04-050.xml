@@ -1,0 +1,2255 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_050">
+        <num>RCW 82.04.050</num>
+        <heading>&quot;Sale at retail,&quot; &quot;retail sale.&quot; (&lt;i&gt;Effective until October 1, 2025.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_050__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section, if such tangible personal property replaces or becomes an ingredient or component of property covered by the extended warranty without intervening use by such person.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term includes every sale of tangible personal property that is used or consumed or to be used or consumed in the performance of any activity defined as a &quot;sale at retail&quot; or &quot;retail sale&quot; even though such property is resold or used as provided in (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (vi) of this subsection following such use.</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>of this subsection following such use.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The term also means every sale of tangible personal property to persons engaged in any business that is taxable under *RCW
+82.04.280</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>(a), (b), and (g),
+82.04.290
+, and
+82.04.2908
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes the sale of or charge made for tangible personal property consumed and/or for labor and services rendered in respect to the following:</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The installing, repairing, cleaning, altering, imprinting, or improving of tangible personal property of or for consumers, including charges made for the mere use of facilities in respect thereto, but excluding charges made for the use of self-service laundry facilities, and also excluding sales of laundry service to nonprofit health care facilities, and excluding services rendered in respect to live animals, birds and insects;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The constructing, repairing, decorating, or improving of new or existing buildings or other structures under, upon, or above real property of or for consumers, including the installing or attaching of any article of tangible personal property therein or thereto, whether or not such personal property becomes a part of the realty by virtue of installation, and also includes the sale of services or charges made for the clearing of land and the moving of earth excepting the mere leveling of land used in commercial farming or agriculture;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The constructing, repairing, or improving of any structure upon, above, or under any real property owned by an owner who conveys the property by title, possession, or any other means to the person performing such construction, repair, or improvement for the purpose of performing such construction, repair, or improvement and the property is then reconveyed by title, possession, or any other means to the original owner;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The cleaning, fumigating, razing, or moving of existing buildings or structures, but does not include the charge made for janitorial services; and for purposes of this section the term &quot;janitorial services&quot; means those cleaning and caretaking services ordinarily performed by commercial janitor service businesses including, but not limited to, wall and window washing, floor cleaning and waxing, and the cleaning in place of rugs, drapes and upholstery. The term &quot;janitorial services&quot; does not include painting, papering, repairing, furnace or septic tank cleaning, snow removal or sandblasting;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Automobile towing and similar automotive transportation services, but not in respect to those required to report and pay taxes under chapter
+82.16
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The furnishing of lodging and all other services by a hotel, rooming house, tourist court, motel, trailer camp, and the granting of any similar license to use real property, as distinguished from the renting or leasing of real property, and it is presumed that the occupancy of real property for a continuous period of one month or more constitutes a rental or lease of real property and not a mere license to use or enjoy the same. For the purposes of this subsection, it is presumed that the sale of and charge made for the furnishing of lodging for a continuous period of one month or more to a person is a rental or lease of real property and not a mere license to enjoy the same. For the purposes of this section, it is presumed that the sale of and charge made for the furnishing of lodging offered regularly for public occupancy for periods of less than a month constitutes a license to use or enjoy the property subject to sales and use tax and not a rental or lease of property;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The installing, repairing, altering, or improving of digital goods for consumers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Persons taxable under (a), (b), (c), (d), (e), (f), and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this subsection when such sales or charges are for property, labor and services which are used or consumed in whole or in part by such persons in the performance of any activity defined as a &quot;sale at retail&quot; or &quot;retail sale&quot; even though such property, labor and services may be resold after such use or consumption. Nothing contained in this subsection may be construed to modify subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and nothing contained in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section may be construed to modify this subsection.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes the sale of or charge made for personal, business, or professional services including amounts designated as interest, rents, fees, admission, and other service emoluments however designated, received by persons engaging in the following business activities:</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Abstract, title insurance, and escrow services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Credit bureau services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Automobile parking and storage garage services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Landscape maintenance and horticultural services but excluding</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>horticultural services provided to farmers and</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>pruning, trimming, repairing, removing, and clearing of trees and brush near electric transmission or distribution lines or equipment, if performed by or at the direction of an electric utility;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Service charges associated with tickets to professional sporting events;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The following personal services: Tanning salon services, tattoo parlor services, steam bath services, turkish bath services, escort services, and dating services; and
+(g)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Operating an athletic or fitness facility, including all charges for the use of such a facility or for any associated services and amenities, except as provided in (g)</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Notwithstanding anything to the contrary in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Nothing in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>may be construed to affect the taxation of sales made by the operator of an athletic or fitness facility, where such sales are defined as a retail sale under any provision of this section other than this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term also includes the renting or leasing of tangible personal property to consumers.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term does not include the renting or leasing of tangible personal property where the lease or rental is for the purpose of sublease or subrent.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The term also includes the providing of &quot;competitive telephone service,&quot; &quot;telecommunications service,&quot; or &quot;ancillary services,&quot; as those terms are defined in RCW
+82.04.065
+, to consumers.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term also includes the sale of prewritten computer software to a consumer, regardless of the method of delivery to the end user. For purposes of</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, the sale of prewritten computer software includes the sale of or charge made for a key or an enabling or activation code, where the key or code is required to activate prewritten computer software and put the software into use. There is no separate sale of the key or code from the prewritten computer software, regardless of how the sale may be characterized by the vendor or by the purchaser.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term &quot;retail sale&quot; does not include the sale of or charge made for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Custom software; or</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The customization of prewritten computer software.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The term also includes the charge made to consumers for the right to access and use prewritten computer software, where possession of the software is maintained by the seller or a third party, regardless of whether the charge for the service is on a per use, per user, per license, subscription, or some other basis.
+(ii)(A) The service described in (c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>includes the right to access and use prewritten computer software to perform data processing.
+(B) For purposes of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The term also includes the sale of or charge made for an extended warranty to a consumer. For purposes of this subsection, &quot;extended warranty&quot; means an agreement for a specified duration to perform the replacement or repair of tangible personal property at no additional charge or a reduced charge for tangible personal property, labor, or both, or to provide indemnification for the replacement or repair of tangible personal property, based on the occurrence of specified events. The term &quot;extended warranty&quot; does not include an agreement, otherwise meeting the definition of extended warranty in this subsection, if no separate charge is made for the agreement and the value of the agreement is included in the sales price of the tangible personal property covered by the agreement. For purposes of this subsection, &quot;sales price&quot; has the same meaning as in RCW
+82.08.010
+.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term also includes the following sales to consumers of digital goods, digital codes, and digital automated services:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Sales in which the seller has granted the purchaser the right of permanent use;</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Sales in which the seller has granted the purchaser a right of use that is less than permanent;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Sales in which the purchaser is not obligated to make continued payment as a condition of the sale; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Sales in which the purchaser is obligated to make continued payment as a condition of the sale.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A retail sale of digital goods, digital codes, or digital automated services under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>includes any services provided by the seller exclusively in connection with the digital goods, digital codes, or digital automated services, whether or not a separate charge is made for such services.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;permanent&quot; means perpetual or for an indefinite or unspecified length of time. A right of permanent use is presumed to have been granted unless the agreement between the seller and the purchaser specifies or the circumstances surrounding the transaction suggest or indicate that the right to use terminates on the occurrence of a condition subsequent.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The term also includes the charge made for providing tangible personal property along with an operator for a fixed or indeterminate period of time. A consideration of this is that the operator is necessary for the tangible personal property to perform as designed. For the purpose of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The term does not include the sale of or charge made for labor and services rendered in respect to the building, repairing, or improving of any street, place, road, highway, easement, right-of-way, mass public transportation terminal or parking facility, bridge, tunnel, or trestle which is owned by a municipal corporation or political subdivision of the state or by the United States and which is used or to be used primarily for foot or vehicular traffic including mass transportation vehicles of any kind.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The term also does not include sales of chemical sprays or washes to persons for the purpose of postharvest treatment of fruit for the prevention of scald, fungus, mold, or decay, nor does it include sales of feed, seed, seedlings, fertilizer, agents for enhanced pollination including insects such as bees, and spray materials to:</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Persons who participate in the federal conservation reserve program, the environmental quality incentives program, the wetlands reserve program, and the wildlife habitat incentives program, or their successors administered by the United States department of agriculture;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>farmers for the purpose of producing for sale any agricultural product;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>farmers for the purpose of providing bee pollination services; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>farmers acting under cooperative habitat development or access contracts with an organization exempt from federal income tax under 26 U.S.C. Sec. 501(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the federal internal revenue code or the Washington state department of fish and wildlife to produce or improve wildlife habitat on land that the farmer owns or leases.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>The term does not include the sale of or charge made for labor and services rendered in respect to the constructing, repairing, decorating, or improving of new or existing buildings or other structures under, upon, or above real property of or for the United States, any instrumentality thereof, or a county or city housing authority created pursuant to chapter
+35.82
+RCW, including the installing, or attaching of any article of tangible personal property therein or thereto, whether or not such personal property becomes a part of the realty by virtue of installation. Nor does the term include the sale of services or charges made for the clearing of land and the moving of earth of or for the United States, any instrumentality thereof, or a county or city housing authority. Nor does the term include the sale of services or charges made for cleaning up for the United States, or its instrumentalities, radioactive waste and other by-products of weapons production and nuclear research and development.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>The term does not include the sale of or charge made for labor, services, or tangible personal property pursuant to agreements providing maintenance services for bus, rail, or rail fixed guideway equipment when a regional transit authority is the recipient of the labor, services, or tangible personal property, and a transit agency, as defined in RCW
+81.104.015
+, performs the labor or services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>The term does not include the sale for resale of any service described in this section if the sale would otherwise constitute a &quot;sale at retail&quot; and &quot;retail sale&quot; under this section.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes amounts charged, however labeled, to consumers to engage in any of the activities listed in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>and except as otherwise provided in this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Batting cage activities;
+(vi) Bowling, but not including competitive events, except that amounts paid by the event participants to the bowling alley operator are retail sales under this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Bowling, but not including competitive events, except that amounts paid by the event participants to the bowling alley operator are retail sales under this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Climbing on artificial climbing structures, whether indoors or outdoors;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>Day trips for sightseeing purposes;
+(ix) Bungee jumping, zip lining, and riding inside a ball, whether inflatable or otherwise;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>Horseback riding offered to the public, where the seller furnishes the horse to the buyer and providing instruction is not the primary focus of the activity, including guided rides, but not including therapeutic horseback riding provided by an instructor certified by a nonprofit organization that offers national or international certification for therapeutic riding instructors;
+(xi) Fishing, including providing access to private fishing areas and charter or guided fishing, except that fishing contests and license fees imposed by a government entity are not a retail sale under this subsection;
+(xii) Guided hunting and hunting at game farms and shooting preserves, except that hunting contests and license fees imposed by a government entity are not a retail sale under this subsection;
+(xiii) Swimming, but only in respect to (A) recreational or fitness swimming that is open to the public, such as open swim, lap swimming, and special events like kids night out and pool parties during open swim time, and (B) pool parties for private events, such as birthdays, family gatherings, and employee outings. Fees for swimming lessons, to participate in swim meets and other competitions, or to join a swim team, club, or aquatic facility are not retail sales under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding anything to the contrary in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Made for admission to, and rides or attractions at, fairs, carnivals, and festivals. For the purposes of this subsection, fairs, carnivals, and festivals are events that do not exceed 21 days and a majority of the amusement rides, if any, are not affixed to real property;</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Made by an educational institution to its students and staff for activities defined as retail sales by</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (xx) of this subsection. However, charges made by an educational institution to its alumni or other members of the general public for these activities are a retail sale under this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Made by a vocational school for commercial diver training that is licensed by the workforce training and education coordinating board under chapter
+28C.10
+RCW; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Made for day camps offered by a nonprofit organization or state or local governmental entity that provide youth not older than age 18, or that are focused on providing individuals with disabilities or mental illness, the opportunity to participate in a variety of supervised activities.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes the purchase or acquisition of tangible personal property and specified services by a person who receives either a qualifying grant exempt from tax under RCW
+82.04.767
+or
+82.16.320
+or a grant deductible under RCW
+82.04.4339
+, except for transactions excluded from the definition of &quot;sale at retail&quot; or &quot;retail sale&quot; by any other provision of this section. Nothing in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>may be construed to limit the application of any other provision of this section to purchases by a recipient of either a qualifying grant exempt from tax under RCW
+82.04.767
+or a grant deductible under RCW
+82.04.4339
+, or by any other person.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_16__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_16__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The constructing, repairing, decorating, or improving of new or existing buildings or other structures under, upon, or above real property, including the installing or attaching of any article of tangible personal property therein or thereto, whether or not such personal property becomes a part of the realty by virtue of installation;</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_16__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The clearing of land or the moving of earth, whether or not associated with activities described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_16__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_16__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The razing or moving of existing buildings or structures; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_16__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Landscape maintenance and horticultural services.
+[
+2021 c 296 s 8
+;
+2021 c 143 s 2
+;
+2021 c 4 s 3
+; (2020 c 80 s 58 repealed by 2021 c 143 s 4);
+2017 3rd sp.s. c 37 s 1201
+;
+2015 3rd sp.s. c 6 s 1105
+; (2015 3rd sp.s. c 6 s 1104 expired January 1, 2016);
+2015 c 169 s 1
+;
+2013 2nd sp.s. c 13 s 802
+;
+2011 c 174 s 202
+. Prior:
+2010 c 112 s 14
+;
+2010 c 111 s 201
+;
+2010 c 106 s 202
+; prior:
+2009 c 563 s 301
+;
+2009 c 535 s 301
+; prior:
+2007 c 54 s 4
+;
+2007 c 6 s 1004
+; prior:
+2005 c 515 s 2
+;
+2005 c 514 s 101
+; prior:
+2004 c 174 s 3
+;
+2004 c 153 s 407
+;
+2003 c 168 s 104
+;
+2002 c 178 s 1
+;
+2000 2nd sp.s. c 4 s 23
+; prior:
+1998 c 332 s 2
+;
+1998 c 315 s 1
+;
+1998 c 308 s 1
+;
+1998 c 275 s 1
+;
+1997 c 127 s 1
+; prior:
+1996 c 148 s 1
+;
+1996 c 112 s 1
+;
+1995 1st sp.s. c 12 s 2
+;
+1995 c 39 s 2
+;
+1993 sp.s. c 25 s 301
+;
+1988 c 253 s 1
+; prior:
+1987 c 285 s 1
+;
+1987 c 23 s 2
+;
+1986 c 231 s 1
+;
+1983 2nd ex.s. c 3 s 25
+;
+1981 c 144 s 3
+;
+1975 1st ex.s. c 291 s 5
+;
+1975 1st ex.s. c 90 s 1
+;
+1973 1st ex.s. c 145 s 1
+;
+1971 ex.s. c 299 s 3
+;
+1971 ex.s. c 281 s 1
+;
+1970 ex.s. c 8 s 1
+; prior:
+1969 ex.s. c 262 s 30
+;
+1969 ex.s. c 255 s 3
+;
+1967 ex.s. c 149 s 4
+;
+1965 ex.s. c 173 s 1
+;
+1963 c 7 s 1
+; prior:
+1961 ex.s. c 24 s 1
+;
+1961 c 293 s 1
+;
+1961 c 15 s 82.04.050
+; prior:
+1959 ex.s. c 5 s 2
+;
+1957 c 279 s 1
+;
+1955 c 389 s 6
+;
+1953 c 91 s 3
+;
+1951 2nd ex.s. c 28 s 3
+; 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+Reviser's note:
+*</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+82.04.280
+was amended by 2025 c 9 s 2, changing subsection</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section was amended by 2021 c 143 s 2 and by 2021 c 296 s 8, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, this act applies both prospectively and retroactively to July 26, 2009.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 202, 402, and 502 of this act, and those provisions of sections 401 and 501 of this act that eliminate the sales and use tax exemptions in RCW
+82.08.02082
+and
+82.12.02082
+, apply prospectively only.&quot; [
+2010 c 111 s 902
+.]
+Effective date
+—
+2010 c 111:
+&quot;This act takes effect July 1, 2010.&quot; [
+2010 c 111 s 903
+.]
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Finding
+—
+Intent
+—
+Construction
+—
+Effective date
+—
+Reports and recommendations
+—
+2009 c 563:
+See notes following RCW
+82.32.780
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Severability
+—
+2007 c 54:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2007 c 54 s 32
+.]
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Findings
+—
+2005 c 515:
+&quot;The legislature finds that:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Public entities that receive tax dollars must continuously improve the way they operate and deliver service so citizens receive maximum value for their tax dollars; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An explicit statement clarifying that no sales or use tax shall apply to the entire charge paid by regional transit authorities for bus or rail combined operations and maintenance agreements that are provided to such authorities in support of their provision of urban transportation or transportation services is necessary to improve efficient service.&quot; [
+2005 c 515 s 1
+.]
+Effective date
+—
+2005 c 514:
+See note following RCW
+83.100.230
+.
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.
+Effective date
+—
+2004 c 174:
+See note following RCW
+82.04.2908
+.
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Retroactive application
+—
+Effective date
+—
+2002 c 178:
+See notes following RCW
+67.28.180
+.
+Findings
+—
+Construction
+—
+2000 2nd sp.s. c 4 ss 18-30:
+See notes following RCW
+81.112.300
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+1998 c 332:
+See notes following RCW
+82.04.29001
+.
+Effective dates
+—
+1998 c 308:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 4 of this act take effect July 1, 1998.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 5 of this act takes effect July 1, 2003.&quot; [
+1998 c 308 s 6
+.]
+Effective date
+—
+1998 c 275:
+&quot;This act takes effect July 1, 1998.&quot; [
+1998 c 275 s 2
+.]
+Effective date
+—
+1997 c 127:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 1997.&quot; [
+1997 c 127 s 2
+.]
+Severability
+—
+1996 c 148:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1996 c 148 s 7
+.]
+Effective date
+—
+1996 c 148:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect April 1, 1996.&quot; [
+1996 c 148 s 8
+.]
+Effective date
+—
+1996 c 112:
+&quot;This act shall take effect July 1, 1996.&quot; [
+1996 c 112 s 5
+.]
+Intent
+—
+1995 1st sp.s. c 12:
+&quot;It is the intent of the legislature that massage services be recognized as health care practitioners for the purposes of business and occupation tax application. To achieve this intent massage services are being removed from the definition of sale at retail and retail sale.&quot; [
+1995 1st sp.s. c 12 s 1
+.]
+Effective date
+—
+1995 1st sp.s. c 12:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 1st sp.s. c 12 s 5
+.]
+Effective date
+—
+1995 c 39:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 c 39 s 3
+.]
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Construction
+—
+</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of section 24 shall be effective on and after January 1, 1977: AND PROVIDED FURTHER, That subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>of section 24 shall be effective on and after January 1, 1978.&quot; [
+1975 1st ex.s. c 291 s 46
+.]
+Severability
+—
+1975 1st ex.s. c 291:
+&quot;If any provision of this 1975 amendatory act, or its application to any person or circumstance is held invalid, the remainder of the act, or the application of the provision to other persons or circumstances is not affected.&quot; [
+1975 1st ex.s. c 291 s 45
+.]
+Effective date
+—
+1975 1st ex.s. c 90:
+&quot;This 1975 amendatory act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1975.&quot; [
+1975 1st ex.s. c 90 s 5
+.]
+Effective date
+—
+1973 1st ex.s. c 145:
+&quot;This act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1973.&quot; [
+1973 1st ex.s. c 145 s 2
+.]
+Effective dates
+—
+1971 ex.s. c 299:
+&quot;This 1971 amendatory act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect as follows:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 12, 15 through 34 and 53 shall take effect July 1, 1971;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 13, 14, and 77 and 78 shall take effect June 1, 1971; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Sections 35 through 52 and 54 through 76 shall take effect as provided in section 53.&quot; [
+1971 ex.s. c 299 s 79
+.]
+Severability
+—
+1971 ex.s. c 299:
+&quot;If any phrase, clause, subsection or section of this 1971 amendatory act shall be declared unconstitutional or invalid by any court of competent jurisdiction, it shall be conclusively presumed that the legislature would have enacted this 1971 amendatory act without the phrase, clause, subsection or section so held unconstitutional or invalid and the remainder of the act shall not be affected as a result of said part being held unconstitutional or invalid.&quot; [
+1971 ex.s. c 299 s 78
+.]
+Construction
+—
+Severability
+—
+1969 ex.s. c 255:
+See notes following RCW
+35.58.272
+.
+Effective date
+—
+1967 ex.s. c 149:
+&quot;This act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1967.&quot; [
+1967 ex.s. c 149 s 65
+.]
+Effective date
+—
+1965 ex.s. c 173:
+&quot;This act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect June 1, 1965.&quot; [
+1965 ex.s. c 173 s 33
+.]
+Credit for retail sales or use taxes paid to other jurisdictions with respect to property used: RCW
+82.12.035
+.
+&quot;Services rendered in respect to&quot; defined: RCW
+82.04.051
+.
+PDF
+RCW
+82.04.050
+&quot;Sale at retail,&quot; &quot;retail sale.&quot;
+(Effective October 1, 2025.)</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Sale at retail&quot; or &quot;retail sale&quot; means every sale of tangible personal property (including articles produced, fabricated, or imprinted) to all persons irrespective of the nature of their business and including, among others, without limiting the scope hereof, persons who install, repair, clean, alter, improve, construct, or decorate real or personal property of or for consumers other than a sale to a person who:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Purchases for the purpose of resale as tangible personal property in the regular course of business without intervening use by such person, but a purchase for the purpose of resale by a regional transit authority under RCW
+81.112.300
+is not a sale for resale; or</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Installs, repairs, cleans, alters, imprints, improves, constructs, or decorates real or personal property of or for consumers, if such tangible personal property becomes an ingredient or component of such real or personal property without intervening use by such person; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Purchases for the purpose of consuming the property purchased in producing for sale as a new article of tangible personal property or substance, of which such property becomes an ingredient or component or is a chemical used in processing, when the primary purpose of such chemical is to create a chemical reaction directly through contact with an ingredient of a new article being produced for sale; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Purchases for the purpose of consuming the property purchased in producing ferrosilicon which is subsequently used in producing magnesium for sale, if the primary purpose of such property is to create a chemical reaction directly through contact with an ingredient of ferrosilicon; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Purchases for the purpose of providing the property to consumers as part of competitive telephone service, as defined in RCW
+82.04.065
+; or
+(vi) Purchases for the purpose of satisfying the person's obligations under an extended warranty as defined in subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Purchases for the purpose of satisfying the person's obligations under an extended warranty as defined in subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section, if such tangible personal property replaces or becomes an ingredient or component of property covered by the extended warranty without intervening use by such person.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term includes every sale of tangible personal property that is used or consumed or to be used or consumed in the performance of any activity defined as a &quot;sale at retail&quot; or &quot;retail sale&quot; even though such property is resold or used as provided in (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (vi) of this subsection following such use.</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>of this subsection following such use.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The term also means every sale of tangible personal property to persons engaged in any business that is taxable under *RCW
+82.04.280</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>(a), (b), and (g),
+82.04.290
+, and
+82.04.2908
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes the sale of or charge made for tangible personal property consumed and/or for labor and services rendered in respect to the following:</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The installing, repairing, cleaning, altering, imprinting, or improving of tangible personal property of or for consumers, including charges made for the mere use of facilities in respect thereto, but excluding charges made for the use of self-service laundry facilities, and also excluding sales of laundry service to nonprofit health care facilities, and excluding services rendered in respect to live animals, birds and insects;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The constructing, repairing, decorating, or improving of new or existing buildings or other structures under, upon, or above real property of or for consumers, including the installing or attaching of any article of tangible personal property therein or thereto, whether or not such personal property becomes a part of the realty by virtue of installation, and also includes the sale of services or charges made for the clearing of land and the moving of earth excepting the mere leveling of land used in commercial farming or agriculture;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The constructing, repairing, or improving of any structure upon, above, or under any real property owned by an owner who conveys the property by title, possession, or any other means to the person performing such construction, repair, or improvement for the purpose of performing such construction, repair, or improvement and the property is then reconveyed by title, possession, or any other means to the original owner;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The cleaning, fumigating, razing, or moving of existing buildings or structures, but does not include the charge made for janitorial services; and for purposes of this section the term &quot;janitorial services&quot; means those cleaning and caretaking services ordinarily performed by commercial janitor service businesses including, but not limited to, wall and window washing, floor cleaning and waxing, and the cleaning in place of rugs, drapes and upholstery. The term &quot;janitorial services&quot; does not include painting, papering, repairing, furnace or septic tank cleaning, snow removal or sandblasting;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Automobile towing and similar automotive transportation services, but not in respect to those required to report and pay taxes under chapter
+82.16
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The furnishing of lodging and all other services by a hotel, rooming house, tourist court, motel, trailer camp, and the granting of any similar license to use real property, as distinguished from the renting or leasing of real property, and it is presumed that the occupancy of real property for a continuous period of one month or more constitutes a rental or lease of real property and not a mere license to use or enjoy the same. For the purposes of this subsection, it is presumed that the sale of and charge made for the furnishing of lodging for a continuous period of one month or more to a person is a rental or lease of real property and not a mere license to enjoy the same. For the purposes of this section, it is presumed that the sale of and charge made for the furnishing of lodging offered regularly for public occupancy for periods of less than a month constitutes a license to use or enjoy the property subject to sales and use tax and not a rental or lease of property;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The installing, repairing, altering, or improving of digital goods for consumers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Persons taxable under (a), (b), (c), (d), (e), (f), and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this subsection when such sales or charges are for property, labor and services which are used or consumed in whole or in part by such persons in the performance of any activity defined as a &quot;sale at retail&quot; or &quot;retail sale&quot; even though such property, labor and services may be resold after such use or consumption. Nothing contained in this subsection may be construed to modify subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and nothing contained in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section may be construed to modify this subsection.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes the sale of or charge made for personal, business, or professional services including amounts designated as interest, rents, fees, admission, and other service emoluments however designated, received by persons engaging in the following business activities:</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Abstract, title insurance, and escrow services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Credit bureau services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Automobile parking and storage garage services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Landscape maintenance and horticultural services but excluding</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>horticultural services provided to farmers and</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>pruning, trimming, repairing, removing, and clearing of trees and brush near electric transmission or distribution lines or equipment, if performed by or at the direction of an electric utility;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Service charges associated with tickets to professional sporting events;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The following personal services: Tanning salon services, tattoo parlor services, steam bath services, turkish bath services, escort services, and dating services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Information technology training services, technical support, and other services including, but not limited to, assisting with network operations and support, help desk services, in-person training related to hardware or software, network system support services, data entry services, and data processing services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Custom website development services. For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Investigation, security services, security monitoring services, and armored car services including, but not limited to, background checks, security guard and patrol services, personal and event security, armored car transportation of cash and valuables, and security system services and monitoring. This does not include locksmith services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Temporary staffing services. For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Advertising services.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Advertising services&quot; do not include:
+(A) Web hosting services and domain name registration;
+(B) Services rendered in respect to the following:
+(I) &quot;Newspapers&quot; as defined in RCW
+82.04.214
+;
+(II) Printing or publishing under RCW
+82.04.280
+; and
+(III) &quot;Radio and television broadcasting&quot; within this state as defined in RCW
+82.04.281
+; and
+(C) Services rendered in respect to out-of-home advertising, including: Billboard advertising; street furniture advertising; transit advertising; place-based advertising, such as in-store display advertising or point-of-sale advertising; dynamic or static signage at live events; naming rights; and fixed signage advertising. Out-of-home advertising does not include direct mail;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>Live presentations including, but not limited to, lectures, seminars, workshops, or courses where participants attend either in-person or via the internet or telecommunications equipment that allows audience members and the presenter or instructor to give, receive, and discuss information with each other in real time; and
+(m)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Operating an athletic or fitness facility, including all charges for the use of such a facility or for any associated services and amenities, except as provided in (m)</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Notwithstanding anything to the contrary in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Nothing in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>may be construed to affect the taxation of sales made by the operator of an athletic or fitness facility, where such sales are defined as a retail sale under any provision of this section other than this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term also includes the renting or leasing of tangible personal property to consumers.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term does not include the renting or leasing of tangible personal property where the lease or rental is for the purpose of sublease or subrent.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The term also includes the providing of &quot;competitive telephone service,&quot; &quot;telecommunications service,&quot; or &quot;ancillary services,&quot; as those terms are defined in RCW
+82.04.065
+, to consumers.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term also includes the sale of prewritten computer software, custom software, and customization of prewritten computer software to a consumer, regardless of the method of delivery to the end user. For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The term also includes the charge made to consumers for the right to access and use prewritten computer software, custom software, and customization of prewritten computer software, where possession of the software is maintained by the seller or a third party, regardless of whether the charge for the service is on a per use, per user, per license, subscription, or some other basis.
+(ii)(A) The service described in (b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>includes the right to access and use prewritten computer software, custom software, and customization of prewritten computer software to perform data processing.
+(B) For purposes of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The term also includes the sale of or charge made for an extended warranty to a consumer. For purposes of this subsection, &quot;extended warranty&quot; means an agreement for a specified duration to perform the replacement or repair of tangible personal property at no additional charge or a reduced charge for tangible personal property, labor, or both, or to provide indemnification for the replacement or repair of tangible personal property, based on the occurrence of specified events. The term &quot;extended warranty&quot; does not include an agreement, otherwise meeting the definition of extended warranty in this subsection, if no separate charge is made for the agreement and the value of the agreement is included in the sales price of the tangible personal property covered by the agreement. For purposes of this subsection, &quot;sales price&quot; has the same meaning as in RCW
+82.08.010
+.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term also includes the following sales to consumers of digital goods, digital codes, and digital automated services:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Sales in which the seller has granted the purchaser the right of permanent use;</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Sales in which the seller has granted the purchaser a right of use that is less than permanent;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Sales in which the purchaser is not obligated to make continued payment as a condition of the sale; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_7__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Sales in which the purchaser is obligated to make continued payment as a condition of the sale.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A retail sale of digital goods, digital codes, or digital automated services under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>includes any services provided by the seller exclusively in connection with the digital goods, digital codes, or digital automated services, whether or not a separate charge is made for such services.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A retail sale of digital goods, digital codes, or digital automated services does not include the following services if the sale occurs between members of an affiliated group as defined in RCW
+82.04.299</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any service that primarily involves the application of human effort by the seller, and the human effort originated after the customer requested the service;</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Live presentations, such as lectures, seminars, workshops, or courses, where participants are connected to other participants via the internet or telecommunications equipment, which allows audience members and the presenter or instructor to give, receive, and discuss information with each other in real time;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_8__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Advertising services. For purposes of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_8__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Data processing services. For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;permanent&quot; means perpetual or for an indefinite or unspecified length of time. A right of permanent use is presumed to have been granted unless the agreement between the seller and the purchaser specifies or the circumstances surrounding the transaction suggest or indicate that the right to use terminates on the occurrence of a condition subsequent.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The term also includes the charge made for providing tangible personal property along with an operator for a fixed or indeterminate period of time. A consideration of this is that the operator is necessary for the tangible personal property to perform as designed. For the purpose of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The term does not include the sale of or charge made for labor and services rendered in respect to the building, repairing, or improving of any street, place, road, highway, easement, right-of-way, mass public transportation terminal or parking facility, bridge, tunnel, or trestle which is owned by a municipal corporation or political subdivision of the state or by the United States and which is used or to be used primarily for foot or vehicular traffic including mass transportation vehicles of any kind.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The term also does not include sales of chemical sprays or washes to persons for the purpose of postharvest treatment of fruit for the prevention of scald, fungus, mold, or decay, nor does it include sales of feed, seed, seedlings, fertilizer, agents for enhanced pollination including insects such as bees, and spray materials to:</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Persons who participate in the federal conservation reserve program, the environmental quality incentives program, the wetlands reserve program, and the wildlife habitat incentives program, or their successors administered by the United States department of agriculture;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>farmers for the purpose of producing for sale any agricultural product;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>farmers for the purpose of providing bee pollination services; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_11__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>farmers acting under cooperative habitat development or access contracts with an organization exempt from federal income tax under 26 U.S.C. Sec. 501(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the federal internal revenue code or the Washington state department of fish and wildlife to produce or improve wildlife habitat on land that the farmer owns or leases.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>The term does not include the sale of or charge made for labor and services rendered in respect to the constructing, repairing, decorating, or improving of new or existing buildings or other structures under, upon, or above real property of or for the United States, any instrumentality thereof, or a county or city housing authority created pursuant to chapter
+35.82
+RCW, including the installing, or attaching of any article of tangible personal property therein or thereto, whether or not such personal property becomes a part of the realty by virtue of installation. Nor does the term include the sale of services or charges made for the clearing of land and the moving of earth of or for the United States, any instrumentality thereof, or a county or city housing authority. Nor does the term include the sale of services or charges made for cleaning up for the United States, or its instrumentalities, radioactive waste and other by-products of weapons production and nuclear research and development.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>The term does not include the sale of or charge made for labor, services, or tangible personal property pursuant to agreements providing maintenance services for bus, rail, or rail fixed guideway equipment when a regional transit authority is the recipient of the labor, services, or tangible personal property, and a transit agency, as defined in RCW
+81.104.015
+, performs the labor or services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>The term does not include the sale for resale of any service described in this section if the sale would otherwise constitute a &quot;sale at retail&quot; and &quot;retail sale&quot; under this section.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes amounts charged, however labeled, to consumers to engage in any of the activities listed in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>and except as otherwise provided in this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Batting cage activities;
+(vi) Bowling, but not including competitive events, except that amounts paid by the event participants to the bowling alley operator are retail sales under this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Bowling, but not including competitive events, except that amounts paid by the event participants to the bowling alley operator are retail sales under this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Climbing on artificial climbing structures, whether indoors or outdoors;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>Day trips for sightseeing purposes;
+(ix) Bungee jumping, zip lining, and riding inside a ball, whether inflatable or otherwise;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>Horseback riding offered to the public, where the seller furnishes the horse to the buyer and providing instruction is not the primary focus of the activity, including guided rides, but not including therapeutic horseback riding provided by an instructor certified by a nonprofit organization that offers national or international certification for therapeutic riding instructors;
+(xi) Fishing, including providing access to private fishing areas and charter or guided fishing, except that fishing contests and license fees imposed by a government entity are not a retail sale under this subsection;
+(xii) Guided hunting and hunting at game farms and shooting preserves, except that hunting contests and license fees imposed by a government entity are not a retail sale under this subsection;
+(xiii) Swimming, but only in respect to (A) recreational or fitness swimming that is open to the public, such as open swim, lap swimming, and special events like kids night out and pool parties during open swim time, and (B) pool parties for private events, such as birthdays, family gatherings, and employee outings. Fees for swimming lessons, to participate in swim meets and other competitions, or to join a swim team, club, or aquatic facility are not retail sales under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding anything to the contrary in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Made for admission to, and rides or attractions at, fairs, carnivals, and festivals. For the purposes of this subsection, fairs, carnivals, and festivals are events that do not exceed 21 days and a majority of the amusement rides, if any, are not affixed to real property;</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Made by an educational institution to its students and staff for activities defined as retail sales by</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (xx) of this subsection. However, charges made by an educational institution to its alumni or other members of the general public for these activities are a retail sale under this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Made by a vocational school for commercial diver training that is licensed by the workforce training and education coordinating board under chapter
+28C.10
+RCW; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_15__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Made for day camps offered by a nonprofit organization or state or local governmental entity that provide youth not older than age 18, or that are focused on providing individuals with disabilities or mental illness, the opportunity to participate in a variety of supervised activities.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_15__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term &quot;sale at retail&quot; or &quot;retail sale&quot; includes the purchase or acquisition of tangible personal property and specified services by a person who receives either a qualifying grant exempt from tax under RCW
+82.04.767
+or
+82.16.320
+or a grant deductible under RCW
+82.04.4339
+, except for transactions excluded from the definition of &quot;sale at retail&quot; or &quot;retail sale&quot; by any other provision of this section. Nothing in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>may be construed to limit the application of any other provision of this section to purchases by a recipient of either a qualifying grant exempt from tax under RCW
+82.04.767
+or a grant deductible under RCW
+82.04.4339
+, or by any other person.</p>
+          </content>
+          <subsection eId="sec_82_04_050__subsec_16__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_16__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The constructing, repairing, decorating, or improving of new or existing buildings or other structures under, upon, or above real property, including the installing or attaching of any article of tangible personal property therein or thereto, whether or not such personal property becomes a part of the realty by virtue of installation;</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_16__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The clearing of land or the moving of earth, whether or not associated with activities described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_16__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_050__subsec_16__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The razing or moving of existing buildings or structures; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_050__subsec_16__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Landscape maintenance and horticultural services.
+[
+2025 c 422 s 101
+. Prior:
+2021 c 296 s 8
+;
+2021 c 143 s 2
+;
+2021 c 4 s 3
+; (2020 c 80 s 58 repealed by 2021 c 143 s 4);
+2017 3rd sp.s. c 37 s 1201
+;
+2015 3rd sp.s. c 6 s 1105
+; (2015 3rd sp.s. c 6 s 1104 expired January 1, 2016);
+2015 c 169 s 1
+;
+2013 2nd sp.s. c 13 s 802
+;
+2011 c 174 s 202
+; prior:
+2010 c 112 s 14
+;
+2010 c 111 s 201
+;
+2010 c 106 s 202
+; prior:
+2009 c 563 s 301
+;
+2009 c 535 s 301
+; prior:
+2007 c 54 s 4
+;
+2007 c 6 s 1004
+; prior:
+2005 c 515 s 2
+;
+2005 c 514 s 101
+; prior:
+2004 c 174 s 3
+;
+2004 c 153 s 407
+;
+2003 c 168 s 104
+;
+2002 c 178 s 1
+;
+2000 2nd sp.s. c 4 s 23
+; prior:
+1998 c 332 s 2
+;
+1998 c 315 s 1
+;
+1998 c 308 s 1
+;
+1998 c 275 s 1
+;
+1997 c 127 s 1
+; prior:
+1996 c 148 s 1
+;
+1996 c 112 s 1
+;
+1995 1st sp.s. c 12 s 2
+;
+1995 c 39 s 2
+;
+1993 sp.s. c 25 s 301
+;
+1988 c 253 s 1
+; prior:
+1987 c 285 s 1
+;
+1987 c 23 s 2
+;
+1986 c 231 s 1
+;
+1983 2nd ex.s. c 3 s 25
+;
+1981 c 144 s 3
+;
+1975 1st ex.s. c 291 s 5
+;
+1975 1st ex.s. c 90 s 1
+;
+1973 1st ex.s. c 145 s 1
+;
+1971 ex.s. c 299 s 3
+;
+1971 ex.s. c 281 s 1
+;
+1970 ex.s. c 8 s 1
+; prior:
+1969 ex.s. c 262 s 30
+;
+1969 ex.s. c 255 s 3
+;
+1967 ex.s. c 149 s 4
+;
+1965 ex.s. c 173 s 1
+;
+1963 c 7 s 1
+; prior:
+1961 ex.s. c 24 s 1
+;
+1961 c 293 s 1
+;
+1961 c 15 s 82.04.050
+; prior:
+1959 ex.s. c 5 s 2
+;
+1957 c 279 s 1
+;
+1955 c 389 s 6
+;
+1953 c 91 s 3
+;
+1951 2nd ex.s. c 28 s 3
+; 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+*Reviser's note:
+RCW
+82.04.280
+was amended by 2025 c 9 s 2, changing subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_050__subsec_16__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, this act applies both prospectively and retroactively to July 26, 2009.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 202, 402, and 502 of this act, and those provisions of sections 401 and 501 of this act that eliminate the sales and use tax exemptions in RCW
+82.08.02082
+and
+82.12.02082
+, apply prospectively only.&quot; [
+2010 c 111 s 902
+.]
+Effective date
+—
+2010 c 111:
+&quot;This act takes effect July 1, 2010.&quot; [
+2010 c 111 s 903
+.]
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Finding
+—
+Intent
+—
+Construction
+—
+Effective date
+—
+Reports and recommendations
+—
+2009 c 563:
+See notes following RCW
+82.32.780
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Severability
+—
+2007 c 54:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2007 c 54 s 32
+.]
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Findings
+—
+2005 c 515:
+&quot;The legislature finds that:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Public entities that receive tax dollars must continuously improve the way they operate and deliver service so citizens receive maximum value for their tax dollars; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An explicit statement clarifying that no sales or use tax shall apply to the entire charge paid by regional transit authorities for bus or rail combined operations and maintenance agreements that are provided to such authorities in support of their provision of urban transportation or transportation services is necessary to improve efficient service.&quot; [
+2005 c 515 s 1
+.]
+Effective date
+—
+2005 c 514:
+See note following RCW
+83.100.230
+.
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.
+Effective date
+—
+2004 c 174:
+See note following RCW
+82.04.2908
+.
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Retroactive application
+—
+Effective date
+—
+2002 c 178:
+See notes following RCW
+67.28.180
+.
+Findings
+—
+Construction
+—
+2000 2nd sp.s. c 4 ss 18-30:
+See notes following RCW
+81.112.300
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+1998 c 332:
+See notes following RCW
+82.04.29001
+.
+Effective dates
+—
+1998 c 308:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 4 of this act take effect July 1, 1998.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 5 of this act takes effect July 1, 2003.&quot; [
+1998 c 308 s 6
+.]
+Effective date
+—
+1998 c 275:
+&quot;This act takes effect July 1, 1998.&quot; [
+1998 c 275 s 2
+.]
+Effective date
+—
+1997 c 127:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 1997.&quot; [
+1997 c 127 s 2
+.]
+Severability
+—
+1996 c 148:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1996 c 148 s 7
+.]
+Effective date
+—
+1996 c 148:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect April 1, 1996.&quot; [
+1996 c 148 s 8
+.]
+Effective date
+—
+1996 c 112:
+&quot;This act shall take effect July 1, 1996.&quot; [
+1996 c 112 s 5
+.]
+Intent
+—
+1995 1st sp.s. c 12:
+&quot;It is the intent of the legislature that massage services be recognized as health care practitioners for the purposes of business and occupation tax application. To achieve this intent massage services are being removed from the definition of sale at retail and retail sale.&quot; [
+1995 1st sp.s. c 12 s 1
+.]
+Effective date
+—
+1995 1st sp.s. c 12:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 1st sp.s. c 12 s 5
+.]
+Effective date
+—
+1995 c 39:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 c 39 s 3
+.]
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Construction
+—
+</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of section 24 shall be effective on and after January 1, 1977: AND PROVIDED FURTHER, That subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>of section 24 shall be effective on and after January 1, 1978.&quot; [
+1975 1st ex.s. c 291 s 46
+.]
+Severability
+—
+1975 1st ex.s. c 291:
+&quot;If any provision of this 1975 amendatory act, or its application to any person or circumstance is held invalid, the remainder of the act, or the application of the provision to other persons or circumstances is not affected.&quot; [
+1975 1st ex.s. c 291 s 45
+.]
+Effective date
+—
+1975 1st ex.s. c 90:
+&quot;This 1975 amendatory act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1975.&quot; [
+1975 1st ex.s. c 90 s 5
+.]
+Effective date
+—
+1973 1st ex.s. c 145:
+&quot;This act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1973.&quot; [
+1973 1st ex.s. c 145 s 2
+.]
+Effective dates
+—
+1971 ex.s. c 299:
+&quot;This 1971 amendatory act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect as follows:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 12, 15 through 34 and 53 shall take effect July 1, 1971;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 13, 14, and 77 and 78 shall take effect June 1, 1971; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Sections 35 through 52 and 54 through 76 shall take effect as provided in section 53.&quot; [
+1971 ex.s. c 299 s 79
+.]
+Severability
+—
+1971 ex.s. c 299:
+&quot;If any phrase, clause, subsection or section of this 1971 amendatory act shall be declared unconstitutional or invalid by any court of competent jurisdiction, it shall be conclusively presumed that the legislature would have enacted this 1971 amendatory act without the phrase, clause, subsection or section so held unconstitutional or invalid and the remainder of the act shall not be affected as a result of said part being held unconstitutional or invalid.&quot; [
+1971 ex.s. c 299 s 78
+.]
+Construction
+—
+Severability
+—
+1969 ex.s. c 255:
+See notes following RCW
+35.58.272
+.
+Effective date
+—
+1967 ex.s. c 149:
+&quot;This act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1967.&quot; [
+1967 ex.s. c 149 s 65
+.]
+Effective date
+—
+1965 ex.s. c 173:
+&quot;This act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect June 1, 1965.&quot; [
+1965 ex.s. c 173 s 33
+.]
+Credit for retail sales or use taxes paid to other jurisdictions with respect to property used: RCW
+82.12.035
+.
+&quot;Services rendered in respect to&quot; defined: RCW
+82.04.051
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

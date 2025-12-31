@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.36.110"/>
+          <FRBRuri value="/us-wa/act/rcw/74.36.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.36.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.36.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.36.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.36.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_36_110">
+        <num>RCW 74.36.110</num>
+        <heading>Community programs and projects for the aging—Allotments for—Purpose</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.36
+&gt;
+Section 74.36.110
+74.36.100
+&lt;&lt; 
+        74.36.110 &gt;&gt;
+74.36.120
+PDF
+RCW
+74.36.110
+Community programs and projects for the aging
+—
+Allotments for
+—
+Purpose.
+The secretary of the department of social and health services or his or her designee is authorized to allot for such purposes all or a portion of whatever state funds the legislature appropriates or are otherwise made available for the purpose of matching local funds dedicated to community programs and projects for the aging. The purpose of RCW
+74.36.110
+through
+74.36.130
+is to stimulate and assist local communities to obtain federal funds made available under the federal older Americans act of 1965 as amended.
+[
+2013 c 23 s 222
+;
+1971 ex.s. c 169 s 10
+.]
+NOTES:
+Moneys in possession of secretary not subject to certain proceedings: RCW
+74.13.070
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

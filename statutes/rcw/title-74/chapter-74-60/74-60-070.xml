@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.070"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_070">
+        <num>RCW 74.60.070</num>
+        <heading>Assessment part of operating overhead</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.60
+&gt;
+Section 74.60.070
+74.60.060
+&lt;&lt; 
+        74.60.070 &gt;&gt;
+74.60.080
+PDF
+RCW
+74.60.070
+Assessment part of operating overhead.
+The incidence and burden of assessments imposed under this chapter shall be on hospitals and the expense associated with the assessments shall constitute a part of the operating overhead of hospitals. Hospitals shall not increase charges or billings to patients or third-party payers as a result of the assessments under this chapter. The authority may require hospitals to submit certified statements by their chief financial officers or equivalent officials attesting that they have not increased charges or billings as a result of the assessments.
+[
+2013 2nd sp.s. c 17 s 6
+;
+2010 1st sp.s. c 30 s 8
+.]
+NOTES:
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

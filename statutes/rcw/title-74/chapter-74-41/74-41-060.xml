@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.41.060"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.41.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.41.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_41_060">
+        <num>RCW 74.41.060</num>
+        <heading>Respite care program—Criteria</heading>
+        <subsection eId="sec_74_41_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Make maximum use of services which provide care to the greatest number of eligible participants with the fewest number of staff consistent with adequate care;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Provide for use of one-on-one care when necessary;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Provide for both day care and overnight care;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_060__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Provide personal care to continue at the same level which the caregiver ordinarily provides to the eligible participant; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_060__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Provide for the utilization of family home settings.
+[
+1984 c 158 s 6
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

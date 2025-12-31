@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_030">
+        <num>RCW 74.39A.030</num>
+        <heading>Expansion of home and community services—Payment rates</heading>
+        <subsection eId="sec_74_39A_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To the extent of available funding, the department shall expand cost-effective options for home and community services for consumers for whom the state participates in the cost of their care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In expanding home and community services, the department shall take full advantage of federal funding available under Title XVIII and Title XIX of the federal social security act, including home health, adult day care, waiver options, and state plan services and expand the availability of in-home services and residential services, including services in adult family homes, assisted living facilities, and enhanced services facilities.</p>
+          </content>
+          <subsection eId="sec_74_39A_030__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall by rule establish payment rates for home and community services that support the provision of cost-effective care. Beginning July 1, 2019, the department shall adopt a data-driven medicaid payment methodology as specified in RCW
+74.39A.032
+for contracted assisted living, adult residential care, and enhanced adult residential care. In the event of any conflict between any such rule and a collective bargaining agreement entered into under RCW
+74.39A.270
+and
+74.39A.300
+, the collective bargaining agreement prevails.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_030__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may authorize an enhanced adult residential care rate for nursing homes that temporarily or permanently convert their bed use under chapter
+70.38
+RCW for the purposes of providing assisted living, enhanced adult residential care, or adult residential care, when the department determines that payment of an enhanced rate is cost-effective and necessary to foster expansion of these contracted services. As an incentive for nursing homes to permanently convert a portion of their nursing home bed capacity for the purposes of providing assisted living, enhanced adult residential care, or adult residential care, including but not limited to serving individuals with behavioral health treatment needs, the department may authorize a supplemental add-on to the residential care rate.
+[
+2019 c 324 s 11
+. Prior:
+2018 c 278 s 6
+;
+2018 c 225 s 2
+;
+2012 c 10 s 66
+;
+2002 c 3 s 10
+(Initiative Measure No. 775, approved November 6, 2001);
+1995 1st sp.s. c 18 s 2
+.]
+NOTES:
+Recommendations
+—
+Residential intensive behavioral health and developmental disability services
+—
+2019 c 324:
+&quot;By July 1, 2020, the health care authority and the department of social and health services, in consultation with the department of health, the department of children, youth, and families, representatives from providers serving children's inpatient psychiatric needs in each of the three largest cities in Washington, representatives from behavioral health and developmental disability service providers, and representatives from developmental disability advocacy organizations including individuals and families of individuals who need or receive behavioral health and developmental disability services, must provide recommendations to the governor's office and the appropriate committees of the legislature relating to short-term and long-term residential intensive behavioral health and developmental disability services for youth and adults with developmental disabilities and behavioral health needs who </p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Consider services necessary to support the youth or adult, the youth or adult's family, and the residential service provider in preparation for and after discharge, including in-home behavioral health and developmental disability supports that may be needed after discharge to maintain stability;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>establish staffing and funding requirements that provide an appropriate level of treatment for residents in facilities, including both licensed mental health professionals and developmental disability professionals; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>for youth clients, consider how to successfully transition a youth to adult services without service disruption.&quot; [
+2019 c 324 s 10
+.]
+Findings
+—
+Intent
+—
+2019 c 324:
+See note following RCW
+71.24.648
+.
+Mental health drop-in center services pilot program
+—
+2019 c 324:
+See note following RCW
+71.24.649
+.
+Report
+—
+2019 c 324:
+See note following RCW
+70.38.111
+.
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.
+Findings
+—
+Intent
+—
+2018 c 225:
+See note following RCW
+74.39A.032
+.
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Conflict with federal requirements
+—
+1995 1st sp.s. c 18:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. The rules under this act shall meet federal requirements that are a necessary condition to the receipt of federal funds by the state.&quot; [
+1995 1st sp.s. c 18 s 74
+.]
+Severability
+—
+1995 1st sp.s. c 18:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1995 1st sp.s. c 18 s 119
+.]
+Effective date
+—
+1995 1st sp.s. c 18:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 1st sp.s. c 18 s 120
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.510"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.510/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.510/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_510">
+        <num>RCW 74.04.510</num>
+        <heading>Food stamp program—Rules</heading>
+        <subsection eId="sec_74_04_510__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The classifications of and requirements of eligibility of households to receive food stamps, coupons, or food stamp or coupon benefits transferred electronically; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_510__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the periods during which households shall be certified or recertified to be eligible to receive food stamps, coupons, or food stamp or coupon benefits transferred electronically under this plan.
+[
+1998 c 79 s 10
+;
+1981 1st ex.s. c 6 s 5
+;
+1981 c 8 s 5
+;
+1969 ex.s. c 172 s 6
+.]
+NOTES:
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

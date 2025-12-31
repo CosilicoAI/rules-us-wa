@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.807"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.807"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.807/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.807/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.807/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.807/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_807">
+        <num>RCW 82.08.807</num>
+        <heading>Exemptions—Direct mail delivery charges</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.807
+82.08.806
+&lt;&lt; 
+        82.08.807 &gt;&gt;
+82.08.808
+PDF
+RCW
+82.08.807
+Exemptions
+—
+Direct mail delivery charges.
+The tax levied by RCW
+82.08.020
+does not apply to delivery charges made for the delivery of direct mail if the charges are separately stated on an invoice or similar billing document given to the purchaser.
+[
+2005 c 514 s 115
+.]
+NOTES:
+Effective date
+—
+2005 c 514:
+See note following RCW
+82.04.4272
+.
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

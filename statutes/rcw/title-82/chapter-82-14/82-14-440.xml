@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.440"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.440"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.440/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.440/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.440/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.440/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_440">
+        <num>RCW 82.14.440</num>
+        <heading>Sales and use tax for passenger-only ferry service</heading>
+        <subsection eId="sec_82_14_440__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>are on the Puget Sound, but</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_440__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>do not include an area where a regional transit authority has been formed, may submit an authorizing proposition to the voters and, if approved by a majority of persons voting, fix and impose a sales and use tax in accordance with the terms of this chapter, solely for the purpose of providing passenger-only ferry service.
+The tax authorized by this section is in addition to other taxes authorized by law and must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of a taxable event within the taxing district. The maximum rate of the tax must be approved by the voters and may not exceed four-tenths of one percent of the selling price in the case of a sales tax or value of the article used in the case of a use tax.
+[
+2003 c 83 s 207
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Captions, part headings not law
+—
+Severability
+—
+Effective date
+—
+2003 c 83:
+See notes following RCW
+36.57A.200
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

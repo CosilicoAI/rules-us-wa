@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.170"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_170">
+        <num>RCW 82.08.170</num>
+        <heading>Apportionment and distribution from liquor excise tax fund</heading>
+        <subsection eId="sec_82_08_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section, during the months of January, April, July, and October of each year, the state treasurer must make the transfers required under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section from the liquor excise tax fund and then the apportionment and distribution of all remaining moneys in the liquor excise tax fund to the counties, cities, and towns in the following proportions:</p>
+          </content>
+          <subsection eId="sec_82_08_170__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Twenty percent of the moneys in the liquor excise tax fund must be divided among and distributed to the counties of the state in accordance with the provisions of RCW
+66.08.200
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_170__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>eighty percent of the moneys in the liquor excise tax fund must be divided among and distributed to the cities and towns of the state in accordance with the provisions of RCW
+66.08.210
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Each fiscal quarter and prior to making the twenty percent distribution to counties under subsection</p>
+          </content>
+          <subsection eId="sec_82_08_170__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the treasurer shall transfer to the liquor revolving fund created in RCW
+66.08.170
+sufficient moneys to fund the allotments from any legislative appropriations for county research and services as provided under chapter
+43.110
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>During the months of January, April, July, and October of each year, the state treasurer must transfer two million five hundred thousand dollars from the liquor excise tax fund to the state general fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>During calendar year 2012, the October distribution under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and the July and October transfers under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section must not be made. During calendar year 2013, the January, April, and July distributions under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and transfers under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section must not be made.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_170__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The liquor excise tax fund may be appropriated for the local government fiscal note program in the department of commerce.
+[
+2022 c 157 s 20
+;
+2021 c 334 s 998
+;
+2020 c 357 s 919
+;
+2015 3rd sp.s. c 4 s 976
+;
+2012 2nd sp.s. c 5 s 4
+;
+2002 c 38 s 3
+;
+1997 c 437 s 4
+;
+1983 c 3 s 215
+;
+1961 c 15 s 82.08.170
+. Prior:
+1955 c 396 s 3
+.]
+NOTES:
+Conflict with federal requirements
+—
+Effective date
+—
+2021 c 334:
+See notes following RCW
+43.79.555
+.
+Effective date
+—
+2020 c 357:
+See note following RCW
+43.79.545
+.
+Effective dates
+—
+2015 3rd sp.s. c 4:
+See note following RCW
+28B.15.069
+.
+Effective date
+—
+2012 2nd sp.s. c 5:
+See note following RCW
+82.08.160
+.
+Effective date
+—
+1997 c 437:
+See note following RCW
+43.110.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

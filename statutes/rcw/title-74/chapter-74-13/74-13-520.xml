@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.520"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.520"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.520/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.520/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.520/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.520/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_520">
+        <num>RCW 74.13.520</num>
+        <heading>Disclosure of child welfare records—Information not to be disclosed</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.520
+74.13.515
+&lt;&lt; 
+        74.13.520 &gt;&gt;
+74.13.525
+PDF
+RCW
+74.13.520
+Disclosure of child welfare records
+—
+Information not to be disclosed.
+Except as it applies directly to the cause of the abuse or neglect of the child and any actions taken by the department in response to reports of abuse or neglect of the child, nothing in RCW
+74.13.500
+through
+74.13.515
+is deemed to authorize the release or disclosure of the substance or content of any psychological, psychiatric, therapeutic, clinical, or medical reports, evaluations, or like materials, or information pertaining to the child or the child's family.
+[
+1997 c 305 s 6
+.]
+NOTES:
+Conflict with federal requirements
+—
+1997 c 305:
+See note following RCW
+74.13.500
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

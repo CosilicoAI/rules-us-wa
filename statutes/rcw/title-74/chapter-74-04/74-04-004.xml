@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.004"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.004"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.004/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.004/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.004/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.004/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_004">
+        <num>RCW 74.04.004</num>
+        <heading>Definitions—Fraud and abuse</heading>
+        <subsection eId="sec_74_04_004__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Abuse&quot; means any intentional use of public assistance benefits that constitutes a violation of any state statute or regulation relating to the use of public assistance benefits. This definition excludes medicaid and other medical programs as defined in chapter
+74.09
+RCW, and fraud and abuse committed by medical providers and recipients of medicaid and other medical program services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_004__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Disclosable information&quot; means public information that</p>
+          </content>
+          <subsection eId="sec_74_04_004__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>is not exempt from disclosure under chapter
+42.56
+RCW; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_004__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>does not pertain to an ongoing investigation.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_004__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Fraud&quot; means an intentional deception or misrepresentation made by a person with the knowledge that the deception could result in some unauthorized benefit to himself or herself or some other person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_004__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Office&quot; means the office of fraud and accountability.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_004__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Public assistance&quot; or &quot;public assistance programs&quot; means public aid to persons in need including assistance grants, food assistance, work relief, disability lifeline benefits, temporary assistance for needy families, and, for purposes of this section, working connections child care subsidies. This definition excludes medicaid and other medical programs as defined in chapter
+74.09
+RCW, and fraud and abuse committed by medical providers and recipients of medicaid and other medical program services.
+[
+2011 1st sp.s. c 42 s 21
+.]
+NOTES:
+Finding
+—
+2011 1st sp.s. c 42:
+&quot;The legislature finds that eliminating waste, fraud, and abuse of public assistance benefits should be a priority of the department of social and health services, and this can best be reflected in a newly organized, accountable, and proactive fraud unit directly under the secretary's authority with the resources necessary to combat fraud and to ensure the confidence of the public in the critical social safety net programs it funds.&quot; [
+2011 1st sp.s. c 42 s 20
+.]
+Findings
+—
+Intent
+—
+Effective date
+—
+2011 1st sp.s. c 42:
+See notes following RCW
+74.08A.260
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

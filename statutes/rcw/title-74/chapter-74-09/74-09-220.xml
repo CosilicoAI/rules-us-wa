@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.220"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.220/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.220/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_220">
+        <num>RCW 74.09.220</num>
+        <heading>Liability for receipt of excess payments</heading>
+        <subsection eId="sec_74_09_220__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>any excess benefits or payments received, and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_220__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>interest calculated at the rate and in the manner provided in RCW
+43.20B.695
+or
+41.05A.220
+. Whenever a penalty is due under RCW
+74.09.210
+or interest is due under RCW
+43.20B.695
+or
+41.05A.220
+, such penalty or interest shall not be reimbursable by the state as an allowable cost under any of the provisions of this chapter or other applicable law.
+[
+2023 c 51 s 37
+;
+2018 c 201 s 7010
+;
+1987 c 283 s 8
+;
+1979 ex.s. c 152 s 3
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Severability
+—
+Savings
+—
+1987 c 283:
+See notes following RCW
+43.20A.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.835"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.835"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.835/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.835/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.835/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.835/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_835">
+        <num>RCW 74.46.835</num>
+        <heading>AIDS pilot nursing facility—Payment for direct care</heading>
+        <subsection eId="sec_74_46_835__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Payment for direct care at the pilot nursing facility in King county designed to meet the service needs of residents living with AIDS, as defined in *RCW
+70.24.017
+, and as specifically authorized for this purpose under chapter 9, Laws of 1989 1st ex. sess., shall be exempt from case mix methods of rate determination set forth in this chapter and shall be exempt from the direct care wage index adjustment set forth in this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_835__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Direct care component rates at the AIDS pilot facility shall be based on direct care reported costs at the pilot facility, utilizing the same rate-setting cycle prescribed for other nursing facilities, and as supported by a staffing benchmark based upon a department-approved acuity measurement system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_835__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The provisions of RCW
+74.46.421
+and all other rate-setting principles, cost lids, and limits, including settlement as provided in rule shall apply to the AIDS pilot facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_835__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section applies only to the AIDS pilot nursing facility.
+[
+2016 c 131 s 6
+;
+2010 1st sp.s. c 34 s 17
+;
+1998 c 322 s 46
+.]
+NOTES:
+*Reviser's note:
+RCW
+70.24.017
+was amended by 2020 c 76 s 2, deleting the definition of &quot;AIDS.&quot;
+Effective date
+—
+2010 1st sp.s. c 34:
+See note following RCW
+74.46.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

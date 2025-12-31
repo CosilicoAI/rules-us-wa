@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_090">
+        <num>RCW 82.24.090</num>
+        <heading>Records—Preservation—Reports</heading>
+        <subsection eId="sec_82_24_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every wholesaler or retailer subject to the provisions of this chapter shall keep and preserve for a period of five years an accurate set of records. These records must show all transactions relating to the purchase and sale of any of the articles taxed under this chapter and show all physical inventories performed on those articles, all invoices, and a record of all stamps purchased. All such records and all stock of taxable articles on hand shall be open to inspection at all reasonable times by the department of revenue or its duly authorized agent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>All wholesalers shall within fifteen days after the first day of each month file with the department of revenue a report of all drop shipment sales made by them to retailers within this state during the preceding month. The report shall show the name and address of the retailer to whom the cigarettes were sold, the kind and quantity, and the date of delivery thereof.
+[
+1995 c 278 s 6
+;
+1975 1st ex.s. c 278 s 62
+;
+1961 c 15 s 82.24.090
+. Prior:
+1941 c 178 s 14
+;
+1939 c 225 s 24
+;
+1935 c 180 s 84
+; Rem. Supp. 1941 s 8370-84.]
+NOTES:
+Effective date
+—
+1995 c 278:
+See note following RCW
+82.24.010
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

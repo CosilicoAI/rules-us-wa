@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_040">
+        <num>RCW 74.42.040</num>
+        <heading>Resident's rights regarding medical condition, care, and treatment</heading>
+        <subsection eId="sec_74_42_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Is fully informed by a physician about his or her health and medical condition unless the physician decides that informing the resident is medically contraindicated and the physician documents this decision in the resident's record;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Has the opportunity to participate in his or her total care and treatment;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Has the opportunity to refuse treatment; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Gives informed, written consent before participating in experimental research.
+[
+1979 ex.s. c 211 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

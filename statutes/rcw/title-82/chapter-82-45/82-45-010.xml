@@ -1,0 +1,1310 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_010">
+        <num>RCW 82.45.010</num>
+        <heading>&quot;Sale&quot; defined. (&lt;i&gt;Effective until January 1, 2030.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>As used in this chapter, the term &quot;sale&quot; has its ordinary meaning and includes any conveyance, grant, assignment, quitclaim, or transfer of the ownership of or title to real property, including standing timber, or any estate or interest therein for a valuable consideration, and any contract for such conveyance, grant, assignment, quitclaim, or transfer, and any lease with an option to purchase real property, including standing timber, or any estate or interest therein or other contract under which possession of the property is given to the purchaser, or any other person at the purchaser's direction, and title to the property is retained by the vendor as security for the payment of the purchase price. The term also includes the grant, assignment, quitclaim, sale, or transfer of improvements constructed upon leased land.</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term &quot;sale&quot; also includes the transfer or acquisition within any 36 month period of a controlling interest in any entity with an interest in real property located in this state for a valuable consideration.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the sole purpose of determining whether, pursuant to the exercise of an option, a controlling interest was transferred or acquired within a 36 month period, the date that the option agreement was executed is the date on which the transfer or acquisition of the controlling interest is deemed to occur. For all other purposes under this chapter, the date upon which the option is exercised is the date of the transfer or acquisition of the controlling interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection, all acquisitions of persons acting in concert must be aggregated for purposes of determining whether a transfer or acquisition of a controlling interest has taken place. The department must adopt standards by rule to determine when persons are acting in concert. In adopting a rule for this purpose, the department must consider the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Persons must be treated as acting in concert when they have a relationship with each other such that one person influences or controls the actions of another through common ownership; and</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>When persons are not commonly owned or controlled, they must be treated as acting in concert only when the unity with which the purchasers have negotiated and will consummate the transfer of ownership interests supports a finding that they are acting as a single entity. If the acquisitions are completely independent, with each purchaser buying without regard to the identity of the other purchasers, then the acquisitions are considered separate acquisitions.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The term &quot;sale&quot; does not include:</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A transfer by gift, devise, or inheritance.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A transfer by transfer on death deed, to the extent that it is not in satisfaction of a contractual obligation of the decedent owed to the recipient of the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A transfer of any leasehold interest other than of the type mentioned above.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A cancellation or forfeiture of a vendee's interest in a contract for the sale of real property, whether or not such contract contains a forfeiture clause, or deed in lieu of foreclosure of a mortgage.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The partition of property by tenants in common by agreement or as the result of a court decree.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The assignment of property or interest in property from one spouse or one domestic partner to the other spouse or other domestic partner in accordance with the terms of a decree of dissolution of marriage or state registered domestic partnership or in fulfillment of a property settlement agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The assignment or other transfer of a vendor's interest in a contract for the sale of real property, even though accompanied by a conveyance of the vendor's interest in the real property involved.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Transfers by appropriation or decree in condemnation proceedings brought by the United States, the state or any political subdivision thereof, or a municipal corporation.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A mortgage or other transfer of an interest in real property merely to secure a debt, or the assignment thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Any transfer or conveyance made pursuant to a deed of trust or an order of sale by the court in any mortgage, deed of trust, or lien foreclosure proceeding or upon execution of a judgment, or deed in lieu of foreclosure to satisfy a mortgage or deed of trust.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>A conveyance to the federal housing administration or veterans administration by an authorized mortgagee made pursuant to a contract of insurance or guaranty with the federal housing administration or veterans administration.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>A transfer in compliance with the terms of any lease or contract upon which the tax as imposed by this chapter has been paid or where the lease or contract was entered into prior to the date this tax was first imposed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>The sale of any grave or lot in an established cemetery.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>A sale by the United States, this state or any political subdivision thereof, or a municipal corporation of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>A sale to a regional transit authority or public corporation under RCW
+81.112.320
+under a sale/leaseback agreement under RCW
+81.112.300
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>A transfer of real property, however effected, if it consists of a mere change in identity or form of ownership of an entity where there is no change in the beneficial ownership. These include transfers to a corporation or partnership which is wholly owned by the transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner. However, if thereafter such transferee corporation or partnership voluntarily transfers such real property, or such transferor, spouse or domestic partner, or children of the transferor or the transferor's spouse or domestic partner voluntarily transfer stock in the transferee corporation or interest in the transferee partnership capital, as the case may be, to other than</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner,</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a trust having the transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner as the only beneficiaries at the time of the transfer to the trust, or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>a corporation or partnership wholly owned by the original transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner, within three years of the original transfer to which this exemption applies, and the tax on the subsequent transfer has not been paid within 60 days of becoming due, excise taxes become due and payable on the original transfer as otherwise provided by law.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A transfer that for federal income tax purposes does not involve the recognition of gain or loss for entity formation, liquidation or dissolution, and reorganization, including but not limited to nonrecognition of gain or loss because of application of 26 U.S.C. Sec. 332, 337, 351, 368(a)</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>However, the transfer described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection cannot be preceded or followed within a 36 month period by another transfer or series of transfers, that, when combined with the otherwise exempt transfer or transfers described in (q)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection, results in the transfer of a controlling interest in the entity for valuable consideration, and in which one or more persons previously holding a controlling interest in the entity receive cash or property in exchange for any interest the person or persons acting in concert hold in the entity. This subsection</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>does not apply to that part of the transfer involving property received that is the real property interest that the person or persons originally contributed to the entity or when one or more persons who did not contribute real property or belong to the entity at a time when real property was purchased receive cash or personal property in exchange for that person or persons' interest in the entity. The real estate excise tax under this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>is imposed upon the person or persons who previously held a controlling interest in the entity.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_r">
+            <num>(r)</num>
+            <content>
+              <p>A qualified sale of a manufactured/mobile home community, as defined in RCW
+59.20.030
+.
+(s)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A transfer of a qualified low-income housing development or controlling interest in a qualified low-income housing development, unless, due to noncompliance with federal statutory requirements, the seller is subject to recapture, in whole or in part, of its allocated federal low-income housing tax credits within the four years prior to the date of transfer.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>This subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_s">
+            <num>(s)</num>
+            <content>
+              <p>does not apply to transfers of a qualified low-income housing development or controlling interest in a qualified low-income housing development occurring on or after July 1, 2035.
+(iv) The Washington state housing finance commission, in consultation with the department, must gather data on: (A) The fiscal savings, if any, accruing to transferees as a result of the exemption provided in this subsection</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_s__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The Washington state housing finance commission, in consultation with the department, must gather data on: (A) The fiscal savings, if any, accruing to transferees as a result of the exemption provided in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_s">
+            <num>(s)</num>
+            <content>
+              <p>in calendar year 2033, as required under chapter
+43.136
+RCW.
+(t)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A qualified transfer of residential property by a legal representative of a person with developmental disabilities to a qualified entity subject to the following conditions:
+(A) The adult child with developmental disabilities of the transferor of the residential property must be allowed to reside in the residence or successor property so long as the placement is safe and appropriate as determined by the department of social and health services;
+(B) The title to the residential property is conveyed without the receipt of consideration by the legal representative of a person with developmental disabilities to a qualified entity;
+(C) The residential property must have no more than four living units located on it; and
+(D) The residential property transferred must remain in continued use for 50 years by the qualified entity as supported living for persons with developmental disabilities by the qualified entity or successor entity. If the qualified entity sells or otherwise conveys ownership of the residential property the proceeds of the sale or conveyance must be used to acquire similar residential property and such similar residential property must be considered the successor for continued use. The property will not be considered in continued use if the department of social and health services finds that the property has failed, after a reasonable time to remedy, to meet any health and safety statutory or regulatory requirements. If the department of social and health services determines that the property fails to meet the requirements for continued use, the department of social and health services must notify the department and the real estate excise tax based on the value of the property at the time of the transfer into use as residential property for persons with developmental disabilities becomes immediately due and payable by the qualified entity. The tax due is not subject to penalties, fees, or interest under this title.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For the purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_t">
+            <num>(t)</num>
+            <content>
+              <p>the definitions in RCW
+71A.10.020
+apply.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_t__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A &quot;qualified entity&quot; is:
+(A) A nonprofit organization under Title 26 U.S.C. Sec. 501</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the federal internal revenue code of 1986, as amended, as of June 7, 2018, or a subsidiary under the same taxpayer identification number that provides residential supported living for persons with developmental disabilities; or
+(B) A nonprofit adult family home, as defined in RCW
+70.128.010
+, that exclusively serves persons with developmental disabilities.
+(iv) In order to receive an exemption under this subsection</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_t">
+            <num>(t)</num>
+            <content>
+              <p>an affidavit must be submitted by the transferor of the residential property and must include a copy of the transfer agreement and any other documentation as required by the department.
+(u)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The sale by an affordable homeownership facilitator of self-help housing to a low-income household.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The definitions in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_u">
+            <num>(u)</num>
+            <content>
+              <p>apply to this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_u">
+            <num>(u)</num>
+            <content>
+              <p>unless the context clearly requires otherwise.
+(A) &quot;Affordable homeownership facilitator&quot; means a nonprofit community or neighborhood-based organization that is exempt from income tax under Title 26 U.S.C. Sec. 501</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the internal revenue code of 1986, as amended, as of October 1, 2019, and that is the developer of self-help housing.
+(B) &quot;Low-income&quot; means household income as defined by the department, provided that the definition may not exceed 80 percent of median household income, adjusted for household size, for the county in which the dwelling is located.
+(C) &quot;Self-help housing&quot; means dwelling residences provided for ownership by low-income individuals and families whose ownership requirement includes labor participation. &quot;Self-help housing&quot; does not include residential rental housing provided on a commercial basis to the general public.
+(v)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A sale or transfer of real property to a qualifying grantee that uses the property for housing for low-income persons and receives or otherwise qualifies the property for an exemption from real and personal property taxes under RCW
+84.36.560
+,
+84.36.049
+,
+35.82.210
+,
+35.21.755
+, or
+84.36.010
+. For purposes of this subsection</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the qualifying grantee fails to satisfy the requirements described in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>If a qualifying grantee transfers the property to a different qualifying grantee within the original timelines described in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection. There is no limit on the number of transfers between qualifying grantees within the original timelines.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Each affidavit must be filed with the department upon completion of the sale or transfer of property, including transfers from a qualifying grantee to a different qualifying grantee. The qualifying grantee must provide proof to the department as required by the department once the requirements as described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_u">
+            <num>(u)</num>
+            <content>
+              <p>of this subsection.
+(w)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Beginning January 1, 2026, the sale of qualified space in a development that qualifies for a property tax exemption under RCW
+84.36.560
+,
+84.36.049
+,
+35.82.210
+,
+35.21.755
+, or
+84.36.010
+to a nonprofit organization, a housing authority, or public corporation for use for an exempt community purpose.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For the purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the internal revenue code of 1986 (26 U.S.C. Sec. 501(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Chapters
+64.32
+and
+64.34
+RCW were repealed by 2024 c 321, effective January 1, 2028.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax preference enacted in section 3, chapter 223, Laws of 2018 expires January 1, 2029, pursuant to the automatic expiration date established in RCW
+82.32.805</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that Washington state has one of the strongest economies in the country. However, despite the strong economy, our state has entered an affordable housing crisis where low-income and middle-income households have the fewest number of housing options. Furthermore, it is estimated that Washington state's housing gap is among the most severe in the nation, with only 29 affordable and available rental homes for every 100 extremely low-income households.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature concludes that in the spirit of one Washington, the health of all Washingtonians will benefit from a larger stock in affordable housing. Therefore, it is the intent of the legislature to incentivize real property transfers to nonprofit housing providers, public housing authorities, or local governments to increase the availability of affordable housing for low-income Washingtonians.&quot; [
+2022 c 199 s 1
+.]
+Tax preference performance statement
+—
+2022 c 199:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences in sections 3 and 4, chapter 199, Laws of 2022. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to encourage sales or transfers of real property to nonprofit entities, housing authorities, or public corporations that intend to use the transferred property for housing for low-income persons.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that the number of sales or transfers of real property to qualified entities has not increased, then the legislature intends to repeal the expiration date of the tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any available data source, including the transfer or sale of properties reported by county records.&quot; [
+2022 c 199 s 2
+.]
+Tax preference automatic expiration date exemption
+—
+2022 c 199:
+&quot;The expiration date provisions of RCW
+82.32.805</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>do not apply to the tax preferences in sections 3 and 4, chapter 199, Laws of 2022.&quot; [
+2022 c 199 s 5
+.]
+Automatic expiration date and tax preference performance statement exemption
+—
+Effective date
+—
+2019 c 424:
+See notes following RCW
+82.45.060
+.
+Expiration date
+—
+2019 c 390 s 10:
+&quot;Section 10 of this act expires January 1, 2030.&quot; [
+2019 c 390 s 21
+.]
+Tax preference performance statement
+—
+2019 c 390 s 10:
+&quot;This section is the tax preference performance statement for the tax preference contained in section 10, chapter 390, Laws of 2019. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behaviors by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to preserve the affordable housing opportunities provided by existing manufactured/mobile home communities. It is the legislature's intent to encourage owners to sell existing communities to tenants and eligible organizations by providing a real estate excise tax exemption.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To measure the effectiveness of this tax preference in achieving the specific public policy objective described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee must, at minimum, review the number of units of housing that are preserved as a result of qualified sales of manufactured/mobile home communities and the total amount of exemptions claimed, as reported to the department of revenue.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The joint legislative audit and review committee may use any other data it deems necessary in performing the evaluation under this section.&quot; [
+2019 c 390 s 9
+.]
+Finding
+—
+Intent
+—
+2019 c 390:
+See note following RCW
+59.21.005
+.
+Tax preference performance statement and expiration
+—
+2019 c 390:
+See note following RCW
+84.36.560
+.
+Expiration date
+—
+2019 c 385 s 2:
+&quot;Section 2 of this act expires January 1, 2030.&quot; [
+2019 c 385 s 4
+.]
+Tax preference performance statement
+—
+2019 c 385:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for this act. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any part or be used to determine eligibility for a preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes the tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to provide real estate excise tax relief to developers of self-help housing to encourage continued development of self-help housing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The joint legislative audit and review committee is directed to review:</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The total number of taxpayers that claimed the tax preference; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The total amount of real estate excise tax revenue that was exempt under this act, annually.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain this section, the joint legislative audit and review committee may refer to department of revenue data, as well as any other available data source.&quot; [
+2019 c 385 s 1
+.]
+Effective date
+—
+2019 c 385:
+&quot;This act takes effect October 1, 2019.&quot; [
+2019 c 385 s 3
+.]
+Tax preference performance statement
+—
+2018 c 223 s 3:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 3, chapter 223, Laws of 2018. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to reduce the tax burden on individuals and businesses imposed by the existing real estate excise tax rates.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that there is an increase of residential property transfers by parents of a person with developmental disabilities to a qualified entity as a result of the relief from this tax preference, then the legislature intends to extend the expiration date of this tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2018 c 223 s 2
+.]
+Findings
+—
+2018 c 223:
+&quot;The legislature finds that there is need to expand housing opportunities for persons with developmental disabilities. The legislature finds it is often preferable for persons with developmental disabilities to remain residing in their home, when it is safe and appropriate, to foster ongoing stability. The legislature recognizes that securing a child's future housing and services provides the parents of persons with developmental disabilities peace of mind. The legislature further finds that providing a new mechanism for the transfer of residential property into housing for persons with developmental disabilities expands the state's housing capacity and helps meet demand. The legislature further finds that utilizing existing residential property will reduce the demands on the housing trust fund. The legislature finds that there is an opportunity and need, for advocates and the supporters of the developmental disabilities community to work together, to develop model transfer agreements that will provide peace of mind and assist parents of children with developmental disabilities [to] more readily access this program.&quot; [
+2018 c 223 s 1
+.]
+Application
+—
+2018 c 221:
+&quot;This act applies with respect to transfers occurring before, on, or after July 1, 2018. However, this act may not be construed by the department of revenue, state board of tax appeals, or any court as authorizing the refund of any tax liability imposed or authorized under chapter
+82.45
+or
+82.46
+RCW and properly paid before July 1, 2018, with respect to a transfer of qualified low-income housing as defined in RCW
+82.45.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that transfers of ownership of entities may be essentially equivalent to the sale of real property held by the entity. The legislature further finds that all transfers of possession or use of real property should be subject to the same excise tax burdens.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature intends to apply the real estate excise tax of chapter
+82.45
+RCW to transfers of entity ownership when the transfer of entity ownership is comparable to the sale of real property. The legislature intends to equate the excise tax burdens on all sales of real property and transfers of entity ownership essentially equivalent to a sale of real property under chapter
+82.45
+RCW.&quot; [
+1993 sp.s. c 25 s 501
+.]
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Effective date
+—
+1981 c 93 s 2:
+&quot;Section 2 of this act shall take effect September 1, 1981.&quot; [
+1981 c 93 s 3
+.]
+Effective date
+—
+Severability
+—
+1970 ex.s. c 65:
+See notes following RCW
+82.03.050
+.
+PDF
+RCW
+82.45.010
+&quot;Sale&quot; defined.
+(Effective January 1, 2030.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>As used in this chapter, the term &quot;sale&quot; has its ordinary meaning and includes any conveyance, grant, assignment, quitclaim, or transfer of the ownership of or title to real property, including standing timber, or any estate or interest therein for a valuable consideration, and any contract for such conveyance, grant, assignment, quitclaim, or transfer, and any lease with an option to purchase real property, including standing timber, or any estate or interest therein or other contract under which possession of the property is given to the purchaser, or any other person at the purchaser's direction, and title to the property is retained by the vendor as security for the payment of the purchase price. The term also includes the grant, assignment, quitclaim, sale, or transfer of improvements constructed upon leased land.</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The term &quot;sale&quot; also includes the transfer or acquisition within any 36 month period of a controlling interest in any entity with an interest in real property located in this state for a valuable consideration.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the sole purpose of determining whether, pursuant to the exercise of an option, a controlling interest was transferred or acquired within a 36 month period, the date that the option agreement was executed is the date on which the transfer or acquisition of the controlling interest is deemed to occur. For all other purposes under this chapter, the date upon which the option is exercised is the date of the transfer or acquisition of the controlling interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection, all acquisitions of persons acting in concert must be aggregated for purposes of determining whether a transfer or acquisition of a controlling interest has taken place. The department must adopt standards by rule to determine when persons are acting in concert. In adopting a rule for this purpose, the department must consider the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Persons must be treated as acting in concert when they have a relationship with each other such that one person influences or controls the actions of another through common ownership; and</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>When persons are not commonly owned or controlled, they must be treated as acting in concert only when the unity with which the purchasers have negotiated and will consummate the transfer of ownership interests supports a finding that they are acting as a single entity. If the acquisitions are completely independent, with each purchaser buying without regard to the identity of the other purchasers, then the acquisitions are considered separate acquisitions.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The term &quot;sale&quot; does not include:</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A transfer by gift, devise, or inheritance.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A transfer by transfer on death deed, to the extent that it is not in satisfaction of a contractual obligation of the decedent owed to the recipient of the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A transfer of any leasehold interest other than of the type mentioned above.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A cancellation or forfeiture of a vendee's interest in a contract for the sale of real property, whether or not such contract contains a forfeiture clause, or deed in lieu of foreclosure of a mortgage.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The partition of property by tenants in common by agreement or as the result of a court decree.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The assignment of property or interest in property from one spouse or one domestic partner to the other spouse or other domestic partner in accordance with the terms of a decree of dissolution of marriage or state registered domestic partnership or in fulfillment of a property settlement agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The assignment or other transfer of a vendor's interest in a contract for the sale of real property, even though accompanied by a conveyance of the vendor's interest in the real property involved.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Transfers by appropriation or decree in condemnation proceedings brought by the United States, the state or any political subdivision thereof, or a municipal corporation.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A mortgage or other transfer of an interest in real property merely to secure a debt, or the assignment thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Any transfer or conveyance made pursuant to a deed of trust or an order of sale by the court in any mortgage, deed of trust, or lien foreclosure proceeding or upon execution of a judgment, or deed in lieu of foreclosure to satisfy a mortgage or deed of trust.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>A conveyance to the federal housing administration or veterans administration by an authorized mortgagee made pursuant to a contract of insurance or guaranty with the federal housing administration or veterans administration.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>A transfer in compliance with the terms of any lease or contract upon which the tax as imposed by this chapter has been paid or where the lease or contract was entered into prior to the date this tax was first imposed.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>The sale of any grave or lot in an established cemetery.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>A sale by the United States, this state or any political subdivision thereof, or a municipal corporation of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>A sale to a regional transit authority or public corporation under RCW
+81.112.320
+under a sale/leaseback agreement under RCW
+81.112.300
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>A transfer of real property, however effected, if it consists of a mere change in identity or form of ownership of an entity where there is no change in the beneficial ownership. These include transfers to a corporation or partnership which is wholly owned by the transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner. However, if thereafter such transferee corporation or partnership voluntarily transfers such real property, or such transferor, spouse or domestic partner, or children of the transferor or the transferor's spouse or domestic partner voluntarily transfer stock in the transferee corporation or interest in the transferee partnership capital, as the case may be, to other than</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner,</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a trust having the transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner as the only beneficiaries at the time of the transfer to the trust, or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>a corporation or partnership wholly owned by the original transferor and/or the transferor's spouse or domestic partner or children of the transferor or the transferor's spouse or domestic partner, within three years of the original transfer to which this exemption applies, and the tax on the subsequent transfer has not been paid within sixty days of becoming due, excise taxes become due and payable on the original transfer as otherwise provided by law.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A transfer that for federal income tax purposes does not involve the recognition of gain or loss for entity formation, liquidation or dissolution, and reorganization, including but not limited to nonrecognition of gain or loss because of application of 26 U.S.C. Sec. 332, 337, 351, 368(a)</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>However, the transfer described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection cannot be preceded or followed within a 36 month period by another transfer or series of transfers, that, when combined with the otherwise exempt transfer or transfers described in (q)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection, results in the transfer of a controlling interest in the entity for valuable consideration, and in which one or more persons previously holding a controlling interest in the entity receive cash or property in exchange for any interest the person or persons acting in concert hold in the entity. This subsection</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>does not apply to that part of the transfer involving property received that is the real property interest that the person or persons originally contributed to the entity or when one or more persons who did not contribute real property or belong to the entity at a time when real property was purchased receive cash or personal property in exchange for that person or persons' interest in the entity. The real estate excise tax under this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>is imposed upon the person or persons who previously held a controlling interest in the entity.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_r">
+            <num>(r)</num>
+            <content>
+              <p>A qualified sale of a manufactured/mobile home community, as defined in RCW
+59.20.030
+, that takes place on or after June 12, 2008, but before December 31, 2018.
+(s)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A transfer of a qualified low-income housing development or controlling interest in a qualified low-income housing development, unless, due to noncompliance with federal statutory requirements, the seller is subject to recapture, in whole or in part, of its allocated federal low-income housing tax credits within the four years prior to the date of transfer.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>This subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_s">
+            <num>(s)</num>
+            <content>
+              <p>does not apply to transfers of a qualified low-income housing development or controlling interest in a qualified low-income housing development occurring on or after July 1, 2035.
+(iv) The Washington state housing finance commission, in consultation with the department, must gather data on: (A) The fiscal savings, if any, accruing to transferees as a result of the exemption provided in this subsection</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_s__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The Washington state housing finance commission, in consultation with the department, must gather data on: (A) The fiscal savings, if any, accruing to transferees as a result of the exemption provided in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_s">
+            <num>(s)</num>
+            <content>
+              <p>in calendar year 2033, as required under chapter
+43.136
+RCW.
+(t)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A qualified transfer of residential property by a legal representative of a person with developmental disabilities to a qualified entity subject to the following conditions:
+(A) The adult child with developmental disabilities of the transferor of the residential property must be allowed to reside in the residence or successor property so long as the placement is safe and appropriate as determined by the department of social and health services;
+(B) The title to the residential property is conveyed without the receipt of consideration by the legal representative of a person with developmental disabilities to a qualified entity;
+(C) The residential property must have no more than four living units located on it; and
+(D) The residential property transferred must remain in continued use for 50 years by the qualified entity as supported living for persons with developmental disabilities by the qualified entity or successor entity. If the qualified entity sells or otherwise conveys ownership of the residential property the proceeds of the sale or conveyance must be used to acquire similar residential property and such similar residential property must be considered the successor for continued use. The property will not be considered in continued use if the department of social and health services finds that the property has failed, after a reasonable time to remedy, to meet any health and safety statutory or regulatory requirements. If the department of social and health services determines that the property fails to meet the requirements for continued use, the department of social and health services must notify the department and the real estate excise tax based on the value of the property at the time of the transfer into use as residential property for persons with developmental disabilities becomes immediately due and payable by the qualified entity. The tax due is not subject to penalties, fees, or interest under this title.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For the purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_t">
+            <num>(t)</num>
+            <content>
+              <p>the definitions in RCW
+71A.10.020
+apply.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_t__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A &quot;qualified entity&quot; is:
+(A) A nonprofit organization under Title 26 U.S.C. Sec. 501</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the federal internal revenue code of 1986, as amended, as of June 7, 2018, or a subsidiary under the same taxpayer identification number that provides residential supported living for persons with developmental disabilities; or
+(B) A nonprofit adult family home, as defined in RCW
+70.128.010
+, that exclusively serves persons with developmental disabilities.
+(iv) In order to receive an exemption under this subsection</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_t">
+            <num>(t)</num>
+            <content>
+              <p>an affidavit must be submitted by the transferor of the residential property and must include a copy of the transfer agreement and any other documentation as required by the department.
+(u)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A sale or transfer of real property to a qualifying grantee that uses the property for housing for low-income persons and receives or otherwise qualifies the property for an exemption from real and personal property taxes under RCW
+84.36.560
+,
+84.36.049
+,
+35.82.210
+,
+35.21.755
+, or
+84.36.010
+. For purposes of this subsection</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the qualifying grantee fails to satisfy the requirements described in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>If a qualifying grantee transfers the property to a different qualifying grantee within the original timelines described in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection. There is no limit on the number of transfers between qualifying grantees within the original timelines.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Each affidavit must be filed with the department upon completion of the sale or transfer of property, including transfers from a qualifying grantee to a different qualifying grantee. The qualifying grantee must provide proof to the department as required by the department once the requirements as described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_010__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The sale of qualified space in a development that qualifies for a property tax exemption under RCW
+84.36.560
+,
+84.36.049
+,
+35.82.210
+,
+35.21.755
+, or
+84.36.010
+to a nonprofit organization, a housing authority, or public corporation for use for an exempt community purpose.</p>
+            </content>
+            <subsection eId="sec_82_45_010__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For the purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the internal revenue code of 1986 (26 U.S.C. Sec. 501(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that Washington state has one of the strongest economies in the country. However, despite the strong economy, our state has entered an affordable housing crisis where low-income and middle-income households have the fewest number of housing options. Furthermore, it is estimated that Washington state's housing gap is among the most severe in the nation, with only 29 affordable and available rental homes for every 100 extremely low-income households.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature concludes that in the spirit of one Washington, the health of all Washingtonians will benefit from a larger stock in affordable housing. Therefore, it is the intent of the legislature to incentivize real property transfers to nonprofit housing providers, public housing authorities, or local governments to increase the availability of affordable housing for low-income Washingtonians.&quot; [
+2022 c 199 s 1
+.]
+Tax preference performance statement
+—
+2022 c 199:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences in sections 3 and 4, chapter 199, Laws of 2022. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to encourage sales or transfers of real property to nonprofit entities, housing authorities, or public corporations that intend to use the transferred property for housing for low-income persons.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that the number of sales or transfers of real property to qualified entities has not increased, then the legislature intends to repeal the expiration date of the tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any available data source, including the transfer or sale of properties reported by county records.&quot; [
+2022 c 199 s 2
+.]
+Tax preference automatic expiration date exemption
+—
+2022 c 199:
+&quot;The expiration date provisions of RCW
+82.32.805</p>
+          </content>
+          <subsection eId="sec_82_45_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>do not apply to the tax preferences in sections 3 and 4, chapter 199, Laws of 2022.&quot; [
+2022 c 199 s 5
+.]
+Automatic expiration date and tax preference performance statement exemption
+—
+Effective date
+—
+2019 c 424:
+See notes following RCW
+82.45.060
+.
+Tax preference performance statement
+—
+2018 c 223 s 3:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 3, chapter 223, Laws of 2018. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to reduce the tax burden on individuals and businesses imposed by the existing real estate excise tax rates.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that there is an increase of residential property transfers by parents of a person with developmental disabilities to a qualified entity as a result of the relief from this tax preference, then the legislature intends to extend the expiration date of this tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2018 c 223 s 2
+.]
+Findings
+—
+2018 c 223:
+&quot;The legislature finds that there is need to expand housing opportunities for persons with developmental disabilities. The legislature finds it is often preferable for persons with developmental disabilities to remain residing in their home, when it is safe and appropriate, to foster ongoing stability. The legislature recognizes that securing a child's future housing and services provides the parents of persons with developmental disabilities peace of mind. The legislature further finds that providing a new mechanism for the transfer of residential property into housing for persons with developmental disabilities expands the state's housing capacity and helps meet demand. The legislature further finds that utilizing existing residential property will reduce the demands on the housing trust fund. The legislature finds that there is an opportunity and need, for advocates and the supporters of the developmental disabilities community to work together, to develop model transfer agreements that will provide peace of mind and assist parents of children with developmental disabilities [to] more readily access this program.&quot; [
+2018 c 223 s 1
+.]
+Application
+—
+2018 c 221:
+&quot;This act applies with respect to transfers occurring before, on, or after July 1, 2018. However, this act may not be construed by the department of revenue, state board of tax appeals, or any court as authorizing the refund of any tax liability imposed or authorized under chapter
+82.45
+or
+82.46
+RCW and properly paid before July 1, 2018, with respect to a transfer of qualified low-income housing as defined in RCW
+82.45.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that transfers of ownership of entities may be essentially equivalent to the sale of real property held by the entity. The legislature further finds that all transfers of possession or use of real property should be subject to the same excise tax burdens.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature intends to apply the real estate excise tax of chapter
+82.45
+RCW to transfers of entity ownership when the transfer of entity ownership is comparable to the sale of real property. The legislature intends to equate the excise tax burdens on all sales of real property and transfers of entity ownership essentially equivalent to a sale of real property under chapter
+82.45
+RCW.&quot; [
+1993 sp.s. c 25 s 501
+.]
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Effective date
+—
+1981 c 93 s 2:
+&quot;Section 2 of this act shall take effect September 1, 1981.&quot; [
+1981 c 93 s 3
+.]
+Effective date
+—
+Severability
+—
+1970 ex.s. c 65:
+See notes following RCW
+82.03.050
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

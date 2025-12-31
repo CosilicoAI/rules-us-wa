@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.070"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_070">
+        <num>RCW 74.04.070</num>
+        <heading>County office—Administrator</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.070
+74.04.062
+&lt;&lt; 
+        74.04.070 &gt;&gt;
+74.04.080
+PDF
+RCW
+74.04.070
+County office
+—
+Administrator.
+There may be established in each county of the state a county office which shall be administered by an executive officer designated as the county administrator. The county administrator shall be appointed by the secretary in accordance with the rules and regulations of the state merit system.
+[
+1979 c 141 s 299
+;
+1959 c 26 s 74.04.070
+. Prior:
+1953 c 174 s 13
+; 1941 c 128 s 2, part; 1939 c 216 s 4, part; Code 1881 ss 2680, 2696;
+1854 p 422 s 19
+;
+1854 p 395 s 1
+; Rem. Supp. 1941 s 10007-104a, part.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

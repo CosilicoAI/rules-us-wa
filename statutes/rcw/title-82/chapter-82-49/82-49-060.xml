@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.49.060"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.49.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.49.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_49_060">
+        <num>RCW 82.49.060</num>
+        <heading>Disputes as to appraised value or status as taxable—Petition for conference or reduction of tax—Appeal to board of tax appeals—Independent appraisal</heading>
+        <subsection eId="sec_82_49_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any vessel owner disputing an appraised value under RCW
+82.49.050
+or disputing whether the vessel is taxable, may petition for a conference with the department as provided under RCW
+82.32.160
+, or for reduction of the tax due as provided under RCW
+82.32.170
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any vessel owner having received a notice of denial of a petition or a notice of determination made for the owner's vessel under RCW
+82.32.160
+or
+82.32.170
+may appeal to the board of tax appeals as provided under RCW
+82.03.190
+. In deciding a case appealed under this section, the board of tax appeals may require an independent appraisal of the vessel. The cost of the independent appraisal shall be apportioned between the department and the vessel owner as provided by the board.
+[
+1993 c 33 s 1
+;
+1983 c 7 s 13
+.]
+NOTES:
+Effective date
+—
+1993 c 33:
+&quot;This act shall take effect January 1, 1994.&quot; [
+1993 c 33 s 8
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

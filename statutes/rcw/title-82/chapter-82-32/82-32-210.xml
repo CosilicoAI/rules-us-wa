@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.210"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.210/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.210/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_210">
+        <num>RCW 82.32.210</num>
+        <heading>Tax warrant—Filing—Lien—Effect</heading>
+        <subsection eId="sec_82_32_210__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If any fee, tax, increase, or penalty or any portion thereof is not paid within fifteen days after it becomes due, the department may issue a warrant in the amount of the unpaid sums, together with interest thereon from the date the warrant is issued until the date of payment. If, however, the department believes that a taxpayer is about to cease business, leave the state, or remove or dissipate the assets out of which fees, taxes or penalties might be satisfied and that any tax or penalty will not be paid when due, it may declare the fee, tax or penalty to be immediately due and payable and may issue a warrant immediately.</p>
+          </content>
+          <subsection eId="sec_82_32_210__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Interest imposed before January 1, 1999, is computed at the rate of one percent of the amount of the warrant for each thirty days or portion thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_210__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Interest imposed after December 31, 1998, is computed on a daily basis on the amount of outstanding tax or fee at the rate as computed under RCW
+82.32.050</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_210__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as provided in RCW
+82.32.212
+, the department must file a copy of the warrant with the clerk of the superior court of any county of the state in which real and/or personal property of the taxpayer may be found. The clerk is entitled to a filing fee under RCW
+36.18.012</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_210__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The lien is not superior, however, to bona fide interests of third persons that vested before the filing of the warrant when the third persons do not have a beneficial interest, direct or indirect, in the operation of the business, other than to secure payment of a debt or to receive a regular rental on equipment. The phrase &quot;bona fide interests of third persons&quot; does not include any mortgage of real or personal property or any other credit transaction that results in the mortgagee or the holder of the security acting as trustee for unsecured creditors of the taxpayer mentioned in the warrant who executed the chattel or real property mortgage or the document evidencing the credit transaction.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_210__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The amount of the warrant so docketed is also a lien upon the title to and interest in all other real and personal property of the taxpayer against whom it is issued the same as a judgment in a civil case duly docketed in the office of the clerk. The warrant so docketed is sufficient to support the issuance of writs of garnishment in favor of the state as provided by law for judgments wholly or partially unsatisfied.
+[
+2011 c 131 s 1
+;
+2001 c 146 s 12
+;
+1998 c 311 s 8
+;
+1997 c 157 s 3
+;
+1987 c 405 s 15
+;
+1983 1st ex.s. c 55 s 8
+;
+1967 ex.s. c 89 s 3
+;
+1961 c 15 s 82.32.210
+. Prior:
+1955 c 389 s 38
+; prior:
+1951 1st ex.s. c 9 s 13
+; 1949 c 228 s 225, part; 1937 c 227 s 20, part; 1935 c 180 s 202, part; Rem. Supp. 1949 s 8370-202, part.]
+NOTES:
+Effective date
+—
+2011 c 131:
+See note following RCW
+82.32.212
+.
+Severability
+—
+1987 c 405:
+See note following RCW
+70A.15.3500
+.
+Effective dates
+—
+1983 1st ex.s. c 55:
+See note following RCW
+82.08.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

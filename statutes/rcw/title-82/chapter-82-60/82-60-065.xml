@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.065"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.065"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.065/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.065/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.065/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.065/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_065">
+        <num>RCW 82.60.065</num>
+        <heading>Tax deferral on construction labor and investment projects—Repayment forgiven</heading>
+        <subsection eId="sec_82_60_065__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Taxes deferred under this chapter on the sale or use of labor that is directly used in the construction of an investment project for which a deferral has been granted under this chapter after June 11, 1986, and prior to July 1, 1994, need not be repaid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_065__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Taxes deferred under this chapter on an investment project for which a deferral has been granted under this chapter after June 30, 1994, need not be repaid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_065__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Taxes deferred under this chapter need not be repaid on machinery and equipment for lumber and wood products industries, and sales of or charges made for labor and services, of the type which qualifies for exemption under RCW
+82.08.02565
+or
+82.12.02565
+to the extent the taxes have not been repaid before July 1, 1995.
+[
+1995 1st sp.s. c 3 s 8
+;
+1994 sp.s. c 1 s 6
+;
+1986 c 116 s 14
+.]
+NOTES:
+Findings
+—
+Effective date
+—
+1995 1st sp.s. c 3:
+See notes following RCW
+82.08.02565
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

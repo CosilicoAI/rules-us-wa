@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.140"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.140"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.140/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.140/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.140/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.140/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_140">
+        <num>RCW 74.20A.140</num>
+        <heading>Action for foreclosure of support lien—Satisfaction</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.140
+74.20A.130
+&lt;&lt; 
+        74.20A.140 &gt;&gt;
+74.20A.150
+PDF
+RCW
+74.20A.140
+Action for foreclosure of support lien
+—
+Satisfaction.
+Whenever a support lien has been filed, an action in foreclosure of lien upon real or personal property may be brought in the superior court of the county where real or personal property is or was located and the lien was filed and judgment shall be rendered in favor of the department for the amount due, with costs, and the court shall allow, as part of the costs, the moneys paid for making and filing the claim of lien, and a reasonable attorney's fee, and the court shall order any property upon which any lien provided for by this chapter is established, to be sold by the sheriff of the proper county to satisfy the lien and costs. The payment of the lien debt, costs and reasonable attorney fees, at any time before sale, shall satisfy the judgment of foreclosure. Where the net proceeds of sale upon application to the debt claimed do not satisfy the debt in full, the department shall have judgment over for any deficiency remaining unsatisfied and further levy and sales upon other property of the judgment debtor may be made under the same execution. In all sales contemplated under this section, advertising of notice shall only be necessary for two weeks in a newspaper published in the county where said property is located, and if there be no newspaper therein, then in the most convenient newspaper having a circulation in such county. Remedies provided for herein are alternatives to remedies provided for in other sections of this chapter.
+[
+1973 1st ex.s. c 183 s 13
+;
+1971 ex.s. c 164 s 14
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

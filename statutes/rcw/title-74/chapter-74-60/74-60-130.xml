@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.130"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_130">
+        <num>RCW 74.60.130</num>
+        <heading>Payments to medicaid managed care organizations</heading>
+        <subsection eId="sec_74_60_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning on the later of January 1, 2024, or 30 calendar days after satisfaction of the conditions in RCW
+74.60.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, and for each subsequent calendar year so long as none of the conditions stated in RCW
+74.60.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>have occurred, the authority shall make quarterly payments to medicaid managed care organizations as specified herein in a manner consistent with federal contracting requirements. The authority may delay payments under this section as needed if the collection of hospital assessments under RCW
+74.60.050
+is delayed. The authority shall direct payments from managed care organizations to hospitals and the payments shall support access to hospitals and quality improvement of hospital services.</p>
+          </content>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the first six months of calendar year 2024, $158,700,000, and for the second six months, $182,500,000 from the fund, plus federal matching funds to medicaid managed care organizations for directed inpatient payments to medicaid prospective payment system hospitals. For calendar year 2025, $365,000,000 from the fund, plus federal matching funds to medicaid managed care organizations for directed inpatient payments to medicaid prospective payment system hospitals;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the first six months of calendar year 2024, $99,000,000, and for the second six months $114,000,000 from the fund, plus federal matching funds to medicaid managed care organizations for directed outpatient payments to medicaid prospective payment system hospitals. For calendar year 2025, $228,000,000 from the fund, plus federal matching funds to medicaid managed care organizations for directed outpatient payments to medicaid prospective payment system hospitals;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For calendar years 2024 and 2025, $400,000 plus federal matching funds to medicaid managed care organizations for directed inpatient payments to critical access hospitals;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For the first six months of calendar year 2024, $8,100,000, and for the second six months $9,300,000 from the fund, plus federal matching funds to medicaid managed care organizations for directed outpatient payments to critical access hospitals. For calendar year 2025, $18,600,000 from the fund, plus federal matching funds to medicaid managed care organizations for directed outpatient payments to critical access hospitals;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For subsequent calendar years, including 2025, the authority shall adjust the payments under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection based on the inflation factor;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The initial payment following satisfaction of the conditions in RCW
+74.60.150</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>must include all amounts due from January 1, 2024, to the end of the calendar month during which the conditions in RCW
+74.60.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>are satisfied. Subsequent payments shall be made quarterly.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The amounts paid to individual managed care organizations under this section shall be determined by the authority based on each organization's payments made for medicaid inpatient and outpatient services as determined under subsection</p>
+          </content>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. These payments do not reduce the amounts that otherwise would be paid to managed care organizations, provided that such payments are consistent with actuarial certification and enrollment. For purposes of this section, medicaid includes both Titles XIX and XXI of the social security act.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Before making such payments, the authority shall modify its contracts with managed care organizations or otherwise require:</p>
+          </content>
+          <subsection eId="sec_74_60_130__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Payment of the entire amount payable to hospitals as directed by the authority under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, less an allowance for premium taxes the organization is required to pay under Title
+48
+RCW;</p>
+          </content>
+          <subsection eId="sec_74_60_130__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>That payments to hospitals be made within 21 calendar days of receipt of payment in full from the authority;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>That any delegation or attempted delegation of an organization's obligations under agreements with the authority does not relieve the organization of its obligations under this section and related contract provisions; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>That if funds cannot be paid to hospitals, the managed care organization shall return the funds to the authority, which shall
+return them to the hospital safety net assessment fund.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The authority shall direct each managed care organization to make quarterly payments to eligible hospitals. Directed inpatient payments shall be a fixed amount per medicaid inpatient discharge, excluding normal newborns, and directed outpatient payments shall be a percentage of medicaid managed care outpatient payments, which the authority shall set so as to pay hospitals the amounts stated in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, less premium taxes on the managed care organizations.</p>
+          </content>
+          <subsection eId="sec_74_60_130__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Quarterly interim payments shall be made using the authority's encounter data to determine volumes of medicaid discharges and medicaid outpatient payments. The interim payments will be based on volumes of services for each hospital within each medicaid managed care organization for the equivalent period beginning nine months prior to the start of the payment period. Before providing direction to the medicaid managed care organizations the authority shall share the hospital specific data on volumes, proposed payments, and other supporting documentation with the Washington state hospital association.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The authority shall perform an annual reconciliation of amounts paid to each hospital based on its annual encounter data, and direct managed care organizations to make adjusted payments in the subsequent quarter or quarters based on such reconciliation. Before the annual reconciliation, the authority shall send the medicaid managed care inpatient discharges and medicaid managed care outpatient payments data to each hospital and the Washington state hospital association for verification.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Managed care organizations shall make payments to hospitals within 21 calendar days of receipt of payment in full from the authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_130__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any delegation or attempted delegation of an organization's or network's obligations under agreements with the authority does not relieve the organization or network of its obligations under this section and related contract provisions.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If federal restrictions prevent the full amount of payments under this section from being delivered to any class or classes of hospital, the authority, in consultation with the Washington state hospital association, will alter payment rates per medicaid managed care inpatient discharge and per dollar of medicaid managed care outpatient payments in a manner so that in the aggregate each class of hospital receives the same total net benefit as would have otherwise been achieved. If the combined aggregate amount for inpatient and outpatient payments under this section for each class of hospital cannot be paid due to federal requirements, then the payment rates described in this section will be reduced to meet the limitations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If a managed care organization is legally obligated to repay the state or federal government amounts distributed to hospitals under this section, it may recoup the amount it is obligated to repay from individual hospitals under the medicaid program by not more than the amount of overpayment each hospital received from that managed care organization.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>No hospital or managed care organizations may use the payments under this section to gain advantage in negotiations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_130__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>If funds cannot be used to pay for services in accordance with this chapter the managed care organization or network must return the funds to the authority which shall return them to the hospital safety net assessment fund.
+[
+2023 c 430 s 12
+;
+2017 c 228 s 9
+;
+2015 2nd sp.s. c 5 s 8
+;
+2014 c 143 s 3
+;
+2013 2nd sp.s. c 17 s 12
+;
+2010 1st sp.s. c 30 s 14
+.]
+NOTES:
+Contingent effective date
+—
+2023 c 430:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2017 c 228:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2015 2nd sp.s. c 5:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2014 c 143:
+See note following RCW
+74.60.030
+.
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

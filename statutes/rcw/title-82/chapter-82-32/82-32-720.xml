@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.720"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.720"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.720/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.720/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.720/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.720/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_720">
+        <num>RCW 82.32.720</num>
+        <heading>Vendor compensation—Streamlined sales and use tax agreement</heading>
+        <subsection eId="sec_82_32_720__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department may adopt by rule vendor compensation for sellers collecting and remitting sales and use taxes. The vendor compensation may include a base rate or a percentage of tax revenue collected by the seller, and may vary by type of seller. The department may be guided by the findings of the cost of collection study performed under the agreement, by cost of collection studies performed by the department, and by vendor compensation provided by other states, to determine reasonable vendor compensation for sellers for the costs to collect and remit sales and use taxes. Vendor compensation will be funded solely from state sales and use taxes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_720__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A seller is not entitled to vendor compensation while the seller or its certified service provider receives a monetary allowance under RCW
+82.32.715
+.
+[
+2007 c 6 s 302
+.]
+NOTES:
+Reviser's note:
+The contingency in section 302</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_720__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Section 302 of this act takes effect when:</p>
+          </content>
+          <subsection eId="sec_82_32_720__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The United States congress grants individual states the authority to impose sales and use tax collection duties on remote sellers; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_720__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>It is determined by a court of competent jurisdiction, in a judgment not subject to review, that a state can impose sales and use tax collection duties on remote sellers.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_720__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department of revenue shall provide notice to affected taxpayers, the legislature, and others as deemed appropriate by the department, if either of the contingencies in this section occurs.&quot; [
+2007 c 6 s 1705
+.]
+Part headings not law
+—
+Savings
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

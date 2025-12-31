@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.320"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.320/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.320/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_320">
+        <num>RCW 74.20.320</num>
+        <heading>Custodian to remit support moneys when department has support obligation—Noncompliance</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.320
+74.20.310
+&lt;&lt; 
+        74.20.320 &gt;&gt;
+74.20.330
+PDF
+RCW
+74.20.320
+Custodian to remit support moneys when department has support obligation
+—
+Noncompliance.
+Whenever a custodian of children, or other person, receives support moneys paid to them which moneys are paid in whole or in part in satisfaction of a support obligation which has been assigned to the department pursuant to Title IV-A of the federal social security act as amended by the personal responsibility and work opportunity reconciliation act of 1996 or RCW
+74.20.330
+or to which the department is owed a debt pursuant to RCW
+74.20A.030
+, the moneys shall be remitted to the department within eight days of receipt by the custodian or other person. If not so remitted the custodian or other person shall be indebted to the department as a support debt in an amount equal to the amount of the support money received and not remitted.
+By not paying over the moneys to the department, a custodial parent or other person is deemed, without the necessity of signing any document, to have made an irrevocable assignment to the department of any support delinquency owed which is not already assigned to the department or to any support delinquency which may accrue in the future in an amount equal to the amount of support money retained. The department may utilize the collection procedures in chapter
+74.20A
+RCW to collect the assigned delinquency to effect recoupment and satisfaction of the debt incurred by reason of the failure of the custodial parent or other person to remit. The department is also authorized to make a set-off to effect satisfaction of the debt by deduction from support moneys in its possession or in the possession of any clerk of the court or other forwarding agent which are paid to the custodial parent or other person for the satisfaction of any support delinquency. Nothing in this section authorizes the department to make set-off as to current support paid during the month for which the payment is due and owing.
+[
+1997 c 58 s 935
+;
+1979 ex.s. c 171 s 17
+.]
+NOTES:
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

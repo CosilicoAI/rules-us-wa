@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.310"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_310">
+        <num>RCW 82.04.310</num>
+        <heading>Exemptions—Public utilities—Electrical energy—Natural or manufactured gas</heading>
+        <subsection eId="sec_82_04_310__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to any person in respect to a business activity with respect to which tax liability is specifically imposed under the provisions of chapter
+82.16
+RCW including amounts derived from activities for which a deduction is allowed under RCW
+82.16.050
+. The exemption in this subsection does not apply to sales of natural gas, including compressed natural gas and liquefied natural gas used or sold to manufacture transportation fuel, and renewable natural gas, by a gas distribution business, if such sales are exempt from the tax imposed under chapter
+82.16
+RCW as provided in RCW
+82.16.310
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This chapter does not apply to amounts received by any person for the sale of electrical energy for resale within or outside the state.</p>
+          </content>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This chapter does not apply to amounts received by any person for the sale of natural or manufactured gas in a calendar year if that person sells within the United States a total amount of natural or manufactured gas in that calendar year that is no more than twenty percent of the amount of natural or manufactured gas that it consumes within the United States in the same calendar year.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of determining whether a person has sold within the United States a total amount of natural or manufactured gas in a calendar year that is no more than twenty percent of the amount of natural or manufactured gas that it consumes within the United States in the same calendar year, the following transfers of gas are not considered to be the sale of natural or manufactured gas:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The transfer of any natural or manufactured gas as a result of the acquisition of another business, through merger or otherwise; or</p>
+            </content>
+            <subsection eId="sec_82_04_310__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The transfer of any natural or manufactured gas accomplished solely to comply with federal regulatory requirements imposed on the pipeline transportation of such gas when it is shipped by a third-party manager of a person's pipeline transportation.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Until January 1, 2031, this chapter does not apply to amounts received by any person in the form of credits against power contracts with the Bonneville power administration, or funds provided by the Bonneville power administration, for the purpose of implementing energy conservation programs or demand-side management programs, so long as the amount that would otherwise be owed under this chapter is used for purposes of low-income ratepayer assistance or weatherization. The funds generated for low-income ratepayer assistance and weatherization under this subsection must be additive to and not supplant any existing funds used by the utility for low-income ratepayer assistance and weatherization.
+[
+2021 c 226 s 2
+;
+2019 c 202 s 2
+;
+2014 c 216 s 302
+; (2010 c 295 s 1 expired June 30, 2015);
+2007 c 58 s 1
+;
+2000 c 245 s 2
+;
+1989 c 302 s 202
+;
+1961 c 15 s 82.04.310
+. Prior:
+1959 c 197 s 15
+; prior: 1945 c 249 s 2, part; 1943 c 156 s 4, part; 1941 c 178 s 6, part; 1939 c 225 s 5, part; 1937 c 227 s 4, part; 1935 c 180 s 11, part; Rem. Supp. 1945 s 8370-11, part.]
+NOTES:
+Tax preference performance statement
+—
+2021 c 226:
+&quot;This section is the tax preference performance statement for the tax preference contained in section 2, chapter 226, Laws of 2021. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature's specific public policy objectives are to:</p>
+          </content>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Increase investment in energy efficiency and conservation programs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Support efforts by utilities to acquire all cost-effective energy conservation and noncarbon-emitting energy resources as required under state law; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Increase funds dedicated to low-income ratepayer assistance and weatherization in Washington.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To support the objectives in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, it is the legislature's intent to make permanent the exemption from business and occupation tax amounts received by utilities in the form of credits against power contracts or received from the Bonneville power administration for energy conservation purposes, if the tax savings are used by utilities for low-income ratepayer assistance or weatherization programs. This exemption will induce utilities to invest funds in energy conservation and efficiency programs, thereby reducing the amount of electric energy that such utilities must either generate or purchase, thereby reducing energy costs to utilities and customers. Further, state laws mandating utilities to acquire energy through both energy conservation and noncarbon-emitting resources can increase the cost of energy to ratepayers. Therefore, it is the legislature's intent that this exemption from the business and occupation tax apply only to the extent the tax amounts that would otherwise be owed on credits or refunds from the Bonneville power administration are used by a utility for low-income ratepayer assistance or weatherization, and that the funds generated for low-income ratepayer assistance or weatherization be additive to any existing funds used by the utility for those purposes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To measure the effectiveness of the exemption provided in this act in achieving the specific public policy objectives described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee must, at a minimum:</p>
+          </content>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Evaluate the average annual investment in energy conservation projects by Washington state utilities that have power contracts with the Bonneville power administration; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_310__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Evaluate the average additional funds from the tax savings resulting from this act that are dedicated to low-income ratepayer assistance and weatherization by Washington state utilities that have power contracts with the Bonneville power administration.&quot; [
+2021 c 226 s 1
+.]
+Effective date
+—
+2021 c 226:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2021.&quot; [
+2021 c 226 s 3
+.]
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 202:
+See note following RCW
+82.16.310
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Expiration date
+—
+2010 c 295:
+&quot;This act expires June 30, 2015.&quot; [
+2010 c 295 s 2
+.]
+Finding, purpose
+—
+1989 c 302:
+See note following RCW
+82.04.120
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

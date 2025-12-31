@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.890"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.890"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.890/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.890/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.890/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.890/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_890">
+        <num>RCW 82.12.890</num>
+        <heading>Exemptions—Livestock nutrient management equipment and facilities</heading>
+        <subsection eId="sec_82_12_890__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply with respect to the use by an eligible person of:</p>
+          </content>
+          <subsection eId="sec_82_12_890__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Qualifying livestock nutrient management equipment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_890__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Labor and services rendered in respect to installing, repairing, cleaning, altering, or improving qualifying livestock nutrient management equipment; and
+(c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_890__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Tangible personal property that becomes an ingredient or component of qualifying livestock nutrient management facilities in the course of repairing, cleaning, altering, or improving of such facilities.</p>
+            </content>
+            <subsection eId="sec_82_12_890__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The exemption provided in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_890__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>does not apply to the use of tangible personal property that becomes an ingredient or component of qualifying livestock nutrient management facilities during the course of constructing new, or replacing previously existing, qualifying livestock nutrient management facilities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_890__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To be eligible, the equipment and facilities must be used exclusively for activities necessary to maintain a livestock nutrient management plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_890__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The exemption applies to the use of tangible personal property and labor and services made after the livestock nutrient management plan is:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_890__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Certified under chapter
+90.64
+RCW;</p>
+            </content>
+            <subsection eId="sec_82_12_890__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>approved as part of the permit issued under chapter
+90.48
+RCW; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_12_890__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>approved as required under RCW
+82.08.890</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_890__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions and recordkeeping requirements in RCW
+82.08.890
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_890__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The exemption under this section does not apply to the use of tangible personal property and services if first use of the property or services in this state occurs from July 1, 2010, through June 30, 2013.
+[
+2014 c 97 s 604
+;
+2010 1st sp.s. c 23 s 602
+;
+2009 c 469 s 602
+;
+2006 c 151 s 3
+;
+2003 c 5 s 15
+;
+2001 2nd sp.s. c 18 s 3
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 23 ss 107, 601, 602, 702, 902, 1202, and 1401-1405:
+See note following RCW
+82.04.2907
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+2009 c 469:
+See note following RCW
+82.08.962
+.
+Effective date
+—
+Conservation commission
+—
+Report to legislature
+—
+2006 c 151:
+See notes following RCW
+82.08.890
+.
+Finding
+—
+Intent
+—
+Retroactive application
+—
+Effective date
+—
+2003 c 5:
+See notes following RCW
+82.12.010
+.
+Intent
+—
+Effective date
+—
+2001 2nd sp.s. c 18:
+See notes following RCW
+82.08.890
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

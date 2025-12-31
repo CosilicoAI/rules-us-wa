@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.075"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.075"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.075/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.075/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.075/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.075/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_075">
+        <num>RCW 82.50.075</num>
+        <heading>Extensions during state of emergency</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.50
+&gt;
+Section 82.50.075
+82.50.060
+&lt;&lt; 
+        82.50.075 &gt;&gt;
+82.50.090
+PDF
+RCW
+82.50.075
+Extensions during state of emergency.
+During a state of emergency declared under RCW
+43.06.010
+(12), the director, on his or her own motion or at the request of any taxpayer affected by the emergency, may grant extensions of the due date of any taxes payable under this chapter as the director deems proper.
+[
+2008 c 181 s 508
+.]
+NOTES:
+Part headings not law
+—
+2008 c 181:
+See note following RCW
+43.06.220
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

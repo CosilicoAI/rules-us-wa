@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.035"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.035"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.035/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.035/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.035/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.035/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_035">
+        <num>RCW 74.34.035</num>
+        <heading>Reports—Mandated and permissive—Contents—Confidentiality</heading>
+        <subsection eId="sec_74_34_035__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>When there is reasonable cause to believe that abandonment, abuse, financial exploitation, or neglect of a vulnerable adult has occurred, mandated reporters shall immediately report to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>When there is reason to suspect that sexual assault has occurred, mandated reporters shall immediately report to the appropriate law enforcement agency and to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When there is reason to suspect that physical assault has occurred or there is reasonable cause to believe that an act has caused fear of imminent harm:</p>
+          </content>
+          <subsection eId="sec_74_34_035__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Mandated reporters shall immediately report to the department; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Mandated reporters shall immediately report to the appropriate law enforcement agency, except as provided in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A mandated reporter is not required to report to a law enforcement agency, unless requested by the injured vulnerable adult or his or her legal representative or family member, an incident of physical assault between vulnerable adults that causes minor bodily injury and does not require more than basic first aid, unless:</p>
+          </content>
+          <subsection eId="sec_74_34_035__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The injury appears on the back, face, head, neck, chest, breasts, groin, inner thigh, buttock, genital, or anal area;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>There is a fracture;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>There is a pattern of physical assault between the same vulnerable adults or involving the same vulnerable adults; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>There is an attempt to choke a vulnerable adult.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>When there is reason to suspect that the death of a vulnerable adult was caused by abuse, neglect, or abandonment by another person, mandated reporters shall, pursuant to RCW
+68.50.020
+, report the death to the medical examiner or coroner having jurisdiction, as well as the department and local law enforcement, in the most expeditious manner possible. A mandated reporter is not relieved from the reporting requirement provisions of this subsection by the existence of a previously signed death certificate. If abuse, neglect, or abandonment caused or contributed to the death of a vulnerable adult, the death is a death caused by unnatural or unlawful means, and the body shall be the jurisdiction of the coroner or medical examiner pursuant to RCW
+68.50.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Permissive reporters may report to the department or a law enforcement agency when there is reasonable cause to believe that a vulnerable adult is being or has been abandoned, abused, financially exploited, or neglected.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>No facility, as defined by this chapter, agency licensed or required to be licensed under chapter
+70.127
+RCW, or facility or agency under contract with the department to provide care for vulnerable adults may develop policies or procedures that interfere with the reporting requirements of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Each report, oral or written, must contain as much as possible of the following information:</p>
+          </content>
+          <subsection eId="sec_74_34_035__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The name and address of the person making the report;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The name and address of the vulnerable adult and the name of the facility or agency providing care for the vulnerable adult;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The name and address of the legal guardian or alternate decision maker;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The nature and extent of the abandonment, abuse, financial exploitation, neglect, or self-neglect;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_8__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Any history of previous abandonment, abuse, financial exploitation, neglect, or self-neglect;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_8__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The identity of the alleged perpetrator, if known; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_035__subsec_8__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Other information that may be helpful in establishing the extent of abandonment, abuse, financial exploitation, neglect, or the cause of death of the deceased vulnerable adult.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Unless there is a judicial proceeding or the person consents, the identity of the person making the report under this section is confidential.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_035__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>In conducting an investigation of abandonment, abuse, financial exploitation, self-neglect, or neglect, the department or law enforcement, upon request, must have access to all relevant records related to the vulnerable adult that are in the possession of mandated reporters and their employees, unless otherwise prohibited by law. Records maintained under RCW
+4.24.250
+,
+18.20.390
+,
+43.70.510
+,
+70.41.200
+,
+70.230.080
+, and
+74.42.640
+shall not be subject to the requirements of this subsection. Providing access to records relevant to an investigation by the department or law enforcement under this provision may not be deemed a violation of any confidential communication privilege. Access to any records that would violate attorney-client privilege shall not be provided without a court order unless otherwise required by court rule or case law.
+[
+2013 c 263 s 2
+;
+2010 c 133 s 4
+;
+2003 c 230 s 2
+;
+1999 c 176 s 5
+.]
+NOTES:
+Effective date
+—
+2003 c 230:
+See note following RCW
+74.34.020
+.
+Findings
+—
+Purpose
+—
+Severability
+—
+Conflict with federal requirements
+—
+1999 c 176:
+See notes following RCW
+74.34.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_050">
+        <num>RCW 82.92.050</num>
+        <heading>Approval of applications—Appeals</heading>
+        <subsection eId="sec_82_92_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The duly authorized administrative official or committee of the city must approve or deny an application filed under this chapter within 90 days after receipt of the application.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the application is approved, the city must issue the applicant a conditional certificate of program approval. The certificate must contain a statement by a duly authorized administrative official of the governing authority that the investment project as described in the application will comply with the required criteria of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the application is denied by the city, the city must state in writing the reasons for denial and send the notice to the applicant at the applicant's last known address within 10 days of the denial.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Upon denial by the city, an applicant may appeal the denial to the city's governing authority or a city official designated by the city to hear such appeals within 30 days after receipt of the denial. The appeal before the city's governing authority or designated city official must be based upon the record made before the city with the burden of proof on the applicant to show that there was no substantial evidence to support the city's decision. The decision of the city on the appeal is final.
+[
+2022 c 241 s 7
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

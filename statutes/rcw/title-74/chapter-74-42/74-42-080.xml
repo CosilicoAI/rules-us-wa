@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.080"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_080">
+        <num>RCW 74.42.080</num>
+        <heading>Confidentiality of records</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.080
+74.42.070
+&lt;&lt; 
+        74.42.080 &gt;&gt;
+74.42.090
+PDF
+RCW
+74.42.080
+Confidentiality of records.
+Residents' records, including information in an automatic data bank, shall be treated confidentially. The facility shall not release information from a resident's record to a person not otherwise authorized by law to receive the information without the resident's or the resident's guardian's written consent.
+[
+1979 ex.s. c 211 s 8
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

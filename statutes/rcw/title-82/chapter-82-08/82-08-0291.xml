@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0291"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0291"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0291/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0291/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0291/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0291/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0291">
+        <num>RCW 82.08.0291</num>
+        <heading>Exemptions—Sales of amusement and recreation services or personal services by nonprofit youth organization—Local government physical fitness classes</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0291
+82.08.0289
+&lt;&lt; 
+        82.08.0291 &gt;&gt;
+82.08.02915
+PDF
+RCW
+82.08.0291
+Exemptions
+—
+Sales of amusement and recreation services or personal services by nonprofit youth organization
+—
+Local government physical fitness classes.
+The tax imposed by RCW
+82.08.020
+does not apply to sales defined as a sale at retail and retail sale under *RCW
+82.04.050
+(3)(g) or (15), by a nonprofit youth organization, as defined in RCW
+82.04.4271
+, to members of the organization; and the tax does not apply to physical fitness classes provided by a local government.
+[
+2015 c 169 s 4
+;
+2000 c 103 s 8
+;
+1994 c 85 s 1
+;
+1981 c 74 s 2
+.]
+NOTES:
+*
+Reviser's note:
+RCW
+82.04.050
+was amended by 2025 c 422 s 101, changing subsection (3)(g) to subsection (3)(m), effective October 1, 2025.
+Effective date
+—
+2015 c 169:
+See note following RCW
+82.04.050
+.
+Effective date
+—
+1994 c 85:
+&quot;This act shall take effect July 1, 1994.&quot; [
+1994 c 85 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

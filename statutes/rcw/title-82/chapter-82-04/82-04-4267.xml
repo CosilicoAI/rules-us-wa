@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4267"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4267"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4267/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4267/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4267/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4267/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4267">
+        <num>RCW 82.04.4267</num>
+        <heading>Exemptions—Operation of parking/business improvement areas</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4267
+82.04.4266
+&lt;&lt; 
+        82.04.4267 &gt;&gt;
+82.04.4268
+PDF
+RCW
+82.04.4267
+Exemptions
+—
+Operation of parking/business improvement areas.
+This chapter does not apply to amounts received by a chamber of commerce or other similar business association for administering the operation of a parking and business improvement area as defined in RCW
+35.87A.110
+.
+[
+2005 c 476 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

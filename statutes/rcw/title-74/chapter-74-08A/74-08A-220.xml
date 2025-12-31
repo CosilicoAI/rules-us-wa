@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.220"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.220/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.220/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_220">
+        <num>RCW 74.08A.220</num>
+        <heading>Individual development accounts—Microcredit and microenterprise approaches—Rules</heading>
+        <subsection eId="sec_74_08A_220__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An individual development account may be established by or on behalf of a recipient eligible for assistance provided under the temporary assistance for needy families program operated under this title for the purpose of enabling the recipient to accumulate funds for a qualified purpose described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A qualified purpose as described in this subsection is one or more of the following, as provided by the qualified entity providing assistance to the individual:</p>
+          </content>
+          <subsection eId="sec_74_08A_220__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Postsecondary expenses paid from an individual development account directly to an eligible educational institution;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_220__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_220__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Amounts paid from an individual development account directly to a business capitalization account which is established in a federally insured financial institution and is restricted to use solely for qualified business capitalization expenses.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A recipient may only contribute to an individual development account such amounts as are derived from earned income, as defined in section 911(d)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of the internal revenue code of 1986.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall establish rules to ensure funds held in an individual development account are only withdrawn for a qualified purpose as provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>An individual development account established under this section shall be a trust created or organized in the United States and funded through periodic contributions by the establishing recipient and matched by or through a qualified entity for a qualified purpose as provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For the purpose of determining eligibility for any assistance provided under this title, all funds in an individual development account under this section shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department shall adopt rules authorizing the use of organizations using microcredit and microenterprise approaches to assisting low-income families to become financially self-sufficient.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The department shall adopt rules implementing the use of individual development accounts by recipients of temporary assistance for needy families.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_220__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>For the purposes of this section, &quot;eligible educational institution,&quot; &quot;postsecondary educational expenses,&quot; &quot;qualified acquisition costs,&quot; &quot;qualified business,&quot; &quot;qualified business capitalization expenses,&quot; &quot;qualified expenditures,&quot; &quot;qualified first-time homebuyer,&quot; &quot;date of acquisition,&quot; &quot;qualified plan,&quot; and &quot;qualified principal residence&quot; include the meanings provided for them in P.L. 104-193.
+[
+1997 c 58 s 307
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

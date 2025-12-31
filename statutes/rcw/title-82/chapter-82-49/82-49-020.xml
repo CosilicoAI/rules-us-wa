@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.49.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.49.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.49.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_49_020">
+        <num>RCW 82.49.020</num>
+        <heading>Exemptions</heading>
+        <subsection eId="sec_82_49_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Vessels exempt from the registration requirements of chapter
+88.02
+RCW;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Vessels used exclusively for commercial fishing purposes;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Vessels under sixteen feet in overall length;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Vessels owned and operated by the United States, a state of the United States, or any municipality or political subdivision thereof;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Vessels owned by a nonprofit organization or association engaged in character building of boys and girls under eighteen years of age and solely used for such purposes, as determined by the department for the purposes of RCW
+84.36.030
+; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Vessels owned and held for sale by a dealer, but not rented on a regular commercial basis.
+[
+1984 c 250 s 1
+;
+1983 2nd ex.s. c 3 s 43
+.]
+NOTES:
+Construction
+—
+Severability
+—
+Effective dates
+—
+1983 2nd ex.s. c 3:
+See notes following RCW
+82.04.255
+.
+Partial exemption from ad valorem taxes of ships and vessels exempt from excise tax under RCW
+82.49.020</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

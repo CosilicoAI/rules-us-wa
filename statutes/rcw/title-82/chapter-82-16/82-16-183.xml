@@ -1,0 +1,578 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.183"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.183"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.183/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.183/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.183/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.183/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_183">
+        <num>RCW 82.16.183</num>
+        <heading>Community solar projects. (Expires June 30, 2038.)</heading>
+        <subsection eId="sec_82_16_183__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning July 1, 2022, through June 30, 2033, an administrator of a community solar project meeting the eligibility requirements described in this section and RCW
+82.16.170</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>may submit an application to the Washington State University extension energy program to receive a precertification for a community solar project. Projects with precertification applications approved by the Washington State University extension energy program have two years to complete their projects and apply for certification. Projects that have not completed certification within two years may apply to the Washington State University extension energy program for an extension of their precertification status for an additional 180 days if they can demonstrate significant progress during the time they were in precertification status. By certifying qualified projects pursuant to the requirements of this section and RCW
+82.16.170</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A one-time low-income community solar incentive payment remitted to a community solar project administrator for a project certified under this section equals the sum of the following:</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An amount, not to exceed $20,000 per community solar project, equal to the community solar project's administrative costs related to the administrative start-up of the project for qualifying subscribers; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An amount that does not exceed 100 percent of the proportional cost of the installed cost of the share of the community solar project that provides direct benefits to qualifying subscribers, taking into account any federal tax credits or other federal or nonfederal grants or incentives that the program is benefiting from.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No new certification may be issued under this section for a community solar project that was certified under RCW
+82.16.120
+or
+82.16.165
+, or for a community solar project served by a utility that has elected not to participate in the incentive program provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Community solar projects that are under precertification status under RCW
+82.16.165
+as of June 30, 2020, may not apply for precertification of that same project for the one-time low-income community solar incentive payment provided in this section.</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition to the one-time low-income community solar incentive payment under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, a participating utility must also provide the following compensation for the generation of electricity from the certified project:</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For a community solar project that has an alternating current nameplate capacity no greater than 100 kilowatts, and that is connected behind the electric service meter, compensation must be determined in accordance with RCW
+80.60.020
+and provided to the retail electric customer receiving service at the situs of the meter.</p>
+            </content>
+            <subsection eId="sec_82_16_183__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For all other community solar projects for which the administrator is not a utility, compensation paid to the interconnection customer must be determined in a written agreement between the interconnection customer and the utility.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_183__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>For all other community solar projects for which the administrator is a utility, compensation must be provided directly to subscribers in accordance with subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section.
+(iv)(A) When the administrator of a community solar project receives compensation for the generation of electricity from a participating utility, interconnection customer, or from the retail electric customer that is the host for the community solar project, the administrator must provide all of that compensation as a direct benefit to the project subscribers, except as described in (iv)(B) of this subsection.
+(B) An administrator may deduct ongoing administrative and maintenance costs from compensation they provide to subscribers from power generation, provided those costs are identified in the subscription agreement or justified to the Washington State University extension energy program. The Washington State University extension energy program shall review any such administrative and maintenance costs justifications for reasonableness and approve, reject, or negotiate changes to the proposal. An administrator may request a change in the deduction for administrative and maintenance costs to the Washington State University extension energy program only if the subscription agreement includes language notifying the subscriber that administrative and maintenance fees are subject to change.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For 10 years after certification, and by March 1st of each year following certification, the administrator must provide the Washington State University extension energy program with signed statements of the following for the preceding year:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The energy production for the period for which compensation is to be provided;</p>
+            </content>
+            <subsection eId="sec_82_16_183__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Each subscriber's units of the project;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_183__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The amount disbursed to each subscriber for the period; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_183__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The date and amount disbursed to each subscriber.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A utility's participation in the incentive program provided in this section is voluntary.</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The utility may terminate its voluntary participation in the program by providing notice in writing to the Washington State University extension energy program to cease accepting new applications for precertification for community solar projects that would be served by that utility. Such notice of termination of participation is effective after 15 days, at which point the Washington State University extension energy program may not accept new applications for precertification for community solar projects that would be served by that utility.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon receiving a utility's notice of termination of participation in the incentive program, the Washington State University extension energy program must report on its website that community solar project customers of that utility are no longer eligible to receive new certifications under the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A utility that has terminated participation in the program may resume participation upon filing a notice with the Washington State University extension energy program.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Washington State University extension energy program may issue certifications authorizing incentive payments under this section in a total statewide amount not to exceed $100,000,000, and subject to the following biennial dollar limits:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For fiscal year 2023, $300,000; and</p>
+            </content>
+            <subsection eId="sec_82_16_183__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For each biennium beginning on or after July 1, 2023, $25,000,000.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Washington State University extension energy program must attempt to equitably distribute incentive funds throughout the state. Considerations for equitable fund distribution, based on precertification applications received from administrators served by utilities voluntarily participating in the program, may include measures to reserve or allocate available funds based on the proportion of public utility taxes collected, the proportion of the state's low-income customers served by each utility based on low-income home energy assistance program data at the department of commerce, measures to achieve an equitable geographic distribution of community solar installations and a diversity of administrative models for community solar projects, and the amount of energy burden reduction for qualifying subscribers relative to the project's cost. If an equitable distribution of funds is not feasible due to a lack of precertification applications, the Washington State University extension energy program may allocate funds based on</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection on a first-come, first-served basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Washington State University extension energy program must ensure that at least $2,000,000 of the statewide total for the entire program is used to support nonprofit organizations' innovative approaches to allocating benefits to subscribers, defining and valuing benefits to be provided to subscribers or other aspects of the subscriber, administrator, system host, and utility relationship.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The Washington State University extension energy program must also ensure that at least $2,000,000 of the statewide total for the entire program is available to tribal governments and their designated subdivisions and agencies.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The Washington State University extension energy program shall regularly publish and update guidelines for how it manages the allocation of available funding, based on the evaluation of applications and the factors specified in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Beginning in fiscal year 2026, the Washington State University extension energy program may waive the requirements in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection if it fails to receive applications that meet the criteria of</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection sufficient to result in the full allocation of incentives.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Prior to obtaining certification under this section, the administrator of a community solar project must apply for precertification against the funds available for incentive payments under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section in order to be guaranteed an incentive payment under this section. The application for precertification must include, at a minimum:</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A demonstration of how the project will deliver continuing direct benefits to low-income subscribers. A direct benefit can include credit for the power generation for the community solar project or other mechanisms that lower the energy burden of a low-income subscriber; and</p>
+            </content>
+            <subsection eId="sec_82_16_183__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Any other information the Washington State University extension energy program deems necessary in determining eligibility for precertification.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The administrator of a community solar project must complete an application for certification in accordance with the requirements of subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>of this section within less than two years of being approved for precertification status. The administrator must submit a project update to the Washington State University extension energy program after one year in precertification status.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>To obtain certification for the one-time community solar incentive payment provided under this section, a project administrator must submit to the Washington State University extension energy program an application, including, at a minimum:</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A signed statement that the applicant has not previously received a notice of eligibility from the department under RCW
+82.16.120
+or the Washington State University extension energy program under RCW
+82.16.165
+entitling the applicant to receive annual incentive payments for electricity generated by the community solar project at the same meter location;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A signed statement of the costs paid by the administrator related to administering the project for qualifying subscribers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A signed statement of the total project costs, including the proportional cost of the share of the community solar project that provides direct benefits to qualifying subscribers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A signed statement describing the amount of the upfront incentive and the timing, method, and distribution of estimated benefits to qualifying subscribers. The statement must describe any estimated energy burden reduction associated with the direct benefits;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Available system operation data, such as global positioning system coordinates, tilt, estimated shading, and azimuth;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any other information the Washington State University extension energy program deems necessary in determining eligibility and incentive levels or administering the program;
+(g)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Except as provided in (g)</p>
+            </content>
+            <subsection eId="sec_82_16_183__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_183__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The Washington State University extension energy program may waive the requirement in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Confirmation of the number of qualifying subscribers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A copy of the executed agreement describing how benefits will be determined and distributed from the retail electric customer or interconnection customer to the administrator if the administrator and the retail electric customer or interconnection customer are not the same. The Washington State University extension energy program must review the executed agreement to determine that benefits are being fairly determined and that there is an adequate plan for distributing the benefits; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_9__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Any other information the Washington State University extension energy program deems necessary in determining eligibility and incentive levels or administering the program.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>No incentive payments may be authorized or accrued until the final electrical inspection and executed interconnection agreement are submitted to the Washington State University extension energy program.</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The Washington State University extension energy program must review each project for which an application for certification is submitted in accordance with subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this section for reasonable cost and financial structure, with a targeted installed cost for the solar energy system of $2 per watt direct current for systems over 200 kilowatts and $2.25 per watt direct current for systems equal to or under 200 kilowatts. For solar energy systems that include storage systems, the targeted installed cost of the storage system is $600 per kilowatt-hour of storage capacity.</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The Washington State University extension energy program may approve an application for a project that costs more or less than the targeted installed costs under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection based on a review of the project, documents submitted by the project applicant, and available data. Project cost evaluations may include costs associated with energy storage systems and electrical system improvements to permit grid-independent operation. Applicants may petition the Washington State University extension energy program to approve a higher cost per watt or per kilowatt-hour for unusual circumstances.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The Washington State University extension energy program may review the cost per watt target under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection prior to each fiscal biennium and is authorized to determine a new cost per watt target.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Within 30 days of receipt of an application for certification, the Washington State University extension energy program must notify the applicant and, except when a utility is the applicant, the utility serving the site of the community solar project, by mail or electronically, whether certification has been granted. The certification notice must state the total dollar amount of the low-income community solar incentive payment for which the applicant is eligible under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Within 60 days of receipt of a notification under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, the utility serving the site of the community solar project must remit the applicable one-time low-income community solar incentive payment to the project administrator, who accepts the payment on behalf of, and for the purpose of providing direct benefits to, the project's qualifying subscribers.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Certification follows the community solar project if the following conditions are met using procedures established by the Washington State University extension energy program:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The community solar project is transferred to a new owner who notifies the Washington State University extension energy program of the transfer;</p>
+            </content>
+            <subsection eId="sec_82_16_183__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The new owner provides an executed interconnection agreement with the utility serving the site of the community solar project; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_183__subsec_8__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The new owner agrees to provide equivalent ongoing benefits to qualifying subscribers as the current owner.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the event that a qualifying subscriber terminates their participation in a community solar project during the first 120 months after project certification, the system certification follows the project and participation must be transferred to a new qualifying subscriber.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>Beginning January 1, 2023, the Washington State University extension energy program must post on its website and update at least monthly a report, by utility, of:</p>
+          </content>
+          <subsection eId="sec_82_16_183__subsec_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The number of certifications issued for community solar projects; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_183__subsec_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An estimate of the amount of credit that has not yet been allocated for low-income community solar incentive payments and that remains available for new community solar project certifications in the state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>Persons receiving incentive payments under this section must keep and preserve, for a period of five years for the duration of the consumer contract, suitable records as may be necessary to determine the amount of incentive payments applied for and received.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>The nonpower attributes of the community solar project must be retired on behalf of the subscribers unless, in the case of a utility-owned community solar project, a contract between the subscriber that benefits the subscriber clearly states that the attributes will be retained and retired by the utility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>All lists, technical specifications, determinations, and guidelines developed under this section must be made publicly available online by the Washington State University extension energy program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>The Washington State University extension energy program may, through a public process, develop program requirements, policies, and processes necessary for the administration or implementation of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>Applications, certifications, requests for incentive payments under this section, and the information contained therein are not deemed tax information under RCW
+82.32.330
+and are subject to disclosure.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>No certification may be issued under this section by the Washington State University extension energy program for a community solar project after June 30, 2035.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>Community solar projects certified under this section must be sited on preferred sites to protect natural and working lands as determined by the Washington State University extension energy program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_183__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>This section expires June 30, 2038.
+[
+2022 c 212 s 5
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2022 c 212:
+&quot;The legislature finds and declares that stimulating local investment in community solar projects continues to be an important part of a state energy strategy by helping to increase energy independence from fossil fuels, promote economic development, hedge against the effects of climate change, and attain environmental benefits. The legislature finds that although previous community solar programs were successful in stimulating these benefits, the programs failed to provide an adequate framework for low-income participation and long-term market certainty. The legislature finds that the vast majority of Washingtonians still do not have access to the benefits of solar energy. The legislature intends to stimulate the deployment of community solar projects for the benefit of all Washingtonians by funding the renewable energy production incentive program for community solar projects and by creating opportunities for broader participation, especially by low-income households and low-income service providers. As of December 2021, the state is 10.3 megawatts short of the 115 megawatts of solar photovoltaic capacity established as a goal under RCW
+82.16.155
+. The legislature therefore intends to provide an incentive sufficient to promote installation of community solar projects through June 30, 2033, at which point the legislature expects to review the effectiveness of enhancing access to community solar projects.&quot; [
+2022 c 212 s 1
+.]
+Tax preference performance statement exemption
+—
+2022 c 212:
+&quot;RCW
+82.32.808
+does not apply to this act.&quot; [
+2022 c 212 s 7
+.]
+Effective date
+—
+2022 c 212:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 30, 2022].&quot; [
+2022 c 212 s 8
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

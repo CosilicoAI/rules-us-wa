@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.310"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_310">
+        <num>RCW 82.32.310</num>
+        <heading>Immunity of officers, agents, etc., of the department of revenue acting in good faith</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.310
+82.32.300
+&lt;&lt; 
+        82.32.310 &gt;&gt;
+82.32.320
+PDF
+RCW
+82.32.310
+Immunity of officers, agents, etc., of the department of revenue acting in good faith.
+When recovery is had in any suit or proceeding against an officer, agent, or employee of the department of revenue for any act done by him or her or for the recovery of any money exacted by or paid to him or her and by him or her paid over to the department, in the performance of his or her official duty, and the court certifies that there was probable cause for the act done by such officer, agent, or employee, or that he or she acted under the direction of the department or an officer thereof, no execution shall issue against such officer, agent, or employee, but the amount so recovered shall, upon final judgment, be paid by the department as an expense of operation.
+[
+2013 c 23 s 327
+;
+1975 1st ex.s. c 278 s 91
+;
+1961 c 15 s 82.32.310
+. Prior: 1935 c 180 s 208, part; RRS s 8370-208, part.]
+NOTES:
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

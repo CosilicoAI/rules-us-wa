@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_090">
+        <num>RCW 82.26.090</num>
+        <heading>Records of shipments, deliveries from public warehouse of first destination—Preservation—Inspection</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.26
+&gt;
+Section 82.26.090
+82.26.080
+&lt;&lt; 
+        82.26.090 &gt;&gt;
+82.26.100
+PDF
+RCW
+82.26.090
+Records of shipments, deliveries from public warehouse of first destination
+—
+Preservation
+—
+Inspection.
+Records of all deliveries or shipments of tobacco products from any public warehouse of first destination in this state shall be kept by the warehouse and be available to the department of revenue for inspection. They shall show the name and address of the consignee, the date, the quantity of tobacco products delivered, and such other information as the department may require. These records shall be preserved for five years from the date of delivery of the tobacco products.
+[
+1975 1st ex.s. c 278 s 75
+;
+1961 c 15 s 82.26.090
+. Prior:
+1959 ex.s. c 5 s 19
+.]
+NOTES:
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

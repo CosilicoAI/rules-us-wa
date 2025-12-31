@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.242"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.242"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.242/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.242/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.242/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.242/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_242">
+        <num>RCW 74.13.242</num>
+        <heading>Safety plan—Participants—High-potency synthetic opioids</heading>
+        <subsection eId="sec_74_13_242__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Include contracts in up to four department offices for third-party safety plan participants and public health nurses to support child protective services workers in safety planning; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_242__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Provide support for cases involving high-potency synthetic opioids and families who do not have natural supports to aid in safety planning.
+[
+2024 c 328 s 206
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2024 c 328:
+See note following RCW
+13.34.050
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

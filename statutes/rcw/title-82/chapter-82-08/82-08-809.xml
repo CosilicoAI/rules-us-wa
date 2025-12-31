@@ -1,0 +1,433 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.809"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.809"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.809/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.809/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.809/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.809/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_809">
+        <num>RCW 82.08.809</num>
+        <heading>Exemptions—Vehicles using clean alternative fuels and electric vehicles, exceptions—Quarterly transfers</heading>
+        <subsection eId="sec_82_08_809__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the tax levied by RCW
+82.08.020
+does not apply to sales of new passenger cars, light duty trucks, and medium duty passenger vehicles, which</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>are exclusively powered by a clean alternative fuel or</p>
+            </content>
+            <subsection eId="sec_82_08_809__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>use at least one method of propulsion that is capable of being reenergized by an external source of electricity and are capable of traveling at least thirty miles using only battery power.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning with sales made or lease agreements signed on or after July 1, 2016, the exemption in this section is only applicable for up to thirty-two thousand dollars of a vehicle's selling price or the total lease payments made plus the selling price of the leased vehicle if the original lessee purchases the leased vehicle before the expiration of the exemption as described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The seller must keep records necessary for the department to verify eligibility under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>As used in this section, &quot;clean alternative fuel&quot; means natural gas, propane, hydrogen, or electricity, when used as a fuel in a motor vehicle that meets the California motor vehicle emission standards in Title 13 of the California code of regulations, effective January 1, 2005, and the rules of the Washington state department of ecology.</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A sale, other than a lease, of a vehicle identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section made on or after July 15, 2015, and before July 1, 2016, is not exempt from sales tax as described under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section if the selling price of the vehicle plus trade-in property of like kind exceeds thirty-five thousand dollars.</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A sale, other than a lease, of a vehicle identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section made on or after July 1, 2016, and before the expiration of the exemption as described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section, is not exempt from sales tax as described under subsection</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section if, at the time of sale, the lowest manufacturer's suggested retail price, as determined in rule by the department of licensing pursuant to chapter
+34.05
+RCW, for the base model is more than forty-two thousand five hundred dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For leased vehicles for which the lease agreement was signed before July 1, 2015, lease payments are exempt from sales tax as described under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section regardless of the vehicle's fair market value at the inception of the lease.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For leased vehicles identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section for which the lease agreement is signed on or after July 15, 2015, and before July 1, 2016, lease payments are not exempt from sales tax if the fair market value of the vehicle being leased exceeds thirty-five thousand dollars at the inception of the lease. For the purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For leased vehicles identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section for which the lease agreement is signed on or after July 1, 2016, and before the expiration of the exemption as described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section, lease payments are not exempt from sales tax as described under subsection</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section if, at the inception of the lease, the lowest manufacturer's suggested retail price, as determined in rule by the department of licensing pursuant to chapter
+34.05
+RCW, for the base model is more than forty-two thousand five hundred dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The department of licensing must maintain and publish a list of all vehicle models qualifying for the sales tax exemption under this section until the expiration of the exemption as described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>On the last day of January, April, July, and October of each year, the state treasurer, based upon information provided by the department, must transfer from the multimodal transportation account to the general fund a sum equal to the dollar amount that would otherwise have been deposited into the general fund during the prior calendar quarter but for the exemption provided in this section. Information provided by the department to the state treasurer must be based on the best available data, except that the department may provide estimates of taxes exempted under this section until such time as retailers are able to report such exempted amounts on their tax returns. For purposes of this section, the first transfer for the calendar quarter after July 15, 2015, must be calculated assuming only those revenues that should have been deposited into the general fund beginning July 1, 2015.</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The exemption under this section expires, effective with sales of vehicles delivered to the buyer or leased vehicles for which the lease agreement was signed, after the last day of the calendar month immediately following the month the department receives notice from the department of licensing under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. All leased vehicles that qualified for the exemption before the expiration of the exemption must continue to receive the exemption as described under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section on lease payments due through the remainder of the lease.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon receiving notice from the department of licensing under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the department must provide notice as soon as is practicable on its website of the expiration date of the exemption under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection, even if the department of licensing provides the department with notice under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section before the end of the fifth working day of the month notice is required, the notice is deemed to have been received by the department at the end of the fifth working day of the month notice is required.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If, by the end of the fifth working day of May 2019, the department has not received notice from the department of licensing under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the exemption under this section expires effective with sales of vehicles delivered to the buyer or leased vehicles for which the lease agreement was signed after June 30, 2019.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Nothing in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>may be construed to affect the validity of any exemption properly allowed by a seller under this section before the expiration of the exemption as described in</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection and reported to the department on returns filed after the expiration of the exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Nothing in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>may be construed to allow an exemption under this section for the purchase of a qualifying vehicle by the original lessee of the vehicle after the expiration of the exemption as provided in</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>By the end of the fifth working day of each month, until the expiration of the exemption as described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section, the department of licensing must determine the cumulative number of qualifying vehicles titled on or after July 15, 2015, and provide notice of the cumulative number of these vehicles to the department.</p>
+          </content>
+          <subsection eId="sec_82_08_809__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department of licensing must notify the department once the cumulative number of qualifying vehicles titled in the state on or after July 15, 2015, equals or exceeds seven thousand five hundred.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>By the last day of July 2016, and every six months thereafter until the expiration of the exemption as described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section, based on the best available data, the department must report the following information to the transportation committees of the legislature: The cumulative number of qualifying vehicles titled in the state on or after July 15, 2015, as reported to it by the department of licensing; and the dollar amount of all state retail sales and use taxes exempted on or after July 15, 2015, under this section and RCW
+82.12.809
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>For purposes of this section, &quot;qualifying vehicle&quot; means a vehicle qualifying for the exemption under this section or RCW
+82.12.809
+in which the sale was made or the lease agreement was signed on or after July 15, 2015.
+[
+2016 sp.s. c 32 s 2
+;
+2015 3rd sp.s. c 44 s 408
+;
+2010 1st sp.s. c 11 s 2
+;
+2005 c 296 s 1
+.]
+NOTES:
+Effective date
+—
+2016 sp.s. c 32:
+&quot;This act takes effect July 1, 2016.&quot; [
+2016 sp.s. c 32 s 4
+.]
+Tax preference performance statement
+—
+2016 sp.s. c 32:
+&quot;This section is the tax preference performance statement for the tax preferences contained in sections 2 and 3 of this act. The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes the tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to increase the use of clean alternative fuel vehicles in Washington. It is the legislature's intent to extend the existing sales and use tax exemption on certain clean alternative fuel vehicles in order to reduce the price charged to customers for clean alternative fuel vehicles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To measure the effectiveness of the tax preferences in sections 2 and 3 of this act in achieving the public policy objectives described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee must evaluate the number of clean alternative fuel vehicles titled in the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department of licensing must provide data needed for the joint legislative audit and review committee analysis. In addition to the data source described under this subsection, the joint legislative audit and review committee may use any other data it deems necessary.&quot; [
+2016 sp.s. c 32 s 1
+.]
+Tax preference performance statement
+—
+2015 3rd sp.s. c 44 ss 408 and 409:
+&quot;This section is the tax preference performance statement for the tax preferences contained in sections 408 and 409 of this act. The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes the tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to increase the use of clean alternative fuel vehicles in Washington. It is the legislature's intent to extend the existing sales and use tax exemption on certain clean alternative fuel vehicles in order to reduce the price charged to customers for clean alternative fuel vehicles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To measure the effectiveness of the tax preferences in sections 408 and 409 of this act in achieving the public policy objectives described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee must evaluate the number of clean alternative fuel vehicles registered in the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_809__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department of licensing must provide data needed for the joint legislative audit and review committee analysis. In addition to the data source described under this subsection, the joint legislative audit and review committee may use any other data it deems necessary.&quot; [
+2015 3rd sp.s. c 44 s 407
+.]
+Effective date
+—
+2005 c 296:
+&quot;This act takes effect January 1, 2009.&quot; [
+2005 c 296 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

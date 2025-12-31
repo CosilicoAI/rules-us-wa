@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.700"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.700"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.700/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.700/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.700/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.700/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_700">
+        <num>RCW 74.09.700</num>
+        <heading>Medical care—Limited casualty program</heading>
+        <subsection eId="sec_74_09_700__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To the extent of available funds and subject to any conditions placed on appropriations made for this purpose, medical care may be provided under the limited casualty program to persons not eligible for medical assistance or medical care services who are medically needy as defined in the social security Title XIX state plan and medical indigents in accordance with eligibility requirements established by the authority. The eligibility requirements may include minimum levels of incurred medical expenses. This includes residents of nursing facilities, residents of intermediate care facilities for persons with intellectual disabilities, and individuals who are otherwise eligible for section 1915</p>
+          </content>
+          <subsection eId="sec_74_09_700__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the federal social security act home and community-based waiver services, administered by the department who are aged, blind, or disabled as defined in Title XVI of the federal social security act and whose income exceeds three hundred percent of the federal supplement security income benefit level.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_700__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Determination of the amount, scope, and duration of medical coverage under the limited casualty program shall be the responsibility of the authority, subject to the following:</p>
+          </content>
+          <subsection eId="sec_74_09_700__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Only the following services may be covered:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_700__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For persons who are medically needy as defined in the social security Title XIX state plan: Inpatient and outpatient hospital services, and home and community-based waiver services;</p>
+            </content>
+            <subsection eId="sec_74_09_700__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For persons who are medically needy as defined in the social security Title XIX state plan, and for persons who are medical indigents under the eligibility requirements established by the authority: Rural health clinic services; physicians' and clinic services; prescribed drugs, dentures, prosthetic devices, and eyeglasses; nursing facility services; and intermediate care facility services for persons with intellectual disabilities; home health services; hospice services; other laboratory and X-ray services; rehabilitative services, including occupational therapy; medically necessary transportation; and other services for which funds are specifically provided in the omnibus appropriations act;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_700__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Medical care services provided to the medically indigent and received no more than seven days prior to the date of application shall be retroactively certified and approved for payment on behalf of a person who was otherwise eligible at the time the medical services were furnished: PROVIDED, That eligible persons who fail to apply within the seven-day time period for medical reasons or other good cause may be retroactively certified and approved for payment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_700__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The authority shall establish standards of assistance and resource and income exemptions. All nonexempt income and resources of limited casualty program recipients shall be applied against the cost of their medical care services.
+[
+2011 1st sp.s. c 15 s 42
+;
+2010 c 94 s 25
+;
+2001 c 269 s 1
+;
+1993 c 57 s 2
+. Prior:
+1991 sp.s. c 9 s 7
+;
+1991 sp.s. c 8 s 10
+;
+1991 c 233 s 2
+;
+1989 c 87 s 3
+;
+1985 c 5 s 4
+;
+1983 1st ex.s. c 43 s 1
+;
+1982 1st ex.s. c 19 s 1
+;
+1981 2nd ex.s. c 10 s 6
+;
+1981 2nd ex.s. c 3 s 6
+;
+1981 1st ex.s. c 6 s 22
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Purpose
+—
+2010 c 94:
+See note following RCW
+44.04.280
+.
+Effective dates
+—
+1991 sp.s. c 9:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect on July 1, 1991, except sections 1 through 6 and 9 of this act which shall take effect on September 1, 1991.&quot; [
+1991 sp.s. c 9 s 11
+.]
+Effective date
+—
+1991 sp.s. c 8:
+See note following RCW
+18.51.050
+.
+Effective dates
+—
+1989 c 87:
+See note following RCW
+74.09.510
+.
+Effective date
+—
+1983 1st ex.s. c 43:
+&quot;This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect on July 1, 1983.&quot; [
+1983 1st ex.s. c 43 s 3
+.]
+Effective date
+—
+1982 1st ex.s. c 19:
+See note following RCW
+74.09.035
+.
+Severability
+—
+1981 2nd ex.s. c 3:
+See note following RCW
+74.09.510
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,299 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.110"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_110">
+        <num>RCW 82.24.110</num>
+        <heading>Other offenses—Penalties</heading>
+        <subsection eId="sec_82_24_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each of the following acts is a gross misdemeanor and punishable as such:</p>
+          </content>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To sell, except as a licensed wholesaler engaged in interstate commerce as to the article being taxed herein, without the stamp first being affixed;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To sell in Washington as a wholesaler to a retailer who does not possess and is required to possess a current cigarette retailer's license;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To use or have in possession knowingly or intentionally any forged or counterfeit stamps;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For any person other than the department of revenue or its duly authorized agent to sell any stamps not affixed to any of the articles taxed herein whether such stamps are genuine or counterfeit;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For any person other than the department of revenue, its duly authorized agent, or a licensed wholesaler who has lawfully purchased or obtained them to possess any stamps not affixed to any of the articles taxed herein whether such stamps are genuine or counterfeit;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>To violate any of the provisions of this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>To violate any lawful rule made and published by the department of revenue or the board;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>To use any stamps more than once or any individual stamped box or similar container used to transport roll-your-own cigarettes more than once;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To refuse to allow the department of revenue or its duly authorized agent, on demand, to make full inspection of any place of business where any of the articles herein taxed are sold or otherwise hinder or prevent such inspection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Except as otherwise provided in this chapter, for any retailer to have in possession in any place of business any of the articles herein taxed, unless the same have the proper stamps attached;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>For any person to make, use, or present or exhibit to the department of revenue or its duly authorized agent, any invoice for any of the articles herein taxed which bears an untrue date or falsely states the nature or quantity of the goods therein invoiced;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>For any wholesaler or retailer or his or her agents or employees to fail to produce on demand of the department of revenue all invoices of all the articles herein taxed or stamps bought by him or her or received in his or her place of business within five years prior to such demand unless he or she can show by satisfactory proof that the nonproduction of the invoices was due to causes beyond his or her control;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>For any person to receive in this state any shipment of any of the articles taxed herein, when the same are not stamped, for the purpose of avoiding payment of tax. It is presumed that persons other than dealers who purchase or receive shipments of unstamped cigarettes do so to avoid payment of the tax imposed herein;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>For any person to possess or transport in this state a quantity of ten thousand cigarettes or less unless the proper stamps required by this chapter have been affixed or unless:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Notice of the possession or transportation has been given as required by RCW
+82.24.250
+;</p>
+            </content>
+            <subsection eId="sec_82_24_110__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the person transporting the cigarettes has in actual possession invoices or delivery tickets which show the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of the cigarettes so transported; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_24_110__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the cigarettes are consigned to or purchased by any person in this state who is authorized by this chapter to possess unstamped cigarettes in this state;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>For any person to possess or receive in this state a quantity of ten thousand cigarettes or less unless the proper stamps required by this chapter have been affixed or unless the person is authorized by this chapter to possess unstamped cigarettes in this state and is in compliance with the requirements of this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>To possess, sell, distribute, purchase, receive, ship, or transport within this state any container or package of cigarettes that does not comply with this chapter; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_1__subsec_q">
+            <num>(q)</num>
+            <content>
+              <p>For a retailer to provide consumers with access to a commercial cigarette-making machine without providing a box or similar container that has a properly affixed stamp or stamps.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is unlawful for any person knowingly or intentionally to possess or to:</p>
+          </content>
+          <subsection eId="sec_82_24_110__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Transport in this state a quantity in excess of ten thousand cigarettes unless the proper stamps required by this chapter are affixed thereto or unless:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Proper notice as required by RCW
+82.24.250
+has been given;</p>
+            </content>
+            <subsection eId="sec_82_24_110__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the person transporting the cigarettes actually possesses invoices or delivery tickets showing the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of the cigarettes so transported; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_24_110__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the cigarettes are consigned to or purchased by a person in this state who is authorized by this chapter to possess unstamped cigarettes in this state; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_24_110__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Receive in this state a quantity in excess of ten thousand cigarettes unless the proper stamps required by this chapter are affixed thereto or unless the person is authorized by this chapter to possess unstamped cigarettes in this state and is in compliance with this chapter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_110__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Violation of subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section is punished as a class C felony under Title
+9A
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_110__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>All agents, employees, and others who aid, abet, or otherwise participate in any way in the violation of the provisions of this chapter or in any of the offenses described in this chapter are guilty and punishable as principals, to the same extent as any wholesaler or retailer or any other person violating this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_110__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For purposes of this section, &quot;person authorized by this chapter to possess unstamped cigarettes in this state&quot; has the same meaning as in RCW
+82.24.250
+.
+[
+2012 2nd sp.s. c 4 s 6
+;
+2008 c 226 s 4
+;
+2003 c 114 s 5
+;
+1999 c 193 s 2
+;
+1997 c 420 s 4
+;
+1995 c 278 s 7
+;
+1990 c 216 s 4
+;
+1987 c 496 s 1
+;
+1975 1st ex.s. c 278 s 63
+;
+1961 c 15 s 82.24.110
+. Prior:
+1941 c 178 s 15
+;
+1935 c 180 s 86
+; Rem. Supp. 1941 s 8370-86.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Finding
+—
+Intent
+—
+2008 c 226:
+See note following RCW
+82.24.080
+.
+Intent
+—
+Finding
+—
+Severability
+—
+Effective date
+—
+1999 c 193:
+See notes following RCW
+82.24.035
+.
+Effective date
+—
+1995 c 278:
+See note following RCW
+82.24.010
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

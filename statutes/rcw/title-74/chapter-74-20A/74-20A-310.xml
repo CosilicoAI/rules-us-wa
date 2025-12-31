@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.310"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_310">
+        <num>RCW 74.20A.310</num>
+        <heading>Federal and state cooperation—Rules—Construction</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.310
+74.20A.300
+&lt;&lt; 
+        74.20A.310 &gt;&gt;
+74.20A.320
+PDF
+RCW
+74.20A.310
+Federal and state cooperation
+—
+Rules
+—
+Construction.
+In furtherance of the policy of the state to cooperate with the federal government in the administration of the child support enforcement program, the department may adopt such rules and regulations as may become necessary to entitle the state to participate in federal funds, unless such rules would be expressly prohibited by law. Any section or provision of law dealing with the child support program which may be susceptible to more than one construction shall be interpreted in favor of the construction most likely to comply with federal laws entitling the state to receive federal funds. If any law dealing with the child support enforcement program is ruled to be in conflict with federal requirements which are a prescribed condition of the allocation of federal funds, such conflicting law is declared to be inoperative solely to the extent of the conflict.
+[
+1989 c 416 s 7
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

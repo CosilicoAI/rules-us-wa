@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.983"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.983"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.983/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.983/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.983/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.983/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_983">
+        <num>RCW 82.08.983</num>
+        <heading>Exemptions—Wax and ceramic materials</heading>
+        <subsection eId="sec_82_08_983__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of wax and ceramic materials used to create molds consumed during the process of creating ferrous and nonferrous investment castings used in industrial applications. The tax also does not apply to labor or services used to create wax patterns and ceramic shells used as molds and consumed during the process of creating ferrous and nonferrous investment castings used in industrial applications.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_983__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person claiming the exemption under this section must claim the exemption in a form and manner prescribed by the department.
+[
+2010 c 225 s 1
+.]
+NOTES:
+Reviser's note:
+Chapter 6, Laws of 2015 3rd sp.s. was signed by the governor on July 1, 2015. 2015 3rd sp.s. c 6 s 1202 removed the expiration date of 2010 c 225 ss 1 and 2 by repealing
+2010 c 225 s 4
+.
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_983__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 1202 of this act. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_983__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes the tax preference created in this act as one intended to reduce structural inefficiencies in the tax structure as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_983__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to provide permanent tax relief that corrects the structural inefficiencies under RCW
+82.08.983
+with regard to wax and ceramic materials used to create molds during the process of creating ferrous and nonferrous investment castings used in industrial applications.&quot; [
+2015 3rd sp.s. c 6 s 1201
+.]
+Tax preference intended to be permanent
+—
+2015 3rd sp.s. c 6:
+&quot;As this part is intended to create a permanent tax exemption, the tax preference in this act is not subject to the expiration date requirements in RCW
+82.32.805
+and is not subject to the requirements in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

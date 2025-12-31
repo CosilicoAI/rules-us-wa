@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.75.005"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.75.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.75.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_75_005">
+        <num>RCW 82.75.005</num>
+        <heading>Findings—Intent</heading>
+        <subsection eId="sec_82_75_005__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Washington state's higher rate of taxation compared with other states and nations encourages the export of intellectual property and commercial operations out of Washington; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_75_005__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>taxing these businesses before facilities, or products produced therein, are licensed for marketing by regulatory agencies.
+The legislature further finds that targeted tax incentives may encourage the formation, expansion, and retention of commercial operations within the life sciences sector. The legislature also finds that tax incentives should be subject to the same rigorous requirements for efficiency and accountability as are other expenditure programs, and that tax incentives should therefore be focused to provide the greatest possible return on the state's investment.
+For these reasons, the legislature hereby establishes a tax deferral program for commercial manufacturing facilities in this sector. The legislature declares that these limited programs serve the vital public purposes of incenting expenditures in commercial life science operations and the development of employment opportunities in this state. The legislature further declares its intent to create a contract within the meaning of Article I, section 23 of the state Constitution as to those businesses that make capital investments in consideration of the tax deferral program established in this chapter.
+[
+2006 c 178 s 1
+.]
+NOTES:
+Effective date
+—
+Severability
+—
+2006 c 178:
+See notes following RCW
+82.75.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

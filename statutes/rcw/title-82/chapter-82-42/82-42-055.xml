@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.42.055"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.42.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.42.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_42_055">
+        <num>RCW 82.42.055</num>
+        <heading>Computation and payment of tax—Remittance—Electronic funds transfer</heading>
+        <subsection eId="sec_82_42_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax must be computed by multiplying the tax rate per gallon by the number of gallons of fuel subject to the fuel tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An aircraft fuel distributor is liable for and must pay the tax imposed under RCW
+82.42.020
+to the department on or before the twenty-fifth day of the month immediately following the reporting period. The tax report required in RCW
+82.42.140
+must accompany the remittance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_055__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the tax is paid by electronic funds transfer, the tax must be paid on or before the twenty-sixth calendar day of the month immediately following the reporting period. If the payment due date falls on a Saturday, Sunday, or legal holiday, payment is due on the state business day immediately preceding the due date.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_42_055__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The tax must be paid by electronic funds transfer whenever the amount due is fifty thousand dollars or more.
+[
+2013 c 225 s 405
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

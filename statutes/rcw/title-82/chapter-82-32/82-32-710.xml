@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.710"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.710"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.710/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.710/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.710/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.710/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_710">
+        <num>RCW 82.32.710</num>
+        <heading>Professional employer organizations—Eligibility for tax incentives—Responsibility for tax performance reports</heading>
+        <subsection eId="sec_82_32_710__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A client under the terms of a professional employer agreement is deemed to be the sole employer of a covered employee for purposes of eligibility for any tax credit, exemption, or other tax incentive, arising as the result of the employment of covered employees, provided in RCW *
+82.04.4333
+,
+82.04.44525
+,
+82.04.448
+, **
+82.04.4483
+,
+82.08.965
+,
+82.12.965
+,
+82.16.0495
+, or
+82.60.049
+or chapter
+82.62
+or ***
+82.70
+RCW, or any other provision in this title. A client, and not the professional employer organization, is entitled to the benefit of any tax credit, exemption, or other tax incentive arising as the result of the employment of covered employees of that client.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_710__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A client under the terms of a professional employer agreement is deemed to be the sole employer of a covered employee for purposes of tax performance reports that require the reporting of employment information relating to covered employees of the client, as provided in RCW
+82.32.534
+. A client, and not the professional employer organization, is required to complete any tax performance report that requires the reporting of employment information relating to covered employees of that client.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_710__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section, &quot;client,&quot; &quot;covered employee,&quot; &quot;professional employer agreement,&quot; and &quot;professional employer organization&quot; have the same meanings as in RCW
+82.04.540
+.
+[
+2017 c 135 s 7
+;
+2010 c 114 s 137
+;
+2006 c 301 s 4
+.]
+NOTES:
+Reviser's note:
+*</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_710__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+82.04.4333
+was repealed by
+2015 c 86 s 101
+.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_710__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>RCW
+82.04.4483
+was repealed by
+2017 c 323 s 504
+; and subsequently repealed by
+2018 c 22 s 14
+.
+***</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_710__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Chapter
+82.70
+RCW expired July 1, 2025.
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+2006 c 301:
+&quot;This act takes effect July 1, 2006.&quot; [
+2006 c 301 s 10
+.]
+Act does not affect application of Title
+50
+or
+51
+RCW
+—
+2006 c 301:
+&quot;The provisions of this act do not affect the application of Title
+50
+or
+51
+RCW to the reporting requirement or tax liabilities of professional employer organizations or their clients.&quot; [
+2006 c 301 s 9
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

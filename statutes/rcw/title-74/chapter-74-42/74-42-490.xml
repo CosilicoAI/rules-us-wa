@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.490"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.490"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.490/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.490/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.490/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.490/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_490">
+        <num>RCW 74.42.490</num>
+        <heading>Room requirements—Waiver</heading>
+        <subsection eId="sec_74_42_490__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Be equipped with or conveniently located near toilet and bathing facilities;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_490__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Be at or above grade level;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_490__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Contain a suitable bed for each resident and other appropriate furniture;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_490__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Have closet space that provides security and privacy for clothing and personal belongings;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_490__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Contain no more than four beds;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_490__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Have adequate space for each resident; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_490__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Be equipped with a device for calling the staff member on duty.
+The department may waive the space, occupancy, and certain equipment requirements of this section for an existing building constructed prior to January 1, 1980, or space and certain equipment for new intermediate care facilities for persons with intellectual disabilities for as long as the department considers appropriate if the department finds that the requirements would result in unreasonable hardship on the facility, the waiver serves the particular needs of the residents, and the waiver does not adversely affect the health and safety of the residents.
+[
+2010 c 94 s 28
+;
+1980 c 184 s 13
+;
+1979 ex.s. c 211 s 49
+.]
+NOTES:
+Purpose
+—
+2010 c 94:
+See note following RCW
+44.04.280
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

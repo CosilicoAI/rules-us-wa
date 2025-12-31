@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.210"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.210/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.210/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_210">
+        <num>RCW 74.39A.210</num>
+        <heading>Disclosure of employee information—Employer immunity—Rebuttable presumption</heading>
+        <subsection eId="sec_74_39A_210__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The employee's ability to perform his or her job;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_210__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the diligence, skill, or reliability with which the employee carried out the duties of his or her job; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_210__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>any illegal or wrongful act committed by the employee when related to his or her ability to care for a vulnerable adult. For purposes of this section, the presumption of good faith may only be rebutted upon a showing by clear and convincing evidence that the information disclosed by the employer was knowingly false or made with reckless disregard for the truth of the information disclosed. If the employee successfully rebuts the presumption of good faith standard in a court of competent jurisdiction, as the prevailing party, the employee shall be entitled to recover reasonable attorneys' fees against the employer. Nothing in this section shall affect or limit any other state, federal, or constitutional right otherwise available.
+[
+2018 c 278 s 15
+;
+2001 c 319 s 13
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.550"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.550"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.550/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.550/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.550/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.550/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_550">
+        <num>RCW 74.13.550</num>
+        <heading>Child placement—Policy of educational continuity</heading>
+        <subsection eId="sec_74_13_550__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>It is the policy of the state of Washington that, whenever practical and in the best interest of the child, children who are the subject of a dependency proceeding shall remain enrolled in their schools of origin.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_550__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;children who are the subject of a dependency proceeding&quot; means a child or youth who is located in Washington state and the subject of a shelter care or dependency order pursuant to chapter
+13.34
+RCW, and &quot;school of origin&quot; means the school in which a child is enrolled at the time of placement in foster care. If a child's foster care placement changes, the school of origin must be considered the school in which the child is enrolled at the time of the placement change.
+[
+2022 c 78 s 8
+;
+2003 c 112 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2003 c 112:
+&quot;The legislature finds that the educational attainment of children in foster care is significantly lower than that of children not in foster care. The legislature finds that many factors influence educational outcomes for children in foster care, including the disruption of the educational process because of repeatedly changing schools.
+The legislature recognizes the importance of educational stability for foster children, and encourages the ongoing efforts of the department of social and health services and the office of the superintendent of public instruction to improve educational attainment of children in foster care. It is the intent of the legislature that efforts continue such as the recruitment of foster homes in school districts with high rates of foster care placements, the development and dissemination of informational materials regarding the challenges faced by children in foster care, and the expansion to other school districts of best practices identified in pilot projects.&quot; [
+2003 c 112 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

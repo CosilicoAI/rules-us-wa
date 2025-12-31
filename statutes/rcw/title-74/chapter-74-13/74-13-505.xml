@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.505"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.505"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.505/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.505/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.505/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.505/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_505">
+        <num>RCW 74.13.505</num>
+        <heading>Disclosure of child welfare records—Information to be disclosed</heading>
+        <subsection eId="sec_74_13_505__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The name of the abused or neglected child;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_505__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The determination made by the department of the referrals, if any, for abuse or neglect;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_505__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Identification of child protective or other services provided or actions, if any, taken regarding the child named in the report and his or her family as a result of any such report or reports. These records include but are not limited to administrative reports of fatality, fatality review reports, case files, inspection reports, and reports relating to social work practice issues; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_505__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any actions taken by the department in response to reports of abuse or neglect of the child.
+[
+1997 c 305 s 3
+.]
+NOTES:
+Conflict with federal requirements
+—
+1997 c 305:
+See note following RCW
+74.13.500
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

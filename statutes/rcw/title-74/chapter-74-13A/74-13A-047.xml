@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.047"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.047"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.047/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.047/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.047/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.047/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_047">
+        <num>RCW 74.13A.047</num>
+        <heading>Adoption assistance payments—Expenditure limits</heading>
+        <subsection eId="sec_74_13A_047__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To ensure expenditures continue to remain within available funds as required by RCW
+74.13A.005
+and
+74.13A.020
+, the secretary shall not set the amount of any adoption assistance payment or payments, made pursuant to RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+, to more than eighty percent of the foster care maintenance payment for that child had he or she remained in a foster family home during the same period. This subsection applies prospectively to adoption assistance agreements established on or after July 1, 2013, through June 30, 2017.</p>
+          </content>
+          <subsection eId="sec_74_13A_047__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To ensure expenditures continue to remain within available funds as required by RCW
+74.13A.005
+and
+74.13A.020
+, the secretary shall not set the amount of any adoption assistance payment or payments, made pursuant to RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+, to more than the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_047__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For a child under the age of five, no more than eighty percent of the foster care maintenance payment for that child had he or she remained in a foster family home during the same period.</p>
+            </content>
+            <subsection eId="sec_74_13A_047__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For a child aged five through nine, no more than ninety percent of the foster care maintenance payment for that child had he or she remained in a foster family home during the same period.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_13A_047__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>For a child aged ten through eighteen, no more than ninety-five percent of the foster care maintenance payment for that child had he or she remained in a foster family home during the same period.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13A_047__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection applies prospectively to adoption assistance agreements established on or after October 19, 2017.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13A_047__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department must establish a central unit of adoption support negotiators to help ensure consistent negotiation of adoption support agreements that will balance the needs of adoptive families with the state's need to remain fiscally responsible.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_047__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must request, in writing, that adoptive families with existing adoption support contracts renegotiate their contracts to establish lower adoption assistance payments if it is fiscally feasible for the family to do so. The department shall explain that adoption support contracts may be renegotiated as needs arise.
+[
+2017 3rd sp.s. c 20 s 10
+;
+2012 c 147 s 2
+.]
+NOTES:
+Construction
+—
+Competitive procurement process and contract provisions
+—
+Conflict with federal requirements and Indian Child Welfare Act of 1978
+—
+2017 3rd sp.s. c 20:
+See notes following RCW
+74.13.270
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

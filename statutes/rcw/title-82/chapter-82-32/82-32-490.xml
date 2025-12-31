@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.490"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.490"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.490/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.490/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.490/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.490/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_490">
+        <num>RCW 82.32.490</num>
+        <heading>Electronic database for use by mobile telecommunications service provider</heading>
+        <subsection eId="sec_82_32_490__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department or designated database provider, as applicable, that provides or maintains an electronic database described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_490__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section shall provide notice of the availability of the then-current electronic database, and any subsequent revisions, by publication in the manner normally employed for the publication of informational tax, charge, or fee notices to taxpayers in the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_490__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A mobile telecommunications service provider using the data contained in an electronic database described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_490__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section shall be held harmless from any tax, charge, or fee liability that otherwise would be due solely as a result of any error or omission in the database provided by the department or designated database provider. The mobile telecommunications service provider shall reflect changes made to the database during a calendar quarter not later than thirty days after the end of the calendar quarter if the department or designated database provider, as applicable, has issued notice of the availability of an electronic database reflecting the changes under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_490__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.
+[
+2002 c 67 s 11
+.]
+NOTES:
+Finding
+—
+Effective date
+—
+2002 c 67:
+See notes following RCW
+82.04.530
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

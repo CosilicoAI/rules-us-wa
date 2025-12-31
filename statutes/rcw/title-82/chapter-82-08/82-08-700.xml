@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.700"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.700"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.700/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.700/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.700/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.700/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_700">
+        <num>RCW 82.08.700</num>
+        <heading>Exemptions—Vessels sold to nonresidents</heading>
+        <subsection eId="sec_82_08_700__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales to nonresident individuals of vessels thirty feet or longer if an individual purchasing a vessel purchases and displays a valid use permit.</p>
+          </content>
+          <subsection eId="sec_82_08_700__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An individual claiming exemption from retail sales tax under this section must display proof of his or her current nonresident status at the time of purchase.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_700__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Acceptable proof of a nonresident individual's status includes one piece of identification such as a valid driver's license from the jurisdiction in which the out-of-state residency is claimed or a valid identification card that has a photograph of the holder and is issued by the out-of-state jurisdiction. Identification under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_700__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>must show the holder's residential address and have as one of its legal purposes the establishment of residency in that out-of-state jurisdiction.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_700__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Nothing in this section requires the vessel dealer to make tax exempt retail sales to nonresidents. A dealer may choose to make sales to nonresidents, collect the sales tax, and remit the amount of sales tax collected to the state as otherwise provided by law. If the dealer chooses to make a sale to a nonresident without collecting the sales tax, the vendor must examine the proof of nonresidence, determine whether the proof is acceptable under subsection</p>
+          </content>
+          <subsection eId="sec_82_08_700__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, and maintain records for each nontaxable sale that shows the type of proof accepted, including any identification numbers where appropriate, and the expiration date, if any.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_700__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A vessel dealer shall issue a use permit to a buyer if the dealer is satisfied that the buyer is a nonresident. The use permit must be in a form and manner required by the department and must include an affidavit, signed by the purchaser, declaring that the vessel will be used in a manner consistent with this section. The fee for the issuance of a use permit is five hundred dollars for vessels fifty feet in length or less and eight hundred dollars for vessels greater than fifty feet in length. Funds collected under this section and RCW
+82.12.700
+must be reported on the dealer's excise tax return and remitted to the department in accordance with RCW
+82.32.045
+. The department must transmit the fees to the state treasurer to be deposited in the state general fund. The use permit must be displayed on the vessel and is valid for twelve consecutive months from the date of issuance. A use permit is not renewable. A purchaser at the time of purchase must make an irrevocable election to take the exemption authorized in this section or the exemption in either RCW
+82.08.0266
+or
+82.08.02665
+. A vessel dealer must maintain a copy of the use permit for the dealer's records. Vessel dealers must provide copies of use permits issued by the dealer under this section and RCW
+82.12.700
+to the department on a quarterly basis.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_700__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A nonresident who claims an exemption under this section and who uses a vessel in this state after his or her use permit for that vessel has expired is liable for the tax imposed under RCW
+82.08.020
+on the original selling price of the vessel and must pay the tax directly to the department. Interest at the rate provided in RCW
+82.32.050
+applies to amounts due under this subsection, retroactively to the date the vessel was purchased, and accrues until the full amount of tax due is paid to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_700__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Any vessel dealer who makes sales without collecting the tax to a person who does not hold valid identification establishing out-of-state residency, and any dealer who fails to maintain records of sales to nonresidents as provided in this section, is personally liable for the amount of tax due.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_700__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Chapter
+82.32
+RCW applies to the administration of the fee imposed in this section and RCW
+82.12.700
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_700__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>A vessel dealer that issues use permits under this section and RCW
+82.12.700
+must file with the department all returns in an electronic format as provided or approved by the department. As used in this subsection, &quot;returns&quot; has the same meaning as &quot;return&quot; in RCW
+82.32.050
+.</p>
+          </content>
+          <subsection eId="sec_82_08_700__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any return required to be filed in an electronic format under this subsection is not filed until received by the department in an electronic format provided or approved by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_700__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The electronic filing requirement in this subsection ends when a vessel dealer no longer issues use permits, and the dealer has electronically filed all of its returns reporting the fees collected under this section and RCW
+82.12.700
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_700__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may waive the electronic filing requirement in this subsection for good cause shown.
+[
+2010 c 106 s 219
+;
+2007 c 22 s 1
+.]
+NOTES:
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Effective date
+—
+2007 c 22:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2007.&quot; [
+2007 c 22 s 4
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.062"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.062"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.062/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.062/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.062/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.062/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_062">
+        <num>RCW 82.04.062</num>
+        <heading>&quot;Sale at wholesale,&quot; &quot;sale at retail&quot; excludes sale of precious metal bullion and monetized bullion—Computation of tax. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_062__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For purposes of this chapter, &quot;wholesale sale,&quot; &quot;sale at wholesale,&quot; &quot;retail sale,&quot; and &quot;sale at retail&quot; do not include the sale of precious metal bullion or monetized bullion.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_062__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In computing tax under this chapter on the business of making sales of precious metal bullion or monetized bullion, the tax shall be imposed on the amounts received as commissions upon transactions for the accounts of customers over and above the amount paid to other dealers associated in such transactions, but no deduction or offset is allowed on account of salaries or commissions paid to salesmen or other employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_062__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, &quot;precious metal bullion&quot; means any precious metal which has been put through a process of smelting or refining, including, but not limited to, gold, silver, platinum, rhodium, and palladium, and which is in such state or condition that its value depends upon its contents and not upon its form. For purposes of this section, &quot;monetized bullion&quot; means coins or other forms of money manufactured from gold, silver, or other metals and heretofore, now, or hereafter used as a medium of exchange under the laws of this state, the United States, or any foreign nation, but does not include coins or money sold to be manufactured into jewelry or works of art.
+[
+1985 c 471 s 5
+.]
+NOTES:
+Severability
+—
+Effective date
+—
+1985 c 471:
+See notes following RCW
+82.04.260
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

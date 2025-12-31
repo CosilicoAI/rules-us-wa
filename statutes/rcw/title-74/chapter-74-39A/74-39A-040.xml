@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_040">
+        <num>RCW 74.39A.040</num>
+        <heading>Department assessment of and assistance to hospital patients in need of long-term care</heading>
+        <subsection eId="sec_74_39A_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To the extent of available funds, the department shall assess individuals who:</p>
+          </content>
+          <subsection eId="sec_74_39A_040__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Are medicaid clients, medicaid applicants, or eligible for both medicare and medicaid; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_040__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Apply or are likely to apply for admission to a nursing facility.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For individuals who are reasonably expected to become medicaid recipients within one hundred eighty days of admission to a nursing facility, the department shall, to the extent of available funds, offer an assessment and information regarding appropriate in-home and community services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When the department finds, based on assessment, that the individual prefers and could live appropriately and cost-effectively at home or in some other community-based setting, the department shall:</p>
+          </content>
+          <subsection eId="sec_74_39A_040__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Advise the individual that an in-home or other community service is appropriate;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_040__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Develop, with the individual or the individual's representative, a comprehensive community service plan;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_040__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Inform the individual regarding the availability of services that could meet the applicant's needs as set forth in the community service plan and explain the cost to the applicant of the available in-home and community services relative to nursing facility care; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_040__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Discuss and evaluate the need for ongoing involvement with the individual or the individual's representative.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>When the department finds, based on assessment, that the individual prefers and needs nursing facility care, the department shall:</p>
+          </content>
+          <subsection eId="sec_74_39A_040__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Advise the individual that nursing facility care is appropriate and inform the individual of the available nursing facility vacancies;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_040__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If appropriate, advise the individual that the stay in the nursing facility may be short term; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_040__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Describe the role of the department in providing nursing facility case management.
+[
+1995 1st sp.s. c 18 s 6
+.]
+NOTES:
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

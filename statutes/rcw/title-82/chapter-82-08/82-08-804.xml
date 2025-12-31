@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.804"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.804"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.804/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.804/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.804/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.804/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_804">
+        <num>RCW 82.08.804</num>
+        <heading>Exemptions—Ostomic items</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.804
+82.08.803
+&lt;&lt; 
+        82.08.804 &gt;&gt;
+82.08.805
+PDF
+RCW
+82.08.804
+Exemptions
+—
+Ostomic items.
+The tax levied by RCW
+82.08.020
+shall not apply to sales of ostomic items used by colostomy, ileostomy, or urostomy patients. &quot;Ostomic items&quot; means disposable medical supplies used by colostomy, ileostomy, and urostomy patients, and includes bags, belts to hold up bags, tapes, tubes, adhesives, deodorants, soaps, jellies, creams, germicides, and other like supplies. &quot;Ostomic items&quot; does not include undergarments, pads and shields to protect undergarments, sponges, or rubber sheets.
+[
+2004 c 153 s 106
+.]
+NOTES:
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

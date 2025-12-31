@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.370"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.370"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.370/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.370/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.370/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.370/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_370">
+        <num>RCW 74.20A.370</num>
+        <heading>Financial institution data matches</heading>
+        <subsection eId="sec_74_20A_370__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each calendar quarter financial institutions doing business in the state of Washington shall report to the department the name, record address, social security number or other taxpayer identification number, and other information determined necessary by the department for each individual who maintains an account at such institution and is identified by the department as owing a support debt.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_370__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department and financial institutions shall enter into agreements to develop and operate a data match system, using automated data exchanges to the extent feasible, to minimize the cost of providing information required under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_370__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_370__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may pay a reasonable fee to a financial institution for conducting the data match not to exceed the actual costs incurred.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_370__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A financial institution is not liable for any disclosure of information to the department under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_370__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The division of child support shall maintain all information gathered under this section confidential and shall only disclose this information as provided under RCW
+26.23.120
+.
+[
+1997 c 58 s 899
+.]
+NOTES:
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

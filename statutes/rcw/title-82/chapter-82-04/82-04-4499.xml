@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4499"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4499"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4499/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4499/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4499/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4499/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4499">
+        <num>RCW 82.04.4499</num>
+        <heading>Credit—Equitable access to credit program. (Expires July 1, 2027.)</heading>
+        <subsection eId="sec_82_04_4499__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the limitations in this section, a credit is allowed against the tax imposed under this chapter for contributions made by a person to the equitable access to credit program created in chapter
+43.390
+RCW.</p>
+          </content>
+          <subsection eId="sec_82_04_4499__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The person must make the contribution before claiming a credit authorized under this section. The credit may be used against any tax due under this chapter. The amount of the credit claimed for a reporting period may not exceed the tax otherwise due under this chapter for that reporting period. No person may claim more than $1,000,000 of credit in any calendar year, including credit carried over from a previous calendar year. No refunds may be granted for any unused credits.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4499__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any amount of tax credit otherwise allowable under this section not claimed by the person in any calendar year may be carried forward and claimed against a person's tax liability for the next succeeding calendar year; and any credit not used in that next succeeding calendar year may be carried forward and claimed against the person's tax liability for the second succeeding calendar year, but may not be carried over for any calendar year thereafter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Credits are available on a first-in-time basis. The department must disallow any credits, or portions thereof, that would cause the total amount of credits claimed under this section for any calendar year to exceed $8,000,000. If this limitation is reached, the department must notify the department of commerce that the annual statewide limit has been met. In addition, the department must provide written notice to any person who has claimed tax credits in excess of the limitation in this subsection. The notice must indicate the amount of tax due and provide the tax be paid within 30 days from the date of the notice. The department may not assess penalties and interest as provided in chapter
+82.32
+RCW on the amount due in the initial notice if the amount due is paid by the due date specified in the notice, or any extension thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To claim a credit under this section, a person must electronically file with the department all returns, forms, and any other information required by the department, in an electronic format as provided or approved by the department. Any return, form, or information required to be filed in an electronic format under this section is not filed until received by the department in electronic format. As used in this subsection, &quot;returns&quot; has the same meaning as &quot;return&quot; in RCW
+82.32.050
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>No application is necessary for the tax credit. The person must keep records necessary for the department to verify eligibility under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The equitable access to credit program must provide to the department, upon request, such information as may be needed to verify eligibility for credit under this section, including information regarding contributions received by the program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The maximum credit that may be earned for each calendar year under this section for a person is limited to the lesser of $1,000,000 or an amount equal to 100 percent of the contributions made by the person to the equitable access to credit program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>No credit may be earned for contributions made on or after June 30, 2027. Credits may be claimed as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section; however, credits may not be claimed prior to January 1, 2023.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>For the purposes of this section, &quot;equitable access to credit program&quot; means a program established within the department of commerce pursuant to RCW
+43.390.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The provisions of chapter
+82.32
+RCW apply to the administration of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>This section expires July 1, 2027.
+[
+2022 c 189 s 2
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 189 s 2:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 2, chapter 189, Laws of 2022. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to create or retain jobs pursuant to RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to create a program that encourages investment in small, underserved businesses to encourage community and economic development in Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature intends to extend the expiration date of this tax preference if a review finds that the equitable access to credit program has had a net positive impact on investment in communities historically underserved by credit and on state and local tax revenues. In conducting its review under this section, the joint legislative audit and review committee should consider, among other data:</p>
+          </content>
+          <subsection eId="sec_82_04_4499__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The number and aggregate amount of loans and investments originated under the program, including with revolved dollars;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4499__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Overall match, including project leverage, invested by grant recipients;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4499__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The balance sheet growth of community development financial institutions that received grants from the program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4499__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Whether participants in the program achieved balance sheet growth during the time of their participation in the program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4499__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The percentage of community development financial institutions in Washington that received funding from the program; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4499__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The level of ongoing demand for funding from the program.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4499__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section expires July 1, 2027.&quot; [
+2022 c 189 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

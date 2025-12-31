@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.425"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.425"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.425/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.425/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.425/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.425/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_425">
+        <num>RCW 82.50.425</num>
+        <heading>Valuation of travel trailers and campers</heading>
+        <subsection eId="sec_82_50_425__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall determine a value using any information that may be available, including any guidebook, report, or compendium of recognized standing in the automotive industry or the selling price and year of sale of the travel trailer or camper. The department may use an appraisal by the county assessor. In valuing a travel trailer or camper for which the current value or selling price is not indicative of the value of similar travel trailers or campers of the same year and model, the department shall establish a value that more closely represents the average value of similar travel trailers or campers of the same year and model. If the travel trailer or camper is home-built, the value shall not be less than the cost of construction.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_425__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The value determined in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_425__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section shall be divided by the applicable percentage listed in this section to establish a value equivalent to a manufacturer's base suggested retail price. The applicable percentage shall be based on the year of service of the travel trailer or camper for which the value is determined.
+YEAR OF SERVICE
+PERCENTAGE
+1
+100
+2
+90
+3
+84
+4
+79
+5
+73
+6
+65
+7
+60
+8
+55
+9
+50
+10
+45
+11
+41
+12
+37
+13
+33
+14
+28
+15
+24
+16
+or older
+20
+[
+1990 c 42 s 323
+.]
+NOTES:
+Reviser's note:
+See note following RCW
+82.50.010
+.
+Transitional valuation method and tax limitation
+—
+1990 c 42:
+&quot;Notwithstanding any other provision of this act, motor vehicles and travel trailers and campers that are valued under the system in effect before September 1, 1990, shall be valued by using the initial valuation of the vehicle under chapter
+82.44
+or
+82.50
+RCW multiplied by the applicable percentage under section 303 or 323 of this act [RCW
+82.44.041
+or
+82.50.425
+]. Before December 1992 vehicle license expirations, no tax may be imposed on any motor vehicle or travel trailer or camper that is greater than one hundred ten percent of the tax imposed during the registration period in effect before September 1, 1990.&quot; [
+1990 c 42 s 326
+.]
+Purpose
+—
+Effective dates
+—
+Application
+—
+Implementation
+—
+1990 c 42:
+See notes following RCW
+46.68.090
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

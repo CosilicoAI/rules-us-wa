@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_100">
+        <num>RCW 82.04.100</num>
+        <heading>&quot;Extractor.&quot;</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.100
+82.04.090
+&lt;&lt; 
+        82.04.100 &gt;&gt;
+82.04.110
+PDF
+RCW
+82.04.100
+&quot;Extractor.&quot;
+&quot;Extractor&quot; means every person who from the person's own land or from the land of another under a right or license granted by lease or contract, either directly or by contracting with others for the necessary labor or mechanical services, for sale or for commercial or industrial use mines, quarries, takes or produces coal, oil, natural gas, ore, stone, sand, gravel, clay, mineral or other natural resource product, or fells, cuts or takes timber, Christmas trees other than plantation Christmas trees, or other natural products, or takes fish, shellfish, or other sea or inland water foods or products. &quot;Extractor&quot; does not include persons performing under contract the necessary labor or mechanical services for others; persons meeting the definition of farmer under RCW
+82.04.213
+; or persons producing cannabis.
+[
+2022 c 16 s 138
+;
+2014 c 140 s 1
+;
+2001 c 118 s 1
+;
+1987 c 23 s 3
+;
+1985 c 148 s 2
+;
+1965 ex.s. c 173 s 2
+;
+1961 c 15 s 82.04.100
+. Prior:
+1955 c 389 s 11
+; prior: 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Effective date
+—
+1965 ex.s. c 173:
+See note following RCW
+82.04.050
+.
+Withdrawal of gas from underground reservoir not deemed taking or producing under RCW
+82.04.100
+: RCW
+80.40.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

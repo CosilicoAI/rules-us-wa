@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.630"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.630"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.630/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.630/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.630/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.630/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_630">
+        <num>RCW 74.09.630</num>
+        <heading>Opioid overdose reversal medications—Reimbursement</heading>
+        <subsection eId="sec_74_09_630__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>All medicaid managed care organizations must reimburse a hospital or behavioral health agency for dispensing or distributing opioid overdose reversal medication to a covered person under RCW
+70.41.485
+and
+71.24.594
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_630__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the person is not enrolled in a medicaid managed care organization and does not have any other available insurance coverage, the authority must reimburse a hospital, behavioral health agency, or pharmacy for dispensing or distributing opioid overdose reversal medication under RCW
+70.41.485
+and
+71.24.594
+.
+[
+2023 c 51 s 44
+;
+2021 c 273 s 5
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2021 c 273:
+See note following RCW
+70.41.480
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.250"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_250">
+        <num>RCW 74.20A.250</num>
+        <heading>Secretary empowered to act as attorney, endorse drafts</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.250
+74.20A.240
+&lt;&lt; 
+        74.20A.250 &gt;&gt;
+74.20A.260
+PDF
+RCW
+74.20A.250
+Secretary empowered to act as attorney, endorse drafts.
+Whenever the secretary has been authorized under RCW
+74.20.040
+to take action to establish, enforce, and collect support moneys, the custodial parent and the child or children are deemed, without the necessity of signing any document, to have appointed the secretary as his or her true and lawful attorney-in-fact to act in his or her name, place, and stead to perform the specific act of endorsing any and all drafts, checks, money orders or other negotiable instruments representing support payments which are received on behalf of said child or children to effect proper and lawful distribution of the support moneys in accordance with 42 U.S.C. Sec. 657.
+[
+1985 c 276 s 13
+;
+1979 ex.s. c 171 s 20
+;
+1973 1st ex.s. c 183 s 23
+;
+1971 ex.s. c 164 s 25
+.]
+NOTES:
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

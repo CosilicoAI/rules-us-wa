@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.037"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.037"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.037/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.037/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.037/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.037/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_037">
+        <num>RCW 82.08.037</num>
+        <heading>Credits and refunds for bad debts</heading>
+        <subsection eId="sec_82_08_037__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A seller is entitled to a credit or refund for sales taxes previously paid on bad debts, as that term is used in 26 U.S.C. Sec. 166, as amended or renumbered as of January 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_037__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;bad debts&quot; does not include:</p>
+          </content>
+          <subsection eId="sec_82_08_037__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Amounts due on property that remains in the possession of the seller until the full purchase price is paid;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_037__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Expenses incurred in attempting to collect debt;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_037__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Debts sold or assigned by the seller to third parties, where the third party is without recourse against the seller; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_037__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Repossessed property.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_037__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If a credit or refund of sales tax is taken for a bad debt and the debt is subsequently collected in whole or in part, the tax on the amount collected must be paid and reported on the return filed for the period in which the collection is made.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_037__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Payments on a previously claimed bad debt are applied first proportionally to the taxable price of the property or service and the sales or use tax thereon, and secondly to interest, service charges, and any other charges.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_037__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If the seller uses a certified service provider as defined in RCW
+82.32.020
+to administer its sales tax responsibilities, the certified service provider may claim, on behalf of the seller, the credit or refund allowed by this section. The certified service provider must credit or refund the full amount received to the seller.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_037__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must allow an allocation of bad debts among member states to the streamlined sales tax agreement, as defined in RCW
+82.58.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_037__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>A person's right to claim a credit or refund under this section is not assignable. No person other than the original seller in the transaction that generated the bad debt or, as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_037__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section, a certified service provider, is entitled to claim a credit or refund under this section. If the original seller in the transaction that generated the bad debt has sold or assigned the debt instrument to a third party with recourse, the original seller may claim a credit or refund under this section only after the debt instrument is reassigned by the third party to the original seller.
+[
+2010 1st sp.s. c 23 s 1502
+;
+2007 c 6 s 102
+;
+2004 c 153 s 302
+;
+2003 c 168 s 212
+;
+1982 1st ex.s. c 35 s 35
+.]
+NOTES:
+Intent
+—
+2010 1st sp.s. c 23 ss 1502 and 1503:
+&quot;The legislature intends with sections 1502 and 1503 of this act to supersede the holding of the supreme court of the state of Washington in
+Puget Sound National Bank v. Department of Revenue
+, 123 Wn.2d 284</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.0485"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.0485"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.0485/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.0485/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.0485/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.0485/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_0485">
+        <num>RCW 82.14.0485</num>
+        <heading>Sales and use tax for baseball stadium—Counties with population of one million or more—Deduction from tax otherwise required—&quot;Baseball stadium&quot; defined</heading>
+        <subsection eId="sec_82_14_0485__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislative authority of a county with a population of one million or more may impose a sales and use tax in accordance with the terms of this chapter. The tax is in addition to other taxes authorized by law and shall be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the county. The rate of tax shall not exceed 0.017 percent of the selling price in the case of a sales tax or value of the article used in the case of a use tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_0485__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax imposed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_0485__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section shall be deducted from the amount of tax otherwise required to be collected or paid over to the department of revenue under chapter
+82.08
+or
+82.12
+RCW. The department of revenue shall perform the collection of such taxes on behalf of the county at no cost to the county.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_0485__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Moneys collected under this section shall only be used for the purpose of paying the principal and interest payments on bonds issued by a county to construct a baseball stadium.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_0485__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>No tax may be collected under this section before January 1, 1996, and no tax may be collected under this section unless the taxes under RCW
+82.14.360
+are being collected. The tax imposed in this section shall expire when the bonds issued for the construction of the baseball stadium are retired, but not more than twenty years after the tax is first collected.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_0485__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>As used in this section, &quot;baseball stadium&quot; means a baseball stadium with natural turf and a retractable roof or canopy, together with associated parking facilities, constructed in the largest city in a county with a population of one million or more.
+[
+1995 3rd sp.s. c 1 s 101
+.]
+NOTES:
+Part headings not law
+—
+1995 3rd sp.s. c 1:
+&quot;Part headings as used in this act constitute no part of the law.&quot; [
+1995 3rd sp.s. c 1 s 309
+.]
+Effective date
+—
+1995 3rd sp.s. c 1:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [October 17, 1995].&quot; [
+1995 3rd sp.s. c 1 s 310
+.]
+Baseball stadium construction agreement: RCW
+36.100.037
+.
+State contribution for baseball stadium limited: RCW
+82.14.0486
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

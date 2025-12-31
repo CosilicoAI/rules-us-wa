@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.82.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.82.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.82.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.82.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.82.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.82.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_82_030">
+        <num>RCW 82.82.030</num>
+        <heading>Deferral certificate</heading>
+        <subsection eId="sec_82_82_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters
+82.08
+, 82.12, and
+82.14
+RCW on each eligible investment project meeting the requirements of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_82_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>No certificate may be issued for an investment project that has already received a deferral under chapter
+82.60
+or
+82.63
+RCW or this chapter, except that an investment project for qualified research and development that has already received a deferral may also receive an additional deferral certificate for adapting the investment project for use in pilot scale manufacturing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_82_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department must keep a running total of all deferrals granted under this chapter during each fiscal biennium.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_82_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The number of eligible investment projects for which the benefits of this chapter will be allowed is limited to two per biennium. The department must approve deferral certificates for completed applications on a first-in-time basis. During any biennium, only one deferral certificate may be issued per community empowerment zone.
+[
+2008 c 15 s 3
+.]
+NOTES:
+Effective date
+—
+2008 c 15:
+See note following RCW
+82.82.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

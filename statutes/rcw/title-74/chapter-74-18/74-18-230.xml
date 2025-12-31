@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.230"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.230"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.230/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.230/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.230/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.230/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_230">
+        <num>RCW 74.18.230</num>
+        <heading>Business enterprises revolving account</heading>
+        <subsection eId="sec_74_18_230__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>There is established in the state treasury an account known as the business enterprises revolving account.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_230__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The net proceeds from any vending machine operation in a public building, other than an operation managed by a licensee, shall be made payable to the business enterprises program, which will pay only the blind vendors' portion, at the subscriber's rate, for the purpose of funding a plan of health insurance for blind vendors, as provided in RCW
+41.05.225
+. Net proceeds, for purposes of this section, means gross sales less state sales tax and a fair minimum return to the vending machine owner or service provider, which return shall be a reasonable amount to be determined by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_230__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All federal moneys in the business enterprises revolving account shall be expended only for development and expansion of locations, equipment, management services, and payments to licensees in the business enterprises program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_230__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The business enterprises program shall be supported by the business enterprises revolving account and by income which may accrue to the department pursuant to the federal Randolph-Sheppard Act.
+[
+2003 c 409 s 20
+;
+2002 c 71 s 2
+;
+1993 c 369 s 1
+; 1991 sp.s. c 13 ss 19, 116. Prior:
+1985 c 97 s 2
+;
+1985 c 57 s 72
+;
+1983 c 194 s 23
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.
+Effective dates
+—
+Severability
+—
+1991 sp.s. c 13:
+See notes following RCW
+18.08.240
+.
+Effective date
+—
+1985 c 57:
+See note following RCW
+18.04.105
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

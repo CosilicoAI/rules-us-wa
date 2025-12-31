@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.053"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.053"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.053/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.053/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.053/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.053/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_053">
+        <num>RCW 74.34.053</num>
+        <heading>Failure to report—False reports—Penalties</heading>
+        <subsection eId="sec_74_34_053__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who is required to make a report under this chapter and who knowingly fails to make the report is guilty of a gross misdemeanor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_053__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person who intentionally, maliciously, or in bad faith makes a false report of alleged abandonment, abuse, financial exploitation, or neglect of a vulnerable adult is guilty of a misdemeanor.
+[
+1999 c 176 s 7
+.]
+NOTES:
+Findings
+—
+Purpose
+—
+Severability
+—
+Conflict with federal requirements
+—
+1999 c 176:
+See notes following RCW
+74.34.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.94.005"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.94.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.94.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_94_005">
+        <num>RCW 82.94.005</num>
+        <heading>Findings—Intent</heading>
+        <subsection eId="sec_82_94_005__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that there are counties in the state that face additional economic development challenges beyond the challenges faced by counties located in the central Puget Sound region. The legislature further finds that these regions do not experience the same degree of job growth and investment. The legislature further finds that, in some areas, increased economic development incentives are needed to help support economic growth and that a one-size-fits-all approach to economic development does not work for the diversity of the statewide economy. For these reasons, the legislature intends to establish a tax deferral program to be effective solely in certain targeted counties. The legislature declares that this limited program serves the vital public purpose of creating employment opportunities and generally spurring economic development in these counties of the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_94_005__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature also finds that chapter 257, Laws of 2022 is consistent with the Substitute House Bill No. 1170, the Washington BEST manufacturing act, enacted in 2021. The 2021 Washington BEST manufacturing act recognized that the state must retain and build on its leadership in the manufacturing and research and development sectors and also recognized that a thriving manufacturing and research sector are complimentary and should be promoted in every region of the state. Therefore, the legislature further finds the sales and use tax deferral program for manufacturing and research and development in chapter 257, Laws of 2022 is a critical tool and strategy to help achieve the goals expressed in the Washington BEST manufacturing act of doubling the state's manufacturing employment base, the number of small businesses, and the number of women and minority-owned manufacturing businesses in the next 10 years.
+[
+2022 c 257 s 101
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

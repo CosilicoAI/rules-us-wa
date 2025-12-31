@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.70.060"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.70.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.70.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_70_060">
+        <num>RCW 74.70.060</num>
+        <heading>Add-on increase—Funding. (Contingent expiration date.)</heading>
+        <subsection eId="sec_74_70_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning July 1, 2021, and for each state fiscal year thereafter, reimbursement for emergency ambulance transports provided by ambulance transport providers shall be increased by application of an add-on to the associated medicaid fee-for-service payment schedule. The add-on increase to the fee-for-service payment schedule under this section shall be calculated by June 15, 2021, and shall remain the same for later state fiscal years, to the extent the authority determines federal financial participation is available. The authority shall calculate the projections required by this subsection based on the number of emergency ambulance transports and gross revenue data submitted pursuant to RCW
+74.70.040
+. The fee-for-service add-on shall be equal to the quotient of the available fee amount projected by the authority on or before June 15, 2021, for the 2021–22 state fiscal year, divided by the total medicaid emergency ambulance transports, projected by the authority on or before June 15, 2021, for the 2021–22 state fiscal year. The resulting fee-for-service payment schedule amounts after the application of this section shall be equal to the sum of the medicaid fee-for-service payment schedule amount and the add-on increase.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_70_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The increased payments required by this section shall be funded solely from the following:</p>
+          </content>
+          <subsection eId="sec_74_70_060__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The quality assurance fee set forth in RCW
+74.70.050
+, along with any interest or other investment income earned on those funds; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_060__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Federal reimbursement and any other related federal funds.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_70_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The proceeds of the quality assurance fee set forth in RCW
+74.70.050
+, the matching amount provided by the federal government, and any interest earned on those proceeds shall be used to supplement, and not to supplant, existing funding for emergency ambulance transports provided by ambulance transport providers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_70_060__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Notwithstanding any provision of this chapter, the authority may seek federal approval to implement any add-on increase to the fee-for-service payment schedule pursuant to this section for any state fiscal year or years, as applicable, on a time-limited basis for a fixed program period, as determined by the authority.
+[
+2020 c 354 s 6
+.]
+NOTES:
+Contingent expiration date
+—
+2020 c 354:
+See RCW
+74.70.100</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.080"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_080">
+        <num>RCW 74.13A.080</num>
+        <heading>Short title—1971 act</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13A
+&gt;
+Section 74.13A.080
+74.13A.075
+&lt;&lt; 
+        74.13A.080 &gt;&gt;
+74.13A.085
+PDF
+RCW
+74.13A.080
+Short title
+—
+1971 act.
+RCW
+26.33.320
+and *
+74.13.100
+through
+74.13.145
+may be known and cited as the &quot;Adoption Support Demonstration Act of 1971&quot;.
+[
+1985 c 7 s 146
+;
+1971 ex.s. c 63 s 17
+. Formerly RCW
+74.13.145
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.13.100
+through
+74.13.145
+were recodified as RCW
+74.13A.005
+through
+74.13A.080
+pursuant to
+2009 c 520 s 95
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

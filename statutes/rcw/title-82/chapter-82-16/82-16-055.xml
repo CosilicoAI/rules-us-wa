@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.055"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_055">
+        <num>RCW 82.16.055</num>
+        <heading>Deductions relating to energy conservation or production from renewable resources</heading>
+        <subsection eId="sec_82_16_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax under this chapter there must be deducted from the gross income:</p>
+          </content>
+          <subsection eId="sec_82_16_055__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An amount equal to the cost of production at the plant for consumption within the state of Washington of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_055__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Electrical energy produced or generated from cogeneration as defined in RCW
+82.35.020
+, as existing on June 30, 2006; and</p>
+            </content>
+            <subsection eId="sec_82_16_055__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Electrical energy or gas produced or generated from renewable energy resources such as solar energy, wind energy, hydroelectric energy, geothermal energy, wood, wood wastes, municipal wastes, agricultural products and wastes, and end-use waste heat; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_055__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Those amounts expended to improve consumers' efficiency of energy end use or to otherwise reduce the use of electrical energy or gas by the consumer.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section applies only to new facilities for the production or generation of energy from cogeneration or renewable energy resources or measures to improve the efficiency of energy end use on which construction or installation is begun after June 12, 1980, and before January 1, 1990.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_055__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Deductions under subsection</p>
+          </content>
+          <subsection eId="sec_82_16_055__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section must be allowed for a period not to exceed thirty years after the project is placed in operation.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_055__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Measures or projects encouraged under this section must at the time they are placed in service be reasonably expected to save, produce, or generate energy at a total incremental system cost per unit of energy delivered to end use which is less than or equal to the incremental system cost per unit of energy delivered to end use from similarly available conventional energy resources which utilize nuclear energy or fossil fuels and which the gas or electric utility could acquire to meet energy demand in the same time period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_055__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department of revenue, after consultation with the utilities and transportation commission in the case of investor-owned utilities and the governing bodies of locally regulated utilities, must determine the eligibility of individual projects and measures for deductions under this section.
+[
+2020 c 139 s 27
+;
+1980 c 149 s 3
+.]
+NOTES:
+Legislative finding
+—
+1980 c 149:
+See RCW
+80.28.024
+.
+Utility rate structures encouraging energy conservation and production from renewable resources: RCW
+80.28.025
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

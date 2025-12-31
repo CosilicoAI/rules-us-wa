@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.940"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.940"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.940/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.940/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.940/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.940/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_940">
+        <num>RCW 82.12.940</num>
+        <heading>Exemptions—Over-the-counter drugs for human use</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.940
+82.12.935
+&lt;&lt; 
+        82.12.940 &gt;&gt;
+82.12.945
+PDF
+RCW
+82.12.940
+Exemptions
+—
+Over-the-counter drugs for human use.
+The provisions of this chapter shall not apply to the use of over-the-counter drugs dispensed or to be dispensed to patients, pursuant to a prescription, if the over-the-counter drugs are for human use. &quot;Over-the-counter drug&quot; has the same meaning as in RCW
+82.08.0281
+.
+[
+2003 c 168 s 408
+.]
+NOTES:
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.620"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.620"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.620/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.620/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.620/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.620/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_620">
+        <num>RCW 74.42.620</num>
+        <heading>Departmental rules</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.620
+74.42.600
+&lt;&lt; 
+        74.42.620 &gt;&gt;
+74.42.630
+PDF
+RCW
+74.42.620
+Departmental rules.
+The department shall adopt rules pursuant to chapter
+34.05
+RCW necessary to carry out the policies and provisions of RCW
+74.42.010
+through
+74.42.570
+. The department shall amend or repeal any rules that are in conflict with RCW
+74.42.010
+through
+74.42.570
+.
+[
+1979 ex.s. c 211 s 62
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

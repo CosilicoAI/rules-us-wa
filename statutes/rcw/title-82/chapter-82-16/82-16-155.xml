@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.155"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.155"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.155/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.155/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.155/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.155/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_155">
+        <num>RCW 82.16.155</num>
+        <heading>Tax preference performance statement—Joint legislative audit and review committee review—Washington State University data collection</heading>
+        <subsection eId="sec_82_16_155__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference and incentives created under RCW
+82.16.130
+and section 6, chapter 36, Laws of 2017 3rd sp. sess. This performance statement is only intended to be used for subsequent evaluation of the tax preference and incentives. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_155__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes the tax preference created under RCW
+82.16.130
+and incentive payments authorized in section 6, chapter 36, Laws of 2017 3rd sp. sess. as intended to:</p>
+          </content>
+          <subsection eId="sec_82_16_155__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Induce participating utilities to make incentive payments to utility customers who invest in renewable energy systems; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_155__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>By inducing utilities, nonprofit organizations, and utility customers to acquire and install renewable energy systems, retain jobs in the clean energy sector and create additional jobs.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_155__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature's public policy objectives are to:</p>
+          </content>
+          <subsection eId="sec_82_16_155__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Increase energy independence from fossil fuels; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_155__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Promote economic development through increasing and improving investment in, development of, and use of clean energy technology in Washington; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_155__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Increase the number of jobs in and enhance the sustainability of the clean energy technology industry in Washington.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_155__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>It is the legislature's intent to provide the incentives in section 6, chapter 36, Laws of 2017 3rd sp. sess. and RCW
+82.16.130
+in order to ensure the sustainable job growth and vitality of the state's renewable energy sector. The purpose of the incentive is to reduce the costs associated with installing and operating solar energy systems by persons or entities receiving the incentive.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_155__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>As part of its 2021 tax preference reviews, the joint legislative audit and review committee must review the tax preferences and incentives in section 6, chapter 36, Laws of 2017 3rd sp. sess. and RCW
+82.16.130
+. The legislature intends for the legislative auditor to determine that the incentive has achieved its desired outcomes if the following objectives are achieved:</p>
+          </content>
+          <subsection eId="sec_82_16_155__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Installation of one hundred fifteen megawatts of solar photovoltaic capacity by participants in the incentive program between July 1, 2017, and June 30, 2021; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_155__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Growth of solar-related employment from 2015 levels, as evidenced by:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_155__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An increased per capita rate of solar energy-related jobs in Washington, which may be determined by consulting a relevant trade association in the state; or</p>
+            </content>
+            <subsection eId="sec_82_16_155__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Achievement of an improved national ranking for solar energy-related employment and per capita solar energy-related employment, as reported in a nationally recognized report.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_155__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review, the joint legislative audit and review committee may refer to data collected by the Washington State University extension energy program and may obtain employment data from the employment security department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_155__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The Washington State University extension energy program must collect, through the application process, data from persons claiming the tax credit under RCW
+82.16.130
+and persons receiving the incentive payments created in RCW
+82.16.165
+, as necessary, and may collect data from other interested persons as necessary to report on the performance of chapter 36, Laws of 2017 3rd sp. sess.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_155__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>All recipients of tax credits or incentive payments awarded under this chapter must provide data necessary to evaluate the tax preference performance objectives in this section as requested by the Washington State University extension energy program or the joint legislative audit and review committee. Failure to comply may result in the loss of a tax credit award or incentive payment in the following year.
+[
+2017 3rd sp.s. c 36 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2017 3rd sp.s. c 36:
+See notes following RCW
+82.16.130
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

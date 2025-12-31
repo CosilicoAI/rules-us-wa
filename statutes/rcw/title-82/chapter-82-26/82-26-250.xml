@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.250"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_250">
+        <num>RCW 82.26.250</num>
+        <heading>Enforcement—Search warrants</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.26
+&gt;
+Section 82.26.250
+82.26.240
+&lt;&lt; 
+        82.26.250 &gt;&gt;
+82.26.260
+PDF
+RCW
+82.26.250
+Enforcement
+—
+Search warrants.
+When the department or the board has good reason to believe that any of the tobacco products taxed under this chapter are being kept, sold, offered for sale, or given away in violation of the provisions of this chapter, it may make affidavit of facts describing the place or thing to be searched, before any judge of any court in this state, and the judge shall issue a search warrant directed to the sheriff, any deputy, police officer, or duly authorized agent of the department or the board commanding him or her diligently to search any building, room in a building, place, or vehicle as may be designated in the affidavit and search warrant, and to seize the tobacco products and hold them until disposed of by law.
+[
+2005 c 180 s 22
+.]
+NOTES:
+Effective date
+—
+2005 c 180:
+See note following RCW
+82.26.105
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

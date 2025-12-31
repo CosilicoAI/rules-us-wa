@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.120"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_120">
+        <num>RCW 74.08A.120</num>
+        <heading>Immigrants and victims of human trafficking—Food assistance</heading>
+        <subsection eId="sec_74_08A_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department may establish a food assistance program for legal immigrants and victims of human trafficking as defined in RCW
+74.04.005
+who are ineligible for the federal food stamp program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The rules for the state food assistance program shall follow exactly the rules of the federal food stamp program except for the provisions pertaining to immigrant status.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The benefit under the state food assistance program shall be established by the legislature in the biennial operating budget.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_120__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department may enter into a contract with the United States department of agriculture to use the existing federal food stamp program coupon system for the purposes of administering the state food assistance program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_120__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In the event the department is unable to enter into a contract with the United States department of agriculture, the department may issue vouchers to eligible households for the purchase of eligible foods at participating retailers.
+[
+2020 c 136 s 2
+;
+1999 c 120 s 4
+;
+1997 c 57 s 3
+.]
+NOTES:
+Effective date
+—
+2020 c 136:
+See note following RCW
+74.04.005
+.
+Captions not law
+—
+1997 c 57:
+See note following RCW
+74.08A.100
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_020">
+        <num>RCW 82.38.020</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_38_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Blended fuel&quot; means a mixture of fuel and another liquid, other than a de minimis amount of the liquid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Blender&quot; means a person who produces blended fuel outside the bulk transfer-terminal system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Bond&quot; means a bond duly executed with a corporate surety qualified under chapter
+48.28
+RCW payable to the state of Washington conditioned upon faithful performance of all requirements of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Bulk transfer-terminal system&quot; means the fuel distribution system consisting of refineries, pipelines, vessels, and terminals. Fuel in a refinery, pipeline, vessel, or terminal is in the bulk transfer-terminal system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Bulk transfer&quot; means a transfer of fuel by pipeline or vessel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Bulk storage&quot; means the placing of fuel into a receptacle other than the fuel supply tank of a motor vehicle.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Deny&quot; means to decline acceptance of an application for licensure or reinstatement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of licensing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Distributor&quot; means a person who acquires fuel outside the bulk transfer-terminal system for importation into Washington, from a terminal or refinery rack located within Washington for distribution within Washington, or for immediate export outside the state of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Dyed special fuel user&quot; means a person authorized by the internal revenue code to operate a motor vehicle on the highway using dyed special fuel, in which the use is not exempt from the fuel tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Evasion&quot; or &quot;evade&quot; means to diminish or avoid the computation, assessment, or payment of authorized taxes or fees through:</p>
+          </content>
+          <subsection eId="sec_82_38_020__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A knowing: False statement; omission; misrepresentation of fact; or other act of deception;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_020__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An intentional: Failure to file a return or report; or other act of deception; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_020__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The unlawful use of dyed special fuel.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Exempt sale&quot; means the sale of fuel to a person whose use of fuel is exempt from the fuel tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Export&quot; means to obtain fuel in this state for sales or distribution outside the state. Fuel distributed to a federally recognized Indian tribal reservation located within the state of Washington is not considered exported outside this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Exporter&quot; means a person who purchases fuel physically located in this state at the time of purchase and directly exports the fuel by a means other than the bulk transfer-terminal system to a destination outside of the state. If the exporter of record is acting as an agent, the person for whom the agent is acting is the exporter. If there is no exporter of record, the owner of the fuel at the time of exportation is the exporter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Fuel&quot; means motor vehicle fuel or special fuel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Fuel user&quot; means a person engaged in uses of fuel that are not specifically exempted from the fuel tax imposed under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Highway&quot; means every way or place open to the use of the public, as a matter of right, for the purpose of vehicular travel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Import&quot; means to bring fuel into this state by a means of conveyance other than the fuel supply tank of a motor vehicle.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Importer&quot; means a person who imports fuel into the state by a means other than the bulk transfer-terminal system. If the importer of record is acting as an agent, the person for whom the agent is acting is the importer. If there is no importer of record, the owner of the fuel at the time of importation is the importer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;International fuel tax agreement licensee&quot; means a fuel user operating qualified motor vehicles in interstate commerce and licensed by the department under the international fuel tax agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Licensee&quot; means a person holding a license issued under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Motor vehicle&quot; means a self-propelled vehicle utilizing fuel as a means of propulsion.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_23">
+          <num>(23)</num>
+          <content>
+            <p>&quot;Motor vehicle fuel&quot; means gasoline and any other inflammable gas or liquid, by whatsoever name the gasoline, gas, or liquid may be known or sold the chief use of which is as a fuel for the propulsion of motor vehicles or vessels.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_24">
+          <num>(24)</num>
+          <content>
+            <p>&quot;Natural gas&quot; means naturally occurring mixtures of hydrocarbon gases and vapors consisting principally of methane, whether in gaseous or liquid form.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_25">
+          <num>(25)</num>
+          <content>
+            <p>&quot;Person&quot; means any individual, partnership, association, public or private corporation, limited liability company, or any other type of legal or commercial entity, including their members, managers, partners, directors, or officers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_26">
+          <num>(26)</num>
+          <content>
+            <p>&quot;Position holder&quot; means a person who holds the inventory position in fuel, as reflected by the records of the terminal operator. A person holds the inventory position if the person has a contractual agreement with the terminal for the use of storage facilities and terminating services. &quot;Position holder&quot; includes a terminal operator that owns fuel in their terminal.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_27">
+          <num>(27)</num>
+          <content>
+            <p>&quot;Rack&quot; means a mechanism for delivering fuel from a refinery or terminal into a truck, trailer, railcar, or other means of nonbulk transfer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_28">
+          <num>(28)</num>
+          <content>
+            <p>&quot;Refiner&quot; means a person who owns, operates, or otherwise controls a refinery.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_29">
+          <num>(29)</num>
+          <content>
+            <p>&quot;Refuse&quot; has the same meaning as &quot;deny&quot; in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_30">
+          <num>(30)</num>
+          <content>
+            <p>&quot;Removal&quot; means a physical transfer of fuel other than by evaporation, loss, or destruction.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_31">
+          <num>(31)</num>
+          <content>
+            <p>&quot;Revoke&quot; means to prohibit all authority granted by this chapter, including the display and use of credentials issued by the department for a period of one year or greater or for an indefinite period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_32">
+          <num>(32)</num>
+          <content>
+            <p>&quot;Special fuel&quot; means diesel fuel, propane, natural gas, kerosene, biodiesel, and any other combustible liquid or gas by whatever name the liquid or gas may be known or sold for the generation of power to propel a motor vehicle on the highways, except it does not include motor vehicle fuel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_33">
+          <num>(33)</num>
+          <content>
+            <p>&quot;Supplier&quot; means a person who holds a federal certificate of registry issued under the internal revenue code and authorizes the person to engage in tax-free transactions of fuel in the bulk transfer-terminal system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_34">
+          <num>(34)</num>
+          <content>
+            <p>&quot;Suspend&quot; means to restrict the grant of authority under this chapter for a period of less than one calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_35">
+          <num>(35)</num>
+          <content>
+            <p>&quot;Terminal&quot; means a fuel storage and distribution facility that has been assigned a terminal control number by the internal revenue service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_36">
+          <num>(36)</num>
+          <content>
+            <p>&quot;Terminal operator&quot; means a person who owns, operates, or otherwise controls a terminal.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_020__subsec_37">
+          <num>(37)</num>
+          <content>
+            <p>&quot;Two-party exchange&quot; or &quot;buy-sell agreement&quot; means a transaction in which taxable fuel is transferred from one licensed supplier to another licensed supplier whereby the supplier that is the position holder agrees to deliver taxable fuel to the other supplier or the other supplier's customer at the terminal at which the delivering supplier is the position holder.
+[
+2024 c 1 s 4
+;
+2013 c 225 s 102
+;
+2002 c 183 s 1
+;
+2001 c 270 s 4
+;
+1998 c 176 s 50
+;
+1995 c 287 s 3
+;
+1994 c 262 s 22
+;
+1988 c 122 s 1
+;
+1979 c 40 s 2
+;
+1971 ex.s. c 175 s 3
+.]
+NOTES:
+Reviser's note:
+The definitions in this section have been alphabetized pursuant to RCW
+1.08.015</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

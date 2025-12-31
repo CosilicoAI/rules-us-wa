@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0259"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0259"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0259/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0259/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0259/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0259/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0259">
+        <num>RCW 82.12.0259</num>
+        <heading>Exemptions—Use of personal property, digital automated services, or certain other services by federal corporations providing aid and relief</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.0259
+82.12.0258
+&lt;&lt; 
+        82.12.0259 &gt;&gt;
+82.12.02595
+PDF
+RCW
+82.12.0259
+Exemptions
+—
+Use of personal property, digital automated services, or certain other services by federal corporations providing aid and relief.
+The provisions of this chapter do not apply in respect to the use of personal property or the use of digital automated services or services defined in *RCW
+82.04.050
+(2)(a) or (6)(c) by corporations that have been incorporated under any act of the congress of the United States and whose principal purposes are to furnish volunteer aid to members of the armed forces of the United States and also to carry on a system of national and international relief and to apply the same in mitigating the sufferings caused by pestilence, famine, fire, flood, and other national calamities and to devise and carry on measures for preventing the same.
+[
+2017 c 323 s 523
+;
+2009 c 535 s 613
+;
+2003 c 5 s 7
+;
+1980 c 37 s 59
+. Formerly RCW
+82.12.030
+(9).]
+NOTES:
+*
+Reviser's note:
+RCW
+82.04.050
+was amended by 2025 c 422 s 101, changing subsection (6)(c) to subsection (6)(b), effective October 1, 2025.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+See note following RCW
+82.04.040
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Finding
+—
+Intent
+—
+Retroactive application
+—
+Effective date
+—
+2003 c 5:
+See notes following RCW
+82.12.010
+.
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.430"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.430"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.430/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.430/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.430/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.430/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_430">
+        <num>RCW 74.42.430</num>
+        <heading>Written policy guidelines</heading>
+        <subsection eId="sec_74_42_430__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>All services provided by the facility;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Admission, transfer or discharge;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The use of chemical and physical restraints, the personnel authorized to administer restraints in an emergency, and procedures for monitoring and controlling the use of the restraints;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Procedures for receiving and responding to residents' complaints and recommendations;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Access to, duplication of, and dissemination of information from the resident's record;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Residents' rights, privileges, and duties;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Procedures if the resident is adjudicated incompetent or incapable of understanding his or her rights and responsibilities;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>When to recommend initiation of guardianship, conservatorship, or other protective arrangement proceedings under chapter
+11.130
+RCW;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Emergencies;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Procedures for isolation of residents with infectious diseases; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_430__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Procedures for residents to refuse treatment and for the facility to document informed refusal.
+The written guidelines shall be made available to the staff, residents, members of residents' families, and the public.
+[
+2020 c 312 s 739
+;
+1980 c 184 s 12
+;
+1979 ex.s. c 211 s 43
+.]
+NOTES:
+Effective dates
+—
+2020 c 312:
+See note following RCW
+11.130.915
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.060"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_060">
+        <num>RCW 74.20.060</num>
+        <heading>Cooperation by person having custody of child—Penalty</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.060
+74.20.057
+&lt;&lt; 
+        74.20.060 &gt;&gt;
+74.20.065
+PDF
+RCW
+74.20.060
+Cooperation by person having custody of child
+—
+Penalty.
+Any person having the care, custody or control of any dependent child or children who shall fail or refuse to cooperate with the department of social and health services, any prosecuting attorney or the attorney general in the course of administration of provisions of this chapter shall be guilty of a misdemeanor.
+[
+1979 c 141 s 365
+;
+1959 c 322 s 7
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.105"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.105"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.105/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.105/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.105/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.105/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_105">
+        <num>RCW 82.32.105</num>
+        <heading>Waiver or cancellation of penalties or interest—Rules</heading>
+        <subsection eId="sec_82_32_105__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If the department finds that the payment by a taxpayer of a tax less than that properly due or the failure of a taxpayer to pay any tax by the due date was the result of circumstances beyond the control of the taxpayer, the department must waive or cancel any penalties imposed under this chapter with respect to such tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_105__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must waive or cancel the penalty imposed under RCW
+82.32.090</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_105__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>when the circumstances under which the delinquency occurred do not qualify for waiver or cancellation under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_105__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section if:</p>
+          </content>
+          <subsection eId="sec_82_32_105__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The taxpayer requests the waiver for a tax return required to be filed under RCW
+54.28.040
+,
+82.32.045
+,
+82.14B.061
+,
+82.23B.020
+,
+82.29A.050
+, or
+84.33.086
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_105__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The taxpayer has timely filed and remitted payment on all tax returns due for that tax program for a period of 24 months immediately preceding the period covered by the return for which the waiver is being requested.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_105__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department must waive or cancel interest imposed under this chapter if:</p>
+          </content>
+          <subsection eId="sec_82_32_105__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The failure to timely pay the tax was the direct result of written instructions given the taxpayer by the department; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_105__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The extension of a due date for payment of an assessment of deficiency was not at the request of the taxpayer and was for the sole convenience of the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_105__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must adopt rules for the waiver or cancellation of penalties and interest imposed by this chapter.
+[
+2023 c 374 s 13
+;
+2017 c 323 s 106
+;
+1998 c 304 s 13
+;
+1996 c 149 s 17
+;
+1975 1st ex.s. c 278 s 78
+;
+1965 ex.s. c 141 s 8
+.]
+NOTES:
+Effective dates
+—
+2017 c 323 ss 101-109:
+See note following RCW
+54.28.125
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+See note following RCW
+82.04.040
+.
+Findings
+—
+Effective dates
+—
+1998 c 304:
+See notes following RCW
+82.14B.020
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+1996 c 149:
+See notes following RCW
+82.32.050
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

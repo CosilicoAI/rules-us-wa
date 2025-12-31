@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0251"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0251"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0251/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0251/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0251/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0251/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0251">
+        <num>RCW 82.08.0251</num>
+        <heading>Exemptions—Casual and isolated sales</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0251
+82.08.0209
+&lt;&lt; 
+        82.08.0251 &gt;&gt;
+82.08.0252
+PDF
+RCW
+82.08.0251
+Exemptions
+—
+Casual and isolated sales.
+The tax levied by RCW
+82.08.020
+shall not apply to casual and isolated sales of property or service, unless made by a person who is engaged in a business activity taxable under chapters
+82.04
+or
+82.16
+RCW: PROVIDED, That the exemption provided by this section shall not be construed as providing any exemption from the tax imposed by chapter
+82.12
+RCW.
+[
+1980 c 37 s 19
+. Formerly RCW
+82.08.030
+(1).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

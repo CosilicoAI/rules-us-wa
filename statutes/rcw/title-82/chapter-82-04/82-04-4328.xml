@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4328"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4328"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4328/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4328/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4328/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4328/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4328">
+        <num>RCW 82.04.4328</num>
+        <heading>&quot;Artistic or cultural organization&quot; defined</heading>
+        <subsection eId="sec_82_04_4328__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of RCW
+82.04.4327
+,
+82.08.031
+, and
+82.12.031
+, the term &quot;artistic or cultural organization&quot; means an organization that is organized and operated exclusively for the purpose of providing artistic or cultural exhibitions, presentations, or performances or cultural or art education programs, as defined in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4328__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, for viewing or attendance by the general public. The organization must be a nonprofit corporation under chapter
+24.03A
+RCW and managed by a governing board of not less than eight individuals none of whom is a paid employee of the organization or by a corporation sole under chapter
+24.12
+RCW. In addition, to qualify for deduction or exemption from taxation under RCW
+82.04.4327
+,
+82.08.031
+, and
+82.12.031
+, the corporation must satisfy the following conditions:</p>
+          </content>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No part of its income may be paid directly or indirectly to its members, stockholders, officers, directors, or trustees except in the form of services rendered by the corporation in accordance with its purposes and bylaws;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Salary or compensation paid to its officers and executives must be only for actual services rendered, and at levels comparable to the salary or compensation of like positions within the state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Assets of the corporation must be irrevocably dedicated to the activities for which the exemption is granted and, on the liquidation, dissolution, or abandonment by the corporation, may not inure directly or indirectly to the benefit of any member or individual except a nonprofit organization, association, or corporation which also would be entitled to the exemption;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The corporation must be duly licensed or certified when licensing or certification is required by law or regulation;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The amounts received that qualify for exemption must be used for the activities for which the exemption is granted;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Services must be available regardless of race, color, national origin, or ancestry; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The director of revenue must have access to its books in order to determine whether the corporation is exempt from taxes.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4328__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The term &quot;artistic or cultural exhibitions, presentations, or performances or cultural or art education programs&quot; includes and is limited to:</p>
+          </content>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An exhibition or presentation of works of art or objects of cultural or historical significance, such as those commonly displayed in art or history museums;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A musical or dramatic performance or series of performances; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4328__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An educational seminar or program, or series of such programs, offered by the organization to the general public on an artistic, cultural, or historical subject.
+[
+2021 c 176 s 5247
+;
+2020 c 139 s 9
+;
+1985 c 471 s 7
+;
+1981 c 140 s 6
+.]
+NOTES:
+Effective date
+—
+2021 c 176:
+See note following RCW
+24.03A.005
+.
+Severability
+—
+Effective date
+—
+1985 c 471:
+See notes following RCW
+82.04.260
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

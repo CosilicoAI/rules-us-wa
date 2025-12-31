@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.244"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.244"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.244/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.244/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.244/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.244/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_244">
+        <num>RCW 74.13.244</num>
+        <heading>Testing strips—High-potency synthetic opioid</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.244
+74.13.242
+&lt;&lt; 
+        74.13.244 &gt;&gt;
+74.13.250
+PDF
+RCW
+74.13.244
+Testing strips
+—
+High-potency synthetic opioid.
+The department shall make available to department staff high-potency synthetic opioid testing strips that can detect the presence of high-potency synthetic opioids that may be provided to families for personal use or used by department staff to maintain their safety.
+[
+2024 c 328 s 207
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2024 c 328:
+See note following RCW
+13.34.050
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

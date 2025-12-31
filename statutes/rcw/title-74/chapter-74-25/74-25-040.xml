@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.25.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.25.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.25.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.25.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.25.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.25.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_25_040">
+        <num>RCW 74.25.040</num>
+        <heading>Volunteer work—Child care or other work—Training</heading>
+        <subsection eId="sec_74_25_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Recipients of temporary assistance for needy families who are employed or participating in a work activity under *section 312 of this act may volunteer or work in a licensed child care facility. Licensed child care facilities participating in this effort shall provide care for the recipient's children and provide for the development of positive child care skills.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_25_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall train two hundred fifty recipients of temporary assistance for needy families to become family child care providers or child care center teachers. The department shall offer the training in rural and urban communities. The department shall adopt rules to implement the child care training program in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_25_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Recipients trained under this section shall provide child care services to clients of the department for two years following the completion of their child care training.
+[
+1997 c 59 s 30
+;
+1997 c 58 s 405
+;
+1994 c 299 s 8
+.]
+NOTES:
+Reviser's note:
+*</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_25_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Section 312 of this act was vetoed by the governor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_25_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section was amended by 1997 c 58 s 405 and by 1997 c 59 s 30, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

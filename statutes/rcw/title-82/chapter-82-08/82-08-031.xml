@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.031"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.031"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.031/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.031/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.031/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.031/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_031">
+        <num>RCW 82.08.031</num>
+        <heading>Exemptions—Sales to artistic or cultural organizations of certain objects acquired for exhibition or presentation</heading>
+        <subsection eId="sec_82_08_031__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Objects of art;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_031__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Objects of cultural value;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_031__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Objects to be used in the creation of a work of art, other than tools; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_031__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Objects to be used in displaying art objects or presenting artistic or cultural exhibitions or performances.
+[
+1981 c 140 s 4
+.]
+NOTES:
+&quot;Artistic or cultural organization&quot; defined: RCW
+82.04.4328
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

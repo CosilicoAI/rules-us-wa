@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.817"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.817"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.817/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.817/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.817/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.817/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_817">
+        <num>RCW 82.12.817</num>
+        <heading>Exemptions—Fuel cell electric vehicles. (Expires June 30, 2029.)</heading>
+        <subsection eId="sec_82_12_817__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the limitations in this subsection and RCW
+82.08.993</p>
+          </content>
+          <subsection eId="sec_82_12_817__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Subject to the limitations in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_817__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The per vehicle exemption must be based on the sales price for purchased vehicles and fair market value at the inception of the lease for leased vehicles. However, the maximum value amount eligible for the exemption under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_817__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection is the lesser of either $16,000 or the fair market value of the vehicle.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_817__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A person may not claim the exemption under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_817__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>if the person claims the exemption under RCW
+82.08.9999
+or
+82.12.9999
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_817__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The buyer must keep records necessary for the department to verify eligibility under this section. The buyer claiming the exemption must also submit itemized information to the department for all vehicles for which an exemption is claimed that must include the following: Vehicle make; vehicle model; model year; whether the vehicle has been sold or leased; date of sale or start date of lease; length of lease; sales price for purchased vehicles and fair market value at the inception of the lease for leased vehicles; and the total amount qualifying for the incentive claimed for each vehicle, in addition to the future monthly amount to be claimed for each leased vehicle. This information must be provided in a form and manner prescribed by the department.</p>
+          </content>
+          <subsection eId="sec_82_12_817__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Sales of vehicles delivered to the buyer after the expiration of this section, or leased vehicles for which the lease agreement was signed after the expiration of this section, do not qualify for the exemptions under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_817__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All leased vehicles that qualified for the exemption under this section before the expiration of this section must continue to receive the exemption on any lease payments due through the remainder of the lease.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_817__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The definitions in RCW
+82.08.993
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_817__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section expires June 30, 2029.
+[
+2022 c 182 s 304
+;
+2021 c 171 s 3
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2022 c 182:
+See notes following RCW
+70A.65.240
+.
+Tax preference performance statement
+—
+Effective date
+—
+2021 c 171:
+See notes following RCW
+82.08.993
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

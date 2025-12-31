@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.240"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.240"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.240/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.240/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.240/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.240/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_240">
+        <num>RCW 74.42.240</num>
+        <heading>Administering medication</heading>
+        <subsection eId="sec_74_42_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>No staff member may administer any medication to a resident unless the staff member is licensed to administer medication: PROVIDED, That nothing herein shall be construed as prohibiting graduate nurses or student nurses from administering medications when permitted to do so under chapter
+18.79
+RCW and rules adopted thereunder.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The facility may only allow a resident to give himself or herself medication with the attending physician's permission.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_240__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Medication shall only be administered to or used by the resident for whom it is ordered.
+[
+1994 sp.s. c 9 s 752
+;
+1989 c 372 s 5
+;
+1979 ex.s. c 211 s 24
+.]
+NOTES:
+Severability
+—
+Headings and captions not law
+—
+Effective date
+—
+1994 sp.s. c 9:
+See RCW
+18.79.900
+through
+18.79.902
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

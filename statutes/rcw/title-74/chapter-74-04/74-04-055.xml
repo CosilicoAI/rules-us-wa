@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.055"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_055">
+        <num>RCW 74.04.055</num>
+        <heading>Cooperation with federal government—Construction—Conflict with federal requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.055
+74.04.050
+&lt;&lt; 
+        74.04.055 &gt;&gt;
+74.04.057
+PDF
+RCW
+74.04.055
+Cooperation with federal government
+—
+Construction
+—
+Conflict with federal requirements.
+In furtherance of the policy of this state to cooperate with the federal government in the programs included in this title the secretary or director, as appropriate, shall issue such rules and regulations as may become necessary to entitle this state to participate in federal grants-in-aid, goods, commodities and services unless the same be expressly prohibited by this title. Any section or provision of this title which may be susceptible to more than one construction shall be interpreted in favor of the construction most likely to satisfy federal laws entitling this state to receive federal matching or other funds for the various programs of public assistance. If any part of this chapter is found to be in conflict with federal requirements which are a prescribed condition to the receipts of federal funds to the state, the conflicting part of this chapter is hereby inoperative solely to the extent of the conflict with respect to the agencies directly affected, and such finding or determination shall not affect the operation of the remainder of this chapter.
+[
+2011 1st sp.s. c 15 s 65
+;
+1991 c 126 s 2
+;
+1979 c 141 s 298
+;
+1963 c 228 s 4
+;
+1959 c 26 s 74.04.055
+. Prior:
+1953 c 174 s 50
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

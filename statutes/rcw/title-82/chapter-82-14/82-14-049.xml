@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.049"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.049"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.049/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.049/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.049/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.049/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_049">
+        <num>RCW 82.14.049</num>
+        <heading>Sales and use tax for public sports facilities—Tax upon retail rental car rentals</heading>
+        <subsection eId="sec_82_14_049__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislative authority of any county may impose a sales and use tax, in addition to the tax authorized by RCW
+82.14.030
+, upon retail car rentals within the county that are taxable by the state under chapters
+82.08
+and
+82.12
+RCW. The rate of tax is one percent of the selling price in the case of a sales tax or rental value of the vehicle in the case of a use tax. Proceeds of the tax may not be used to subsidize any professional sports team and must be used solely for the following purposes:</p>
+          </content>
+          <subsection eId="sec_82_14_049__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Acquiring, constructing, maintaining, or operating public sports stadium facilities;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_049__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Engineering, planning, financial, legal, or professional services incidental to public sports stadium facilities;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_049__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Youth or amateur sport activities or facilities; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_049__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Debt or refinancing debt issued for the purposes of subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_049__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_049__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In a county of one million or more, at least seventy-five percent of the tax imposed under this section must be used to retire the debt on the stadium under RCW
+67.28.180</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

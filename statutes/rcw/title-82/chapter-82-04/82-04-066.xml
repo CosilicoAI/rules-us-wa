@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.066"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.066"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.066/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.066/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.066/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.066/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_066">
+        <num>RCW 82.04.066</num>
+        <heading>&quot;Engaging within this state,&quot; &quot;engaging within the state.&quot;</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.066
+82.04.065
+&lt;&lt; 
+        82.04.066 &gt;&gt;
+82.04.067
+PDF
+RCW
+82.04.066
+&quot;Engaging within this state,&quot; &quot;engaging within the state.&quot;
+&quot;Engaging within this state&quot; and &quot;engaging within the state,&quot; when used in connection with any apportionable activity as defined in RCW
+82.04.460
+or selling activity taxable under RCW
+82.04.250
+(1),
+82.04.257
+(1),
+82.04.270
+, or other provision of this chapter means that a person generates gross income of the business from sources within this state, such as customers or intangible property located in this state, regardless of whether the person is physically present in this state.
+[
+2019 c 8 s 702
+;
+2017 3rd sp.s. c 28 s 301
+;
+2015 3rd sp.s. c 5 s 203
+;
+2010 1st sp.s. c 23 s 103
+.]
+NOTES:
+Effective date
+—
+2019 c 8 ss 102, 103, 107, and 701-703:
+See note following RCW
+82.04.067
+.
+Existing rights and liability
+—
+Retroactive application
+—
+2019 c 8:
+See notes following RCW
+82.02.250
+.
+Existing rights and liability
+—
+Severability
+—
+Application
+—
+Effective dates
+—
+2017 3rd sp.s. c 28:
+See notes following RCW
+82.08.0531
+.
+Construction
+—
+2017 c 323:
+See note following RCW
+82.08.052
+.
+Effective dates
+—
+Finding
+—
+Intent
+—
+2015 3rd sp.s. c 5:
+See notes following RCW
+82.08.052
+.
+Contingency
+—
+Application
+—
+2010 1st sp.s. c 23 ss 102-112:
+See notes following RCW
+82.04.067
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

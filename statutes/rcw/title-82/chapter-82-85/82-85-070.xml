@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.85.070"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.85.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.85.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_85_070">
+        <num>RCW 82.85.070</num>
+        <heading>Invest in Washington account—Created—Funded</heading>
+        <subsection eId="sec_82_85_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>State taxes deferred and repaid under this chapter, including any interest or penalties on such amounts, must be deposited in the invest in Washington account created in this section. The invest in Washington account is hereby created in the state treasury [and] must be used exclusively by the state board for community and technical colleges for supporting customized training programs, job skills programs, job readiness training, workforce professional development, and to assist employers with state-approved apprenticeship programs for manufacturing and production occupations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_070__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Revenues to the invest in Washington account consist of amounts transferred by the state treasurer as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>By June 1, 2016, and by June 1st of every subsequent year, the department must notify the state treasurer of the amount of tax, interest, and penalties collected under this section since September 1, 2015, through May 1, 2016, in the case of the first notification under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>as may be necessary to correct errors in the previous notification or offset previous amounts that did not qualify for deferral under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_070__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>By July 1, 2016, and by July 1st of every subsequent year, the state treasurer must transfer the amount included in the department's most recent notification under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section from the general fund to the invest in Washington account. Money in the account may only be appropriated for the purposes specified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.
+[
+2015 3rd sp.s. c 6 s 407
+.]
+NOTES:
+Application
+—
+2015 3rd sp.s. c 6 ss 406-409:
+See note following RCW
+82.85.060
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

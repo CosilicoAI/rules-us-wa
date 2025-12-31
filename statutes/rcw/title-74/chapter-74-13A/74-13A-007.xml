@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.007"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.007"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.007/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.007/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.007/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.007/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_007">
+        <num>RCW 74.13A.007</num>
+        <heading>Adoption support expenditures—Findings—Intent</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13A
+&gt;
+Section 74.13A.007
+74.13A.005
+&lt;&lt; 
+        74.13A.007 &gt;&gt;
+74.13A.010
+PDF
+RCW
+74.13A.007
+Adoption support expenditures
+—
+Findings
+—
+Intent.
+The legislature finds that the current state adoption support policy to encourage, within available funds, the adoption of certain hard to place children , has expedited permanency for children who are unable to reunify with their family and has resulted in savings otherwise spent on foster care.
+The legislature also finds that current economic conditions have reduced state funds available for many critical programs. The legislature further finds that adoption support expenditures continue to increase. Given these realities, the legislature finds there is a need to control adoption support costs without adversely impacting permanency for state dependent children.
+The legislature acknowledges that the best way to reduce adoption support and foster care expenditures is to safely prevent children from entering the foster care system. However, the legislature also finds that the recent prospective reduction to adoption support payments set forth in chapter 50, Laws of 2011 1st sp. sess. has not, to date, adversely impacted permanency for foster children in need of adoptive homes.
+Therefore, the legislature intends to continue the adoption assistance rate reduction beyond the period set forth in the operating budget, while focusing on sustainable long-term efforts to prevent children from entering the foster care system, such as pursuing a potential federal Title IV-E waiver , which if granted, would allow Washington to reinvest dollars otherwise spent on foster care in prevention programs.
+The legislature also finds that many adoptive parents spend adoption support payments on additional mental health services for adoptive children that are not currently covered by existing public programs. The legislature intends to offset adoption support payment expenditures by facilitating efforts to improve the access and quality of existing mental health services for adoptive families in the long term.
+[
+2012 c 147 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

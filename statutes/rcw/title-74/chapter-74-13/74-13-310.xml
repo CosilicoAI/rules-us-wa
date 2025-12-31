@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.310"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_310">
+        <num>RCW 74.13.310</num>
+        <heading>Foster parent training</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.310
+74.13.300
+&lt;&lt; 
+        74.13.310 &gt;&gt;
+74.13.315
+PDF
+RCW
+74.13.310
+Foster parent training.
+Adequate foster parent training has been identified as directly associated with increasing the length of time foster parents are willing to provide foster care and reducing the number of placement disruptions for children. Placement disruptions can be harmful to children by denying them consistent and nurturing support. Foster parents have expressed the desire to receive training in addition to the foster parent training currently offered. Foster parents who care for more demanding children, such as children with severe disabilities, would especially benefit from additional training. The department shall develop additional training for foster parents that focuses on skills to assist foster parents in caring for children with disabilities.
+[
+2020 c 274 s 62
+;
+2018 c 284 s 50
+;
+2009 c 520 s 78
+;
+1990 c 284 s 13
+.]
+NOTES:
+Finding
+—
+Effective date
+—
+1990 c 284:
+See notes following RCW
+74.13.250
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

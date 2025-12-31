@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.060"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_060">
+        <num>RCW 74.18.060</num>
+        <heading>Department—Powers and duties</heading>
+        <subsection eId="sec_74_18_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Serve as the sole agency of the state for contracting for and disbursing all federal and state funds appropriated for programs established by and within the jurisdiction of this chapter, and make reports and render accounting as may be required;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Adopt rules, in accordance with chapter
+34.05
+RCW, necessary to carry out the purposes of this chapter;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Negotiate agreements with other state agencies to provide services so that individuals of any age who are blind or are both blind and otherwise disabled receive the most beneficial services.
+[
+2003 c 409 s 6
+;
+1983 c 194 s 6
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.183"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.183"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.183/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.183/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.183/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.183/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_183">
+        <num>RCW 82.38.183</num>
+        <heading>Refund to aeronautics account</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.38
+&gt;
+Section 82.38.183
+82.38.180
+&lt;&lt; 
+        82.38.183 &gt;&gt;
+82.38.190
+PDF
+RCW
+82.38.183
+Refund to aeronautics account.
+At least once each fiscal year, the director must request the state treasurer to refund from the motor vehicle fund, to the aeronautics account created under RCW
+82.42.090
+, an amount equal to 0.028 percent of the gross motor vehicle fuel tax less an amount equal to aircraft fuel taxes transferred to that account as a result of nonhighway refunds claimed by motor fuel purchasers. The refund is considered compensation for unclaimed motor vehicle fuel that is used in aircraft for purposes taxable under RCW
+82.42.020
+. The director must also remit from the motor vehicle fund the taxes required by RCW
+82.12.0256
+(2)(d) for the unclaimed refunds, provided that the sum of the amount refunded and the amount remitted in accordance with RCW
+82.12.0256
+(2)(d) does not exceed the unclaimed refunds.
+[
+2013 c 225 s 207
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

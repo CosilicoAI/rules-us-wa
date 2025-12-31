@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.532"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.532"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.532/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.532/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.532/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.532/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_532">
+        <num>RCW 82.32.532</num>
+        <heading>Digital products—Nexus</heading>
+        <subsection eId="sec_82_32_532__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For purposes of the taxes imposed in this title, the department of revenue may not consider a person's ownership of, or rights in, computer software as defined in RCW
+82.04.215
+, including computer software used in providing a digital automated service; master copies of software; digital goods or digital codes residing on servers located in this state in determining whether the person has substantial nexus with this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_532__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;substantial nexus&quot; means the requisite connection that a person has with a state to allow the state to subject the person to the state's taxing authority, consistent with the commerce clause of the United States Constitution.
+[
+2010 c 111 s 701
+;
+2009 c 535 s 901
+.]
+NOTES:
+Purpose
+—
+Retroactive application
+—
+Effective date
+—
+2010 c 111:
+See notes following RCW
+82.04.050
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

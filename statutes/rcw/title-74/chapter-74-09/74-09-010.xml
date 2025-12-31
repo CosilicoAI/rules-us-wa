@@ -1,0 +1,1279 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_010">
+        <num>RCW 74.09.010</num>
+        <heading>Definitions. (&lt;i&gt;Effective until June 30, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Authority&quot; means the Washington state health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Bidirectional integration&quot; means integrating behavioral health services into primary care settings and integrating primary care services into behavioral health settings.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Children's health program&quot; means the health care services program provided to children under eighteen years of age and in households with incomes at or below the federal poverty level as annually defined by the federal department of health and human services as adjusted for family size, and who are not otherwise eligible for medical assistance or the limited casualty program for the medically needy.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Chronic care management&quot; means the health care management within a health home of persons identified with, or at high risk for, one or more chronic conditions. Effective chronic care management:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Actively assists patients to acquire self-care skills to improve functioning and health outcomes, and slow the progression of disease or disability;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Employs evidence-based clinical practices;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Coordinates care across health care settings and providers, including tracking referrals;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Provides ready access to behavioral health services that are, to the extent possible, integrated with primary care; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Uses appropriate community resources to support individual patients and families in managing chronic conditions.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Chronic condition&quot; means a prolonged condition and includes, but is not limited to:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A mental health condition;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A substance use disorder;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Asthma;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Diabetes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Heart disease; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Being overweight, as evidenced by a body mass index over twenty-five.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;County&quot; means the board of county commissioners, county council, county executive, or tribal jurisdiction, or its designee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Department of health&quot; means the Washington state department of health created pursuant to RCW
+43.70.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Director&quot; means the director of the Washington state health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Full benefit dual eligible beneficiary&quot; means an individual who, for any month: Has coverage for the month under a medicare prescription drug plan or medicare advantage plan with part D coverage; and is determined eligible by the state for full medicaid benefits for the month under any eligibility category in the state's medicaid plan or a section 1115 demonstration waiver that provides pharmacy benefits.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Health home&quot; or &quot;primary care health home&quot; means coordinated health care provided by a licensed primary care provider coordinating all medical care services, and a multidisciplinary health care team comprised of clinical and nonclinical staff. The term &quot;coordinating all medical care services&quot; shall not be construed to require prior authorization by a primary care provider in order for a patient to receive treatment for covered services by an optometrist licensed under chapter
+18.53
+RCW. Primary care health home services shall include those services defined as health home services in 42 U.S.C. Sec. 1396w-4 and, in addition, may include, but are not limited to:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Comprehensive care management including, but not limited to, chronic care treatment and management;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Extended hours of service;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Multiple ways for patients to communicate with the team, including electronically and by phone;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Education of patients on self-care, prevention, and health promotion, including the use of patient decision aids;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Coordinating and assuring smooth transitions and follow-up from inpatient to other settings;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Individual and family support including authorized representatives;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The use of information technology to link services, track tests, generate patient registries, and provide clinical data; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Ongoing performance reporting and quality improvement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Limited casualty program&quot; means the medical care program provided to medically needy persons as defined under Title XIX of the federal social security act, and to medically indigent persons who are without income or resources sufficient to secure necessary medical services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Managed care organization&quot; means any health care organization, including health care providers, insurers, health care service contractors, health maintenance organizations, health insuring organizations, or any other entity or combination thereof, that provides directly or by contract health care services covered under this chapter and rendered by licensed providers, on a prepaid capitated basis and that meets the requirements of section 1903</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of Title XI of the federal social security act.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Medical assistance&quot; means the federal aid medical care program provided to categorically needy persons as defined under Title XIX of the federal social security act.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Medical care services&quot; means the limited scope of care financed by state funds and provided to persons who are not eligible for medicaid under RCW
+74.09.510
+and who are eligible for the aged, blind, or disabled assistance program authorized in RCW
+74.62.030
+or the essential needs and housing support program pursuant to RCW
+74.04.805
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Multidisciplinary health care team&quot; means an interdisciplinary team of health professionals which may include, but is not limited to, medical specialists, nurses, pharmacists, nutritionists, dieticians, social workers, behavioral and mental health providers including substance use disorder prevention and treatment providers, doctors of chiropractic, physical therapists, licensed complementary and alternative medicine practitioners, home care and other long-term care providers, and physicians' assistants.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Nursing home&quot; means nursing home as defined in RCW
+18.51.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Poverty&quot; means the federal poverty level determined annually by the United States department of health and human services, or successor agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Primary care behavioral health&quot; means a health care integration model in which behavioral health care is colocated, collaborative, and integrated within a primary care setting.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;Primary care provider&quot; means a general practice physician, family practitioner, internist, pediatrician, osteopathic physician, naturopath, physician assistant, and *advanced registered nurse practitioner licensed under Title
+18
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Secretary&quot; means the secretary of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Whole-person care in behavioral health&quot; means a health care integration model in which primary care services are integrated into a behavioral health setting either through colocation or community-based care management.
+[
+2023 c 51 s 33
+;
+2020 c 80 s 55
+;
+2017 c 226 s 5
+;
+2013 2nd sp.s. c 10 s 8
+. Prior:
+2011 1st sp.s. c 15 s 2
+;
+2011 c 316 s 2
+; prior:
+2010 1st sp.s. c 8 s 28
+;
+2007 c 3 s 2
+;
+1990 c 296 s 6
+;
+1987 c 406 s 11
+;
+1981 1st ex.s. c 6 s 18
+;
+1981 c 8 s 17
+;
+1979 c 141 s 333
+;
+1959 c 26 s 74.09.010
+; prior:
+1955 c 273 s 2
+.]
+NOTES:
+*Reviser's note:
+The term &quot;advanced registered nurse practitioner&quot; was changed to &quot;advanced practice registered nurse&quot; by 2024 c 239 s 1, effective June 30, 2027.
+Effective date
+—
+2020 c 80 ss 12-59:
+See note following RCW
+7.68.030
+.
+Intent
+—
+2020 c 80:
+See note following RCW
+18.71A.010
+.
+Sustainable solutions for the integration of behavioral and physical health
+—
+2017 c 226:
+See note following RCW
+74.09.497
+.
+Effective date
+—
+2013 2nd sp.s. c 10:
+See note following RCW
+74.62.030
+.
+Effective date
+—
+2011 1st sp.s. c 15:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2011.&quot; [
+2011 1st sp.s. c 15 s 130
+.]
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 15:
+&quot;The legislature finds that:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Washington state government must be organized to be efficient, cost-effective, and responsive to its residents;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The cost of state purchased health care continues to grow at an unsustainable rate, now representing nearly one-third of the state's budget and hindering our ability to invest in other essential services such as education and public safety;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Responsibility for state health care purchasing is currently spread over multiple agencies, but successful interagency collaboration on quality and cost initiatives has helped demonstrate the benefits to the state of centralized health care purchasing;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Consolidating the majority of state health care purchasing into a single state agency will best position the state to work with others, including private sector purchasers, health insurance carriers, health care providers, and consumers to increase the quality and affordability of health care for all state residents;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The development and implementation of uniform state policies for all state purchased health care is among the purposes for which the health care authority was originally created; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The state will be best able to take advantage of the opportunities and meet its obligations under the federal affordable care act, including establishment of a health benefit exchange and medicaid expansion, if primary responsibility for doing so rests with a single state agency.
+The legislature therefore intends, where appropriate, to consolidate state health care purchasing within the health care authority, positioning the state to use its full purchasing power to get the greatest value for its money, and allowing other agencies to focus even more intently on their core missions.&quot; [
+2011 1st sp.s. c 15 s 1
+.]
+Report
+—
+2011 1st sp.s. c 15:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>By December 10, 2011, the department of social and health services and the health care authority shall provide a preliminary report, and by December 1, 2012, provide a final implementation plan, to the governor and the legislature with recommendations regarding the role of the health care authority in the state's purchasing of mental health treatment, substance abuse treatment, and long-term care services, including services for those with developmental disabilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The reports shall:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Consider options for effectively coordinating the purchase and delivery of care for people who need long-term care, developmental disabilities, mental health, or chemical dependency services. Options considered may include, but are not limited to, transitioning purchase of these services from the department of social and health services to the health care authority, and strategies for the agencies to collaborate seamlessly while purchasing services separately; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Address the following components:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Incentives to improve prevention efforts;</p>
+            </content>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Service delivery approaches, including models for care management and care coordination and benefit design;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Rules to assure that those requiring long-term care services and supports receive that care in the least restrictive setting appropriate to their needs;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Systems to measure cost savings;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Mechanisms to measure health outcomes and consumer satisfaction;
+(vi) The designation of a single point of entry for financial and functional eligibility determinations for long-term care services; and
+(vii) Process for collaboration with local governments.</p>
+            </content>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The designation of a single point of entry for financial and functional eligibility determinations for long-term care services; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Process for collaboration with local governments.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In developing these recommendations, the agencies shall:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Consult with tribal governments and with interested stakeholders, including consumers, health care and other service providers, health insurance carriers, and local governments; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Cooperate with the joint select committee on health reform implementation established in House Concurrent Resolution No. 4404 and any of its advisory committees. The agencies shall strongly consider the guidance and input received from these forums in the development of its recommendations.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The agencies shall submit a progress report to the governor and the legislature by November 15, 2013, that provides details on the agencies' progress on purchasing coordination to date.&quot; [
+2011 1st sp.s. c 15 s 116
+.]
+Agency transfer
+—
+2011 1st sp.s. c 15:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>All powers, duties, and functions of the department of social and health services pertaining to the medical assistance program and the medicaid purchasing administration are transferred to the health care authority to the extent necessary to carry out the purposes of this act. All references to the secretary or the department of social and health services in the Revised Code of Washington shall be construed to mean the director or the health care authority when referring to the functions transferred in this section.</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All reports, documents, surveys, books, records, files, papers, or written material in the possession of the department of social and health services pertaining to the powers, functions, and duties transferred shall be delivered to the custody of the health care authority. All cabinets, furniture, office equipment, motor vehicles, and other tangible property employed by the department of social and health services in carrying out the powers, functions, and duties transferred shall be made available to the health care authority. All funds, credits, or other assets held in connection with the powers, functions, and duties transferred shall be assigned to the health care authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any appropriations made to the department of social and health services for carrying out the powers, functions, and duties transferred shall, on July 1, 2011, be transferred and credited to the health care authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Whenever any question arises as to the transfer of any personnel, funds, books, documents, records, papers, files, equipment, or other tangible property used or held in the exercise of the powers and the performance of the duties and functions transferred, the director of financial management shall make a determination as to the proper allocation and certify the same to the state agencies concerned.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All employees of the medicaid purchasing administration at the department of social and health services are transferred to the jurisdiction of the health care authority. All employees classified under chapter
+41.06
+RCW, the state civil service law, are assigned to the health care authority to perform their usual duties upon the same terms as formerly, without any loss of rights, subject to any action that may be appropriate thereafter in accordance with the laws and rules governing state civil service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>All rules and all pending business before the department of social and health services pertaining to the powers, functions, and duties transferred shall be continued and acted upon by the health care authority. All existing contracts and obligations shall remain in full force and shall be performed by the health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The transfer of the powers, duties, functions, and personnel of the department of social and health services shall not affect the validity of any act performed before July 1, 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If apportionments of budgeted funds are required because of the transfers directed by this section, the director of financial management shall certify the apportionments to the agencies affected, the state auditor, and the state treasurer. Each of these shall make the appropriate transfer and adjustments in funds and appropriation accounts and equipment records in accordance with the certification.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>A nonsupervisory medicaid purchasing unit bargaining unit is created at the health care authority. All nonsupervisory civil service employees of the medicaid purchasing administration at the department of social and health services assigned to the health care authority under this section whose positions are within the existing bargaining unit description at the department of social and health services shall become a part of the nonsupervisory medicaid purchasing unit bargaining unit at the health care authority under the provisions of chapter
+41.80
+RCW. The exclusive bargaining representative of the existing bargaining unit at the department of social and health services is certified as the exclusive bargaining representative of the nonsupervisory medicaid purchasing unit bargaining unit at the health care authority without the necessity of an election.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>A supervisory medicaid purchasing unit bargaining unit is created at the health care authority. All supervisory civil service employees of the medicaid purchasing administration at the department of social and health services assigned to the health care authority under this section whose positions are within the existing bargaining unit description at the department of social and health services shall become a part of the supervisory medicaid purchasing unit bargaining unit at the health care authority under the provisions of chapter
+41.80
+RCW. The exclusive bargaining representative of the existing bargaining unit at the department of social and health services is certified as the exclusive bargaining representative of the supervisory medicaid purchasing unit bargaining unit at the health care authority without the necessity of an election.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The bargaining units of employees created under this section are appropriate units under the provisions of chapter
+41.80
+RCW. However, nothing contained in this section shall be construed to alter the authority of the public employment relations commission under the provisions of chapter
+41.80
+RCW to amend or modify the bargaining units.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Positions from the department of social and health services central administration are transferred to the jurisdiction of the health care authority. Employees classified under chapter
+41.06
+RCW, the state civil service law, are assigned to the health care authority to perform their usual duties upon the same terms as formerly, without any loss of rights, subject to any action that may be appropriate thereafter in accordance with the laws and rules governing state civil service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>All classified employees of the department of social and health services central administration assigned to the health care authority under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section whose positions are within an existing bargaining unit description at the health care authority shall become a part of the existing bargaining unit at the health care authority and shall be considered an appropriate inclusion or modification of the existing bargaining unit under the provisions of chapter
+41.80
+RCW.&quot; [
+2011 1st sp.s. c 15 s 124
+.]
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+&quot;The code reviser shall note wherever &quot;administrator&quot; is used or referred to in the Revised Code of Washington as the head of the health care authority that the title of the agency head has been changed to &quot;director.&quot; The code reviser shall prepare legislation for the 2012 regular session that changes all statutory references to &quot;administrator&quot; of the health care authority to &quot;director&quot; of the health care authority.&quot; [
+2011 1st sp.s. c 15 s 125
+.]
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.
+Effective date
+—
+1990 c 296:
+&quot;This act shall take effect July 1, 1990.&quot; [
+1990 c 296 s 9
+.]
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.
+PDF
+RCW
+74.09.010
+Definitions.
+(Effective June 30, 2027.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Authority&quot; means the Washington state health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Bidirectional integration&quot; means integrating behavioral health services into primary care settings and integrating primary care services into behavioral health settings.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Children's health program&quot; means the health care services program provided to children under eighteen years of age and in households with incomes at or below the federal poverty level as annually defined by the federal department of health and human services as adjusted for family size, and who are not otherwise eligible for medical assistance or the limited casualty program for the medically needy.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Chronic care management&quot; means the health care management within a health home of persons identified with, or at high risk for, one or more chronic conditions. Effective chronic care management:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Actively assists patients to acquire self-care skills to improve functioning and health outcomes, and slow the progression of disease or disability;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Employs evidence-based clinical practices;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Coordinates care across health care settings and providers, including tracking referrals;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Provides ready access to behavioral health services that are, to the extent possible, integrated with primary care; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Uses appropriate community resources to support individual patients and families in managing chronic conditions.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Chronic condition&quot; means a prolonged condition and includes, but is not limited to:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A mental health condition;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A substance use disorder;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Asthma;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Diabetes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Heart disease; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Being overweight, as evidenced by a body mass index over twenty-five.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;County&quot; means the board of county commissioners, county council, county executive, or tribal jurisdiction, or its designee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Department of health&quot; means the Washington state department of health created pursuant to RCW
+43.70.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Director&quot; means the director of the Washington state health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Full benefit dual eligible beneficiary&quot; means an individual who, for any month: Has coverage for the month under a medicare prescription drug plan or medicare advantage plan with part D coverage; and is determined eligible by the state for full medicaid benefits for the month under any eligibility category in the state's medicaid plan or a section 1115 demonstration waiver that provides pharmacy benefits.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Health home&quot; or &quot;primary care health home&quot; means coordinated health care provided by a licensed primary care provider coordinating all medical care services, and a multidisciplinary health care team comprised of clinical and nonclinical staff. The term &quot;coordinating all medical care services&quot; shall not be construed to require prior authorization by a primary care provider in order for a patient to receive treatment for covered services by an optometrist licensed under chapter
+18.53
+RCW. Primary care health home services shall include those services defined as health home services in 42 U.S.C. Sec. 1396w-4 and, in addition, may include, but are not limited to:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Comprehensive care management including, but not limited to, chronic care treatment and management;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Extended hours of service;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Multiple ways for patients to communicate with the team, including electronically and by phone;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Education of patients on self-care, prevention, and health promotion, including the use of patient decision aids;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Coordinating and assuring smooth transitions and follow-up from inpatient to other settings;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Individual and family support including authorized representatives;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The use of information technology to link services, track tests, generate patient registries, and provide clinical data; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_11__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Ongoing performance reporting and quality improvement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Limited casualty program&quot; means the medical care program provided to medically needy persons as defined under Title XIX of the federal social security act, and to medically indigent persons who are without income or resources sufficient to secure necessary medical services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Managed care organization&quot; means any health care organization, including health care providers, insurers, health care service contractors, health maintenance organizations, health insuring organizations, or any other entity or combination thereof, that provides directly or by contract health care services covered under this chapter and rendered by licensed providers, on a prepaid capitated basis and that meets the requirements of section 1903</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of Title XI of the federal social security act.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Medical assistance&quot; means the federal aid medical care program provided to categorically needy persons as defined under Title XIX of the federal social security act.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Medical care services&quot; means the limited scope of care financed by state funds and provided to persons who are not eligible for medicaid under RCW
+74.09.510
+and who are eligible for the aged, blind, or disabled assistance program authorized in RCW
+74.62.030
+or the essential needs and housing support program pursuant to RCW
+74.04.805
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Multidisciplinary health care team&quot; means an interdisciplinary team of health professionals which may include, but is not limited to, medical specialists, nurses, pharmacists, nutritionists, dieticians, social workers, behavioral and mental health providers including substance use disorder prevention and treatment providers, doctors of chiropractic, physical therapists, licensed complementary and alternative medicine practitioners, home care and other long-term care providers, and physicians' assistants.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Nursing home&quot; means nursing home as defined in RCW
+18.51.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Poverty&quot; means the federal poverty level determined annually by the United States department of health and human services, or successor agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Primary care behavioral health&quot; means a health care integration model in which behavioral health care is colocated, collaborative, and integrated within a primary care setting.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;Primary care provider&quot; means a general practice physician, family practitioner, internist, pediatrician, osteopathic physician, naturopath, physician assistant, and advanced practice registered nurse licensed under Title
+18
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Secretary&quot; means the secretary of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Whole-person care in behavioral health&quot; means a health care integration model in which primary care services are integrated into a behavioral health setting either through colocation or community-based care management.
+[
+2025 c 58 s 5167
+;
+2023 c 51 s 33
+;
+2020 c 80 s 55
+;
+2017 c 226 s 5
+;
+2013 2nd sp.s. c 10 s 8
+. Prior:
+2011 1st sp.s. c 15 s 2
+;
+2011 c 316 s 2
+; prior:
+2010 1st sp.s. c 8 s 28
+;
+2007 c 3 s 2
+;
+1990 c 296 s 6
+;
+1987 c 406 s 11
+;
+1981 1st ex.s. c 6 s 18
+;
+1981 c 8 s 17
+;
+1979 c 141 s 333
+;
+1959 c 26 s 74.09.010
+; prior:
+1955 c 273 s 2
+.]
+NOTES:
+Effective date
+—
+2025 c 58 ss 5058-5170:
+See note following RCW
+7.68.030
+.
+Explanatory note
+—
+2025 c 58:
+See note following RCW
+1.16.050
+.
+Effective date
+—
+2020 c 80 ss 12-59:
+See note following RCW
+7.68.030
+.
+Intent
+—
+2020 c 80:
+See note following RCW
+18.71A.010
+.
+Sustainable solutions for the integration of behavioral and physical health
+—
+2017 c 226:
+See note following RCW
+74.09.497
+.
+Effective date
+—
+2013 2nd sp.s. c 10:
+See note following RCW
+74.62.030
+.
+Effective date
+—
+2011 1st sp.s. c 15:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2011.&quot; [
+2011 1st sp.s. c 15 s 130
+.]
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 15:
+&quot;The legislature finds that:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Washington state government must be organized to be efficient, cost-effective, and responsive to its residents;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The cost of state purchased health care continues to grow at an unsustainable rate, now representing nearly one-third of the state's budget and hindering our ability to invest in other essential services such as education and public safety;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Responsibility for state health care purchasing is currently spread over multiple agencies, but successful interagency collaboration on quality and cost initiatives has helped demonstrate the benefits to the state of centralized health care purchasing;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Consolidating the majority of state health care purchasing into a single state agency will best position the state to work with others, including private sector purchasers, health insurance carriers, health care providers, and consumers to increase the quality and affordability of health care for all state residents;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The development and implementation of uniform state policies for all state purchased health care is among the purposes for which the health care authority was originally created; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The state will be best able to take advantage of the opportunities and meet its obligations under the federal affordable care act, including establishment of a health benefit exchange and medicaid expansion, if primary responsibility for doing so rests with a single state agency.
+The legislature therefore intends, where appropriate, to consolidate state health care purchasing within the health care authority, positioning the state to use its full purchasing power to get the greatest value for its money, and allowing other agencies to focus even more intently on their core missions.&quot; [
+2011 1st sp.s. c 15 s 1
+.]
+Report
+—
+2011 1st sp.s. c 15:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>By December 10, 2011, the department of social and health services and the health care authority shall provide a preliminary report, and by December 1, 2012, provide a final implementation plan, to the governor and the legislature with recommendations regarding the role of the health care authority in the state's purchasing of mental health treatment, substance abuse treatment, and long-term care services, including services for those with developmental disabilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The reports shall:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Consider options for effectively coordinating the purchase and delivery of care for people who need long-term care, developmental disabilities, mental health, or chemical dependency services. Options considered may include, but are not limited to, transitioning purchase of these services from the department of social and health services to the health care authority, and strategies for the agencies to collaborate seamlessly while purchasing services separately; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Address the following components:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Incentives to improve prevention efforts;</p>
+            </content>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Service delivery approaches, including models for care management and care coordination and benefit design;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Rules to assure that those requiring long-term care services and supports receive that care in the least restrictive setting appropriate to their needs;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Systems to measure cost savings;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Mechanisms to measure health outcomes and consumer satisfaction;
+(vi) The designation of a single point of entry for financial and functional eligibility determinations for long-term care services; and
+(vii) Process for collaboration with local governments.</p>
+            </content>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The designation of a single point of entry for financial and functional eligibility determinations for long-term care services; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_010__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Process for collaboration with local governments.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In developing these recommendations, the agencies shall:</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Consult with tribal governments and with interested stakeholders, including consumers, health care and other service providers, health insurance carriers, and local governments; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Cooperate with the joint select committee on health reform implementation established in House Concurrent Resolution No. 4404 and any of its advisory committees. The agencies shall strongly consider the guidance and input received from these forums in the development of its recommendations.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The agencies shall submit a progress report to the governor and the legislature by November 15, 2013, that provides details on the agencies' progress on purchasing coordination to date.&quot; [
+2011 1st sp.s. c 15 s 116
+.]
+Agency transfer
+—
+2011 1st sp.s. c 15:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>All powers, duties, and functions of the department of social and health services pertaining to the medical assistance program and the medicaid purchasing administration are transferred to the health care authority to the extent necessary to carry out the purposes of this act. All references to the secretary or the department of social and health services in the Revised Code of Washington shall be construed to mean the director or the health care authority when referring to the functions transferred in this section.</p>
+          </content>
+          <subsection eId="sec_74_09_010__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All reports, documents, surveys, books, records, files, papers, or written material in the possession of the department of social and health services pertaining to the powers, functions, and duties transferred shall be delivered to the custody of the health care authority. All cabinets, furniture, office equipment, motor vehicles, and other tangible property employed by the department of social and health services in carrying out the powers, functions, and duties transferred shall be made available to the health care authority. All funds, credits, or other assets held in connection with the powers, functions, and duties transferred shall be assigned to the health care authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any appropriations made to the department of social and health services for carrying out the powers, functions, and duties transferred shall, on July 1, 2011, be transferred and credited to the health care authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_010__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Whenever any question arises as to the transfer of any personnel, funds, books, documents, records, papers, files, equipment, or other tangible property used or held in the exercise of the powers and the performance of the duties and functions transferred, the director of financial management shall make a determination as to the proper allocation and certify the same to the state agencies concerned.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All employees of the medicaid purchasing administration at the department of social and health services are transferred to the jurisdiction of the health care authority. All employees classified under chapter
+41.06
+RCW, the state civil service law, are assigned to the health care authority to perform their usual duties upon the same terms as formerly, without any loss of rights, subject to any action that may be appropriate thereafter in accordance with the laws and rules governing state civil service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>All rules and all pending business before the department of social and health services pertaining to the powers, functions, and duties transferred shall be continued and acted upon by the health care authority. All existing contracts and obligations shall remain in full force and shall be performed by the health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The transfer of the powers, duties, functions, and personnel of the department of social and health services shall not affect the validity of any act performed before July 1, 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If apportionments of budgeted funds are required because of the transfers directed by this section, the director of financial management shall certify the apportionments to the agencies affected, the state auditor, and the state treasurer. Each of these shall make the appropriate transfer and adjustments in funds and appropriation accounts and equipment records in accordance with the certification.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>A nonsupervisory medicaid purchasing unit bargaining unit is created at the health care authority. All nonsupervisory civil service employees of the medicaid purchasing administration at the department of social and health services assigned to the health care authority under this section whose positions are within the existing bargaining unit description at the department of social and health services shall become a part of the nonsupervisory medicaid purchasing unit bargaining unit at the health care authority under the provisions of chapter
+41.80
+RCW. The exclusive bargaining representative of the existing bargaining unit at the department of social and health services is certified as the exclusive bargaining representative of the nonsupervisory medicaid purchasing unit bargaining unit at the health care authority without the necessity of an election.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>A supervisory medicaid purchasing unit bargaining unit is created at the health care authority. All supervisory civil service employees of the medicaid purchasing administration at the department of social and health services assigned to the health care authority under this section whose positions are within the existing bargaining unit description at the department of social and health services shall become a part of the supervisory medicaid purchasing unit bargaining unit at the health care authority under the provisions of chapter
+41.80
+RCW. The exclusive bargaining representative of the existing bargaining unit at the department of social and health services is certified as the exclusive bargaining representative of the supervisory medicaid purchasing unit bargaining unit at the health care authority without the necessity of an election.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The bargaining units of employees created under this section are appropriate units under the provisions of chapter
+41.80
+RCW. However, nothing contained in this section shall be construed to alter the authority of the public employment relations commission under the provisions of chapter
+41.80
+RCW to amend or modify the bargaining units.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Positions from the department of social and health services central administration are transferred to the jurisdiction of the health care authority. Employees classified under chapter
+41.06
+RCW, the state civil service law, are assigned to the health care authority to perform their usual duties upon the same terms as formerly, without any loss of rights, subject to any action that may be appropriate thereafter in accordance with the laws and rules governing state civil service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>All classified employees of the department of social and health services central administration assigned to the health care authority under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section whose positions are within an existing bargaining unit description at the health care authority shall become a part of the existing bargaining unit at the health care authority and shall be considered an appropriate inclusion or modification of the existing bargaining unit under the provisions of chapter
+41.80
+RCW.&quot; [
+2011 1st sp.s. c 15 s 124
+.]
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+&quot;The code reviser shall note wherever &quot;administrator&quot; is used or referred to in the Revised Code of Washington as the head of the health care authority that the title of the agency head has been changed to &quot;director.&quot; The code reviser shall prepare legislation for the 2012 regular session that changes all statutory references to &quot;administrator&quot; of the health care authority to &quot;director&quot; of the health care authority.&quot; [
+2011 1st sp.s. c 15 s 125
+.]
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.
+Effective date
+—
+1990 c 296:
+&quot;This act shall take effect July 1, 1990.&quot; [
+1990 c 296 s 9
+.]
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
