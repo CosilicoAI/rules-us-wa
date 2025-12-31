@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2907"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2907"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2907/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2907/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2907/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2907/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_2907">
+        <num>RCW 82.04.2907</num>
+        <heading>Tax on royalties</heading>
+        <subsection eId="sec_82_04_2907__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of receiving income from royalties, the amount of tax with respect to the business is equal to the gross income from royalties multiplied by the rate of 1.5 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2907__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;gross income from royalties&quot; means compensation for the use of intangible property, including charges in the nature of royalties, regardless of where the intangible property will be used. For purposes of this subsection, &quot;intangible property&quot; includes copyrights, patents, licenses, franchises, trademarks, trade names, and similar items. &quot;Gross income from royalties&quot; does not include compensation for any natural resource, the licensing of prewritten computer software to the end user, or the licensing of digital goods, digital codes, or digital automated services to the end user as defined in RCW
+82.04.190</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

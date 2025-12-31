@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.015"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.015/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.015/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_015">
+        <num>RCW 74.04.015</num>
+        <heading>Administration and disbursement of federal funds—Public assistance—Medical services programs</heading>
+        <subsection eId="sec_74_04_015__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The secretary of social and health services shall be the responsible state officer for the administration and disbursement of all funds, goods, commodities, and services, which may be received by the state in connection with programs of public assistance or services related directly or indirectly to assistance programs, and all other matters included in the federal social security act as amended, or any other federal act or as the same may be amended except as otherwise provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_015__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The director shall be the responsible state officer for the administration and disbursement of funds that the state receives in connection with the medical services programs established under chapter
+74.09
+RCW, including the state children's health insurance program, Titles XIX and XXI of the social security act of 1935, as amended, and programs established under chapter
+71.05
+, 71.24, and
+71.34
+RCW that are under the director's authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_015__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department and the authority, as appropriate, shall make such reports and render such accounting as may be required by federal law.
+[
+2018 c 201 s 2010
+;
+2011 1st sp.s. c 15 s 62
+;
+1981 1st ex.s. c 6 s 2
+;
+1981 c 8 s 2
+;
+1979 c 141 s 296
+;
+1963 c 228 s 2
+;
+1959 c 26 s 74.04.015
+. Prior:
+1953 c 174 s 49
+;
+1937 c 111 s 12
+; RRS s 10785-11.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.
+Center for research and training in intellectual and developmental disabilities, assistant secretaries as advisory committee members: RCW
+28B.20.412
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

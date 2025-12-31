@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.46.021"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.021"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.46.021/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.021/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.46.021/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.021/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_46_021">
+        <num>RCW 82.46.021</num>
+        <heading>Referendum procedure to repeal or alter tax</heading>
+        <subsection eId="sec_82_46_021__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>shall be filed with a filing officer, as identified in the ordinance, within seven days of passage of the ordinance. Within ten days, the filing officer shall confer with the petitioner concerning form and style of the petition, issue an identification number for the petition, and write a ballot title for the measure. The ballot title shall be posed as a question so that an affirmative answer to the question and an affirmative vote on the measure results in the tax or tax rate increase being imposed and a negative answer to the question and a negative vote on the measure results in the tax or tax rate increase not being imposed. The petitioner shall be notified of the identification number and ballot title within this ten-day period.
+After this notification, the petitioner shall have thirty days in which to secure on petition forms the signatures of not less than fifteen percent of the registered voters of the county for county measures, or not less than fifteen percent of the registered voters of the city for city measures, and to file the signed petitions with the filing officer. Each petition form shall contain the ballot title and the full text of the measure to be referred. The filing officer shall verify the sufficiency of the signatures on the petitions. If sufficient valid signatures are properly submitted, the filing officer shall submit the referendum measure to the county or city voters at a general or special election held on one of the dates provided in RCW
+29A.04.321
+as determined by the county legislative authority or city council, which election shall not take place later than one hundred twenty days after the signed petition has been filed with the filing officer.
+After April 22, 1983, the referendum procedure provided for in this section shall be the exclusive method for subjecting any county or city ordinance imposing a tax or increasing the rate under RCW
+82.46.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_021__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>to a referendum vote.
+Any county or city tax authorized under RCW
+82.46.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_021__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>that has been imposed prior to April 22, 1983, is not subject to the referendum procedure provided for in this section.
+[
+2015 c 53 s 98
+;
+2000 c 103 s 16
+;
+1983 c 99 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

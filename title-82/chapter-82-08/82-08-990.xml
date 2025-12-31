@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.990"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.990"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.990/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.990/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.990/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.990/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_990">
+        <num>RCW 82.08.990</num>
+        <heading>Exemptions—Import or export commerce</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.990
+82.08.9891
+&lt;&lt; 
+        82.08.990 &gt;&gt;
+82.08.993
+PDF
+RCW
+82.08.990
+Exemptions
+—
+Import or export commerce.
+The tax imposed by RCW
+82.08.020
+does not apply to sales of tangible personal property if the sale is exempt from business and occupation tax under RCW
+82.04.610
+.
+[
+2007 c 477 s 3
+.]
+NOTES:
+Intent
+—
+Purpose
+—
+2007 c 477:
+See note following RCW
+82.04.610
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

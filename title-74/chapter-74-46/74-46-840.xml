@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.840"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.840"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.840/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.840/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.840/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.840/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_840">
+        <num>RCW 74.46.840</num>
+        <heading>Conflict with federal requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.46
+&gt;
+Section 74.46.840
+74.46.835
+&lt;&lt; 
+        74.46.840 &gt;&gt;
+74.46.909
+PDF
+RCW
+74.46.840
+Conflict with federal requirements.
+If any part of this chapter or RCW
+18.51.145
+or
+74.09.120
+is found by an agency of the federal government to be in conflict with federal requirements that are a prescribed condition to the receipts of federal funds to the state, the conflicting part of this chapter or RCW
+18.51.145
+or
+74.09.120
+is declared inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and such finding or determination shall not affect the operation of the remainder of this chapter or RCW
+18.51.145
+or
+74.09.120
+in its application to the agencies concerned. In the event that any portion of this chapter or RCW
+18.51.145
+or
+74.09.120
+is found to be in conflict with federal requirements that are a prescribed condition to the receipt of federal funds, the secretary, to the extent that the secretary finds it to be consistent with the general policies and intent of chapters
+18.51
+, 74.09, and
+74.46
+RCW, may adopt such rules as to resolve a specific conflict and that do meet minimum federal requirements. In addition, the secretary shall submit to the next regular session of the legislature a summary of the specific rule changes made and recommendations for statutory resolution of the conflict.
+[
+1998 c 322 s 44
+;
+1983 1st ex.s. c 67 s 42
+;
+1980 c 177 s 92
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

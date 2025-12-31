@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.0311"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.0311"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.0311/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.0311/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.0311/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.0311/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_0311">
+        <num>RCW 74.13.0311</num>
+        <heading>Services provided under deferred prosecution order</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.0311
+74.13.031
+&lt;&lt; 
+        74.13.0311 &gt;&gt;
+74.13.035
+PDF
+RCW
+74.13.0311
+Services provided under deferred prosecution order.
+The department may provide child welfare services pursuant to a deferred prosecution plan ordered under chapter
+10.05
+RCW. Child welfare services provided under this chapter pursuant to a deferred prosecution order may not be construed to prohibit the department from providing services or undertaking proceedings pursuant to chapter
+13.34
+or
+26.44
+RCW.
+[
+2018 c 284 s 38
+;
+2009 c 520 s 52
+;
+2002 c 219 s 13
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2002 c 219:
+See note following RCW
+9A.42.037
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

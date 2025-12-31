@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.250"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_250">
+        <num>RCW 74.15.250</num>
+        <heading>HOPE centers—Responsible living skills programs—Licensing authority—Rules</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.250
+74.15.240
+&lt;&lt; 
+        74.15.250 &gt;&gt;
+74.15.255
+PDF
+RCW
+74.15.250
+HOPE centers
+—
+Responsible living skills programs
+—
+Licensing authority
+—
+Rules.
+The secretary is authorized to license HOPE centers and responsible living skills programs that meet statutory and rule requirements created by the secretary. The secretary is authorized to develop rules necessary to carry out the provisions of sections 10 through 26, chapter 267, Laws of 1999. The secretary may rely upon existing licensing provisions in development of licensing requirements for HOPE centers and responsible living skills programs, as are appropriate to carry out the intent of sections 10 through 26, chapter 267, Laws of 1999. HOPE centers and responsible living skills programs shall be required to adhere to departmental regulations prohibiting the use of alcohol, tobacco, controlled substances, violence, and sexual activity between residents.
+[
+1999 c 267 s 15
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Severability
+—
+1999 c 267:
+See notes following RCW
+43.20A.790
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

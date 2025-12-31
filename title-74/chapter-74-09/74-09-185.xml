@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.185"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.185"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.185/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.185/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.185/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.185/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_185">
+        <num>RCW 74.09.185</num>
+        <heading>Third party has legal liability to make payments—State acquires rights—Lien—Equitable subrogation does not apply</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.185
+74.09.180
+&lt;&lt; 
+        74.09.185 &gt;&gt;
+74.09.190
+PDF
+RCW
+74.09.185
+Third party has legal liability to make payments
+—
+State acquires rights
+—
+Lien
+—
+Equitable subrogation does not apply.
+To the extent that payment for covered expenses has been made under medical assistance for health care items or services furnished to an individual, in any case where a third party has a legal liability to make payments, the state is considered to have acquired the rights of the individual to payment by any other party for those health care items or services. Recovery pursuant to the subrogation rights, assignment, or enforcement of the lien granted to the authority by this section shall not be reduced, prorated, or applied to only a portion of a judgment, award, or settlement, except as provided in RCW
+41.05A.060
+and
+41.05A.070
+. The doctrine of equitable subrogation shall not apply to defeat, reduce, or prorate recovery by the authority as to its assignment, lien, or subrogation rights.
+[
+2011 1st sp.s. c 15 s 12
+;
+1995 c 34 s 6
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.62.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.62.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.62.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.62.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_62_050">
+        <num>RCW 82.62.050</num>
+        <heading>Tax credit recipients to report to department—Payment of taxes and interest by ineligible recipients</heading>
+        <subsection eId="sec_82_62_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each recipient shall submit a report to the department by the last day of the month immediately following the end of the four consecutive full calendar quarter period for which a credit under this chapter is earned. The report shall contain information, as required by the department, from which the department may determine whether the recipient is meeting the requirements of this chapter. If the recipient fails to submit a report or submits an inadequate report, the department may declare the amount of taxes for which a credit has been used to be immediately assessed and payable. The recipient must keep records, such as payroll records showing the date of hire and employment security reports, to verify eligibility under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If, on the basis of a report under this section or other information, the department finds that a business project is not eligible for tax credit under this chapter for reasons other than failure to create the required number of qualified employment positions, the amount of taxes for which a credit has been used for the project shall be immediately due.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_62_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If, on the basis of a report under this section or other information, the department finds that a business project has failed to create the specified number of qualified employment positions, the department shall assess interest, but not penalties, on the credited taxes for which a credit has been used for the project. The interest shall be assessed at the rate provided for delinquent excise taxes, shall be assessed retroactively to the date of the tax credit, and shall accrue until the taxes for which a credit has been used are repaid.
+[
+2007 c 485 s 5
+;
+2001 c 320 s 14
+;
+1986 c 116 s 18
+.]
+NOTES:
+Application
+—
+2007 c 485:
+See note following RCW
+82.62.010
+.
+Application
+—
+Effective date
+—
+2007 c 485:
+See notes following RCW
+82.62.020
+.
+Effective date
+—
+2001 c 320:
+See note following RCW
+11.02.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

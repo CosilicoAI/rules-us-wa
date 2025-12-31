@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.290"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_290">
+        <num>RCW 74.08A.290</num>
+        <heading>Competitive performance-based contracting—Evaluation of contracting practices—Contracting strategies</heading>
+        <subsection eId="sec_74_08A_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>It is the intent of the legislature that the department is authorized to engage in competitive contracting using performance-based contracts to provide all work activities authorized in chapter 58, Laws of 1997, including the job search component authorized in *section 312 of this act.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may use competitive performance-based contracting to select which vendors will participate in the WorkFirst program. Performance-based contracts shall be awarded based on factors that include but are not limited to the criteria listed in RCW
+74.08A.410
+, past performance of the contractor, demonstrated ability to perform the contract effectively, financial strength of the contractor, and merits of the proposal for services submitted by the contractor. Contracts shall be made without regard to whether the contractor is a public or private entity.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may contract for an evaluation of the competitive contracting practices and outcomes to be performed by an independent entity with expertise in government privatization and competitive strategies. The evaluation shall include quarterly progress reports to the fiscal committees of the legislature and to the governor, starting at the first quarter after the effective date of the first competitive contract and ending two years after the effective date of the first competitive contract.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall seek independent assistance in developing contracting strategies to implement this section. Assistance may include but is not limited to development of contract language, design of requests for proposal, developing full cost information on government services, evaluation of bids, and providing for equal competition between private and public entities.
+[
+1997 c 58 s 316
+.]
+NOTES:
+*Reviser's note:
+Section 312 of this act was vetoed by the governor.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

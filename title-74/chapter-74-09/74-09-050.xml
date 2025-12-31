@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_050">
+        <num>RCW 74.09.050</num>
+        <heading>Director's powers and duties—Personnel—Medical screeners—Medical director</heading>
+        <subsection eId="sec_74_09_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The director shall appoint such professional personnel and other assistants and employees, including professional medical screeners, as may be reasonably necessary to carry out the provisions of this chapter or other applicable law. The medical screeners shall be supervised by one or more physicians who shall be appointed by the director or his or her designee. The director shall appoint a medical director who is licensed under chapter
+18.57
+or
+18.71
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Whenever the director's authority is not specifically limited by law, he or she has complete charge and supervisory powers over the authority. The director is authorized to create such administrative structures as deemed appropriate, except as otherwise specified by law. The director has the power to employ such assistants and personnel as may be necessary for the general administration of the authority. Except as elsewhere specified, such employment must be in accordance with the rules of the state civil service law, chapter
+41.06
+RCW.
+[
+2018 c 201 s 7004
+;
+2011 1st sp.s. c 15 s 5
+;
+2000 c 5 s 15
+;
+1979 c 141 s 335
+;
+1959 c 26 s 74.09.050
+. Prior:
+1955 c 273 s 6
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Intent
+—
+Purpose
+—
+2000 c 5:
+See RCW
+48.43.500
+.
+Application
+—
+Short title
+—
+Captions not law
+—
+Construction
+—
+Severability
+—
+Application to contracts
+—
+Effective dates
+—
+2000 c 5:
+See notes following RCW
+48.43.500
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

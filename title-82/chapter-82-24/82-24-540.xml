@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.540"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.540"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.540/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.540/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.540/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.540/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_540">
+        <num>RCW 82.24.540</num>
+        <heading>Licensee to operate within scope of license—Penalty</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.24
+&gt;
+Section 82.24.540
+82.24.530
+&lt;&lt; 
+        82.24.540 &gt;&gt;
+82.24.550
+PDF
+RCW
+82.24.540
+Licensee to operate within scope of license
+—
+Penalty.
+Any person licensed only as a wholesaler, or as a retail dealer, shall not operate in any other capacity unless the additional appropriate license or licenses are first secured. A violation of this section is a misdemeanor.
+[
+1986 c 321 s 8
+.]
+NOTES:
+Policy
+—
+Intent
+—
+Savings
+—
+Effective date
+—
+1986 c 321:
+See notes following RCW
+82.24.500
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

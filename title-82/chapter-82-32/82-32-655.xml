@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.655"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.655"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.655/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.655/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.655/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.655/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_655">
+        <num>RCW 82.32.655</num>
+        <heading>Tax avoidance</heading>
+        <subsection eId="sec_82_32_655__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>It is the legislature's intent to require all taxpayers to pay their fair share of taxes. To accomplish this purpose, it is the legislature's intent to stop transactions or arrangements that are designed to unfairly avoid taxes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must disregard, for tax purposes, the tax avoidance transactions or arrangements that are described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section. The department must deny the tax benefit that would otherwise result from the tax avoidance transaction or arrangement. In determining whether the department must disregard a transaction or arrangement described under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department may consider:</p>
+          </content>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Whether an arrangement or transaction changes in a meaningful way, apart from its tax effects, the economic positions of the participants in the arrangement when considered as a whole;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Whether substantial nontax reasons exist for entering into an arrangement or transaction;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Whether an arrangement or transaction is a reasonable means of accomplishing a substantial nontax purpose;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>An entities' relative contributions to the work that generates income;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The location where work is performed; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Other relevant factors.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section applies only to the following transactions or arrangements:</p>
+          </content>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Arrangements that are, in form, a joint venture or similar arrangement between a construction contractor and the owner or developer of a construction project but that are, in substance, substantially guaranteed payments for the purchase of construction services characterized by a failure of the parties' agreement to provide for the contractor to share substantial profits and bear significant risk of loss in the venture;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Arrangements through which a taxpayer attempts to avoid tax under chapter
+82.04
+RCW by disguising income received, or otherwise avoiding tax on income, from a person that is not affiliated with the taxpayer from business activities that would be taxable in Washington by moving that income to another entity that would not be taxable in Washington; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_655__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Arrangements through which a taxpayer attempts to avoid tax under chapter
+82.08
+or
+82.12
+RCW by engaging in a transaction to disguise its purchase or use of tangible personal property by vesting legal title or other ownership interest in another entity over which the taxpayer exercises control in such a manner as to effectively retain control of the tangible personal property.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In determining whether a transaction or arrangement comes within the scope of subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department is not required to prove a taxpayer's subjective intent in engaging in the transaction or arrangement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department must adopt rules to assist in determining whether a transaction or arrangement is within the scope of subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section. The adoption of a rule as required under this subsection is not a condition precedent for the department's exercise of the authority provided in this section. Any rules adopted under this section must include examples of transactions that the department will disregard for tax purposes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section does not affect the department's authority to apply any other remedies available under statutory or common law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_655__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For purposes of this section, &quot;affiliated&quot; means under common control. &quot;Control&quot; means the possession, directly or indirectly, of more than fifty percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise.
+[
+2010 1st sp.s. c 23 s 201
+.]
+NOTES:
+Application
+—
+2010 1st sp.s. c 23 ss 201 and 202:
+&quot;Except as provided in section 202 of this act, section 201 of this act applies to tax periods beginning January 1, 2006.&quot; [
+2010 1st sp.s. c 23 s 1703
+.]
+Effective date
+—
+2010 1st sp.s. c 23:
+&quot;Except as otherwise provided in this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect May 1, 2010.&quot; [
+2010 1st sp.s. c 23 s 1708
+.]
+Findings--Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.323"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.323"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.323/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.323/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.323/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.323/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_323">
+        <num>RCW 82.04.323</num>
+        <heading>Exemption—Washington health benefit exchange</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.323
+82.04.322
+&lt;&lt; 
+        82.04.323 &gt;&gt;
+82.04.324
+PDF
+RCW
+82.04.323
+Exemption
+—
+Washington health benefit exchange.
+The taxes imposed by this chapter do not apply to amounts received by the Washington health benefit exchange established under chapter
+43.71
+RCW.
+[
+2022 c 73 s 1
+;
+2013 2nd sp.s. c 6 s 8
+.]
+NOTES:
+Retroactive application
+—
+2013 2nd sp.s. c 6 s 8:
+&quot;Section 8 of this act applies both prospectively and retroactively.&quot; [
+2013 2nd sp.s. c 6 s 10
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

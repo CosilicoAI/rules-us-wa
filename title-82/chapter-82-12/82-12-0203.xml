@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0203"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0203"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0203/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0203/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0203/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0203/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0203">
+        <num>RCW 82.12.0203</num>
+        <heading>Refinery fuel gas—Value—Tax rate—Local use tax exemption</heading>
+        <subsection eId="sec_82_12_0203__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In lieu of the use tax rate provided in RCW
+82.12.020
+, refinery fuel gas is subject to a rate of:</p>
+          </content>
+          <subsection eId="sec_82_12_0203__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>0.963 percent from January 1, 2018, through December 31, 2018;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0203__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>1.926 percent from January 1, 2019, through December 31, 2019;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0203__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>2.889 percent from January 1, 2020, through December 31, 2020; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0203__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>3.852 percent from January 1, 2021, and thereafter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0203__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The use of fuel by the extractor or manufacturer thereof when used directly in the operation of the particular extractive operation or manufacturing plant that produced or manufactured the same is not subject to local use tax.
+[
+2023 c 68 s 2
+;
+2017 3rd sp.s. c 28 s 108
+.]
+NOTES:
+Reviser's note:
+The tax preference enacted in section 108, chapter 28, Laws of 2017 3rd sp. sess. and the effective date for that section subsequently amended by section 2, chapter 92, Laws of 2018 expires January 1, 2029, pursuant to the automatic expiration date established in RCW
+82.32.805</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0203__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 108, chapter 28, Laws of 2017 3rd sp. sess. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0203__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers and improve industry competitiveness, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0203__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_0203__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and (b).</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0203__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If a review finds that there is an increase in self-produced fuel as the result of this tax preference, then the legislature intends to extend the expiration date of this tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0203__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0203__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2018 c 92 s 1
+.]
+Application
+—
+2017 3rd sp.s. c 28 ss 107-109:
+See note following RCW
+82.12.0263
+.
+Existing rights and liability
+—
+Severability
+—
+Application
+—
+Effective dates
+—
+2017 3rd sp.s. c 28:
+See notes following RCW
+82.08.0531
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

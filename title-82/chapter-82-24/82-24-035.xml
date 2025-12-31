@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.035"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.035"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.035/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.035/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.035/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.035/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_035">
+        <num>RCW 82.24.035</num>
+        <heading>Circumstances when no stamp may be affixed—Violation of consumer protection act</heading>
+        <subsection eId="sec_82_24_035__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>No stamp may be affixed to, or made upon, any container or package of cigarettes if:</p>
+          </content>
+          <subsection eId="sec_82_24_035__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The container or package differs in any respect with the requirements of the federal cigarette labeling and advertising act (15 U.S.C. Sec. 1331 et seq.) for the placement of labels, warnings, or any other information upon a package of cigarettes that is to be sold within the United States;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_035__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The container or package has been imported into the United States after January 1, 2000, in violation of 26 U.S.C. Sec. 5754;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_035__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The container or package, including a container of individually stamped containers or packages, is labeled &quot;For Export Only,&quot; &quot;U.S. Tax Exempt,&quot; &quot;For Use Outside U.S.,&quot; or similar wording indicating that the manufacturer did not intend that the product be sold in the United States; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_035__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The container or package has been altered by adding or deleting the wording, labels, or warnings described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_035__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_035__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_035__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In addition to the penalty and forfeiture provisions otherwise provided for in this chapter, a violation of this section is a deceptive act or practice under the consumer protection act, chapter
+19.86
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_035__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Subsection</p>
+          </content>
+          <subsection eId="sec_82_24_035__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section does not apply to boxes or similar containers used by a consumer to transport roll-your-own cigarettes.
+[
+2012 2nd sp.s. c 4 s 3
+;
+1999 c 193 s 5
+.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Intent
+—
+Finding
+—
+1999 c 193:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_035__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Cigarette smoking presents serious public health concerns to the state and to the citizens of the state. The surgeon general has determined that smoking causes lung cancer, heart disease, and other serious diseases and that there are hundreds of thousands of tobacco-related deaths in the United States each year. These diseases most often do not appear until many years after the person in question begins smoking.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_035__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the policy of the state that consumers be adequately informed about the adverse health effects of cigarette smoking by including warning notices on each package of cigarettes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_035__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the policy of the state that manufacturers and importers of cigarettes not make any material misrepresentation of fact regarding the health consequences of using cigarettes, including compliance with applicable federal laws, regulations, and policies.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_035__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>It is the intent of the legislature to align state law with federal laws, regulations, and policies relating to the manufacture, importation, and marketing of cigarettes, and in particular, the federal cigarette labeling and advertising act (15 U.S.C. Sec. 1331 et seq.) and 26 U.S.C. Sec. 5754.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_035__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The legislature finds that consumers and retailers purchasing cigarettes are entitled to be fully informed about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and to be assured through appropriate enforcement measures that cigarettes they purchase were manufactured for consumption within the United States.&quot; [
+1999 c 193 s 1
+.]
+Severability
+—
+1999 c 193:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1999 c 193 s 6
+.]
+Effective date
+—
+1999 c 193:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 5, 1999].&quot; [
+1999 c 193 s 7
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

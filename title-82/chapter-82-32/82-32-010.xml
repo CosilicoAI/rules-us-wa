@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_010">
+        <num>RCW 82.32.010</num>
+        <heading>Application of chapter stated</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.010
+Beginning of Chapter
+&lt;&lt; 
+        82.32.010 &gt;&gt;
+82.32.020
+PDF
+RCW
+82.32.010
+Application of chapter stated.
+The provisions of this chapter apply with respect to the taxes imposed under chapters
+82.04
+through
+82.14
+RCW, under chapter
+82.14B
+RCW, under chapters
+82.16
+through
+82.29A
+RCW of this title, under chapter
+84.33
+RCW, and under other titles, chapters, and sections in such manner and to such extent as indicated in each such title, chapter, or section.
+[
+2010 1st sp.s. c 19 s 13
+;
+1998 c 304 s 12
+;
+1984 c 204 s 26
+;
+1983 c 3 s 219
+;
+1981 c 148 s 12
+;
+1961 c 15 s 82.32.010
+. Prior:
+1935 c 180 s 185
+; RRS s 8370-185.]
+NOTES:
+Effective dates
+—
+2010 1st sp.s. c 19:
+See note following RCW
+82.14B.010
+.
+Findings
+—
+Effective dates
+—
+1998 c 304:
+See notes following RCW
+82.14B.020
+.
+Savings
+—
+Effective date
+—
+1984 c 204:
+See notes following RCW
+84.33.035
+.
+Purpose
+—
+Severability
+—
+Effective dates
+—
+1981 c 148:
+See notes following RCW
+84.33.130
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

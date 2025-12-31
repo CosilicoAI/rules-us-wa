@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.600"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.600"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.600/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.600/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.600/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.600/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_600">
+        <num>RCW 74.42.600</num>
+        <heading>Department inspections—Notice of noncompliance—Penalties—Coordination with department of health</heading>
+        <subsection eId="sec_74_42_600__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In addition to the inspection required by chapter
+18.51
+RCW, the department shall inspect the facility for compliance with resident rights and direct care standards of this chapter. The department may inspect any and all other provisions randomly, by exception profiles, or during complaint investigations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_600__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the facility has not complied with all the requirements of this chapter, the department shall notify the facility in writing that the facility is in noncompliance and describe the reasons for the facility's noncompliance and the department may impose penalties in accordance with RCW
+18.51.060
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_600__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To avoid unnecessary duplication in inspections, the department shall coordinate with the department of health when inspecting medicaid-certified or medicare-certified, or both, long-term care beds in hospitals for compliance with Title XVIII or XIX of the social security act.
+[
+1995 c 282 s 5
+;
+1987 c 476 s 28
+;
+1982 c 120 s 3
+;
+1980 c 184 s 17
+;
+1979 ex.s. c 211 s 60
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

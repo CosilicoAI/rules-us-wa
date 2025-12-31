@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.710"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.710"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.710/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.710/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.710/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.710/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_710">
+        <num>RCW 74.13.710</num>
+        <heading>Out-of-home care—Childhood activities—Prudent parent standard</heading>
+        <subsection eId="sec_74_13_710__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of this section, &quot;caregiver&quot; means a person with whom a child is placed in out-of-home care, or a designated official for a group care facility licensed by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_710__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section applies to all caregivers providing for children in out-of-home care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_710__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Caregivers have the authority to provide or withhold permission without prior approval of the caseworker, department, or court to allow a child in their care to participate in normal childhood activities based on a reasonable and prudent parent standard.</p>
+          </content>
+          <subsection eId="sec_74_13_710__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Normal childhood activities include, but are not limited to, extracurricular, enrichment, and social activities, and may include overnight activities outside the direct supervision of the caregiver for periods of over twenty-four hours and up to seventy-two hours.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_710__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The reasonable and prudent parent standard means the standard of care used by a caregiver in determining whether to allow a child in his or her care to participate in extracurricular, enrichment, and social activities. This standard is characterized by careful and thoughtful parental decision making that is intended to maintain a child's health, safety, and best interest while encouraging the child's emotional and developmental growth.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_710__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any authorization provided under this section must comply with provisions included in an existing safety plan established by the department or court order.</p>
+          </content>
+          <subsection eId="sec_74_13_710__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Caseworkers shall discuss the child's interest in and pursuit of normal childhood activities in their monthly health and safety visits and describe the child's participation in normal childhood activities in the individual service and safety plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_710__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Caseworkers shall also review a child's interest in and pursuit of normal childhood activities during monthly meetings with parents. Caseworkers shall communicate the opinions of parents regarding their child's participation in normal childhood activities so that the parents' wishes may be appropriately considered.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_710__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Neither the caregiver nor the department may be held liable for injuries to the child that occur as a result of authority granted in this section unless the action or inaction of the caregiver or the department resulting in injury constitutes willful or wanton misconduct.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_710__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section does not remove or limit any existing liability protection afforded by law.
+[
+2014 c 104 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

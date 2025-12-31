@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.250"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_250">
+        <num>RCW 74.09.250</num>
+        <heading>False statements regarding institutions, facilities—Penalties</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.250
+74.09.240
+&lt;&lt; 
+        74.09.250 &gt;&gt;
+74.09.260
+PDF
+RCW
+74.09.250
+False statements regarding institutions, facilities
+—
+Penalties.
+Any person, including any corporation, that knowingly makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operations of any institution or facility in order that such institution or facility may qualify (either upon initial certification or upon recertification) as a hospital, nursing facility, or home health agency, shall be guilty of a class C felony: PROVIDED, That the fine, if imposed, shall not be in an amount more than five thousand dollars.
+[
+1991 sp.s. c 8 s 6
+;
+1979 ex.s. c 152 s 6
+.]
+NOTES:
+Effective date
+—
+1991 sp.s. c 8:
+See note following RCW
+18.51.050
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

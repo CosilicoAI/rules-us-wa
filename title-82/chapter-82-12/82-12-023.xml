@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.023"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.023"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.023/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.023/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.023/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.023/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_023">
+        <num>RCW 82.12.023</num>
+        <heading>Natural or manufactured gas, exempt from use tax imposed by RCW  82.12.020</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.12
+&gt;
+Section 82.12.023
+82.12.022
+&lt;&lt; 
+        82.12.023 &gt;&gt;
+82.12.024
+PDF
+RCW
+82.12.023
+Natural or manufactured gas, exempt from use tax imposed by RCW
+82.12.020
+.
+The tax levied by RCW
+82.12.020
+shall not apply in respect to the use of natural or manufactured gas that is taxable under RCW
+82.12.022
+.
+[
+1994 c 124 s 10
+;
+1989 c 384 s 5
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+1989 c 384:
+See notes following RCW
+82.12.022
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

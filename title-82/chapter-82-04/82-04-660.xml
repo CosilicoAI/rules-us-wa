@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.660"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.660"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.660/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.660/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.660/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.660/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_660">
+        <num>RCW 82.04.660</num>
+        <heading>Exemptions—Environmental handling charges—Mercury-containing lights. (&lt;i&gt;Effective until January 1, 2035.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_660__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An exemption from the taxes imposed in this chapter is provided for:</p>
+          </content>
+          <subsection eId="sec_82_04_660__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Producers, with respect to environmental handling charges added to the purchase price of mercury-containing lights either by the producer or a retailer pursuant to an agreement with the producer;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_660__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Retailers, with respect to environmental handling charges added to the purchase price of mercury-containing lights sold at retail, including the portion of environmental handling charges retained as reimbursement for any costs associated with the collection and remittance of the charges; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_660__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Stewardship organizations, with respect to environmental handling charges received from producers and retailers and to the receipts from charges to participating producers and legacy producers.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_660__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section is not subject to the requirements of RCW
+82.32.805
+and
+82.32.808
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_660__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, the definitions in RCW
+70A.505.020
+apply.
+[
+2024 c 339 s 15
+;
+2020 c 20 s 1469
+;
+2015 c 185 s 2
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2024 c 339:
+See note following RCW
+70A.505.010
+.
+Finding
+—
+Intent
+—
+2015 c 185:
+&quot;The legislature finds that Engrossed Substitute House Bill No. 2246, enacted in 2014, created an environmental handling charge. However, the 2014 legislature did not intend for business and occupation taxes to be imposed on top of such charge. Therefore, the legislature intends to clarify that environmental handling charges are not subject to business and occupation taxation.&quot; [
+2015 c 185 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

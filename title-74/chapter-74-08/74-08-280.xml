@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.280"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.280"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.280/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.280/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.280/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.280/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_280">
+        <num>RCW 74.08.280</num>
+        <heading>Payments to persons incapable of self-care—Protective payee services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08
+&gt;
+Section 74.08.280
+74.08.278
+&lt;&lt; 
+        74.08.280 &gt;&gt;
+74.08.283
+PDF
+RCW
+74.08.280
+Payments to persons incapable of self-care
+—
+Protective payee services.
+If any person receiving public assistance has demonstrated an inability to care for oneself or for money, the department may direct the payment of the installments of public assistance to any responsible person, social service agency, or corporation or to a legally appointed guardian for his or her benefit. The state may contract with persons, social service agencies, or corporations approved by the department to provide protective payee services for a fixed amount per recipient receiving protective payee services to cover administrative costs. The department may by rule specify a fee to cover administrative costs. Such fee shall not be withheld from a recipient's grant.
+If the state requires the appointment of a guardian for this purpose, the department shall pay all costs and reasonable fees as fixed by the court.
+[
+2013 c 23 s 199
+;
+1987 c 406 s 10
+;
+1979 c 141 s 328
+;
+1959 c 26 s 74.08.280
+. Prior:
+1953 c 174 s 40
+;
+1937 c 156 s 7
+;
+1935 c 182 s 10
+; RRS s 9998-10.]
+NOTES:
+Living situation presumption: RCW
+74.12.255
+,
+74.04.0052
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

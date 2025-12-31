@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.585"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.585"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.585/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.585/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.585/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.585/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_585">
+        <num>RCW 74.09.585</num>
+        <heading>Medical assistance for institutionalized persons—Period of ineligibility for transfer of resources</heading>
+        <subsection eId="sec_74_09_585__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department or authority, as appropriate, shall establish standards consistent with section 1917 of the social security act in determining the period of ineligibility for medical assistance due to the transfer of resources.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_585__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>There shall be no penalty imposed for the transfer of assets that are excluded in a determination of the individual's eligibility for medicaid to the extent such assets are protected by the long-term care insurance policy or contract pursuant to chapter
+48.85
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_585__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department or authority, as appropriate, may waive a period of ineligibility if the department or authority determines that denial of eligibility would work an undue hardship.
+[
+2011 1st sp.s. c 15 s 37
+;
+1995 1st sp.s. c 18 s 81
+;
+1989 c 87 s 7
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.
+Effective dates
+—
+1989 c 87:
+See note following RCW
+74.09.510
+.
+Captions not law
+—
+1989 c 87:
+See note following RCW
+74.09.565
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

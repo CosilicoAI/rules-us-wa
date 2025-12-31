@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.420"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.420"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.420/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.420/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.420/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.420/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_420">
+        <num>RCW 74.42.420</num>
+        <heading>Resident record system</heading>
+        <subsection eId="sec_74_42_420__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Identification information, including the information listed in RCW
+18.51.095</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_420__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Admission information, including the resident's medical and social history;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_420__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A comprehensive plan of care and subsequent changes to the comprehensive plan of care;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_420__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Copies of initial and subsequent periodic examinations, assessments, evaluations, and progress notes made by the facility and the department;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_420__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Descriptions of all treatments, services, and medications provided for the resident since the resident's admission;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_420__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Information about all illnesses and injuries including information about the date, time, and action taken; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_420__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>A discharge summary.
+Resident records shall be available to the staff members directly involved with the resident and to appropriate representatives of the department. The facility shall protect resident records against destruction, loss, and unauthorized use. The facility shall keep a resident's record after the resident is discharged as provided in RCW
+18.51.300
+.
+[
+2021 c 159 s 10
+;
+1979 ex.s. c 211 s 42
+.]
+NOTES:
+Findings
+—
+2021 c 159:
+See note following RCW
+18.20.520
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

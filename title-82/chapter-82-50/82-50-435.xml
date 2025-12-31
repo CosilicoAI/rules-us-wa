@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.435"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.435"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.435/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.435/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.435/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.435/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_435">
+        <num>RCW 82.50.435</num>
+        <heading>Appeal of valuation</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.50
+&gt;
+Section 82.50.435
+82.50.425
+&lt;&lt; 
+        82.50.435 &gt;&gt;
+82.50.440
+PDF
+RCW
+82.50.435
+Appeal of valuation.
+If the department determines a value for a travel trailer or camper under RCW
+82.50.425
+equivalent to a manufacturer's base suggested retail price, any person who pays the tax for that travel trailer or camper may appeal the valuation to the department under chapter
+34.05
+RCW. If the taxpayer is successful on appeal, the department shall refund the excess tax in the manner provided in RCW
+82.50.170
+.
+[
+1990 c 42 s 324
+.]
+NOTES:
+Reviser's note:
+See note following RCW
+82.50.010
+.
+Purpose
+—
+Effective dates
+—
+Application
+—
+Implementation
+—
+1990 c 42:
+See notes following RCW
+46.68.090
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

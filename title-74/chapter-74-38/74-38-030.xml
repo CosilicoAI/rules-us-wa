@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.38.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.38.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.38.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_38_030">
+        <num>RCW 74.38.030</num>
+        <heading>Administration of community-based services program—Area plans—Annual state plan—Determination of low-income eligible persons</heading>
+        <subsection eId="sec_74_38_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The program of community-based services authorized under this chapter shall be administered by the department. Such services may be provided by the department or through purchase of service contracts, vendor payments or direct client grants.
+The department shall, under stipend or grant programs provided under RCW
+74.38.060
+, utilize, to the maximum staffing level possible, eligible persons in its administration, supervision, and operation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall be responsible for planning, coordination, monitoring and evaluation of services provided under this chapter but shall avoid duplication of services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may designate area agencies in cities of not less than twenty thousand population or in regional areas within the state. These agencies shall submit area plans, as required by the department. For area plans prepared for submission in 2009, and thereafter, the area agencies may include the findings and recommendations of area-wide planning initiatives that they may undertake with appropriate local and regional partners regarding the changing age demographics of their area and the implications of this demographic change for public policies and public services. They shall also submit, in the manner prescribed by the department, such other program or fiscal data as may be required.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall develop an annual state plan pursuant to the Older Americans Act of 1965, as now or hereafter amended. This plan shall include, but not be limited to:</p>
+          </content>
+          <subsection eId="sec_74_38_030__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Area agencies' programs and services approved by the department;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_38_030__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Other programs and services authorized by the department; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_38_030__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Coordination of all programs and services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_38_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department shall establish rules and regulations for the determination of low-income eligible persons. Such determination shall be related to need based on the initial resources and subsequent income of the person entering into a program or service. This determination shall not prevent the eligible person from utilizing a program or service provided by the department or area agency. However, if the determination is that such eligible person is nonlow income, the provision of RCW
+74.38.050
+shall be applied as of the date of such determination.
+[
+2008 c 146 s 5
+; 1975-'76 2nd ex.s. c 131 s 3.]
+NOTES:
+Findings
+—
+Intent
+—
+Severability
+—
+2008 c 146:
+See notes following RCW
+74.41.040
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.505"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.505"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.505/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.505/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.505/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.505/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_505">
+        <num>RCW 82.14.505</num>
+        <heading>Local revitalization financing—Demonstration projects</heading>
+        <subsection eId="sec_82_14_505__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Demonstration projects are designated to determine the feasibility of local revitalization financing. For the purpose of this section, &quot;annual state contribution limit&quot; means four million two hundred thousand dollars statewide per fiscal year.</p>
+          </content>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding RCW
+39.104.100
+, the department must approve each demonstration project for 2009 as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The Whitman county Pullman/Moscow corridor improvement project award may not exceed two hundred thousand dollars;</p>
+            </content>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The University Place improvement project award may not exceed five hundred thousand dollars;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The Tacoma international financial services area/Tacoma dome project award may not exceed five hundred thousand dollars;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The Bremerton downtown improvement project award may not exceed three hundred thirty thousand dollars;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>The Auburn downtown redevelopment project award may not exceed two hundred fifty thousand dollars;
+(vi) The Vancouver Columbia waterfront/downtown project award may not exceed two hundred twenty thousand dollars; and
+(vii) The Spokane University District project award may not exceed two hundred fifty thousand dollars.</p>
+            </content>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The Vancouver Columbia waterfront/downtown project award may not exceed two hundred twenty thousand dollars; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>The Spokane University District project award may not exceed two hundred fifty thousand dollars.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding RCW
+39.104.100
+, the department must approve each demonstration project for 2010 meeting the requirements in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The Richland revitalization area for industry, science and education project award may not exceed three hundred thirty thousand dollars;</p>
+            </content>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The Lacey gateway town center project award may not exceed five hundred thousand dollars;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The Mill Creek east gateway planned urban village revitalization area project award may not exceed three hundred thirty thousand dollars;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The Puyallup river road revitalization area project award may not exceed two hundred fifty thousand dollars;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>The Renton south Lake Washington project award may not exceed five hundred thousand dollars; and
+(vi) The New Castle downtown project award may not exceed forty thousand dollars.</p>
+            </content>
+            <subsection eId="sec_82_14_505__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The New Castle downtown project award may not exceed forty thousand dollars.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Local government sponsors of demonstration projects under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section must submit to the department no later than September 1, 2009, documentation that substantiates that the project has met the conditions, limitations, and requirements provided in chapter 270, Laws of 2009.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Sponsoring local government of demonstration projects under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section must update and resubmit to the department no later than September 1, 2010, the application already on file with the department to substantiate that the project has met the conditions, limitations, and requirements provided in chapter 270, Laws of 2009 and chapter 164, Laws of 2010 and the project is substantially the same as the project in the original application submitted to the department in 2009.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department must not approve any resubmitted application unless an economic analysis by a qualified researcher at the department of economics at the University of Washington confirms that there is an eighty-five percent probability that the application's assumptions and estimates of jobs created and increased tax receipts will be achieved by the project and determines that net state tax revenue will increase as a result of the project by an amount that equals or exceeds the award authorized in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_505__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Within ninety days of such submittal, the economic analysis in subsection</p>
+          </content>
+          <subsection eId="sec_82_14_505__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section must be completed and the department must either approve demonstration projects that have met these conditions, limitations, and requirements or deny resubmitted applications that have not met these conditions, limitations, and requirements.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_505__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Local government sponsors of demonstration projects may elect to decline the project awards as designated in this section, and may elect instead to submit applications according to the process described in RCW
+39.104.100
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_505__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If a demonstration project listed in subsection</p>
+          </content>
+          <subsection eId="sec_82_14_505__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section does not update and resubmit its application to the department by the deadline specified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_505__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section or if the demonstration project withdraws its application, the associated dollar amounts may not be approved for another project and may not be considered part of the annual state contribution limit under RCW
+39.104.020</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

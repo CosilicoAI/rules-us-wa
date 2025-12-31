@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.341"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.341"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.341/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.341/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.341/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.341/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_341">
+        <num>RCW 74.08A.341</num>
+        <heading>Program constraints—Expenditures</heading>
+        <subsection eId="sec_74_08A_341__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The program shall be operated within amounts appropriated by the legislature and consistent with policy established by the legislature to achieve self-sufficiency through work and the following additional outcomes:</p>
+          </content>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Recipients' economic status is improving through wage progression, job retention, and educational advancement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Recipients' status regarding housing stability, medical and behavioral health, and job readiness is improving;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The well-being of children whose caretaker is receiving benefits on their behalf is improving with respect to child welfare and educational achievement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall create a budget structure that allows for more transparent tracking of program spending. The budget structure shall outline spending for the following: Temporary assistance for needy family grants, WorkFirst activities, and administration of the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Each biennium, the department shall establish a biennial spending plan, using the budget structure created in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, for this program and submit the plan to the legislative fiscal committees and the legislative-executive WorkFirst poverty reduction oversight task force no later than July 1st of every odd-numbered year, beginning on July 1, 2013. The department shall update the legislative fiscal committees and the task force on the spending plan if modifications are made to the plan previously submitted to the legislature and the task force for that biennium.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department also shall provide expenditure reports to the fiscal committees of the legislature and the legislative-executive WorkFirst poverty reduction oversight task force beginning September 1, 2012, and on a quarterly basis thereafter. If the department determines, based upon quarterly expenditure reports, that expenditures will exceed funding at the end of the fiscal year, the department shall take those actions necessary to ensure that services provided under this chapter are available only to the extent of and consistent with appropriations in the operating budget and policy established by the legislature following notification provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_341__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_341__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No more than fifteen percent of the temporary assistance for needy families block grant, the federal child care funds, and qualifying state expenditures may be spent for administrative purposes. For purposes of this subsection, &quot;administrative purposes&quot; does not include expenditures for information technology and computerization needed for tracking and monitoring required by P.L. 104-193.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_341__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall expend funds appropriated for work activities, as defined in RCW
+74.08A.250
+, or for other services provided to WorkFirst recipients, as authorized under RCW
+74.08A.290
+.
+[
+2018 c 126 s 6
+;
+2018 c 52 s 5
+;
+2012 c 217 s 1
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2018 c 52 s 5 and by 2018 c 126 s 6, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

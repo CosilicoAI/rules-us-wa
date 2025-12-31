@@ -1,0 +1,269 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.415"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.415"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.415/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.415/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.415/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.415/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_415">
+        <num>RCW 82.14.415</num>
+        <heading>Sales and use tax for cities to offset municipal service costs to newly annexed areas</heading>
+        <subsection eId="sec_82_14_415__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislative authority of any city that annexes an area consistent with its comprehensive plan required by chapter
+36.70A
+RCW may impose a sales and use tax in accordance with the terms of this chapter. The tax is in addition to other taxes authorized by law and is collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the city. The tax may only be imposed by a city if:</p>
+          </content>
+          <subsection eId="sec_82_14_415__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The city legislative authority determines by resolution or ordinance that the projected cost to provide municipal services to the annexation area exceeds the projected general revenue that the city would otherwise receive from the annexation area on an annual basis; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The city, as provided in RCW
+35A.14.472
+,
+35A.14.296
+, or
+35.13.470
+, has entered into an interlocal agreement with the county regarding the proposed annexation area.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax authorized under this section is a credit against the state tax under chapter
+82.08
+or
+82.12
+RCW. The department of revenue must perform the collection of such taxes on behalf of the city at no cost to the city and must remit the tax to the city as provided in RCW
+82.14.060
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The maximum rate of tax any city may impose under this section is:</p>
+          </content>
+          <subsection eId="sec_82_14_415__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>0.1 percent for each annexed area in which the population is greater than 2,000 and less than 10,000; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>0.2 percent for an annexed area in which the population is greater than 10,000.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The maximum cumulative rate of tax a city may impose under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section is 0.2 percent for the total number of annexed areas the city may annex.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The tax imposed by this section may only be imposed at the beginning of a fiscal year and may continue for no more than 10 years from the date that each increment of the tax is first imposed. Tax rate increases due to additional annexed areas are effective on July 1st of the fiscal year following the fiscal year in which the annexation occurred, provided that notice is given to the department as set forth in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>All revenue collected under this section may be used solely to provide, maintain, and operate municipal services for the annexation area.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The revenues from the tax authorized in this section may not exceed that which the city deems necessary to generate revenue equal to the difference between the city's cost to provide, maintain, and operate municipal services for the annexation area and the general revenues that the cities would otherwise expect to receive from the annexation during a year. If the revenues from the tax authorized in this section and the revenues from the annexation area exceed the costs to the city to provide, maintain, and operate municipal services for the annexation area during a given year, the city must notify the department and the tax distributions authorized in this section must be suspended for the remainder of the year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>No tax may be imposed under this section before July 1, 2023. Before imposing a tax under this section, the legislative authority of a city must adopt an ordinance that includes the following:</p>
+          </content>
+          <subsection eId="sec_82_14_415__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A certification that the amount needed to provide municipal services to the annexed area reflects the city's true and actual costs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The rate of tax under this section that is imposed within the city; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The threshold amount for the first fiscal year following the annexation and passage of the ordinance.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The tax must cease to be distributed to the city for the remainder of the fiscal year once the threshold amount has been reached. No later than March 1st of each year, the city must provide the department with a certification of the city's true and actual costs to provide municipal services to the annexed area, a new threshold amount for the next fiscal year, and notice of any applicable tax rate changes. Distributions of tax under this section must begin again on July 1st of the next fiscal year and continue until the new threshold amount has been reached or June 30th, whichever is sooner. Any revenue generated by the tax in excess of the threshold amount belongs to the state of Washington. Any amount resulting from the threshold amount less the total fiscal year distributions, as of June 30th, may not be carried forward to the next fiscal year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The resident population of the annexation area must be determined in accordance with chapter
+35.13
+or
+35A.14
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>A city may not begin to impose the tax authorized by this section after July 1, 2028.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>The following definitions apply throughout this section unless the context clearly requires otherwise:</p>
+          </content>
+          <subsection eId="sec_82_14_415__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Annexation area&quot; means an area that has been annexed to a city under chapter
+35.13
+or
+35A.14
+RCW. &quot;Annexation area&quot; includes all territory described in the city resolution.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Commenced annexation&quot; means the initiation of annexation proceedings has taken place under the direct petition method or the election method under chapter
+35.13
+or
+35A.14
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Department&quot; means the department of revenue.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_12__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Municipal services&quot; means those services customarily provided to the public by city government.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_12__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Fiscal year&quot; means the year beginning July 1st and ending the following June 30th.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_12__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Potential annexation area&quot; means one or more geographic areas that a city has officially designated for potential future annexation, as part of its comprehensive plan adoption process under the state growth management act, chapter
+36.70A
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_415__subsec_12__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Threshold amount&quot; means the maximum amount of tax distributions as determined by the city in accordance with subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_415__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section that the department must distribute to the city generated from the tax imposed under this section in a fiscal year.
+[
+2023 c 351 s 2
+;
+2016 c 5 s 1
+;
+2011 c 353 s 10
+;
+2009 c 550 s 1
+;
+2006 c 361 s 1
+.]
+NOTES:
+Intent
+—
+2011 c 353:
+See note following RCW
+36.70A.130
+.
+Severability
+—
+2006 c 361:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2006 c 361 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

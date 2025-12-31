@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39.001"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.001"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39.001/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.001/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39.001/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.001/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39_001">
+        <num>RCW 74.39.001</num>
+        <heading>Finding</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.39
+&gt;
+Section 74.39.001
+Beginning of Chapter
+&lt;&lt; 
+        74.39.001 &gt;&gt;
+74.39.005
+PDF
+RCW
+74.39.001
+Finding.
+The legislature finds that:
+Washington's chronically functionally disabled population is growing at a rapid pace. This growth, along with economic and social changes and the coming age wave, presents opportunities for the development of long-term care community services networks and enhanced volunteer participation in those networks, and creates a need for different approaches to currently fragmented long-term care programs. The legislature further recognizes that persons with functional disabilities should receive long-term care services that encourage individual dignity, autonomy, and development of their fullest human potential.
+[
+1989 c 427 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

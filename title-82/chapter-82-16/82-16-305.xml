@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.305"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.305"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.305/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.305/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.305/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.305/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_305">
+        <num>RCW 82.16.305</num>
+        <heading>Exemptions—Joint municipal utility services authorities</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.16
+&gt;
+Section 82.16.305
+82.16.187
+&lt;&lt; 
+        82.16.305 &gt;&gt;
+82.16.310
+PDF
+RCW
+82.16.305
+Exemptions
+—
+Joint municipal utility services authorities.
+This chapter does not apply to any payments between, or any transfer of assets to or from, a joint municipal utility services authority created under chapter
+39.106
+RCW and any of its members.
+[
+2011 c 258 s 14
+.]
+NOTES:
+Short title
+—
+Purpose
+—
+Intent
+—
+2011 c 258:
+See RCW
+39.106.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

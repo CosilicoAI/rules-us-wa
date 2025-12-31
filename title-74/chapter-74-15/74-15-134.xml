@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.134"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.134"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.134/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.134/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.134/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.134/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_134">
+        <num>RCW 74.15.134</num>
+        <heading>License or certificate suspension—Noncompliance with support order—Reissuance</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.134
+74.15.132
+&lt;&lt; 
+        74.15.134 &gt;&gt;
+74.15.140
+PDF
+RCW
+74.15.134
+License or certificate suspension
+—
+Noncompliance with support order
+—
+Reissuance.
+The secretary shall immediately suspend the license or certificate of a person who has been certified pursuant to RCW
+74.20A.320
+by the department as a person who is not in compliance with a support order. If the person has continued to meet all other requirements for reinstatement during the suspension, reissuance of the license or certificate shall be automatic upon the secretary's receipt of a release issued by the department stating that the licensee is in compliance with the order.
+[
+2017 3rd sp.s. c 6 s 414
+;
+1997 c 58 s 858
+.]
+NOTES:
+Effective date
+—
+2017 3rd sp.s. c 6 ss 102, 104-115, 201-227, 301-337, 401-419, 501-513, 801-803, and 805-822:
+See note following RCW
+43.216.025
+.
+Conflict with federal requirements
+—
+2017 3rd sp.s. c 6:
+See RCW
+43.216.908
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Effective dates
+—
+Intent
+—
+1997 c 58:
+See notes following RCW
+74.20A.320
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

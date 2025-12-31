@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.520"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.520"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.520/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.520/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.520/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.520/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_520">
+        <num>RCW 82.50.520</num>
+        <heading>Exemptions</heading>
+        <subsection eId="sec_82_50_520__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any unoccupied travel trailer or camper when it is part of an inventory of travel trailers or campers held for sale by a manufacturer or dealer in the course of his or her business.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_520__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A travel trailer or camper owned by any government or political subdivision thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A travel trailer or camper owned by a nonresident and currently licensed in another state, unless such travel trailer or camper is required by law to be licensed in this state.
+For the purposes of this subsection only, a camper owned by a nonresident shall be considered licensed in another state if the vehicle to which such camper is attached is currently licensed in another state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_520__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Travel trailers eligible to be used under a dealer's license plate, and taxed under *RCW
+82.44.030
+while so eligible.
+[
+2013 c 23 s 338
+;
+1983 c 26 s 4
+;
+1979 c 123 s 4
+;
+1971 ex.s. c 299 s 67
+.]
+NOTES:
+Reviser's note:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_520__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>See note following RCW
+82.50.010
+.
+*</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_50_520__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>RCW
+82.44.030
+was repealed by
+2000 1st sp.s. c 1 s 2
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

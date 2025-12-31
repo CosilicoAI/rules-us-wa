@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.390"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.390"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.390/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.390/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.390/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.390/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_390">
+        <num>RCW 82.38.390</num>
+        <heading>Prorate and fuel tax discovery team</heading>
+        <subsection eId="sec_82_38_390__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall establish a prorate and fuel tax discovery team to detect and investigate violations of this chapter along with violations of chapters
+46.87
+and
+82.42
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_390__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Members of the prorate and fuel tax discovery team may be delegated authority to act as limited agents of the director and may exercise the authority to seek search warrants, issue subpoenas, perform inspections, and investigate and assess alleged civil violations of chapter
+46.87
+or
+82.42
+RCW or this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_390__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department must adopt rules necessary to implement this section.
+[
+2024 c 1 s 13
+.]
+NOTES:
+Evaluation
+—
+Report
+—
+2024 c 1 s 13:
+&quot;The department of licensing must evaluate the revenue impacts and costs of implementing and maintaining the prorate and fuel tax discovery team established in section 13 of this act. The evaluation must include the total amount of fuel taxes, fees, and penalties collected by the department as a result of the activities of the prorate and fuel tax discovery team, as well as all associated expenditures resulting from the department's expanded enforcement efforts. The department must submit a report with the results of this evaluation to the transportation committees of the legislature by November 1, 2028.&quot; [
+2024 c 1 s 21
+.]
+Effective date
+—
+2024 c 1:
+See note following RCW
+46.87.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

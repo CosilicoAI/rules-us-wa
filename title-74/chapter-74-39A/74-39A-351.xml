@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.351"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.351"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.351/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.351/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.351/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.351/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_351">
+        <num>RCW 74.39A.351</num>
+        <heading>Advanced training</heading>
+        <subsection eId="sec_74_39A_351__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall offer, directly or through contract, training opportunities sufficient for a long-term care worker to accumulate seventy hours of training within a reasonable time period. For individual providers represented by an exclusive bargaining representative, the training opportunities shall be offered through the training partnership established under RCW
+74.39A.360
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_351__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Training topics offered under this section shall include, but are not limited to: Client rights; personal care; mental illness; dementia; developmental disabilities; depression; medication assistance; advanced communication skills; positive client behavior support; developing or improving client-centered activities; dealing with wandering or aggressive client behaviors; medical conditions; nurse delegation core training; peer mentor training; and advocacy for quality care training.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_351__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may not require long-term care workers to obtain the training described in this section.
+[
+2018 c 278 s 24
+;
+2012 c 164 s 404
+;
+2012 c 1 s 113
+(Initiative Measure No. 1163, approved November 8, 2011).]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.
+Finding
+—
+Intent
+—
+Rules
+—
+Effective date
+—
+2012 c 164:
+See notes following RCW
+18.88B.010
+.
+Intent
+—
+Findings
+—
+Performance audits
+—
+Spending limits
+—
+Contingent effective dates
+—
+Application
+—
+Construction
+—
+Effective date
+—
+Short title
+—
+2012 c 1 (Initiative Measure No. 1163):
+See notes following RCW
+74.39A.056
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

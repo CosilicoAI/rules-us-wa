@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.006"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.006"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.006/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.006/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.006/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.006/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_006">
+        <num>RCW 74.04.006</num>
+        <heading>Contract of sale of property—Availability as a resource or income—Establishment</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.006
+74.04.0052
+&lt;&lt; 
+        74.04.006 &gt;&gt;
+74.04.011
+PDF
+RCW
+74.04.006
+Contract of sale of property
+—
+Availability as a resource or income
+—
+Establishment.
+The department may establish, by rule and regulation, the availability of a contract of sale of real or personal property as a resource or income as defined in RCW
+74.04.005
+.
+[
+1973 1st ex.s. c 49 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

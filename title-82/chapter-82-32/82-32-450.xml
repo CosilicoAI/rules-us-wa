@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.450"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.450"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.450/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.450/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.450/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.450/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_450">
+        <num>RCW 82.32.450</num>
+        <heading>Natural or manufactured gas, electricity—Maximum combined credits and deferrals allowed—Availability of credits and deferrals</heading>
+        <subsection eId="sec_82_32_450__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The total combined credits and deferrals that may be taken under RCW
+82.04.447
+,
+82.12.024
+, and
+82.16.0495
+shall not exceed two million five hundred thousand dollars in any fiscal year. Each person is limited to no more than a total of one million five hundred thousand dollars in tax deferred and credit allowed in any fiscal year in which more than one person takes tax credits and claims tax deferral. The department may require reporting of the credits taken and amounts deferred in a manner and form as is necessary to keep a running total of the amounts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_450__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Credits and deferred tax are available on a first-come basis. Priority for tax credits and deferrals among approved applicants shall be designated based on the first actual consumption of gas under RCW
+82.04.447
+or
+82.12.024
+, or on the first actual use of electricity under RCW
+82.16.0495
+, by each approved applicant. The department shall disallow any credits or deferred tax, or portion thereof, that would cause the total amount of credits taken and deferred taxes claimed to exceed the fiscal year cap or to exceed the per person fiscal year cap. If the fiscal cap is reached or exceeded[,] the department shall notify those persons who have approved applications under RCW
+82.04.447
+,
+82.12.024
+, and
+82.16.0495
+that no more credits may be taken or tax deferred during the remainder of the fiscal year. In addition, the department shall provide written notice to any person who has taken any tax credits or claimed any deferred tax in excess of the fiscal year cap. The notice shall indicate the amount of tax due and shall provide that the tax be paid within thirty days from the date of such notice.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_450__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No portion of an application for credit or deferral disallowed under this section may be carried back or carried forward nor may taxes ineligible for credit or deferral due to the fiscal cap having been reached or exceeded be carried forward or carried backward.
+[
+2001 c 214 s 12
+.]
+NOTES:
+Severability
+—
+Effective date
+—
+2001 c 214:
+See notes following RCW
+80.50.010
+.
+Findings
+—
+2001 c 214:
+See note following RCW
+39.35.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

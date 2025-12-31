@@ -1,0 +1,1114 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_020">
+        <num>RCW 74.15.020</num>
+        <heading>Definitions. (&lt;i&gt;Effective until July 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_74_15_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Agency&quot; means any person, firm, partnership, association, corporation, or facility which receives children, expectant mothers, or persons with developmental disabilities for control, care, or maintenance outside their own homes, or which places, arranges the placement of, or assists in the placement of children, expectant mothers, or persons with developmental disabilities for foster care or placement of children for adoption, and shall include the following irrespective of whether there is compensation to the agency or to the children, expectant mothers, or persons with developmental disabilities for services rendered:</p>
+          </content>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Child-placing agency&quot; means an agency which places a child or children for temporary care, continued care, or for adoption;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Community facility&quot; means a group care facility operated for the care of juveniles committed to the department under RCW
+13.40.185
+. A county detention facility that houses juveniles committed to the department under RCW
+13.40.185
+pursuant to a contract with the department is not a community facility;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Crisis residential center&quot; means an agency which is a temporary protective residential facility operated to perform the duties specified in chapter
+13.32A
+RCW, in the manner provided in RCW
+43.185C.295
+through
+43.185C.310
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Emergency respite center&quot; is an agency that may be commonly known as a crisis nursery, that provides emergency and crisis care for up to seventy-two hours to children who have been admitted by their parents or guardians to prevent abuse or neglect. Emergency respite centers may operate for up to twenty-four hours a day, and for up to seven days a week. Emergency respite centers may provide care for children ages birth through seventeen, and for persons eighteen through twenty with developmental disabilities who are admitted with a sibling or siblings through age seventeen. Emergency respite centers may not substitute for crisis residential centers or HOPE centers, or any other services defined under this section, and may not substitute for services which are required under chapter
+13.32A
+or
+13.34
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Foster family home&quot; means an agency which regularly provides care on a twenty-four hour basis to one or more children, expectant mothers, or persons with developmental disabilities in the family abode of the person or persons under whose direct care and supervision the child, expectant mother, or person with a developmental disability is placed;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Group-care facility&quot; means an agency, other than a foster family home, which is maintained and operated for the care of a group of children on a twenty-four hour basis. &quot;Group care facility&quot; includes but is not limited to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Qualified residential treatment programs as defined in RCW
+13.34.030
+;</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Facilities specializing in providing prenatal, postpartum, or parenting supports for youth; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Facilities providing high quality residential care and supportive services to children who are, or who are at risk of becoming, victims of sex trafficking;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;HOPE center&quot; means an agency licensed by the secretary to provide temporary residential placement and other services to street youth. A street youth may remain in a HOPE center for thirty days while services are arranged and permanent placement is coordinated. No street youth may stay longer than thirty days unless approved by the department and any additional days approved by the department must be based on the unavailability of a long-term placement option. A street youth whose parent wants him or her returned to home may remain in a HOPE center until his or her parent arranges return of the youth, not longer. All other street youth must have court approval under chapter
+13.34
+or
+13.32A
+RCW to remain in a HOPE center up to thirty days;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Maternity service&quot; means an agency which provides or arranges for care or services to expectant mothers, before or during confinement, or which provides care as needed to mothers and their infants after confinement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Resource and assessment center&quot; means an agency that provides short-term emergency and crisis care for a period up to seventy-two hours, excluding Saturdays, Sundays, and holidays to children who have been removed from their parent's or guardian's care by child protective services or law enforcement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Responsible living skills program&quot; means an agency licensed by the secretary that provides residential and transitional living services to persons ages sixteen to eighteen who are dependent under chapter
+13.34
+RCW and who have been unable to live in his or her legally authorized residence and, as a result, the minor lived outdoors or in another unsafe location not intended for occupancy by the minor. Dependent minors ages fourteen and fifteen may be eligible if no other placement alternative is available and the department approves the placement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>&quot;Service provider&quot; means the entity that operates a community facility.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Agency&quot; shall not include the following:</p>
+          </content>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Persons related to the child, expectant mother, or person with developmental disability in the following ways:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any blood relative, including those of half-blood, and including first cousins, second cousins, nephews or nieces, and persons of preceding generations as denoted by prefixes of grand, great, or great-great;</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Stepfather, stepmother, stepbrother, and stepsister;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A person who legally adopts a child or the child's parent as well as the natural and other legally adopted children of such persons, and other relatives of the adoptive parents in accordance with state law;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Spouses of any persons named in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Relatives, as named in (a)</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_v__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Extended family members, as defined by the law or custom of the Indian child's tribe or, in the absence of such law or custom, a person who has reached the age of eighteen and who is the Indian child's grandparent, aunt or uncle, brother or sister, brother-in-law or sister-in-law, niece or nephew, first or second cousin, or stepparent who provides care in the family abode on a twenty-four-hour basis to an Indian child as defined in 25 U.S.C. Sec. 1903</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Persons who are legal guardians of the child, expectant mother, or persons with developmental disabilities;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Persons who care for a neighbor's or friend's child or children, with or without compensation, where the parent and person providing care on a twenty-four-hour basis have agreed to the placement in writing and the state is not providing any payment for the care;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A person, partnership, corporation, or other entity that provides placement or similar services to exchange students or international student exchange visitors or persons who have the care of an exchange student in their home;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A person, partnership, corporation, or other entity that provides placement or similar services to international children who have entered the country by obtaining visas that meet the criteria for medical care as established by the United States citizenship and immigration services, or persons who have the care of such an international child in their home;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Schools, including boarding schools, which are engaged primarily in education, operate on a definite school year schedule, follow a stated academic curriculum, accept only school-age children and do not accept custody of children;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Hospitals licensed pursuant to chapter
+70.41
+RCW when performing functions defined in chapter
+70.41
+RCW, nursing homes licensed under chapter
+18.51
+RCW and assisted living facilities licensed under chapter
+18.20
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Licensed physicians or lawyers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Facilities approved and certified under chapter
+71A.22
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Any agency having been in operation in this state ten years prior to June 8, 1967, and not seeking or accepting moneys or assistance from any state or federal agency, and is supported in part by an endowment or trust fund;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Persons who have a child in their home for purposes of adoption, if the child was placed in such home by a licensed child-placing agency, an authorized public or tribal agency or court or if a replacement report has been filed under chapter
+26.33
+RCW and the placement has been approved by the court;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>An agency operated by any unit of local, state, or federal government or an agency licensed by an Indian tribe pursuant to RCW
+74.15.190
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>A maximum or medium security program for juvenile offenders operated by or under contract with the department;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>An agency located on a federal military reservation, except where the military authorities request that such agency be subject to the licensing requirements of this chapter;
+(o)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A host home program, and host home, operated by a tax exempt organization for youth not in the care of or receiving services from the department except as provided in subsection</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this section [</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection], if that program: (A) Recruits and screens potential homes in the program, including performing background checks on individuals over the age of eighteen residing in the home through the Washington state patrol or equivalent law enforcement agency and performing physical inspections of the home; (B) screens and provides case management services to youth in the program; (C) obtains a notarized permission slip or limited power of attorney from the parent or legal guardian of the youth authorizing the youth to participate in the program and the authorization is updated every six months when a youth remains in a host home longer than six months, unless there is a compelling reason to not contact the parent or guardian; (D) obtains insurance for the program through an insurance provider authorized under Title
+48
+RCW; (E) provides mandatory reporter and confidentiality training; and (F) registers with the secretary of state under RCW
+74.15.315
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If a host home program serves a child without parental authorization who is seeking or receiving protected health care services, the host home program must:
+(A) Report to the department within 72 hours of the youth's participation in the program and following this report the department shall make a good faith attempt to notify the parent of this report and offer services designed to resolve the conflict and accomplish a reunification of the family;
+(B) Report to the department the youth's participation in the host home program at least once every month when the youth remains in the host home longer than one month; and
+(C) Provide case management outside of the host home and away from any individuals residing in the home at least once per month.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A host home program and host home that meets the other requirements of subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>of this section [this subsection</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_o__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>For purposes of this section, the following definitions apply:
+(A) &quot;Host home&quot; means a private home that volunteers to host youth in need of temporary placement that is associated with a host home program.
+(B) &quot;Host home program&quot; is a program that provides support to individual host homes and meets the requirements of</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection.
+(C) &quot;Compelling reason&quot; means the youth is in the host home or seeking placement in a host home while seeking or receiving protected health care services.
+(D) &quot;Protected health care services&quot; means gender-affirming treatment as defined in RCW
+74.09.675
+and reproductive health care services as defined in RCW
+74.09.875
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Any host home program that receives local, state, or government funding shall report the following information to the office of homeless youth prevention and protection programs annually by December 1st of each year: The number of children the program served, why the child was placed with a host home, and where the child went after leaving the host home, including but not limited to returning to the parents, running away, reaching the age of majority, or becoming a dependent of the state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>Receiving centers as defined in RCW
+7.68.380
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of children, youth, and families.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Juvenile&quot; means a person under the age of twenty-one who has been sentenced to a term of confinement under the supervision of the department under RCW
+13.40.185
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Performance-based contracts&quot; or &quot;contracting&quot; means the structuring of all aspects of the procurement of services around the purpose of the work to be performed and the desired results with the contract requirements set forth in clear, specific, and objective terms with measurable outcomes. Contracts may also include provisions that link the performance of the contractor to the level and timing of the reimbursement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Probationary license&quot; means a license issued as a disciplinary measure to an agency that has previously been issued a full license but is out of compliance with licensing standards.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Requirement&quot; means any rule, regulation, or standard of care to be maintained by an agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Secretary&quot; means the secretary of the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Street youth&quot; means a person under the age of eighteen who lives outdoors or in another unsafe location not intended for occupancy by the minor and who is not residing with his or her parent or at his or her legally authorized residence.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Transitional living services&quot; means at a minimum, to the extent funds are available, the following:</p>
+          </content>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Educational services, including basic literacy and computational skills training, either in local alternative or public high schools or in a high school equivalency program that leads to obtaining a high school equivalency degree;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Assistance and counseling related to obtaining vocational training or higher education, job readiness, job search assistance, and placement programs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Counseling and instruction in life skills such as money management, home management, consumer skills, parenting, health care, access to community resources, and transportation and housing options;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Individual and group counseling; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Establishing networks with federal agencies and state and local organizations such as the United States department of labor, employment and training administration programs including the workforce innovation and opportunity act which administers private industry councils and the job corps; vocational rehabilitation; and volunteer programs.
+[
+2023 c 408 s 3
+;
+2021 c 176 s 5239
+. Prior:
+2020 c 331 s 10
+;
+2020 c 265 s 1
+;
+2019 c 172 s 10
+;
+2018 c 284 s 67
+; (2018 c 284 s 66 expired July 1, 2018);
+2017 3rd sp.s. c 6 s 408
+;
+2017 c 39 s 11
+;
+2016 c 166 s 1
+;
+2013 c 105 s 2
+;
+2012 c 10 s 61
+;
+2009 c 520 s 13
+;
+2007 c 412 s 1
+; prior:
+2006 c 265 s 401
+;
+2006 c 90 s 1
+;
+2006 c 54 s 7
+; prior:
+2001 c 230 s 1
+;
+2001 c 144 s 1
+;
+2001 c 137 s 3
+;
+1999 c 267 s 11
+;
+1998 c 269 s 3
+;
+1997 c 245 s 7
+; prior:
+1995 c 311 s 18
+;
+1995 c 302 s 3
+;
+1994 c 273 s 21
+;
+1991 c 128 s 14
+;
+1988 c 176 s 912
+;
+1987 c 170 s 12
+;
+1982 c 118 s 5
+;
+1979 c 155 s 83
+;
+1977 ex.s. c 80 s 71
+;
+1967 c 172 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2023 c 408:
+See note following RCW
+13.32A.082
+.
+Effective date
+—
+2021 c 176:
+See note following RCW
+24.03A.005
+.
+Finding
+—
+2020 c 331:
+See note following RCW
+7.68.380
+.
+Effective date
+—
+2019 c 172 ss 3, 4, and 10-15:
+See note following RCW
+13.34.420
+.
+Effective date
+—
+2018 c 284 ss 3, 8, 13, 20, 33, 36, and 67:
+See note following RCW
+13.34.030
+.
+Expiration date
+—
+2018 c 284 ss 2, 7, 12, 19, 32, 35, and 66:
+See note following RCW
+13.34.030
+.
+Effective date
+—
+2017 3rd sp.s. c 6 ss 102, 104-115, 201-227, 301-337, 401-419, 501-513, 801-803, and 805-822:
+See note following RCW
+43.216.025
+.
+Conflict with federal requirements
+—
+2017 3rd sp.s. c 6:
+See RCW
+43.216.908
+.
+Findings
+—
+Intent
+—
+2013 c 105:
+See note following RCW
+74.15.311
+.
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Effective date
+—
+2006 c 265:
+See RCW
+43.216.902
+.
+Conflict with federal requirements
+—
+2006 c 54:
+See RCW
+41.56.913
+.
+Short title
+—
+2006 c 54:
+See note following RCW
+41.56.081
+.
+Findings
+—</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Agency&quot; means any person, firm, partnership, association, corporation, facility, or residential private school which receives children, expectant mothers, or persons with developmental disabilities for control, care, or maintenance outside their own homes, or which places, arranges the placement of, or assists in the placement of children, expectant mothers, or persons with developmental disabilities for foster care or placement of children for adoption, and shall include the following irrespective of whether there is compensation to the agency or to the children, expectant mothers, or persons with developmental disabilities for services rendered:</p>
+          </content>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Child-placing agency&quot; means an agency which places a child or children for temporary care, continued care, or for adoption;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Community facility&quot; means a group care facility operated for the care of juveniles committed to the department under RCW
+13.40.185
+. A county detention facility that houses juveniles committed to the department under RCW
+13.40.185
+pursuant to a contract with the department is not a community facility;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Crisis residential center&quot; means an agency which is a temporary protective residential facility operated to perform the duties specified in chapter
+13.32A
+RCW, in the manner provided in RCW
+43.185C.295
+through
+43.185C.310
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Emergency respite center&quot; is an agency that may be commonly known as a crisis nursery, that provides emergency and crisis care for up to seventy-two hours to children who have been admitted by their parents or guardians to prevent abuse or neglect. Emergency respite centers may operate for up to twenty-four hours a day, and for up to seven days a week. Emergency respite centers may provide care for children ages birth through seventeen, and for persons eighteen through twenty with developmental disabilities who are admitted with a sibling or siblings through age seventeen. Emergency respite centers may not substitute for crisis residential centers or HOPE centers, or any other services defined under this section, and may not substitute for services which are required under chapter
+13.32A
+or
+13.34
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Foster family home&quot; means an agency which regularly provides care on a twenty-four hour basis to one or more children, expectant mothers, or persons with developmental disabilities in the family abode of the person or persons under whose direct care and supervision the child, expectant mother, or person with a developmental disability is placed;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Group-care facility&quot; means an agency, other than a foster family home, which is maintained and operated for the care of a group of children on a twenty-four hour basis. &quot;Group care facility&quot; includes but is not limited to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Qualified residential treatment programs as defined in RCW
+13.34.030
+;</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Facilities specializing in providing prenatal, postpartum, or parenting supports for youth; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Facilities providing high quality residential care and supportive services to children who are, or who are at risk of becoming, victims of sex trafficking;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;HOPE center&quot; means an agency licensed by the secretary to provide temporary residential placement and other services to street youth. A street youth may remain in a HOPE center for thirty days while services are arranged and permanent placement is coordinated. No street youth may stay longer than thirty days unless approved by the department and any additional days approved by the department must be based on the unavailability of a long-term placement option. A street youth whose parent wants him or her returned to home may remain in a HOPE center until his or her parent arranges return of the youth, not longer. All other street youth must have court approval under chapter
+13.34
+or
+13.32A
+RCW to remain in a HOPE center up to thirty days;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Maternity service&quot; means an agency which provides or arranges for care or services to expectant mothers, before or during confinement, or which provides care as needed to mothers and their infants after confinement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Residential private school&quot; means a nonpublic school or nonpublic school district subject to approval by the state board of education pursuant to RCW
+28A.305.130
+and chapter
+28A.195
+RCW that provides sleeping and living facilities or residential accommodations for enrolled students;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Resource and assessment center&quot; means an agency that provides short-term emergency and crisis care for a period up to seventy-two hours, excluding Saturdays, Sundays, and holidays to children who have been removed from their parent's or guardian's care by child protective services or law enforcement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>&quot;Responsible living skills program&quot; means an agency licensed by the secretary that provides residential and transitional living services to persons ages sixteen to eighteen who are dependent under chapter
+13.34
+RCW and who have been unable to live in his or her legally authorized residence and, as a result, the minor lived outdoors or in another unsafe location not intended for occupancy by the minor. Dependent minors ages fourteen and fifteen may be eligible if no other placement alternative is available and the department approves the placement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_1__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>&quot;Service provider&quot; means the entity that operates a community facility.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Agency&quot; shall not include the following:</p>
+          </content>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Persons related to the child, expectant mother, or person with developmental disability in the following ways:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any blood relative, including those of half-blood, and including first cousins, second cousins, nephews or nieces, and persons of preceding generations as denoted by prefixes of grand, great, or great-great;</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Stepfather, stepmother, stepbrother, and stepsister;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A person who legally adopts a child or the child's parent as well as the natural and other legally adopted children of such persons, and other relatives of the adoptive parents in accordance with state law;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Spouses of any persons named in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Relatives, as named in (a)</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_v__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Extended family members, as defined by the law or custom of the Indian child's tribe or, in the absence of such law or custom, a person who has reached the age of eighteen and who is the Indian child's grandparent, aunt or uncle, brother or sister, brother-in-law or sister-in-law, niece or nephew, first or second cousin, or stepparent who provides care in the family abode on a twenty-four-hour basis to an Indian child as defined in 25 U.S.C. Sec. 1903</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Persons who are legal guardians of the child, expectant mother, or persons with developmental disabilities;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Persons who care for a neighbor's or friend's child or children, with or without compensation, where the parent and person providing care on a twenty-four-hour basis have agreed to the placement in writing and the state is not providing any payment for the care;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A person, partnership, corporation, or other entity that provides placement or similar services to exchange students or international student exchange visitors or persons who have the care of an exchange student in their home;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A person, partnership, corporation, or other entity that provides placement or similar services to international children who have entered the country by obtaining visas that meet the criteria for medical care as established by the United States citizenship and immigration services, or persons who have the care of such an international child in their home;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Nonresidential schools, which are engaged primarily in education, operate on a definite school year schedule, follow a stated academic curriculum, accept only school-age children and do not accept custody of children;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Hospitals licensed pursuant to chapter
+70.41
+RCW when performing functions defined in chapter
+70.41
+RCW, nursing homes licensed under chapter
+18.51
+RCW and assisted living facilities licensed under chapter
+18.20
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Licensed physicians or lawyers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Facilities approved and certified under chapter
+71A.22
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Any agency having been in operation in this state ten years prior to June 8, 1967, and not seeking or accepting moneys or assistance from any state or federal agency, and is supported in part by an endowment or trust fund;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Persons who have a child in their home for purposes of adoption, if the child was placed in such home by a licensed child-placing agency, an authorized public or tribal agency or court or if a replacement report has been filed under chapter
+26.33
+RCW and the placement has been approved by the court;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>An agency operated by any unit of local, state, or federal government or an agency licensed by an Indian tribe pursuant to RCW
+74.15.190
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>A maximum or medium security program for juvenile offenders operated by or under contract with the department;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>An agency located on a federal military reservation, except where the military authorities request that such agency be subject to the licensing requirements of this chapter;
+(o)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A host home program, and host home, operated by a tax exempt organization for youth not in the care of or receiving services from the department except as provided in subsection</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this section [</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection], if that program: (A) Recruits and screens potential homes in the program, including performing background checks on individuals over the age of eighteen residing in the home through the Washington state patrol or equivalent law enforcement agency and performing physical inspections of the home; (B) screens and provides case management services to youth in the program; (C) obtains a notarized permission slip or limited power of attorney from the parent or legal guardian of the youth authorizing the youth to participate in the program and the authorization is updated every six months when a youth remains in a host home longer than six months, unless there is a compelling reason to not contact the parent or guardian; (D) obtains insurance for the program through an insurance provider authorized under Title
+48
+RCW; (E) provides mandatory reporter and confidentiality training; and (F) registers with the secretary of state under RCW
+74.15.315
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If a host home program serves a child without parental authorization who is seeking or receiving protected health care services, the host home program must:
+(A) Report to the department within 72 hours of the youth's participation in the program and following this report the department shall make a good faith attempt to notify the parent of this report and offer services designed to resolve the conflict and accomplish a reunification of the family;
+(B) Report to the department the youth's participation in the host home program at least once every month when the youth remains in the host home longer than one month; and
+(C) Provide case management outside of the host home and away from any individuals residing in the home at least once per month.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A host home program and host home that meets the other requirements of subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>of this section [this subsection</p>
+            </content>
+            <subsection eId="sec_74_15_020__subsec_2__subsec_o__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>For purposes of this section, the following definitions apply:
+(A) &quot;Host home&quot; means a private home that volunteers to host youth in need of temporary placement that is associated with a host home program.
+(B) &quot;Host home program&quot; is a program that provides support to individual host homes and meets the requirements of</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection.
+(C) &quot;Compelling reason&quot; means the youth is in the host home or seeking placement in a host home while seeking or receiving protected health care services.
+(D) &quot;Protected health care services&quot; means gender-affirming treatment as defined in RCW
+74.09.675
+and reproductive health care services as defined in RCW
+74.09.875
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Any host home program that receives local, state, or government funding shall report the following information to the office of homeless youth prevention and protection programs annually by December 1st of each year: The number of children the program served, why the child was placed with a host home, and where the child went after leaving the host home, including but not limited to returning to the parents, running away, reaching the age of majority, or becoming a dependent of the state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_2__subsec_p">
+            <num>(p)</num>
+            <content>
+              <p>Receiving centers as defined in RCW
+7.68.380
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of children, youth, and families.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Juvenile&quot; means a person under the age of twenty-one who has been sentenced to a term of confinement under the supervision of the department under RCW
+13.40.185
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Performance-based contracts&quot; or &quot;contracting&quot; means the structuring of all aspects of the procurement of services around the purpose of the work to be performed and the desired results with the contract requirements set forth in clear, specific, and objective terms with measurable outcomes. Contracts may also include provisions that link the performance of the contractor to the level and timing of the reimbursement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Probationary license&quot; means a license issued as a disciplinary measure to an agency that has previously been issued a full license but is out of compliance with licensing standards.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Requirement&quot; means any rule, regulation, or standard of care to be maintained by an agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Secretary&quot; means the secretary of the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Street youth&quot; means a person under the age of eighteen who lives outdoors or in another unsafe location not intended for occupancy by the minor and who is not residing with his or her parent or at his or her legally authorized residence.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_020__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Transitional living services&quot; means at a minimum, to the extent funds are available, the following:</p>
+          </content>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Educational services, including basic literacy and computational skills training, either in local alternative or public high schools or in a high school equivalency program that leads to obtaining a high school equivalency degree;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Assistance and counseling related to obtaining vocational training or higher education, job readiness, job search assistance, and placement programs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Counseling and instruction in life skills such as money management, home management, consumer skills, parenting, health care, access to community resources, and transportation and housing options;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Individual and group counseling; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_020__subsec_10__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Establishing networks with federal agencies and state and local organizations such as the United States department of labor, employment and training administration programs including the workforce innovation and opportunity act which administers private industry councils and the job corps; vocational rehabilitation; and volunteer programs.
+[
+2023 c 441 s 4
+;
+2023 c 408 s 3
+;
+2021 c 176 s 5239
+. Prior:
+2020 c 331 s 10
+;
+2020 c 265 s 1
+;
+2019 c 172 s 10
+;
+2018 c 284 s 67
+; (2018 c 284 s 66 expired July 1, 2018);
+2017 3rd sp.s. c 6 s 408
+;
+2017 c 39 s 11
+;
+2016 c 166 s 1
+;
+2013 c 105 s 2
+;
+2012 c 10 s 61
+;
+2009 c 520 s 13
+;
+2007 c 412 s 1
+; prior:
+2006 c 265 s 401
+;
+2006 c 90 s 1
+;
+2006 c 54 s 7
+; prior:
+2001 c 230 s 1
+;
+2001 c 144 s 1
+;
+2001 c 137 s 3
+;
+1999 c 267 s 11
+;
+1998 c 269 s 3
+;
+1997 c 245 s 7
+; prior:
+1995 c 311 s 18
+;
+1995 c 302 s 3
+;
+1994 c 273 s 21
+;
+1991 c 128 s 14
+;
+1988 c 176 s 912
+;
+1987 c 170 s 12
+;
+1982 c 118 s 5
+;
+1979 c 155 s 83
+;
+1977 ex.s. c 80 s 71
+;
+1967 c 172 s 2
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2023 c 408 s 3 and by 2023 c 441 s 4, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

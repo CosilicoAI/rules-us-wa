@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.150"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_150">
+        <num>RCW 82.38.150</num>
+        <heading>Periodic tax reports—Forms—Filing—Time extensions during state of emergency</heading>
+        <subsection eId="sec_82_38_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For the purpose of determining the amount of liability for the tax imposed under this chapter, each licensee, other than an international fuel tax agreement licensee or a dyed special fuel user, must file monthly tax reports with the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_150__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Dyed special fuel users whose estimated yearly tax liability is two hundred fifty dollars or less, must file a report yearly, and dyed special fuel users whose estimated yearly tax liability is more than two hundred fifty dollars, must file reports quarterly. International fuel tax agreement licensees must file reports quarterly. Heating oil dealers subject to the pollution liability insurance agency fee must file reports annually.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_150__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A licensee, other than international fuel tax agreement licensee, must file a tax report on or before the twenty-fifth day of the calendar month following the reporting period to which it relates. A report must be filed even though no tax is due for the reporting period. Each report must contain a declaration that the statements contained therein are true and are made under penalties of perjury. The report must show information as the department may reasonably require for the proper administration and enforcement of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_150__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If the filing date falls on a Saturday, Sunday, or legal holiday the next secular or business day is the filing date.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_150__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department in order to insure payment of the tax or to facilitate administration of this chapter, may require the filing of reports and tax remittances at intervals other than one month.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_150__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>During a state of emergency declared under RCW
+43.06.010</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

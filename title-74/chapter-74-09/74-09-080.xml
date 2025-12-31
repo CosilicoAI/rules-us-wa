@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.080"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_080">
+        <num>RCW 74.09.080</num>
+        <heading>Methods of performing administrative responsibilities</heading>
+        <subsection eId="sec_74_09_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>May contract with an individual or a group, may utilize existing local state public assistance offices, or establish separate welfare medical care offices on a county or multicounty unit basis as found necessary; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Shall determine both financial and functional eligibility for persons applying for long-term care services under chapter
+74.39
+or
+74.39A
+RCW as a unified process in a single long-term care organizational unit.
+[
+2018 c 201 s 7006
+;
+2011 1st sp.s. c 15 s 8
+;
+1979 c 141 s 338
+;
+1959 c 26 s 74.09.080
+. Prior:
+1955 c 273 s 9
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

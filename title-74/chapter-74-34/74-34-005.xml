@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.005"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_005">
+        <num>RCW 74.34.005</num>
+        <heading>Findings</heading>
+        <subsection eId="sec_74_34_005__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Some adults are vulnerable and may be subjected to abuse, neglect, financial exploitation, or abandonment by a family member, care provider, or other person who has a relationship with the vulnerable adult;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_005__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A vulnerable adult may be home bound or otherwise unable to represent himself or herself in court or to retain legal counsel in order to obtain the relief available under this chapter or other protections offered through the courts;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_005__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A vulnerable adult may lack the ability to perform or obtain those services necessary to maintain his or her well-being because he or she lacks the capacity for consent;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_005__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A vulnerable adult may have health problems that place him or her in a dependent position;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_005__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department and appropriate agencies must be prepared to receive reports of abandonment, abuse, financial exploitation, or neglect of vulnerable adults;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_005__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must provide protective services in the least restrictive environment appropriate and available to the vulnerable adult.
+[
+1999 c 176 s 2
+.]
+NOTES:
+Findings
+—
+Purpose
+—
+1999 c 176:
+&quot;The legislature finds that the provisions for the protection of vulnerable adults found in chapters
+26.44
+, 70.124, and
+74.34
+RCW contain different definitions for abandonment, abuse, exploitation, and neglect. The legislature finds that combining the sections of these chapters that pertain to the protection of vulnerable adults would better serve this state's population of vulnerable adults. The purpose of chapter
+74.34
+RCW is to provide the department and law enforcement agencies with the authority to investigate complaints of abandonment, abuse, financial exploitation, or neglect of vulnerable adults and to provide protective services and legal remedies to protect these vulnerable adults.&quot; [
+1999 c 176 s 1
+.]
+Severability
+—
+1999 c 176:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1999 c 176 s 36
+.]
+Conflict with federal requirements
+—
+1999 c 176:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.&quot; [
+1999 c 176 s 37
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

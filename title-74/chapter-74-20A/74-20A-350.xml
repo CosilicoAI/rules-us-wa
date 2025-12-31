@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.350"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.350"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.350/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.350/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.350/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.350/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_350">
+        <num>RCW 74.20A.350</num>
+        <heading>Noncompliance—Notice—Fines—License suspension—Hearings—Rules</heading>
+        <subsection eId="sec_74_20A_350__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The division of child support may issue a notice of noncompliance to any person, firm, entity, or agency of state or federal government that the division believes is not complying with:</p>
+          </content>
+          <subsection eId="sec_74_20A_350__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An income withholding order issued under chapter
+26.23
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A lien, order to withhold and deliver, or assignment of earnings issued under this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any other wage assignment, garnishment, attachment, or withholding instrument properly served by the agency or firm providing child support enforcement services for another state, under Title IV-D of the federal social security act;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A subpoena issued by the division of child support, or the agency or firm providing child support enforcement for another state, under Title IV-D of the federal social security act;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>An information request issued by the division of child support, or the agency or firm providing child support enforcement for another state under Title IV-D of the federal social security act, to an employer or entity required to respond to such requests under RCW
+74.20A.360
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The duty to report newly hired employees imposed by RCW
+26.23.040
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The duty of a business, employer, or payroll processor that has received an income withholding order from the department of social and health services requiring payment to the Washington state support registry to remit withheld funds by electronic means imposed by RCW
+26.23.065
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Liability for noncompliance with a wage withholding, garnishment, order to withhold and deliver, or any other lien or attachment issued to secure payment of child support is governed by RCW
+26.23.090
+and
+74.20A.100
+, except that liability for noncompliance with remittance time frames is governed by subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Fines for noncompliance by a business, employer, or payroll processor with the duty to remit withheld funds by electronic means imposed by RCW
+26.23.065
+are governed by subsection</p>
+          </content>
+          <subsection eId="sec_74_20A_350__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The division of child support may impose fines of up to one hundred dollars per occurrence for:</p>
+          </content>
+          <subsection eId="sec_74_20A_350__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Noncompliance with a subpoena or an information request issued by the division of child support, or the agency or firm providing child support enforcement services for another state under Title IV-D of the federal social security act;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Noncompliance with the required time frames for remitting withheld support moneys to the Washington state support registry, or the agency or firm providing child support enforcement services for another state, except that no liability shall be established for failure to make timely remittance unless the division of child support has provided the person, firm, entity, or agency of state or federal government with written warning:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Explaining the duty to remit withheld payments promptly;</p>
+            </content>
+            <subsection eId="sec_74_20A_350__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Explaining the potential for fines for delayed submission; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_350__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Providing a contact person within the division of child support with whom the person, firm, entity, or agency of state or federal government may seek assistance with child support withholding issues;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A business, employer, or payroll processor's noncompliance with the duty to remit withheld funds by electronic means imposed by RCW
+26.23.065
+. The division of child support may not impose fines for failure to comply with this requirement unless it has provided the person, firm, entity, or agency of state or federal government with written warning:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Explaining the duty to remit withheld payments by electronic means;</p>
+            </content>
+            <subsection eId="sec_74_20A_350__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Explaining the potential for fines for failure to remit withheld payments by electronic means when required under RCW
+26.23.065
+; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20A_350__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Providing a contact person within the division of child support with whom the person, firm, entity, or agency of state or federal government may seek assistance with child support withholding issues.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The division of child support may assess fines according to RCW
+26.23.040
+for failure to comply with employer reporting requirements.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The division of child support may suspend licenses for failure to comply with a subpoena issued under RCW
+74.20.225
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The division of child support may serve a notice of noncompliance by personal service or by any method of mailing requiring a return receipt.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The liability asserted by the division of child support in the notice of noncompliance becomes final and collectible on the twenty-first day after the date of service, unless within that time the person, firm, entity, or agency of state or federal government:</p>
+          </content>
+          <subsection eId="sec_74_20A_350__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Initiates an action in superior court to contest the notice of noncompliance;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Requests a hearing by delivering a hearing request to the division of child support in accordance with rules adopted by the secretary under this section; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Contacts the division of child support and negotiates an alternate resolution to the asserted noncompliance or demonstrates that the person, firm, entity, or agency of state or federal government has complied with the child support processes.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The notice of noncompliance shall contain:</p>
+          </content>
+          <subsection eId="sec_74_20A_350__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A full and fair disclosure of the rights and obligations created by this section; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Identification of the:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Child support process with respect to which the division of child support is alleging noncompliance; and</p>
+            </content>
+            <subsection eId="sec_74_20A_350__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>State child support enforcement agency issuing the original child support process.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>In an administrative hearing convened under subsection</p>
+          </content>
+          <subsection eId="sec_74_20A_350__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the presiding officer shall determine whether or not, and to what extent, liability for noncompliance exists under this section, and shall enter an order containing these findings. If liability does exist, the presiding officer shall include language in the order advising the parties to the proceeding that the liability may be collected by any means available to the division of child support under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>of this section without further notice to the liable party.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Hearings under this section are governed by the administrative procedure act, chapter
+34.05
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>After the twenty days following service of the notice, the person, firm, entity, or agency of state or federal government may petition for a late hearing. A petition for a late hearing does not stay any collection action to recover the debt. A late hearing is available upon a showing of any of the grounds stated in civil rule 60 for the vacation of orders.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>The division of child support may collect any obligation established under this section using any of the remedies available under chapter
+26.09
+, 26.18, 26.21A, 26.23, 74.20, or
+74.20A
+RCW for the collection of child support.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>The division of child support may enter agreements for the repayment of obligations under this section. Agreements may:</p>
+          </content>
+          <subsection eId="sec_74_20A_350__subsec_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Suspend the obligation imposed by this section conditioned on future compliance with child support processes. Such suspension shall end automatically upon any failure to comply with a child support process. Amounts suspended become fully collectible without further notice automatically upon failure to comply with a child support process;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_350__subsec_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Resolve amounts due under this section and provide for repayment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_350__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>The secretary may adopt rules to implement this section.
+[
+2021 c 35 s 19
+;
+2018 c 150 s 202
+;
+1997 c 58 s 893
+.]
+NOTES:
+Effective date
+—
+2018 c 150 ss 201-401:
+See note following RCW
+26.23.065
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

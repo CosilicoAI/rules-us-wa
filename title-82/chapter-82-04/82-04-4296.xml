@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4296"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4296"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4296/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4296/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4296/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4296/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4296">
+        <num>RCW 82.04.4296</num>
+        <heading>Deductions—Reimbursement for accommodation expenditures by funeral homes</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4296
+82.04.4295
+&lt;&lt; 
+        82.04.4296 &gt;&gt;
+82.04.4297
+PDF
+RCW
+82.04.4296
+Deductions
+—
+Reimbursement for accommodation expenditures by funeral homes.
+In computing tax there may be deducted from the measure of tax that portion of amounts received by any funeral home licensed to do business in this state which is received as reimbursements for expenditures (for goods supplied or services rendered by a person not employed by or affiliated or associated with the funeral home) and advanced by such funeral home as an accommodation to the persons paying for a funeral, so long as such expenditures and advances are billed to the persons paying for the funeral at only the exact cost thereof and are separately itemized in the billing statement delivered to such persons.
+[
+1980 c 37 s 16
+. Formerly RCW
+82.04.430
+(15).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

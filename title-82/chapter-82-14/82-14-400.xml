@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.400"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.400"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.400/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.400/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.400/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.400/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_400">
+        <num>RCW 82.14.400</num>
+        <heading>Sales and use tax for zoo, aquarium, and wildlife facilities—Authorizing proposition—Distributions</heading>
+        <subsection eId="sec_82_14_400__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon the joint request of a metropolitan park district, a city with a population of more than one hundred fifty thousand, and a county legislative authority in a county with a national park and a population of more than five hundred thousand and less than one million five hundred thousand, the county must submit an authorizing proposition to the county voters, fixing and imposing a sales and use tax in accordance with this chapter for the purposes designated in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section and identified in the joint request. Such proposition must be placed on a ballot for a special or general election to be held no later than one year after the date of the joint request.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The proposition is approved if it receives the votes of a majority of those voting on the proposition.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax authorized in this section is in addition to any other taxes authorized by law and must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the county. The rate of tax must equal no more than one-tenth of one percent of the selling price in the case of a sales tax, or value of the article used, in the case of a use tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Moneys received from any tax imposed under this section must be used solely for the purpose of providing funds for:</p>
+          </content>
+          <subsection eId="sec_82_14_400__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Costs associated with financing, design, acquisition, construction, equipping, operating, maintaining, remodeling, repairing, reequipping, or improvement of zoo, aquarium, and wildlife preservation and display facilities that are currently accredited by the American zoo and aquarium association; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Those costs associated with</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection and costs related to parks located within a county described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department must perform the collection of such taxes on behalf of the county at no cost to the county. In lieu of the charge for the administration and collection of local sales and use taxes under RCW
+82.14.050
+from which the county is exempt under this subsection</p>
+          </content>
+          <subsection eId="sec_82_14_400__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section for a period of twelve years from the first date of distribution of funds under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section. The department of commerce, or its successor agency, must use funds transferred to it pursuant to this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>to provide, operate, and maintain community-based housing under chapter
+43.185A
+RCW for individuals with mental illness.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If the joint request and the authorizing proposition include provisions for funding those costs included within subsection</p>
+          </content>
+          <subsection eId="sec_82_14_400__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the tax revenues authorized by this section must be allocated annually as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Fifty percent to the zoo and aquarium advisory authority; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Fifty percent to be distributed on a per capita basis as set out in the most recent population figures for unincorporated and incorporated areas only within that county, as determined by the office of financial management, solely for parks, as follows: To any metropolitan park district, to cities and towns not contained within a metropolitan park district, and the remainder to the county. Moneys received under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>by a county may not be used to replace or supplant existing per capita funding.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Funds must be distributed annually by the county treasurer to the county, and cities and towns located within the county, in the manner set out in subsection</p>
+          </content>
+          <subsection eId="sec_82_14_400__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Prior to expenditure of any funds received by the county under subsection</p>
+          </content>
+          <subsection eId="sec_82_14_400__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, the county must establish a process which considers needs throughout the unincorporated areas of the county in consultation with community advisory councils established by ordinance.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>By December 31, 2005, and thereafter, the county or any city with a population greater than eighty thousand must provide at least one dollar match for every two dollars received under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_400__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Properties subject to a memorandum of agreement between the federal bureau of land management, the advisory council on historic preservation, and the Washington state historic preservation officer have priority for funding from money received under subsection</p>
+          </content>
+          <subsection eId="sec_82_14_400__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section for implementation of the stipulations in the memorandum of agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At least one hundred thousand dollars of the first four years of allocations under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section, to be matched by the county or city with one dollar for every two dollars received, must be used to implement the stipulations of the memorandum of agreement and for other historical, archaeological, architectural, and cultural preservation and improvements related to the properties.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection must come equally from the allocations to the county and to the city in which the properties are located, unless otherwise agreed to by the county and the city.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The amount in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_400__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection may not be construed to displace or be offered in lieu of any lease payment from a county or city to the state for the properties in question.
+[
+2023 c 275 s 23
+;
+2020 c 139 s 24
+;
+2000 c 240 s 1
+;
+1999 c 104 s 1
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

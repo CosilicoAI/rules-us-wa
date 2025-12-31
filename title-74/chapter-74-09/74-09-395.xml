@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.395"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.395"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.395/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.395/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.395/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.395/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_395">
+        <num>RCW 74.09.395</num>
+        <heading>Access to baby and child dentistry program—Outreach and engagement—Stakeholder collaboration</heading>
+        <subsection eId="sec_74_09_395__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The authority, in consultation with the office of equity, created in chapter 332, Laws of 2020, shall work with the statewide managing partner of the access to baby and child dentistry program to develop a local access to baby and child dentistry program fund allocation formula, key deliverables, and target metrics for increased outreach and provider engagement and support with the goal of reducing racial and ethnic disparities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_395__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority, in consultation with the office of equity, created in chapter 332, Laws of 2020, shall collaborate with stakeholders to monitor progress toward the goals articulated in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_395__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and provide support to local access to baby and child dentistry programs and providers.
+[
+2020 c 293 s 2
+.]
+NOTES:
+Intent
+—
+2020 c 293:
+&quot;The legislature recognizes that oral disease is the most common childhood chronic disease, yet is almost entirely preventable, impacting school readiness, future employability, and overall well-being and quality of life. The access to baby and child dentistry program has made Washington a leader in oral health care access across the nation, providing greater levels of access and utilization for medicaid eligible children under six years old. The legislature further recognizes that the access to baby and child dentistry program connects children to a dental home in their communities, enabling children to get off to a healthy start. While the state has made great strides, children of color continue to experience higher rates of tooth decay than their peers and children under the age of two are not accessing care at the same rate as older children. Therefore, it is the legislature's intent to expand on the program investments the state has already made to provide additional outreach and support to eligible families and providers, increase very young children's access to care, and further reduce racial and ethnic disparities in access to care and oral health outcomes.&quot; [
+2020 c 293 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

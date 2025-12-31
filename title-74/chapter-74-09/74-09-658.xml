@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.658"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.658"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.658/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.658/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.658/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.658/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_658">
+        <num>RCW 74.09.658</num>
+        <heading>Home health—Reimbursement—Telemedicine</heading>
+        <subsection eId="sec_74_09_658__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The home health program shall require registered nurse oversight and intervention, as appropriate. In-person contact between a home health care registered nurse and a patient is not required under the state's medical assistance program for home health services that are:</p>
+          </content>
+          <subsection eId="sec_74_09_658__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Delivered with the assistance of telemedicine and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_658__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>otherwise eligible for reimbursement as a medically necessary skilled home health nursing visit under the program.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_658__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department or authority, as appropriate, in consultation with home health care service providers shall develop reimbursement rules and, in rule, define the requirements that must be met for a reimbursable skilled nursing visit when services are rendered without a face-to-face visit and are assisted by telemedicine.</p>
+          </content>
+          <subsection eId="sec_74_09_658__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department or authority, as appropriate, shall establish the reimbursement rate for skilled home health nursing services delivered with the assistance of telemedicine that meet the requirements of a reimbursable visit as defined by the department or authority, as appropriate.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_658__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Reimbursement is not provided for purchase or lease of telemedicine equipment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_658__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any home health agency licensed under chapter
+70.127
+RCW and eligible for reimbursement under the medical programs authorized under this chapter may be reimbursed for services under this section if the service meets the requirements for a reimbursable skilled nursing visit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_658__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Nothing in this section shall be construed to alter the scope of practice of any home health care services provider or authorizes the delivery of home health care services in a setting or manner not otherwise authorized by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_658__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The use of telemedicine is not intended to replace registered nurse health care visits when necessary.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_658__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For the purposes of this section, &quot;telemedicine&quot; means the use of telemonitoring to enhance the delivery of certain home health medical services through:</p>
+          </content>
+          <subsection eId="sec_74_09_658__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The provision of certain education related to health care services using audio, video, or data communication instead of a face-to-face visit; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_658__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The collection of clinical data and the transmission of such data between a patient at a distant location and the home health provider through electronic processing technologies. Objective clinical data that may be transmitted includes, but is not limited to, weight, blood pressure, pulse, respirations, blood glucose, and pulse oximetry.
+[
+2011 1st sp.s. c 15 s 40
+;
+2009 c 326 s 1
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

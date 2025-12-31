@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.994"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.994"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.994/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.994/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.994/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.994/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_994">
+        <num>RCW 82.12.994</num>
+        <heading>Exemptions—Zero emission buses</heading>
+        <subsection eId="sec_82_12_994__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply with respect to the use of zero emission buses purchased by a transit agency or by a federally recognized Indian tribe to provide public transportation services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_994__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section.</p>
+          </content>
+          <subsection eId="sec_82_12_994__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Transit agency&quot; means a city-owned transit system, county transportation authority, metropolitan municipal corporation, public transportation benefit area, unincorporated transportation benefit area, or regional transit authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_994__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Zero emissions bus&quot; means a bus that emits no exhaust gas from the onboard source of power, other than water vapor.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_994__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The exemption under this section expires after the last day of the calendar month immediately following the month the department determines the total amount of exemptions under this section and RCW
+82.08.994
+issued reaches or exceeds $14,000,000.
+[
+2025 c 417 s 810
+.]
+NOTES:
+Effective date
+—
+2025 c 417 ss 101-103, 406, 701-709, 808-814, 1102, 1103, and 1305:
+See note following RCW
+82.38.030
+.
+Tax preference performance statement
+—
+2025 c 417 ss 809 and 810:
+See note following RCW
+82.08.994
+.
+Findings
+—
+Intent
+—
+2025 c 417:
+See note following RCW
+82.38.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

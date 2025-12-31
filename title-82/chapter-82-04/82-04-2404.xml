@@ -1,0 +1,272 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2404"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2404"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2404/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2404/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2404/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2404/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_2404">
+        <num>RCW 82.04.2404</num>
+        <heading>Manufacturers—Processors for hire—Semiconductor materials. (Expires January 1, 2034.)</heading>
+        <subsection eId="sec_82_04_2404__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of manufacturing or processing for hire semiconductor materials, as to such persons the amount of tax with respect to such business is, in the case of manufacturers, equal to the value of the product manufactured, or, in the case of processors for hire, equal to the gross income of the business, multiplied by the rate of 0.275 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section &quot;semiconductor materials&quot; means silicon crystals, silicon ingots, raw polished semiconductor wafers, and compound semiconductor wafers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A person reporting under the tax rate provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any person who has claimed the preferential tax rate under this section must reimburse the department for 50 percent of the amount of the tax preference under this section, if the number of persons employed by the person claiming the tax preference is less than 90 percent of the person's three-year employment average for the three years immediately preceding the year in which the preferential tax rate is claimed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section expires January 1, 2034.
+[
+2024 c 261 s 10
+;
+2021 c 145 s 6
+;
+2017 3rd sp.s. c 37 s 503
+; (2017 3rd sp.s. c 37 s 502 expired January 1, 2018);
+2017 c 135 s 10
+;
+2010 c 114 s 105
+;
+2006 c 84 s 2
+.]
+NOTES:
+Tax preference performance statement
+—
+2024 c 261 s 10:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for section 10, chapter 261, Laws of 2024. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax preference performance statement in section 1, chapter 139, Laws of 2020 applies to the expansion of the tax preference in section 10, chapter 261, Laws of 2024.&quot; [
+2024 c 261 s 14
+.]
+Effective date
+—
+2024 c 261:
+See note following RCW
+82.04.241
+.
+Effective date
+—
+2017 3rd sp.s. c 37 ss 102-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+&quot;Sections 201, 203, 204, 205, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, and 707 of this act and parts I and VIII of this act take effect January 1, 2018.&quot; [
+2017 3rd sp.s. c 37 s 1404
+.]
+Tax preference performance statement
+—
+2020 c 139; 2017 3rd sp.s. c 37 ss 502 and 503:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences contained in sections 502 and 503, chapter 37, Laws of 2017 3rd sp. sess. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, improve industry competitiveness, and create or retain jobs, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_04_2404__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through (c).</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to maintain and expand business in the semiconductor cluster. It is the legislature's intent to extend by ten years the preferential tax rates for manufacturers and processors for hire of semiconductor materials in order to maintain and grow jobs in the semiconductor cluster.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that:</p>
+          </content>
+          <subsection eId="sec_82_04_2404__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Since October 19, 2017, at least one project in the semiconductor cluster has located in Clark county, and that this project generates at least two thousand five hundred high-wage jobs, all of which pay twenty dollars per hour or more and at least eighty percent of which pay thirty-five dollars per hour or more; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_2404__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>the number of jobs in the semiconductor cluster in Washington has increased since October 19, 2017, then the legislature intends to extend the expiration date of the tax preference.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to data from the department of revenue's annual survey for tax years ending before January 1, 2020, and annual tax performance report for subsequent tax years.&quot; [
+2020 c 139 s 1
+;
+2017 3rd sp.s. c 37 s 501
+.]
+Expiration date
+—
+2017 3rd sp.s. c 37 ss 502, 505, 507, 509, 511, 513, 515, 517, 519, 521, 523, and 525:
+&quot;Sections 502, 505, 507, 509, 511, 513, 515, 517, 519, 521, 523, and 525 of this act expire January 1, 2018.&quot; [
+2017 3rd sp.s. c 37 s 1405
+.]
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+2007 c 54 s 22
+; 2006 c 84 ss 2-8:
+&quot;</p>
+          </content>
+          <subsection eId="sec_82_04_2404__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Sections 2 through 8, chapter 84, Laws of 2006 and section 22, chapter 54, Laws of 2007 are contingent upon the siting, expansion, or renovation, and commercial operation of a significant semiconductor materials fabrication facility or facilities in the state of Washington.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_2404__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_2404__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Commercial operation&quot; means the equipment and process qualifications in the new, expanded, or renovated building are completed and production for sale has begun.</p>
+            </content>
+            <subsection eId="sec_82_04_2404__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Semiconductor materials fabrication&quot; means the manufacturing of silicon crystals, silicon ingots that are at least three hundred millimeters in diameter, raw polished semiconductor wafers that are at least three hundred millimeters in diameter, and compound semiconductor wafers that are at least three hundred millimeters in diameter.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_2404__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>&quot;Significant&quot; means that the combined investment or investments by a single person, occurring at any time before December 1, 2006, of new buildings, expansion or renovation of existing buildings, tenant improvements to buildings, and machinery and equipment in the buildings, at the commencement of commercial production, is at least three hundred fifty million dollars based on actual expenditures by the person.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except for section 1 of this act and this section, this act takes effect the first day of the month immediately following the department's determination that the contingency in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section has occurred. The department shall make its determination regarding the contingency in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section based on information provided to the department by affected taxpayers or representatives of affected taxpayers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2404__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department of revenue shall provide notice of the effective date of sections 2 through 8, chapter 84, Laws of 2006 [December 1, 2006] to affected taxpayers, the legislature, the office of the code reviser, and others as deemed appropriate by the department.&quot; [
+2007 c 54 s 29
+;
+2006 c 84 s 9
+.]
+Findings
+—
+Intent
+—
+2006 c 84:
+&quot;The legislature finds that the welfare of the people of the state of Washington is positively impacted through the encouragement and expansion of family wage employment in the state's manufacturing industries. The legislature further finds that targeting tax incentives to focus on key industry clusters is an important business climate strategy. Washington state has recognized the semiconductor industry, which includes the design and manufacture of semiconductor materials, as one of the state's existing key industry clusters. Businesses in this cluster in the state of Washington are facing increasing pressure to expand elsewhere. The sales and use tax exemptions for manufacturing machinery and equipment enacted by the 1995 legislature improved Washington's ability to compete with other states for manufacturing investment. In 2003 the legislature enacted comprehensive tax incentives for the semiconductor cluster that address activities of the lead product industry and its suppliers and customers. These tax incentives are contingent on the investment of at least one billion dollars in a new semiconductor microchip fabrication facility in this state, which has not occurred. This investment criteria failed to recognize the significance of potential investment in the advanced semiconductor materials sector. Therefore, the legislature intends to complement existing comprehensive tax incentives for the semiconductor cluster to address activities of the advanced semiconductor materials product industry and its suppliers and customers. Tax incentives for the semiconductor cluster are important in both retention and expansion of existing businesses and</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.25.085"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.085"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.25.085/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.085/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.25.085/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.085/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_25_085">
+        <num>RCW 82.25.085</num>
+        <heading>Manufacturer's representatives</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.25
+&gt;
+Section 82.25.085
+82.25.080
+&lt;&lt; 
+        82.25.085 &gt;&gt;
+82.25.090
+PDF
+RCW
+82.25.085
+Manufacturer's representatives.
+A manufacturer that has manufacturer's representatives who sell or distribute the manufacturer's vapor products in this state must provide the board a list of the names and addresses of all such representatives and must ensure that the list provided to the board is kept current. A manufacturer's representative is not authorized to distribute or sell vapor products in this state unless the manufacturer that hired the representative has a valid distributor's license under chapter
+70.345
+RCW and that manufacturer provides the board a current list of all of its manufacturer's representatives as required by this section. A manufacturer's representative must carry a copy of the distributor's license of the manufacturer that hired the representative at all times when selling or distributing the manufacturer's vapor products.
+[
+2019 c 445 s 117
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

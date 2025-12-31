@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.830"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.830"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.830/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.830/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.830/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.830/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_830">
+        <num>RCW 82.08.830</num>
+        <heading>Exemptions—Sales at camp or conference center by nonprofit organization</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.830
+82.08.820
+&lt;&lt; 
+        82.08.830 &gt;&gt;
+82.08.832
+PDF
+RCW
+82.08.830
+Exemptions
+—
+Sales at camp or conference center by nonprofit organization.
+The tax levied by RCW
+82.08.020
+shall not apply to a sale made at a camp or conference center if the gross income from the sale is exempt under RCW
+82.04.363
+.
+[
+1997 c 388 s 2
+.]
+NOTES:
+Effective date
+—
+1997 c 388:
+See note following RCW
+82.04.363
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

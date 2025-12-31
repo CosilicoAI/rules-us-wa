@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.280"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.280"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.280/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.280/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.280/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.280/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_280">
+        <num>RCW 74.20.280</num>
+        <heading>Central unit for information and administration—Cooperation enjoined—Availability of records</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.280
+74.20.260
+&lt;&lt; 
+        74.20.280 &gt;&gt;
+74.20.300
+PDF
+RCW
+74.20.280
+Central unit for information and administration
+—
+Cooperation enjoined
+—
+Availability of records.
+The department is authorized and directed to establish a central unit to serve as a registry for the receipt of information, for answering interstate inquiries concerning the parents of dependent children, to coordinate and supervise departmental activities in relation to such parents, to assure effective cooperation with law enforcement agencies, and to perform other functions authorized by state and federal support enforcement and child custody statutes and regulations.
+To effectuate the purposes of this section, the secretary may request from state, county and local agencies all information and assistance as authorized by this chapter. Upon the request of the department of social and health services, all state, county and city agencies, officers and employees shall cooperate in the location of the parents of a dependent child and shall supply the department with all information relative to the location, income and property of such parents, notwithstanding any provision of law making such information confidential.
+Any records established pursuant to the provisions of this section shall be available only to the attorney general, prosecuting attorneys, courts having jurisdiction in support and/or abandonment proceedings or actions, or other authorized agencies or persons for use consistent with the intent of state and federal support enforcement and child custody statutes and regulations.
+[
+1983 1st ex.s. c 41 s 15
+;
+1979 c 141 s 370
+;
+1963 c 206 s 13
+.]
+NOTES:
+Severability
+—
+1983 1st ex.s. c 41:
+See note following RCW
+26.09.060
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

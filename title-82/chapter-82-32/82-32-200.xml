@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.200"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_200">
+        <num>RCW 82.32.200</num>
+        <heading>Stay of collection—Bond—Interest</heading>
+        <subsection eId="sec_82_32_200__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>When any assessment or additional assessment has been made, the taxpayer may obtain a stay of collection, under such circumstances and for such periods as the department of revenue may by general regulation provide, of the whole or any part thereof, by filing with the department a bond in an amount, not exceeding twice the amount on which stay is desired, and with sureties as the department deems necessary, conditioned for the payment of the amount of the assessments, collection of which is stayed by the bond, together with the interest thereon at the rate of one percent of the amount of such assessment for each thirty days or portion thereof from the date the bond is filed until the date of payment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_200__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Interest imposed under this section after January 1, 1997, shall be computed on a daily basis on the amount of tax at the rate as computed under RCW
+82.32.050</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

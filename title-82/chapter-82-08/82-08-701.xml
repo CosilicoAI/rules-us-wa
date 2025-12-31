@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.701"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.701"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.701/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.701/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.701/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.701/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_701">
+        <num>RCW 82.08.701</num>
+        <heading>Exemptions—Grantee's receipt of salmon recovery grants</heading>
+        <subsection eId="sec_82_08_701__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to a grantee's receipt of amounts received as grants that are deductible under RCW
+82.04.4339
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_701__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Nothing in this section may be construed to:</p>
+          </content>
+          <subsection eId="sec_82_08_701__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Imply that the tax levied by RCW
+82.08.020
+applies to any circumstance not described in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_701__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section; or</p>
+          </content>
+          <subsection eId="sec_82_08_701__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide an exemption from the tax levied by RCW
+82.08.020
+for the grantee's use of grant proceeds to acquire products in a transaction meeting the definition of &quot;retail sale&quot; in RCW
+82.04.050
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_701__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_08_701__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Grantee&quot; means the recipient of a grant deductible under RCW
+82.04.4339
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_701__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Product&quot; means the same as in RCW
+82.32.023
+.
+[
+2021 c 143 s 3
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+Effective date
+—
+2021 c 143:
+See notes following RCW
+82.04.4339
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

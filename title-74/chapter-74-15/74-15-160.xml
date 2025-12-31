@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.160"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.160"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.160/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.160/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.160/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.160/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_160">
+        <num>RCW 74.15.160</num>
+        <heading>Continuation of existing licensing rules</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.160
+74.15.150
+&lt;&lt; 
+        74.15.160 &gt;&gt;
+74.15.170
+PDF
+RCW
+74.15.160
+Continuation of existing licensing rules.
+Existing rules for licensing adopted pursuant to *chapter
+74.14
+RCW, sections 74.14.010 through
+74.14.150
+, chapter 26, Laws of 1959, shall remain in force and effect until new rules are adopted under chapter
+74.15
+RCW and RCW
+74.13.031
+, but not thereafter.
+[
+1982 c 118 s 14
+;
+1967 c 172 s 16
+.]
+NOTES:
+*Reviser's note:
+Chapter
+74.14
+RCW was repealed by
+1967 c 172 s 23
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.127"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.127"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.127/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.127/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.127/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.127/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_127">
+        <num>RCW 74.15.127</num>
+        <heading>Expedited foster licensing process</heading>
+        <subsection eId="sec_74_15_127__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall design and implement an expedited foster licensing process.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_127__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The expedited foster licensing process described in this section shall be available to individuals who:</p>
+          </content>
+          <subsection eId="sec_74_15_127__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Were licensed within the last five years;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_127__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Were not the subject of an adverse licensing action or a voluntary relinquishment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_127__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Seek licensure for the same residence for which he or she was previously licensed provided that any changes to family constellation since the previous license is limited to individuals leaving the family constellation; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_127__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Apply to the same agency for which he or she was previously licensed, with the understanding that the agency must be agreeable to supervise the home.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_127__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall make every effort to ensure that individuals qualifying for and seeking an expedited license are able to become licensed within forty days of the department receiving his or her application.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_127__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall only issue a foster license pursuant to this section after receiving a completed fingerprint-based background check, and may delay issuance of an expedited license solely based on awaiting the results of a background check.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_127__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department may issue a provisional expedited license pursuant to this section before completing a home study, but shall complete the home study as soon as possible after issuing a provisional expedited license.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_127__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department and its officers, agents, employees, and volunteers are not liable for injuries caused by the expedited foster licensing process.
+[
+2017 3rd sp.s. c 20 s 4
+.]
+NOTES:
+Construction
+—
+Competitive procurement process and contract provisions
+—
+Conflict with federal requirements and Indian Child Welfare Act of 1978
+—
+2017 3rd sp.s. c 20:
+See notes following RCW
+74.13.270
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

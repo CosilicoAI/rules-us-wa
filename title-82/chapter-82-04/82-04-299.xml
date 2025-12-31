@@ -1,0 +1,687 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.299"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.299"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.299/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.299/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.299/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.299/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_299">
+        <num>RCW 82.04.299</num>
+        <heading>Workforce education investment surcharge (as amended by 2025 c 401). (&lt;i&gt;Effective January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_299__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>, a workforce education investment surcharge is imposed on select advanced computing businesses. The surcharge is equal to the gross income of the business subject to the tax under RCW
+82.04.290</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>, multiplied by the rate of 1.22 percent.</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>paid by all members of an affiliated group be more than ((
+nine million dollars
+))
+$9,000,000
+annually.</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For persons subject to the surcharge imposed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>that report under one or more tax classifications, the surcharge applies only to business activities taxed under RCW
+82.04.290</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>.</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The surcharge imposed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>must be reported and paid on a quarterly basis in a manner as required by the department. Returns and amounts payable under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>are due by the last day of the month immediately following the end of the reporting period covered by the return. All other taxes must be reported and paid as required under RCW
+82.32.045
+.</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To aid in the effective administration of the surcharge in this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the department establishes, by clear, cogent, and convincing evidence, that one or more members of an affiliated group, with intent to evade the surcharge under this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>is in lieu of and not in addition to the evasion penalty under RCW
+82.32.090</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Advanced computing&quot; means designing or developing computer software or computer hardware, whether directly or contracting with another person, including: Modifications to computer software or computer hardware; cloud computing services; or operating as a marketplace facilitator as defined by RCW
+82.08.0531
+, an online search engine, or online social networking platform;</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Affiliate&quot; and &quot;affiliated&quot; means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>&quot;Affiliated group&quot; means a group of two or more persons that are affiliated with each other;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>&quot;Cloud computing services&quot; means on-demand delivery of computing resources, such as networks, servers, storage, applications, and services, over the internet;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>&quot;Control&quot; means the possession, directly or indirectly, of more than ((
+fifty
+))
+50
+percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise; and
+(vi) &quot;Select advanced computing business&quot; means a person who is a member of an affiliated group with at least one member of the affiliated group engaging in the business of advanced computing, and the affiliated group has worldwide gross revenue of more than ((
+twenty-five billion dollars
+))
+$25,000,000,000
+during the immediately preceding calendar year. A person who is primarily engaged within this state in the provision of commercial mobile service, as that term is defined in 47 U.S.C. Sec. 332(d)</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>&quot;Select advanced computing business&quot; means a person who is a member of an affiliated group with at least one member of the affiliated group engaging in the business of advanced computing, and the affiliated group has worldwide gross revenue of more than ((
+twenty-five billion dollars
+))
+$25,000,000,000
+during the immediately preceding calendar year. A person who is primarily engaged within this state in the provision of commercial mobile service, as that term is defined in 47 U.S.C. Sec. 332</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The workforce education investment surcharge under this section does not apply to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any hospital as defined in RCW
+70.41.020
+, including any hospital that comes within the scope of chapter
+71.12
+RCW if the hospital is also licensed under chapter
+70.41
+RCW; or</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A provider clinic offering primary care, multispecialty and surgical services, including behavioral health services, and any affiliate of the provider clinic if the affiliate is an organization that offers health care services or provides administrative support for a provider clinic, or is an independent practice association or accountable care organization.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The exemptions under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>do not apply to amounts received by any member of an affiliated group other than the businesses described in</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of the exemption in (a)</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_2__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection:</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Health care services&quot; means services offered by health care providers relating to the prevention, cure, or treatment of illness, injury, or disease.</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Primary care&quot; means wellness and prevention services and the diagnosis and treatment of health conditions.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Revenues from the surcharge under this section must be deposited directly into the workforce education investment account established in RCW
+43.79.195
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department has the authority to determine through an audit or other investigation whether a person is subject to the surcharge imposed in this section.
+[
+2025 c 401 s 5
+. Prior:
+2022 c 170 s 1
+;
+2022 c 56 s 4
+;
+2020 c 2 s 4
+;
+2019 c 406 s 74
+.]
+NOTES:
+Intent
+—
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Effective date
+—
+2025 c 401:
+See notes following RCW
+82.04.43397
+.
+PDF
+RCW
+82.04.299
+Workforce education investment surcharge
+(as amended by 2025 c 420)
+.
+(Effective January 1, 2026.)</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning with business activities occurring on or after April 1, 2020, in addition to the taxes imposed under RCW
+82.04.290</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Beginning April 1, 2020, through December 31, 2025, the
+surcharge is equal to the gross income of the business subject to the tax under RCW
+82.04.290</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Beginning January 1, 2026, the surcharge is equal to the gross income of the business subject to the tax under RCW
+82.04.290</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>paid by all members of an affiliated group be more than ((
+nine million dollars
+))
+$75,000,000
+annually.</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For persons subject to the surcharge imposed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>that report under one or more tax classifications, the surcharge applies only to business activities taxed under RCW
+82.04.290</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The surcharge imposed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>must be reported and paid on a quarterly basis in a manner as required by the department. Returns and amounts payable under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>are due by the last day of the month immediately following the end of the reporting period covered by the return. All other taxes must be reported and paid as required under RCW
+82.32.045
+.</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To aid in the effective administration of the surcharge in this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the department establishes, by clear, cogent, and convincing evidence, that one or more members of an affiliated group, with intent to evade the surcharge under this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>is in lieu of and not in addition to the evasion penalty under RCW
+82.32.090</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Advanced computing&quot; means designing or developing computer software or computer hardware, whether directly or contracting with another person, including: Modifications to computer software or computer hardware; cloud computing services; or operating as a marketplace facilitator as defined by RCW
+82.08.0531
+, an online search engine, or online social networking platform;</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Affiliate&quot; and &quot;affiliated&quot; means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>&quot;Affiliated group&quot; means a group of two or more persons that are affiliated with each other;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>&quot;Cloud computing services&quot; means on-demand delivery of computing resources, such as networks, servers, storage, applications, and services, over the internet;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>&quot;Control&quot; means the possession, directly or indirectly, of more than ((
+fifty
+))
+50
+percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise; and
+(vi) &quot;Select advanced computing business&quot; means a person who is a member of an affiliated group with at least one member of the affiliated group engaging in the business of advanced computing, and the affiliated group has worldwide gross revenue of more than ((
+twenty-five billion dollars
+))
+$25,000,000,000
+during the immediately preceding calendar year. A person who is primarily engaged within this state in the provision of commercial mobile service, as that term is defined in 47 U.S.C. Sec. 332(d)</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>&quot;Select advanced computing business&quot; means a person who is a member of an affiliated group with at least one member of the affiliated group engaging in the business of advanced computing, and the affiliated group has worldwide gross revenue of more than ((
+twenty-five billion dollars
+))
+$25,000,000,000
+during the immediately preceding calendar year. A person who is primarily engaged within this state in the provision of commercial mobile service, as that term is defined in 47 U.S.C. Sec. 332</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The workforce education investment surcharge under this section does not apply to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any hospital as defined in RCW
+70.41.020
+, including any hospital that comes within the scope of chapter
+71.12
+RCW if the hospital is also licensed under chapter
+70.41
+RCW; or</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A provider clinic offering primary care, multispecialty and surgical services, including behavioral health services, and any affiliate of the provider clinic if the affiliate is an organization that offers health care services or provides administrative support for a provider clinic, or is an independent practice association or accountable care organization.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The exemptions under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>do not apply to amounts received by any member of an affiliated group other than the businesses described in</p>
+          </content>
+          <subsection eId="sec_82_04_299__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of the exemption in (a)</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_2__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection:</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_299__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Health care services&quot; means services offered by health care providers relating to the prevention, cure, or treatment of illness, injury, or disease.</p>
+            </content>
+            <subsection eId="sec_82_04_299__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Primary care&quot; means wellness and prevention services and the diagnosis and treatment of health conditions.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Revenues from the surcharge under this section must be deposited directly into the workforce education investment account established in RCW
+43.79.195
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Beginning in fiscal year 2028, and each year thereafter, when the number of qualified Washington state applicants exceeds the available enrollments by 100 at computer science engineering degree programs in four-year state universities, then a commensurate number of computer science and engineering degree enrollments at those state universities must be automatically added and funded for the surcharge imposed under this section to accommodate the additional demand.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_299__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department has the authority to determine through an audit or other investigation whether a person is subject to the surcharge imposed in this section.
+[
+2025 c 420 s 301
+. Prior:
+2022 c 170 s 1
+;
+2022 c 56 s 4
+;
+2020 c 2 s 4
+;
+2019 c 406 s 74
+.]
+NOTES:
+Reviser's note:
+RCW
+82.04.299
+was amended twice during the 2025 legislative session, each without reference to the other. For rule of construction concerning sections amended more than once during the same legislative session, see RCW
+1.12.025
+.
+Effective date
+—
+2025 c 420 ss 114, 201, 301, 401, and 402:
+See note following RCW
+82.32.875
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Necessity of act
+—
+2025 c 420:
+See notes following RCW
+82.04.230
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2022 c 170:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do apply to this act.&quot; [
+2022 c 170 s 2
+.]
+Effective date
+—
+2022 c 170:
+&quot;This act takes effect July 1, 2022.&quot; [
+2022 c 170 s 3
+.]
+Retroactive application
+—
+2022 c 56 s 4:
+&quot;Section 4 of this act applies retroactively to January 1, 2020.&quot; [
+2022 c 56 s 14
+.]
+Retroactive application
+—
+2020 c 2 s 4:
+&quot;Section 4 of this act applies both prospectively and retroactively to January 1, 2020.&quot; [
+2020 c 2 s 8
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Effective dates
+—
+2020 c 2:
+See notes following RCW
+82.04.290
+.
+Effective date
+—
+2019 c 406 s 74:
+&quot;Section 74 of this act takes effect January 1, 2020.&quot; [
+2019 c 406 s 77
+.]
+Findings
+—
+Intent
+—
+2019 c 406:
+See note following RCW
+43.79.195
+.
+Findings
+—
+Short title
+—
+2019 c 406:
+See notes following RCW
+28B.92.200
+.
+Findings
+—
+2019 c 406:
+See note following RCW
+28B.94.020
+.
+Findings
+—
+Intent
+—
+2019 c 406:
+See note following RCW
+28C.30.050
+.
+Findings
+—
+Intent
+—
+2019 c 406:
+See note following RCW
+43.216.135
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

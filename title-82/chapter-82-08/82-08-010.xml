@@ -1,0 +1,423 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_010">
+        <num>RCW 82.08.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_08_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Buyer,&quot; &quot;purchaser,&quot; and &quot;consumer&quot; include, without limiting the scope hereof, every individual, receiver, assignee, trustee in bankruptcy, trust, estate, firm, copartnership, joint venture, club, company, joint stock company, business trust, corporation, association, society, or any group of individuals acting as a unit, whether mutual, cooperative, fraternal, nonprofit, or otherwise, municipal corporation, quasi municipal corporation, and also the state, its departments and institutions and all political subdivisions thereof, irrespective of the nature of the activities engaged in or functions performed, and also the United States or any instrumentality thereof;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Delivery charges&quot; means charges by the seller of personal property or services for preparation and delivery to a location designated by the purchaser of personal property or services including, but not limited to, transportation, shipping, postage, handling, crating, and packing;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Direct mail&quot; means printed material delivered or distributed by United States mail or other delivery service to a mass audience or to addressees on a mailing list provided by the purchaser or at the direction of the purchaser when the cost of the items are not billed directly to the recipients. &quot;Direct mail&quot; includes tangible personal property supplied directly or indirectly by the purchaser to the direct mail seller for inclusion in the package containing the printed material. &quot;Direct mail&quot; does not include multiple items of printed material delivered to a single address;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The meaning attributed in chapter
+82.04
+RCW to the terms &quot;tax year,&quot; &quot;taxable year,&quot; &quot;person,&quot; &quot;company,&quot; &quot;sale,&quot; &quot;sale at wholesale,&quot; &quot;wholesale,&quot; &quot;business,&quot; &quot;engaging in business,&quot; &quot;cash discount,&quot; &quot;successor,&quot; &quot;consumer,&quot; &quot;in this state,&quot; &quot;within this state,&quot; &quot;cannabis,&quot; &quot;useable cannabis,&quot; and &quot;cannabis-infused products&quot; applies equally to the provisions of this chapter;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For the purposes of the taxes imposed under this chapter and under chapter
+82.12
+RCW, &quot;tangible personal property&quot; means personal property that can be seen, weighed, measured, felt, or touched, or that is in any other manner perceptible to the senses. Tangible personal property includes electricity, water, gas, steam, and prewritten computer software;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Extended warranty&quot; has the same meaning as in RCW
+82.04.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The definitions in RCW
+82.04.192
+apply to this chapter;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>For the purposes of the taxes imposed under this chapter and chapter
+82.12
+RCW, whenever the terms &quot;property&quot; or &quot;personal property&quot; are used, those terms must be construed to include digital goods and digital codes unless:</p>
+          </content>
+          <subsection eId="sec_82_08_010__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>It is clear from the context that the term &quot;personal property&quot; is intended only to refer to tangible personal property;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_010__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>It is clear from the context that the term &quot;property&quot; is intended only to refer to tangible personal property, real property, or both; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_010__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To construe the term &quot;property&quot; or &quot;personal property&quot; as including digital goods and digital codes would yield unlikely, absurd, or strained consequences; and</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Retail sale&quot; or &quot;sale at retail&quot; means any sale, lease, or rental for any purpose other than for resale, sublease, or subrent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>The terms &quot;agriculture,&quot; &quot;farming,&quot; &quot;horticulture,&quot; &quot;horticultural,&quot; and &quot;horticultural product&quot; may not be construed to include or relate to cannabis, useable cannabis, or cannabis-infused products unless the applicable term is explicitly defined to include cannabis, useable cannabis, or cannabis-infused products.</p>
+          </content>
+          <subsection eId="sec_82_08_010__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Affiliated person&quot; means a person that, with respect to another person:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_010__subsec_12__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Has an ownership interest of more than five percent, whether direct or indirect, in the other person; or</p>
+            </content>
+            <subsection eId="sec_82_08_010__subsec_12__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Is related to the other person because a third person, or group of third persons who are affiliated persons with respect to each other, holds an ownership interest of more than five percent, whether direct or indirect, in the related persons.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_010__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_010__subsec_12__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Ownership interest&quot; means the possession of equity in the capital, the stock, or the profits of the other person; and</p>
+            </content>
+            <subsection eId="sec_82_08_010__subsec_12__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An indirect ownership interest in a person is an ownership interest in an entity that has an ownership interest in the person or in an entity that has an indirect ownership interest in the person.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Marketplace&quot; means a physical or electronic place, including, but not limited to, a store, a booth, an internet website, a catalog or a dedicated sales software application, where tangible personal property, digital codes and digital products, or services are offered for sale.</p>
+          </content>
+          <subsection eId="sec_82_08_010__subsec_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Marketplace facilitator&quot; means a person that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_010__subsec_14__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Contracts with sellers to facilitate for consideration, regardless of whether deducted as fees from the transaction, the sale of the seller's products through a marketplace owned or operated by the person;</p>
+            </content>
+            <subsection eId="sec_82_08_010__subsec_14__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Engages directly or indirectly, through one or more affiliated persons, in transmitting or otherwise communicating the offer or acceptance between the buyer and seller. For purposes of this subsection, mere advertising does not constitute transmitting or otherwise communicating the offer or acceptance between the buyer and seller; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_010__subsec_14__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Engages directly or indirectly, through one or more affiliated persons, in any of the following activities with respect to the seller's products:
+(A) Payment processing services;
+(B) Fulfillment or storage services;
+(C) Listing products for sale;
+(D) Setting prices;
+(E) Branding sales as those of the marketplace facilitator;
+(F) Taking orders; or
+(G) Providing customer service or accepting or assisting with returns or exchanges.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_010__subsec_14__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Marketplace facilitator&quot; does not include:
+(A) A person who provides internet advertising services, including listing products for sale, so long as the person does not also engage in the activity described in (a)</p>
+            </content>
+            <subsection eId="sec_82_08_010__subsec_14__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>in addition to any of the activities described in</p>
+          </content>
+          <subsection eId="sec_82_08_010__subsec_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>does not apply to a marketplace or that portion of a marketplace that facilitates the retail sale of transient lodging accommodations in homes, apartments, cabins, or other residential dwelling units.</p>
+            </content>
+            <subsection eId="sec_82_08_010__subsec_15__subsec_b__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Marketplace seller&quot; means a seller that makes retail sales through any marketplace operated by a marketplace facilitator, regardless of whether the seller is required to be registered with the department under RCW
+82.32.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_010__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Remote seller&quot; means any seller, including a marketplace facilitator, who does not have a physical presence in this state and makes retail sales to purchasers or facilitates retail sales on behalf of marketplace sellers.
+[
+2022 c 16 s 144
+;
+2021 c 225 s 3
+;
+2019 c 8 s 105
+;
+2014 c 140 s 11
+;
+2010 c 106 s 210
+;
+2009 c 535 s 303
+;
+2007 c 6 s 1302
+; (2007 c 6 s 1301 expired July 1, 2008);
+2006 c 301 s 2
+;
+2005 c 514 s 110
+;
+2004 c 153 s 406
+;
+2003 c 168 s 101
+;
+1985 c 38 s 3
+;
+1985 c 2 s 2
+(Initiative Measure No. 464, approved November 6, 1984);
+1983 1st ex.s. c 55 s 1
+;
+1967 ex.s. c 149 s 18
+;
+1963 c 244 s 1
+;
+1961 c 15 s 82.08.010
+. Prior:</p>
+          </content>
+          <subsection eId="sec_82_08_010__subsec_17__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>1945 c 249 s 4
+;
+1943 c 156 s 6
+;
+1941 c 178 s 8
+;
+1939 c 225 s 7
+;
+1935 c 180 s 17
+; Rem. Supp. 1945 s 8370-17.</p>
+            </content>
+            <subsection eId="sec_82_08_010__subsec_17__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>1935 c 180 s 20
+; RRS s 8370-20.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Retroactive application
+—
+Effective date
+—
+2021 c 225:
+See notes following RCW
+35.87A.010
+.
+Effective date
+—
+2019 c 8 ss 105, 301, 302, 401, and 704:
+&quot;Sections 105, 301, 302, 401, and 704 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2019.&quot; [
+2019 c 8 s 805
+.]
+Existing rights and liability
+—
+Retroactive application
+—
+2019 c 8:
+See notes following RCW
+82.02.250
+.
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Expiration date
+—
+2007 c 6 s 1301:
+&quot;Section 1301 of this act expires July 1, 2008.&quot; [
+2007 c 6 s 1706
+.]
+Effective date
+—
+Act does not affect application of Title
+50
+or
+51
+RCW
+—
+2006 c 301:
+See notes following RCW
+82.32.710
+.
+Effective date
+—
+2005 c 514:
+See note following RCW
+82.04.4272
+.
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.
+Effective dates
+—
+2003 c 168:
+&quot;Sections 101 through 104, 201 through 216, 401 through 412, 501, 502, 601 through 604, 701 through 704, 801, 901, and 902 of this act take effect July 1, 2004. Sections 301 through 305 of this act take effect January 1, 2004.&quot; [
+2003 c 168 s 903
+.]
+Part headings not law
+—
+2003 c 168:
+&quot;Part headings used in this act are not any part of the law.&quot; [
+2003 c 168 s 901
+.]
+Purpose
+—
+1985 c 2:
+&quot;The purpose of this initiative is to reduce the amount on which sales tax is paid by excluding the trade-in value of certain property from the amount taxable.&quot; [
+1985 c 2 s 1</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

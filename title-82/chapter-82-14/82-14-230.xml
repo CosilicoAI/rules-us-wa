@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.230"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.230"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.230/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.230/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.230/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.230/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_230">
+        <num>RCW 82.14.230</num>
+        <heading>Natural or manufactured gas—Cities may impose use tax</heading>
+        <subsection eId="sec_82_14_230__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The governing body of any city, while not required by legislative mandate to do so, may, by resolution or ordinance for the purposes authorized by this chapter, fix and impose on every person a use tax for the privilege of using natural gas or manufactured gas in the city as a consumer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_230__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax is imposed in an amount equal to the value of the article used by the taxpayer multiplied by the rate in effect for the tax on natural gas businesses under RCW
+35.21.870
+in the city in which the article is used. The &quot;value of the article used,&quot; does not include any amounts that are paid for the hire or use of a natural gas business in transporting the gas subject to tax under this subsection if those amounts are subject to tax under RCW
+35.21.870
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_230__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax imposed under this section does not apply to the use of natural or manufactured gas if the person who sold the gas to the consumer has paid a tax under RCW
+35.21.870
+with respect to the gas for which exemption is sought under this subsection.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_230__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>There is a credit against the tax levied under this section in an amount equal to any tax paid by:</p>
+          </content>
+          <subsection eId="sec_82_14_230__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The person who sold the gas to the consumer when that tax is a gross receipts tax similar to that imposed pursuant to RCW
+35.21.870
+by another municipality or other unit of local government with respect to the gas for which a credit is sought under this subsection; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_230__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The person consuming the gas upon which a use tax similar to the tax imposed by this section was paid to another municipality or other unit of local government with respect to the gas for which a credit is sought under this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_230__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The use tax imposed must be paid by the consumer. The administration and collection of the tax imposed is pursuant to RCW
+82.14.050
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_230__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The tax authorized by this section does not apply to the use of natural gas, compressed natural gas, or liquefied natural gas, if the consumer uses the gas for transportation fuel as defined in RCW
+82.16.310
+.
+[
+2014 c 216 s 305
+;
+2010 c 127 s 5
+;
+1989 c 384 s 2
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Intent
+—
+Effective date
+—
+1989 c 384:
+See notes following RCW
+82.12.022
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

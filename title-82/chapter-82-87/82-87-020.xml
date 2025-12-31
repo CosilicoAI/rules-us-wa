@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_020">
+        <num>RCW 82.87.020</num>
+        <heading>Definitions. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_87_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Adjusted capital gain&quot; means federal net long-term capital gain:</p>
+          </content>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Plus any amount of long-term capital loss from a sale or exchange that is exempt from the tax imposed in this chapter, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Plus any amount of long-term capital loss from a sale or exchange that is not allocated to Washington under RCW
+82.87.100
+, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Plus any amount of loss carryforward from a sale or exchange that is not allocated to Washington under RCW
+82.87.100
+, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Less any amount of long-term capital gain from a sale or exchange that is not allocated to Washington under RCW
+82.87.100
+, to the extent such gain was included in calculating federal net long-term capital gain; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Less any amount of long-term capital gain from a sale or exchange that is exempt from the tax imposed in this chapter, to the extent such gain was included in calculating federal net long-term capital gain.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Capital asset&quot; has the same meaning as provided by Title 26 U.S.C. Sec. 1221 of the internal revenue code and also includes any other property if the sale or exchange of the property results in a gain that is treated as a long-term capital gain under Title 26 U.S.C. Sec. 1231 or any other provision of the internal revenue code.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Federal net long-term capital gain&quot; means the net long-term capital gain reportable for federal income tax purposes determined as if Title 26 U.S.C. Secs. 55 through 59, 1400Z-1, and 1400Z-2 of the internal revenue code did not exist.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Individual&quot; means a natural person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Internal revenue code&quot; means the United States internal revenue code of 1986, as amended, as of July 25, 2021, or such subsequent date as the department may provide by rule consistent with the purpose of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Long-term capital asset&quot; means a capital asset that is held for more than one year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Long-term capital gain&quot; means gain from the sale or exchange of a long-term capital asset.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Long-term capital loss&quot; means a loss from the sale or exchange of a long-term capital asset.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Real estate&quot; means land and fixtures affixed to land. &quot;Real estate&quot; also includes used mobile homes, used park model trailers, used floating homes, and improvements constructed upon leased land.</p>
+          </content>
+          <subsection eId="sec_82_87_020__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Resident&quot; means an individual:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Who is domiciled in this state during the taxable year, unless the individual (A) maintained no permanent place of abode in this state during the entire taxable year, (B) maintained a permanent place of abode outside of this state during the entire taxable year, and (C) spent in the aggregate not more than 30 days of the taxable year in this state; or</p>
+            </content>
+            <subsection eId="sec_82_87_020__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Who is not domiciled in this state during the taxable year, but maintained a place of abode and was physically present in this state for more than 183 days during the taxable year.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;day&quot; means a calendar day or any portion of a calendar day.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An individual who is a resident under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection is a resident for that portion of a taxable year in which the individual was domiciled in this state or maintained a place of abode in this state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Taxable year&quot; means the taxpayer's taxable year as determined under the internal revenue code.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Taxpayer&quot; means an individual subject to tax under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Washington capital gains&quot; means an individual's adjusted capital gain, as modified in RCW
+82.87.060
+, for each return filed under this chapter.
+[
+2021 c 196 s 4
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.
+PDF
+RCW
+82.87.020
+Definitions.
+(Effective January 1, 2026.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Adjusted capital gain&quot; means federal net long-term capital gain:</p>
+          </content>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Plus any amount of long-term capital loss from a sale or exchange that is exempt from the tax imposed in this chapter, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Plus any amount of long-term capital loss from a sale or exchange that is not allocated to Washington under RCW
+82.87.100
+, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Plus any amount of long-term capital loss carryover that is carried forward from a sale or exchange that is not allocated to Washington under RCW
+82.87.100
+, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Plus any amount of long-term capital loss carryover that is carried forward from a sale or exchange that is exempt from the tax imposed in this chapter, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Plus any amount of long-term capital loss carryover that is carried forward from a sale or exchange that occurred before January 1, 2022, to the extent such loss was included in calculating federal net long-term capital gain;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Plus any amount of long-term capital gain or loss from the sale or exchange of a section 1256 contract held for more than one year not included in the calculation of federal net long-term capital gain that would otherwise be included if Title 26 U.S.C. Sec. 1256 of the internal revenue code did not exist;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Less any amount of long-term capital gain from a sale or exchange that is not allocated to Washington under RCW
+82.87.100
+, to the extent such gain was included in calculating federal net long-term capital gain; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Less any amount of long-term capital gain from a sale or exchange that is exempt from the tax imposed in this chapter, to the extent such gain was included in calculating federal net long-term capital gain.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Capital asset&quot; has the same meaning as provided by Title 26 U.S.C. Sec. 1221 of the internal revenue code and also includes any other property if the sale or exchange of the property results in a gain that is treated as a long-term capital gain under Title 26 U.S.C. Sec. 1231 or any other provision of the internal revenue code.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Federal net long-term capital gain&quot; means the net long-term capital gain reportable for federal income tax purposes determined as if Title 26 U.S.C. Secs. 55 through 59, 1256, 1400Z-1, and 1400Z-2 of the internal revenue code did not exist.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Individual&quot; means a natural person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Intangible personal property&quot; means personal property that is not tangible personal property.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Internal revenue code&quot; means the United States internal revenue code of 1986, as amended, as of July 25, 2021, or such subsequent date as the department may provide by rule consistent with the purpose of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Long-term capital asset&quot; means a capital asset that is held for more than one year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Long-term capital gain&quot; means gain from the sale or exchange of a long-term capital asset.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Long-term capital loss&quot; means a loss from the sale or exchange of a long-term capital asset.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Real estate&quot; means land and fixtures affixed to land. &quot;Real estate&quot; also includes used mobile homes, used park model trailers, used floating homes, and improvements constructed upon leased land.</p>
+          </content>
+          <subsection eId="sec_82_87_020__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Resident&quot; means an individual:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_10__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Who is domiciled in this state during the taxable year, unless the individual (A) maintained no permanent place of abode in this state during the entire taxable year, (B) maintained a permanent place of abode outside of this state during the entire taxable year, and (C) spent in the aggregate not more than 30 days of the taxable year in this state; or</p>
+            </content>
+            <subsection eId="sec_82_87_020__subsec_10__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Who is not domiciled in this state during the taxable year, but maintained a place of abode and was physically present in this state for more than 183 days during the taxable year.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;day&quot; means a calendar day or any portion of a calendar day.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An individual who is a resident under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_020__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection is a resident for that portion of a taxable year in which the individual was domiciled in this state or maintained a place of abode in this state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Section 1256 contract&quot; has the same meaning as provided by Title 26 U.S.C. Sec. 1256 of the internal revenue code.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Tangible personal property&quot; means personal property that can be seen, weighed, measured, felt, or touched. &quot;Tangible personal property&quot; does not include steam, electricity, or electrical energy.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Taxable year&quot; means the taxpayer's taxable year as determined under the internal revenue code.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Taxpayer&quot; means an individual subject to tax under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_020__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Washington capital gains&quot; means an individual's adjusted capital gain, as modified in RCW
+82.87.060
+, for each return filed under this chapter.
+[
+2025 c 409 s 4
+;
+2021 c 196 s 4
+.]
+NOTES:
+Effective date
+—
+2025 c 409 ss 3, 4, 8, 10, and 15:
+See note following RCW
+82.87.160
+.
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

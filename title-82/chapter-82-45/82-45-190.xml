@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.190"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.190"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.190/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.190/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.190/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.190/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_190">
+        <num>RCW 82.45.190</num>
+        <heading>Exemptions—State route No. 16 corridor transportation systems and facilities</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.45
+&gt;
+Section 82.45.190
+82.45.180
+&lt;&lt; 
+        82.45.190 &gt;&gt;
+82.45.195
+PDF
+RCW
+82.45.190
+Exemptions
+—
+State route No. 16 corridor transportation systems and facilities.
+Sales of the state route number 16 corridor transportation systems and facilities constructed under chapter
+47.46
+RCW are exempt from tax under this chapter.
+[
+1998 c 179 s 7
+.]
+NOTES:
+Finding
+—
+1998 c 179:
+See note following RCW
+35.21.718
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

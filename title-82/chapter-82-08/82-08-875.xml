@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.875"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.875"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.875/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.875/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.875/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.875/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_875">
+        <num>RCW 82.08.875</num>
+        <heading>Exemptions—Automotive adaptive equipment. (Expires July 1, 2028.)</heading>
+        <subsection eId="sec_82_08_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by RCW
+82.08.020
+does not apply to sales to eligible purchasers of prescribed add-on automotive adaptive equipment, including charges incurred for labor and services rendered in respect to the installation and repairing of such equipment. The exemption provided in this section only applies if the eligible purchaser is reimbursed in whole or part for the purchase by the United States department of veterans affairs or other federal agency, and the reimbursement is paid directly by that federal agency to the seller.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sellers making tax-exempt sales under this section must:</p>
+          </content>
+          <subsection eId="sec_82_08_875__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Obtain an exemption certificate from the eligible purchaser in a form and manner prescribed by the department. The seller must retain a copy of the exemption certificate for the seller's files. In lieu of an exemption certificate, a seller may capture the relevant data elements as allowed under the streamlined sales and use tax agreement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>File their tax return with the department electronically; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Report their total gross sales on their return and deduct the exempt sales under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section from their reported gross sales.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, the following definitions apply unless the context clearly requires otherwise:</p>
+          </content>
+          <subsection eId="sec_82_08_875__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Add-on automotive adaptive equipment&quot; means equipment installed in, and modifications made to, a motor vehicle that are necessary to assist physically challenged persons to enter, exit, or safely operate a motor vehicle. The term includes but is not limited to wheelchair lifts, wheelchair restraints, ramps, under vehicle lifts, power door openers, power seats, lowered floors, raised roofs, raised doors, hand controls, left foot gas pedals, chest and shoulder harnesses, parking brake extensions, dual battery systems, steering devices, reduced and zero effort steering and braking, voice-activated controls, and digital driving systems. The term does not include motor vehicles and equipment installed in a motor vehicle by the manufacturer of the motor vehicle.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Eligible purchaser&quot; means a veteran, or member of the armed forces serving on active duty, who is disabled, regardless of whether the disability is service connected as that term is defined by federal statute 38 U.S.C. Sec. 101, as amended, as of January 1, 2018.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Prescribed add-on automotive adaptive equipment&quot; means add-on automotive adaptive equipment prescribed by a physician.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2028.
+[
+2018 c 130 s 3
+;
+2013 c 211 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 130:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that it is important to recognize the service of active duty military and veterans and to acknowledge the continued sacrifice of those veterans who have been catastrophically injured. The legislature further finds that:</p>
+          </content>
+          <subsection eId="sec_82_08_875__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Many disabled veterans often need customized, accessible transportation to be self-sufficient and to maintain a high quality of life;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Individuals with a severe disability are twice as likely to be at or below the national poverty level;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The federal government pays for the cost of add-on automotive adaptive equipment for severely injured veterans; however, it does not cover the cost of sales or use tax owed on this equipment and that this cost is then shifted onto the veterans, who often times cannot afford the tax due to the substantial amount of adaptive equipment required in such customized vehicles; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>This added financial burden has the unintended effect of causing some veterans to acquire their adaptive equipment in neighboring states that do not impose a sales tax, thereby negatively impacting Washington businesses providing mobility enhancing equipment and services to Washington veterans.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's intent to provide specific financial relief for severely injured veterans and to ameliorate a negative consequence of Washington's tax structure by providing a sales and use tax exemption for adaptive equipment required to customize vehicles for disabled veterans.&quot; [
+2018 c 130 s 1
+.]
+Tax preference performance statement
+—
+2018 c 130:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences contained in chapter 130, Laws of 2018. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes the tax preferences in chapter 130, Laws of 2018 as ones intended to provide tax relief for certain businesses or individuals, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To measure the effectiveness of chapter 130, Laws of 2018 in achieving the specific public policy objective described in section 1, chapter 130, Laws of 2018, the joint legislative audit and review committee must, at minimum, review the following:</p>
+          </content>
+          <subsection eId="sec_82_08_875__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The dollar amount of qualifying add-on automotive adaptive equipment purchases, as reported to the department of revenue; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_875__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The number of approved applications for add-on automotive adaptive equipment, as reported by the United States department of veterans affairs.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In addition to the data sources described under this section, the joint legislative audit and review committee may use any other data it deems necessary in performing the evaluation under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The joint legislative audit and review committee must review the tax preferences provided in chapter 130, Laws of 2018 as part of its normal review process of tax preferences.&quot; [
+2018 c 130 s 2
+.]
+Findings
+—
+Intent
+—
+2013 c 211:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that it is important to recognize the service of active duty military and veterans and to acknowledge the continued sacrifice of those veterans who have been catastrophically injured. The legislature further finds that many disabled veterans often need customized, accessible transportation to be self-sufficient and to maintain a high quality of life. The legislature further finds that individuals with a severe disability are three times more likely to be at or below the national poverty level. The legislature further finds that the federal government pays for the cost of mobility adaptive equipment for severely injured veterans; however, it does not cover the cost of sales or use tax owed on this equipment. The legislature further finds that this cost is then shifted onto the veterans, who oftentimes cannot afford the tax due to the substantial amount of adaptive equipment required in such customized vehicles. The legislature further finds that this added financial burden has the unintended effect of causing some veterans to acquire their mobility adaptive equipment in neighboring states that do not impose a sales tax, thereby negatively impacting Washington businesses providing mobility enhancing equipment and services to Washington veterans.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's intent to provide specific financial relief for severely injured veterans and to ameliorate a negative consequence of Washington's tax structure by providing a sales and use tax exemption for mobility adaptive equipment required to customize vehicles for disabled veterans. It is the further intent of the legislature to reexamine this exemption in five years to determine whether it has mitigated the competitive disadvantage stemming from Washington's tax structure on mobility businesses and to assess whether the cost of the exemption in terms of forgone state revenue is beyond what was reasonably assumed in the fiscal estimate for the legislation.&quot; [
+2013 c 211 s 1
+.]
+Effective date
+—
+2013 c 211:
+&quot;This act takes effect August 1, 2013.&quot; [
+2013 c 211 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

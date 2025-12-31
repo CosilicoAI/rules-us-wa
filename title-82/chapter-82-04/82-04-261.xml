@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.261"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.261"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.261/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.261/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.261/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.261/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_261">
+        <num>RCW 82.04.261</num>
+        <heading>Surcharge on timber and wood product manufacturers, extractors, and wholesalers. (Expires July 1, 2045.)</heading>
+        <subsection eId="sec_82_04_261__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In addition to the taxes imposed under RCW
+82.04.260</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>(a), (b), (c), and (d).</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>All receipts from the surcharge imposed under this section must be deposited into the forest and fish support account created in RCW
+76.09.405
+, with any receipts above eight million dollars per biennium specifically used as additional funding for tribal participation grants.</p>
+          </content>
+          <subsection eId="sec_82_04_261__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The surcharge imposed under this section is suspended if:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_261__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Before July 1, 2024, receipts from the surcharge total at least eight million five hundred thousand dollars during any fiscal biennium;</p>
+            </content>
+            <subsection eId="sec_82_04_261__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Between July 1, 2024, through June 30, 2029, receipts from the surcharge total at least nine million dollars during any fiscal biennium; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_261__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>After June 30, 2029, the receipts from the surcharge total at least nine million five hundred thousand dollars during any fiscal biennium.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_261__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The suspension of the surcharge under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>takes effect on the first day of the calendar month that is at least thirty days after the end of the month during which the department determines that receipts from the surcharge total the values specified in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>during the fiscal biennium. The surcharge is imposed again at the beginning of the following fiscal biennium.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2045.
+[
+2021 c 145 s 8
+;
+2019 c 336 s 5
+;
+2017 c 323 s 501
+;
+2010 1st sp.s. c 23 s 510
+. Prior:
+2007 c 54 s 7
+;
+2007 c 48 s 4
+;
+2006 c 300 s 2
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2019 c 336:
+&quot;The legislature finds that while many parts of the state are thriving economically, some rural and distressed communities have struggled to keep pace. These communities represent significant opportunity for economic growth and innovation. However, businesses and entrepreneurs often find it difficult to obtain the capital they need to expand and grow in these areas. Therefore, it is the intent of the legislature to study the creation of a program to incentivize private investments and job creation in rural and distressed communities while ensuring no loss of revenue to the state.&quot; [
+2019 c 336 s 1
+.]
+Findings
+—
+2019 c 336:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the Washington state forest practices habitat conservation plan was approved in 2006 by the United States fish and wildlife service and the national oceanic and atmospheric administration's marine fisheries service. The legislature further finds that the conservation plan protects habitat of aquatic species, supports economically viable and healthy forests, and creates regulatory stability for landowners. The legislature further finds that funding for the adaptive management program and participation grants are required to implement the forest and fish agreement and meet the goals of the conservation plan. The legislature further finds that the surcharge on the timber products business and occupation tax rate was agreed to by the forest products industry, tribal leaders, and stakeholders as a way to provide funding and safeguard the future of the conservation plan. The legislature further finds that the forestry industry assumed significant financial obligation with the enactment of this conservation plan, in exchange for operational certainty under the endangered species act. Therefore, the legislature concludes that the timber products business and occupation tax rate and the surcharge should continue until the expiration date of the forest and fish agreement, in 2056.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that Washington has one of the strongest economies in the country. However, the local economies in some rural counties continue to struggle. The legislature further finds that the economic prosperity of our state must be shared by all of our communities. The legislature further finds that forest product sectors provide family-wage jobs in economically struggling areas of the state. The legislature further finds that in 2017 the Washington forest products industry, directly and indirectly, employed one hundred one thousand workers, earning 5.5 billion dollars in wages. Therefore, the legislature concludes that the forest products industries support our local rural economies and contribute towards the effort to lower unemployment rates across the state, especially in rural areas.&quot; [
+2019 c 336 s 3
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+See note following RCW
+82.04.040
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Severability
+—
+2007 c 54:
+See note following RCW
+82.04.050
+.
+Savings
+—
+2007 c 48:
+&quot;The expiration of RCW
+82.04.261
+does not affect any existing right acquired or liability or obligation incurred under that section or under any rule or order adopted under that section, nor does it affect any proceeding instituted under that section.&quot; [
+2007 c 48 s 8
+.]
+Effective date
+—
+2007 c 48:
+See note following RCW
+82.04.260
+.
+Effective dates
+—
+Contingent effective date
+—
+2006 c 300:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1, 3, 4 through 6, and 8 through 12 of this act take effect July 1, 2006.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 2 of this act takes effect July 1, 2007.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_261__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Section 7 of this act takes effect if the contingency in *section 12 of this act occurs.&quot; [
+2006 c 300 s 13
+.]
+*Reviser's note:
+See RCW
+82.32.790
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,279 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.783"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.783"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.783/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.783/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.783/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.783/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_783">
+        <num>RCW 82.32.783</num>
+        <heading>Reseller's permit—Contractor application</heading>
+        <subsection eId="sec_82_32_783__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section or resubmit the application. Nothing in this subsection may be construed as preventing the department from ruling on an application more than 60 days after the department received the application.</p>
+          </content>
+          <subsection eId="sec_82_32_783__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An application must be denied if:
+(A) The department determines that the applicant is not entitled to make purchases at wholesale or is otherwise prohibited from using a reseller permit;
+(B) The application contains any material misstatement;
+(C) The application is incomplete; or
+(D) Less than 25 percent of the taxpayer's total dollar amount of actual or, if applicable, estimated material and labor purchases as reported on the application is for retail and wholesale construction activity performed by the applicant. However, the department may approve an application not meeting the criteria in this subsection</p>
+            </content>
+            <subsection eId="sec_82_32_783__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department may also deny an application if the department determines that denial would be in the best interest of collecting taxes due under this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_783__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The department's decision to approve or deny an application may be based on tax returns previously filed with the department by the applicant, a current or previous examination of the applicant's books and records by the department, information provided by the applicant in the master application and the reseller permit application, and other information available to the department.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department must refuse to accept an application to renew a reseller permit that is received more than 90 days before the expiration of the reseller permit.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_783__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_783__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the department may issue or renew a reseller permit for a contractor that has not applied for the permit or renewal of the permit if the department is satisfied that the contractor is entitled to make purchases at wholesale and that issuing or renewing the reseller permit is unlikely to jeopardize collection of sales taxes due under this title based on criteria established by the department by rule. Such criteria may include but is not limited to whether the taxpayer has a previous history of misusing resale certificates or reseller permits or there is any other indication that issuing or renewing the reseller permit would jeopardize collection of sales taxes due from the contractor.</p>
+          </content>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, beginning July 1, 2013, reseller permits issued, renewed, or reinstated under this section will be valid for a period of 24 months from the date of issuance, renewal, or reinstatement.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A reseller permit is no longer valid if the permit holder's certificate of registration is revoked, the permit holder's tax reporting account is closed by the department, or the permit holder otherwise ceases to engage in business.</p>
+            </content>
+            <subsection eId="sec_82_32_783__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department may provide by rule for a uniform expiration date for reseller permits issued, renewed, or reinstated under this section, if the department determines that a uniform expiration date for reseller permits will improve administrative efficiency for the department. If the department adopts a uniform expiration date by rule, the department may extend or shorten the 24-month period provided in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection for a period not to exceed six months as necessary to conform the reseller permit to the uniform expiration date.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department may revoke a contractor's reseller permit for any of the following reasons:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The contractor used or allowed or caused its reseller permit to be used to purchase any item or service without payment of sales tax, but the contractor or other purchaser was not entitled to use the reseller permit for the purchase;</p>
+            </content>
+            <subsection eId="sec_82_32_783__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department issued the reseller permit to the contractor in error;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_783__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The department determines that the contractor is no longer entitled to make purchases at wholesale; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_783__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The department determines that revocation of the reseller permit would be in the best interest of collecting taxes due under this title.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The notice of revocation must be in writing and is effective on the date specified in the revocation notice. The notice must also advise the contractor of its right to a review by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may refuse to reinstate a reseller permit revoked under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection until all taxes, penalties, and interest due on any improperly purchased item or service have been paid in full. In the event a contractor whose reseller permit has been revoked under this subsection reorganizes, the new business resulting from the reorganization is not entitled to a reseller permit until all taxes, penalties, and interest due on any improperly purchased item or service have been paid in full.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;reorganize&quot; or &quot;reorganization&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The transfer, however effected, of a majority of the assets of one business to another business where any of the persons having an interest in the ownership or management in the former business maintain an ownership or management interest in the new business, either directly or indirectly;</p>
+            </content>
+            <subsection eId="sec_82_32_783__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a mere change in identity or form of ownership, however effected; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_783__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the new business is a mere continuation of the former business based on significant shared features such as owners, personnel, assets, or general business activity.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_783__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department may provide the public with access to reseller permit numbers on its website, including the name of the permit holder, the status of the reseller permit, the expiration date of the permit, and any other information that is disclosable under RCW
+82.32.330</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_783__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must provide by rule for the review of the department's decision to deny, revoke, or refuse to reinstate a reseller permit or the department's failure to rule on an application within the time prescribed in subsection</p>
+          </content>
+          <subsection eId="sec_82_32_783__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. Such review must be consistent with the requirements of chapter
+34.05
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_783__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>As part of its continuing efforts to educate taxpayers on their sales and use tax responsibilities, the department will educate taxpayers on the appropriate use of a reseller permit or other documentation authorized under RCW
+82.04.470
+and the consequences of misusing such permits or other documentation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_783__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>As used in this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_32_783__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Contractor&quot; means a person whose primary business activity is as a contractor which includes one or more contractor-related activities as defined in RCW
+18.27.010
+,
+18.106.010
+, or
+19.28.006
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Government contracting&quot; means the activity described in RCW
+82.04.190</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Public road construction&quot; means the activity described in RCW
+82.04.190</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Retail construction activity&quot; means any activity defined as a retail sale in RCW
+82.04.050</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_783__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_32_783__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>or (c).</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Speculative building&quot; means the activities of a speculative builder as the term &quot;speculative builder&quot; is defined by rule of the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_783__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Wholesale construction activity&quot; means labor and services rendered for persons who are not consumers in respect to real property, if such labor and services are expressly defined as a retail sale by RCW
+82.04.050
+when rendered to or for consumers. For purposes of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

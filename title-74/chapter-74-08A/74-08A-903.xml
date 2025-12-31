@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.903"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.903"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.903/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.903/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.903/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.903/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_903">
+        <num>RCW 74.08A.903</num>
+        <heading>Conflict with federal requirements—1997 c 58</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.903
+74.08A.902
+&lt;&lt; 
+        74.08A.903 &gt;&gt;
+74.08A.904
+PDF
+RCW
+74.08A.903
+Conflict with federal requirements
+—
+1997 c 58.
+If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. The rules under this act shall meet federal requirements that are a necessary condition to the receipt of federal funds by the state. As used in this section, &quot;allocation of federal funds to the state&quot; means the allocation of federal funds that are appropriated by the legislature to the department of social and health services and on which the department depends for carrying out any provision of the operating budget applicable to it.
+[
+1997 c 58 s 1011
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

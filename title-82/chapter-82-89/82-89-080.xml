@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.89.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.89.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.89.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.89.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_89_080">
+        <num>RCW 82.89.080</num>
+        <heading>Conditions on recipients—Annual tax performance report—Immediate repayment</heading>
+        <subsection eId="sec_82_89_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each recipient of a deferral of taxes granted under this chapter must file a complete annual tax performance report with the department under RCW
+82.32.534
+. Reports must be filed for the first calendar year after the eligible investment project is operationally complete and continue through the end of the calendar year in which the final repayment occurs. If the economic benefits of the deferral are passed to a lessee, as provided in RCW
+82.89.020
+, the lessee must file a complete annual tax performance report and the applicant is not required to file a complete annual tax performance report.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the eligible investment project is not operationally complete within five calendar years from the issuance of the tax deferral certificate, or if, on the basis of the tax performance report under RCW
+82.32.534
+or other information, the department finds that an eligible investment project is used for purposes other than those listed in RCW
+82.89.010</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>at any time during the calendar year in which the investment is certified by the department as having been operationally completed, or at any time during any of the repayment period, a portion of deferred taxes is immediately due according to the following schedule:
+Year in which use occurs
+Percent of
+deferred taxes due
+1. . . .
+100
+2. . . .
+100
+3. . . .
+100
+4. . . .
+90
+5. . . .
+80
+6. . . .
+70
+7. . . .
+60
+8. . . .
+50
+9. . . .
+40
+10. . . .
+30
+11. . . .
+20
+12. . . .
+10</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_89_080__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the economic benefits of a tax deferral under this chapter are passed to a lessee as provided in RCW
+82.89.020
+, the lessee is responsible for payment to the extent the lessee has received the economic benefit.
+[
+2022 c 185 s 8
+.]
+NOTES:
+Tax preference performance automatic expiration exception
+—
+Tax preference performance statement
+—
+2022 c 185:
+See notes following RCW
+82.89.070
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

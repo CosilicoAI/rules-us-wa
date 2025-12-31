@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.655"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.655"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.655/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.655/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.655/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.655/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_655">
+        <num>RCW 74.04.655</num>
+        <heading>Vocational rehabilitation—Assessment, referral</heading>
+        <subsection eId="sec_74_04_655__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The economic services administration shall work jointly with the division of vocational rehabilitation to develop an assessment tool that must be used to determine whether the programs offered by the division of vocational rehabilitation could assist persons receiving benefits under RCW
+74.62.030
+and
+43.185C.220
+in returning to the workforce. The assessment tool shall be completed no later than December 1, 2010. The economic services administration shall begin using the tool no later than January 1, 2011. No later than December 30, 2011, the department shall report on the use of the tool and to what extent the programs offered by the division of vocational rehabilitation have been successful in returning persons receiving aged, blind, or disabled benefits to the workforce.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_655__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>After January 1, 2011, all persons receiving benefits under RCW
+74.62.030
+and
+43.185C.230
+shall be assessed to determine whether they would likely benefit from a program offered by the division of vocational rehabilitation. If the assessment indicates that the person might benefit, the economic services administration shall make a referral to the division of vocational rehabilitation. If the person is found eligible for a program with the division of vocational rehabilitation, he or she must participate in that program to remain eligible for the monthly stipend and housing voucher or a cash grant. If the person refuses to participate or does not complete the program, the department shall terminate the cash stipend and housing voucher or cash grant but may not terminate medical coverage and food benefits.
+[
+2011 1st sp.s. c 36 s 24
+;
+2010 1st sp.s. c 8 s 5
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Implementation
+—
+2010 1st sp.s. c 8 ss 1-10 and 29:
+See note following RCW
+74.04.225
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

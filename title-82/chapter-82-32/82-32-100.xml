@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_100">
+        <num>RCW 82.32.100</num>
+        <heading>Failure to file returns or provide records—Assessment of tax by department—Penalties and interest</heading>
+        <subsection eId="sec_82_32_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If any person fails or refuses to make any return or to make available for examination the records required by this chapter, the department shall proceed, in such manner as it may deem best, to obtain facts and information on which to base its estimate of the tax; and to this end the department may examine the records of any such person as provided in RCW
+82.32.110
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>As soon as the department procures such facts and information as it is able to obtain upon which to base the assessment of any tax payable by any person who has failed or refused to make a return, it shall proceed to determine and assess against such person the tax and any applicable penalties or interest due, but such action shall not deprive such person from appealing the assessment as provided in this chapter. The department shall notify the taxpayer by mail, or electronically as provided in RCW
+82.32.135
+, of the total amount of such tax, penalties, and interest, and the total amount shall become due and shall be paid within thirty days from the date of such notice.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_100__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No assessment or correction of an assessment may be made by the department more than four years after the close of the tax year, except</p>
+          </content>
+          <subsection eId="sec_82_32_100__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>against a taxpayer who has not registered as required by this chapter,</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_100__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>upon a showing of fraud or of misrepresentation of a material fact by the taxpayer, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_100__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>where a taxpayer has executed a written waiver of such limitation. The execution of a written waiver shall also extend the period for making a refund or credit as provided in RCW
+82.32.060</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

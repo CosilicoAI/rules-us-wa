@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.817"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.817"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.817/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.817/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.817/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.817/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_817">
+        <num>RCW 82.08.817</num>
+        <heading>Additional tax on sales of certain motor vehicles. (&lt;i&gt;Effective January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_08_817__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, in addition to the taxes imposed under RCW
+82.08.020
+, there is levied and collected an additional tax of eight percent on the sale of a motor vehicle if:</p>
+          </content>
+          <subsection eId="sec_82_08_817__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The selling price of the motor vehicle plus trade-in property of like kind for purchased vehicles exceeds $100,000; or</p>
+            </content>
+            <subsection eId="sec_82_08_817__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>In the case of a lease requiring periodic payments, the fair market value of the motor vehicle exceeds $100,000 at the inception of the lease.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_817__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The additional tax imposed in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_817__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Is equal to the portion of the selling price plus trade-in property of like kind for purchased vehicles in excess of the deduction amount specified in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_817__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, multiplied by eight percent; or
+(ii) In the case of a lease requiring periodic payments, is the fair market value of the motor vehicle in excess of the amount specified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_817__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this subsection, at the inception of the lease, multiplied by eight percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_817__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The deduction amount is $100,000 for fiscal year 2026. The deduction amount must be annually adjusted on July 1st of each year by increasing the amount by two percent and rounding the result to the nearest whole dollar.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_817__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The taxes imposed under this section do not apply to the sale or lease of:</p>
+          </content>
+          <subsection eId="sec_82_08_817__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A commercial motor vehicle, as defined in RCW
+46.25.010
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_817__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A motor vehicle that has a gross vehicle weight rating of greater than 10,000 pounds other than motor homes, as defined in RCW
+46.04.305
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_817__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The revenue collected under this section must be deposited in the multimodal transportation account created in RCW
+47.66.070
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_817__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For the purposes of this section and RCW
+82.12.818
+, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_08_817__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Motor vehicle&quot; has the same meaning as in RCW
+46.04.320
+, but does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_817__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Farm tractors or farm vehicles as defined in RCW
+46.04.180
+and
+46.04.181
+, unless the farm tractor or farm vehicle is for use in the production of cannabis;</p>
+            </content>
+            <subsection eId="sec_82_08_817__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Off-road vehicles as defined in RCW
+46.04.365
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_817__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Nonhighway vehicles as defined in RCW
+46.09.310
+; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_817__subsec_5__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Snowmobiles as defined in RCW
+46.04.546
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_817__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Value of the motor vehicle&quot; means the fair market value of the motor vehicle. In the case of a leased motor vehicle in which the consumer is required to make periodic lease payments, &quot;value of the motor vehicle&quot; means the fair market value of the motor vehicle at the inception of the lease.
+[
+2025 c 417 s 203
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2025 c 417 ss 203, 204, 207, and 208:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to sections 203, 204, 207, and 208 of this act.&quot; [
+2025 c 417 s 206
+.]
+Effective date
+—
+2025 c 417 ss 104, 105, 107-110, 201-206, 301-303, 604, and 903:
+See note following RCW
+46.17.355
+.
+Findings
+—
+Intent
+—
+2025 c 417:
+See note following RCW
+82.38.030
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.665"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.665"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.665/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.665/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.665/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.665/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_665">
+        <num>RCW 82.04.665</num>
+        <heading>Exemptions—Adaptive recreational and rehabilitation facilities. (Expires January 1, 2035.)</heading>
+        <subsection eId="sec_82_04_665__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to any amounts received as the result of sales on a federal military reservation by a nonprofit organization under Title 26 U.S.C. Sec. 501(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the federal internal revenue code of 1986, as amended, as of October 1, 2024, that operates an adaptive recreational and rehabilitation facility dedicated to the assistance of disabled veterans and members of the armed forces of the United States of America.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;adaptive recreational and rehabilitation facility&quot; means a facility that provides activity modifications, assistive technologies, or other services to allow people with disabilities to participate in recreational activities, sports, or physical rehabilitation efforts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires January 1, 2035.
+[
+2024 c 141 s 2
+.]
+NOTES:
+Tax preference performance statement
+—
+2024 c 141 ss 2-4:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in sections 2 through 4, chapter 141, Laws of 2024. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to provide tax relief for certain businesses or individuals, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to reduce the tax burden on individuals and businesses imposed by the existing business and occupation tax rates.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If the review finds that there is an increase of the utilization of adaptive recreational and rehabilitation facilities by disabled veterans and members of the armed forces of the United States of America then the legislature intends to extend the expiration date of this tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_665__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2024 c 141 s 1
+.]
+Effective date
+—
+2024 c 141:
+&quot;This act takes effect October 1, 2024.&quot; [
+2024 c 141 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

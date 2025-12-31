@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.510"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.510/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.510/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_510">
+        <num>RCW 74.13.510</num>
+        <heading>Disclosure of child welfare records—Consideration of effects</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.510
+74.13.505
+&lt;&lt; 
+        74.13.510 &gt;&gt;
+74.13.515
+PDF
+RCW
+74.13.510
+Disclosure of child welfare records
+—
+Consideration of effects.
+In determining under RCW
+74.13.500
+whether disclosure will be contrary to the best interests of the child, the secretary, or the secretary's designee, must consider the effects which disclosure may have on efforts to reunite and provide services to the family.
+[
+1997 c 305 s 4
+.]
+NOTES:
+Conflict with federal requirements
+—
+1997 c 305:
+See note following RCW
+74.13.500
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

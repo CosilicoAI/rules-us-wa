@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2908"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2908"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2908/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2908/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2908/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2908/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_2908">
+        <num>RCW 82.04.2908</num>
+        <heading>Tax on provision of room and domiciliary care to assisted living facility residents</heading>
+        <subsection eId="sec_82_04_2908__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of providing room and domiciliary care to residents of an assisted living facility licensed under chapter
+18.20
+RCW, the amount of tax with respect to such business shall be equal to the gross income of the business, multiplied by the rate of 0.275 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2908__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;domiciliary care&quot; has the meaning provided in RCW
+18.20.020
+.
+[
+2012 c 10 s 70
+;
+2005 c 514 s 302
+;
+2004 c 174 s 1
+.]
+NOTES:
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Effective date
+—
+2005 c 514:
+See note following RCW
+83.100.230
+.
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.
+Effective date
+—
+2004 c 174:
+&quot;This act takes effect July 1, 2004.&quot; [
+2004 c 174 s 8
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

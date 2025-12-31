@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.410"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.410"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.410/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.410/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.410/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.410/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_410">
+        <num>RCW 82.38.410</num>
+        <heading>Subpoenas</heading>
+        <subsection eId="sec_82_38_410__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department or its duly authorized agent may apply for and obtain a superior court order approving and authorizing a subpoena in advance of its issuance. The application may be made in the county where the subpoenaed person resides or is found, or the county where the subpoenaed records or documents are located, or in Thurston county. The application must:</p>
+          </content>
+          <subsection eId="sec_82_38_410__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>State that an order is sought pursuant to this subsection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_410__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Adequately specify the records, documents, or testimony; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_38_410__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Declare under oath that an investigation is being conducted for a lawfully authorized purpose related to an investigation within the department's authority and that the subpoenaed documents or testimony are reasonably related to an investigation within the department's authority.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_410__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Where the application under this subsection is made to the satisfaction of the court, the court must issue an order approving the subpoena. An order under this subsection constitutes authority of law for the agency to subpoena the records or testimony.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_410__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department or its duly authorized agent may seek approval and a court may issue an order under this section without prior notice to any person, including the person to whom the subpoena is directed and the person who is the subject of an investigation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_410__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section does not preclude the use of other legally authorized means of obtaining records, nor preclude the assertion of any legally recognized privileges.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_410__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department may not disclose any return or tax information obtained in response to a subpoena issued under this section, except as authorized under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_410__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A third party may not be held civilly liable for any harm resulting from that person's compliance with a subpoena issued under the authority of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_410__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The entire court file of any proceeding instituted under this section must be sealed and is not open to public inspection by any person except upon order of the court as authorized by law.
+[
+2024 c 1 s 15
+.]
+NOTES:
+Effective date
+—
+2024 c 1:
+See note following RCW
+46.87.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

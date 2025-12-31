@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.993"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.993"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.993/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.993/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.993/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.993/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_993">
+        <num>RCW 82.08.993</num>
+        <heading>Exemptions—Fuel cell electric vehicles—Report to the legislature. (Expires June 30, 2029.)</heading>
+        <subsection eId="sec_82_08_993__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>if the person claims the exemption under RCW
+82.08.9999
+or
+82.12.9999
+.</p>
+          </content>
+          <subsection eId="sec_82_08_993__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For qualifying vehicles sold by a person licensed to do business in the state of Washington, the seller must keep records necessary for the department to verify eligibility under this section. The seller reporting the exemption must also submit itemized information to the department for all vehicles for which an exemption is claimed that must include the following: Vehicle make; vehicle model; model year; whether the vehicle has been sold or leased; date of sale or start date of lease; length of lease; sales price for purchased vehicles and fair market value at the inception of the lease for leased vehicles; and the total amount qualifying for the incentive claimed for each vehicle, in addition to the future monthly amount to be claimed for each leased vehicle. This information must be provided in a form and manner prescribed by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For vehicles purchased from</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a seller that is not licensed to do business in the state of Washington, or</p>
+            </content>
+            <subsection eId="sec_82_08_993__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a private party, the buyer must keep records necessary for the department to verify eligibility under this section. The buyer claiming the exemption must also submit itemized information to the department for all vehicles for which an exemption is claimed that must include the following: Vehicle make; vehicle model; model year; date of sale; sales price; and the total amount qualifying for the incentive claimed for each vehicle. This information must be provided in a form and manner prescribed by the department.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department of licensing must maintain and publish a list of all vehicle models qualifying for the tax exemptions under this section and RCW
+82.12.817
+until the expiration of this section, and is authorized to issue final rulings on vehicle model qualification for these criteria.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department of revenue retains responsibility for determining whether a vehicle meets the applicable qualifying criterion under subsections</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>By the last day of August 2023, and annually thereafter until this section expires, based on the best available data, the department must report the following information to the transportation committees of the legislature: The cumulative number of fuel cell electric vehicles that qualified for the exemptions under this section and RCW
+82.12.817
+by month of purchase or lease start and vehicle make and model; the dollar amount of all state retail sales and use taxes exempted on or after the qualification period start date, under this section and RCW
+82.12.817
+; and estimates of the future costs of leased vehicles that qualified for the exemptions under this section and RCW
+82.12.817
+.</p>
+          </content>
+          <subsection eId="sec_82_08_993__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Sales of vehicles delivered to the buyer after the expiration of this section, or leased vehicles for which the lease agreement was signed after the expiration of this section, do not qualify for the exemptions under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All leased vehicles that qualified for the exemption under this section before the expiration of this section must continue to receive the exemption on any lease payments due through the remainder of the lease.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_82_08_993__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Fair market value&quot; has the same meaning as &quot;value of the article used&quot; in RCW
+82.12.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Fuel cell&quot; means a technology that uses an electrochemical reaction to generate electric energy by combining atoms of hydrogen and oxygen in the presence of a catalyst.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;New vehicle&quot; has the same meaning as &quot;new motor vehicle&quot; in RCW
+46.04.358
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Selling price&quot; and &quot;sales price&quot; have the same meaning as in RCW
+82.08.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_993__subsec_7__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Used vehicle&quot; has the same meaning as in RCW
+46.04.660
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>This section expires June 30, 2029.
+[
+2022 c 182 s 303
+;
+2021 c 171 s 2
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2022 c 182:
+See notes following RCW
+70A.65.240
+.
+Tax preference performance statement
+—
+2021 c 171:
+&quot;This section is the tax preference performance statement for the tax preferences contained in sections 2 and 3, chapter 171, Laws of 2021. The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes the tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to increase the use of hydrogen fuel cell electric vehicles in Washington as another way of promoting clean alternative fuel vehicle adoption in the state. It is the legislature's intent to establish an eight-year pilot tax incentive program for fuel cell electric vehicles by creating a temporary partial sales and use tax exemption on fuel cell electric vehicles in order to reduce the price charged to customers and to evaluate the feasibility of wider adoption of the use of fuel cell electric technology in transportation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Since the tax incentive created in sections 2 and 3 of this act is limited to eight years, the joint legislative audit and review committee must, within the committee's appropriations, evaluate the effectiveness of this tax incentive on the number of hydrogen fuel cell vehicles titled in the state by November 1, 2028.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_993__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department of licensing and the department of revenue must, within the departments' respective appropriations, provide data needed for the joint legislative audit and review committee analysis. In addition to the data source described under this subsection, the joint legislative audit and review committee may use any other data it deems necessary.&quot; [
+2021 c 171 s 1
+.]
+Effective date
+—
+2021 c 171:
+&quot;Sections 1 through 3 of this act take effect July 1, 2022.&quot; [
+2021 c 171 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

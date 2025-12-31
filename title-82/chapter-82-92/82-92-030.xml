@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_030">
+        <num>RCW 82.92.030</num>
+        <heading>Requirements for applicants</heading>
+        <subsection eId="sec_82_92_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The owner must apply to the city on forms adopted by the governing authority. The application must contain the following:</p>
+          </content>
+          <subsection eId="sec_82_92_030__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Information setting forth the grounds supporting the requested deferral including information indicated on the application form or in the guidelines;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_030__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A description of the investment project and site plan, and other information requested;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_030__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A statement of the expected number of affordable housing units to be created;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_030__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A statement that the applicant is aware of the potential tax liability involved if the investment project ceases to be used for eligible uses under this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_030__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A statement that the applicant is aware that the investment project must be completed within three years from the date of approval of the application;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_030__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A statement that the applicant is aware that the governing authority or the city official authorized by the governing authority may extend the deadline for completion of construction or rehabilitation for a period not to exceed 24 consecutive months; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_030__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A statement that the applicant would not have built in this location but for the availability of the tax deferral under this chapter;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_92_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The applicant must verify the application by oath or affirmation; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The application must be accompanied by the application fee, if any, required under this chapter. The duly authorized administrative official or committee of the city may permit the applicant to revise an application before final action by the duly authorized administrative official or committee of the city.
+[
+2022 c 241 s 5
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in chapter 241, Laws of 2022. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to expand affordable housing options for very low to moderate-income households, specifically in underdeveloped urban areas.</p>
+          </content>
+          <subsection eId="sec_82_92_030__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To measure the effectiveness of the tax preference in this act, the joint legislative audit and review committee must evaluate the number of increased housing units on underdeveloped property. If a review finds that the number of affordable housing units has not increased, then the legislature intends to repeal this tax preference.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_92_030__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The review must be provided to the fiscal committees of the legislature by December 31, 2030.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_92_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any available data source, including data collected by the department under section 10 of this act.&quot; [
+2022 c 241 s 15
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

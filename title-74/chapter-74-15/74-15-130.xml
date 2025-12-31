@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.130"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_130">
+        <num>RCW 74.15.130</num>
+        <heading>Licenses—Denial, suspension, revocation, modification—Procedures—Adjudicative proceedings—Penalties</heading>
+        <subsection eId="sec_74_15_130__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An agency may be denied a license, or any license issued pursuant to chapter
+74.15
+RCW and RCW
+74.13.031
+may be suspended, revoked, modified, or not renewed by the secretary upon proof</p>
+          </content>
+          <subsection eId="sec_74_15_130__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>that the agency has failed or refused to comply with the provisions of chapter
+74.15
+RCW and RCW
+74.13.031
+or the requirements promulgated pursuant to the provisions of chapter
+74.15
+RCW and RCW
+74.13.031
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_130__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>that the conditions required for the issuance of a license under chapter
+74.15
+RCW and RCW
+74.13.031
+have ceased to exist with respect to such licenses. RCW
+43.20A.205
+governs notice of a license denial, revocation, suspension, or modification and provides the right to an adjudicative proceeding.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_130__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In any adjudicative proceeding regarding the denial, modification, suspension, or revocation of a foster family home license, the department's decision shall be upheld if there is reasonable cause to believe that:</p>
+          </content>
+          <subsection eId="sec_74_15_130__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The applicant or licensee lacks the character, suitability, or competence to care for children placed in out-of-home care, however, no unfounded, inconclusive, or screened-out report of child abuse or neglect may be used to deny employment or a license;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_130__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The applicant or licensee has failed or refused to comply with any provision of chapter
+74.15
+RCW, RCW
+74.13.031
+, or the requirements adopted pursuant to such provisions; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_130__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The conditions required for issuance of a license under chapter
+74.15
+RCW and RCW
+74.13.031
+have ceased to exist with respect to such licenses.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_130__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In any adjudicative proceeding regarding the denial, modification, suspension, or revocation of any license under this chapter, other than a foster family home license, the department's decision shall be upheld if it is supported by a preponderance of the evidence.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_130__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department may assess civil monetary penalties upon proof that an agency has failed or refused to comply with the rules adopted under the provisions of this chapter and RCW
+74.13.031
+or that an agency subject to licensing under this chapter and RCW
+74.13.031
+is operating without a license except that civil monetary penalties shall not be levied against a licensed foster home. Monetary penalties levied against unlicensed agencies that submit an application for licensure within thirty days of notification and subsequently become licensed will be forgiven. These penalties may be assessed in addition to or in lieu of other disciplinary actions. Civil monetary penalties, if imposed, may be assessed and collected, with interest, for each day an agency is or was out of compliance. Civil monetary penalties shall not exceed two hundred fifty dollars per violation for group homes and child-placing agencies. Each day upon which the same or substantially similar action occurs is a separate violation subject to the assessment of a separate penalty. The department shall provide a notification period before a monetary penalty is effective and may forgive the penalty levied if the agency comes into compliance during this period. The department may suspend, revoke, or not renew a license for failure to pay a civil monetary penalty it has assessed pursuant to this chapter within ten days after such assessment becomes final. Chapter
+43.20A
+RCW governs notice of a civil monetary penalty and provides the right of an adjudicative proceeding. The preponderance of evidence standard shall apply in adjudicative proceedings related to assessment of civil monetary penalties.
+[
+2007 c 220 s 6
+;
+2006 c 265 s 404
+;
+2005 c 473 s 6
+;
+1998 c 314 s 6
+;
+1995 c 302 s 5
+;
+1989 c 175 s 149
+;
+1982 c 118 s 12
+;
+1979 c 141 s 362
+;
+1967 c 172 s 13
+.]
+NOTES:
+Effective date
+—
+2006 c 265:
+See RCW
+43.216.902
+.
+Purpose
+—
+2005 c 473:
+See note following RCW
+74.15.300
+.
+Intent
+—
+1995 c 302:
+See note following RC</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

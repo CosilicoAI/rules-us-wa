@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.250"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_250">
+        <num>RCW 82.24.250</num>
+        <heading>Transportation of unstamped cigarettes—Invoices and delivery tickets required—Stop and inspect</heading>
+        <subsection eId="sec_82_24_250__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>No person other than:</p>
+          </content>
+          <subsection eId="sec_82_24_250__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A licensed wholesaler in the wholesaler's own vehicle; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_250__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>a person who has given notice to the board in advance of the commencement of transportation shall transport or cause to be transported in this state cigarettes not having the stamps affixed to the packages or containers.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>When transporting unstamped cigarettes, such persons shall have in their actual possession or cause to have in the actual possession of those persons transporting such cigarettes on their behalf invoices or delivery tickets for such cigarettes, which shall show the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity and brands of the cigarettes so transported.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If unstamped cigarettes are consigned to or purchased by any person in this state, such purchaser or consignee must be a person who is authorized by this chapter to possess unstamped cigarettes in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In the absence of the notice of transportation required by this section or in the absence of such invoices or delivery tickets, or, if the name or address of the consignee or purchaser is falsified or if the purchaser or consignee is not a person authorized by this chapter to possess unstamped cigarettes, the cigarettes so transported shall be deemed contraband subject to seizure and sale under the provisions of RCW
+82.24.130
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Transportation of cigarettes from a point outside this state to a point in some other state will not be considered a violation of this section provided that the person so transporting such cigarettes has in his or her possession adequate invoices or delivery tickets which give the true name and address of such out-of-state seller or consignor and such out-of-state purchaser or consignee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>In any case where the department or its duly authorized agent, or any peace officer of the state, has knowledge or reasonable grounds to believe that any vehicle is transporting cigarettes in violation of this section, the department, such agent, or such police officer, is authorized to stop such vehicle and to inspect the same for contraband cigarettes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For purposes of this section, the term &quot;person authorized by this chapter to possess unstamped cigarettes in this state&quot; means:</p>
+          </content>
+          <subsection eId="sec_82_24_250__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A wholesaler, licensed under Washington state law;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_250__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The United States or an agency thereof;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_250__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any person, including an Indian tribal organization, who, after notice has been given to the board as provided in this section, brings or causes to be brought into the state unstamped cigarettes, if within a period of time after receipt of the cigarettes as the department determines by rule to be reasonably necessary for the purpose the person has caused stamps to be affixed in accordance with RCW
+82.24.030
+or otherwise made payment of the tax required by this chapter in the manner set forth in rules adopted by the department; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_250__subsec_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any purchaser or consignee of unstamped cigarettes, including an Indian tribal organization, who has given notice to the board in advance of receiving unstamped cigarettes and who within a period of time after receipt of the cigarettes as the department determines by rule to be reasonably necessary for the purpose the person has caused stamps to be affixed in accordance with RCW
+82.24.030
+or otherwise made payment of the tax required by this chapter in the manner set forth in rules adopted by the department.
+Nothing in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>shall be construed as modifying RCW
+82.24.050
+or
+82.24.110
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Nothing in this section shall be construed as limiting any otherwise lawful activity under a cigarette tax compact pursuant to chapter
+43.06
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_250__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Nothing in this section shall be construed as limiting the right to travel upon all public highways under Article III of the treaty with the Yakamas of 1855.
+[
+2013 c 23 s 321
+;
+2008 c 226 s 5
+;
+2003 c 114 s 8
+;
+1997 c 420 s 7
+;
+1995 c 278 s 10
+;
+1990 c 216 s 6
+;
+1972 ex.s. c 157 s 6
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2008 c 226:
+See note following RCW
+82.24.080
+.
+Effective date
+—
+1995 c 278:
+See note following RCW
+82.24.010
+.
+Severability
+—
+1972 ex.s. c 157:
+See note following RCW
+82.24.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02917"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02917"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02917/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02917/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02917/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02917/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_02917">
+        <num>RCW 82.08.02917</num>
+        <heading>Youth in crisis—Definition—Limited purpose</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.02917
+82.08.02915
+&lt;&lt; 
+        82.08.02917 &gt;&gt;
+82.08.0293
+PDF
+RCW
+82.08.02917
+Youth in crisis
+—
+Definition
+—
+Limited purpose.
+For the purposes of RCW
+82.08.02915
+and
+82.12.02915
+, &quot;youth in crisis&quot; means any youth under eighteen years of age who is either: Homeless; a runaway from the home of a parent, guardian, or legal custodian; abused; neglected; abandoned by a parent, guardian, or legal custodian; or suffering from a substance abuse or mental disorder.
+[
+1995 c 346 s 3
+.]
+NOTES:
+Effective date
+—
+1995 c 346:
+See note following RCW
+82.08.02915
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

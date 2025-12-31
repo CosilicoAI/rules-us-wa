@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.690"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.690"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.690/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.690/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.690/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.690/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_690">
+        <num>RCW 74.13.690</num>
+        <heading>Child welfare measurements</heading>
+        <subsection eId="sec_74_13_690__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A university-based child welfare research entity and the department, in collaboration with other stakeholders, shall develop measurements in the areas of safety, permanency, and well-being, using existing and available data. Measurements must be calculated from data used in the routine work of the state agencies' data and information technology departments. Any new record linkage or data-matching activities required in fulfillment of this section may be performed by the research entity pursuant to agreements developed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;state agencies&quot; means any agency or subagency providing data used in the integrated client database maintained by the research and data analysis division of the department. Any exchange of data must be in accordance with applicable federal and state law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All measurements must use a methodology accepted by the scientific community. All measurements must address any disproportionate racial and ethnic inequality. The initial measurements must be developed by December 1, 2013.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The measurements may not require the state agencies to revise their data collection systems, and may not require the state agencies to provide individually identifiable information.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The state agencies shall provide the research entity with all measurement data related to the measurements developed under this section at least quarterly beginning July 1, 2014. The research entity shall make any nonidentifiable data publicly available. The research entity shall report on the data to the legislature and the governor annually starting December 31, 2014.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>By January 1, 2014, the state agencies shall execute agreements with the research entity to enable sharing of data pursuant to RCW
+42.48.020
+sufficient to comply with this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The fact that the research entity has chosen to use a specific measure, use a specific baseline, or compare any measure to a baseline is not admissible as evidence of negligence by the department in a civil action.
+[
+2013 c 205 s 2
+.]
+NOTES:
+Findings
+—
+Reports
+—
+2013 c 205:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature recognizes that the goals of the child welfare system are to protect the safety, permanence, and well-being of the children it serves. The legislature further recognizes the importance of maintaining publicly accessible data that tracks the performance of the child welfare system, leading to transparency and public understanding of the system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature believes it is important to measure safety, permanence, and well-being such that the public and the legislature may understand how the child welfare system is performing. This information will also serve the legislature in determining priorities for investment of public dollars as well as need for substantive legislative changes to facilitate improvement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_690__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The reports to the legislature under section 2 of this act will be used to provide feedback to the department of social and health services. The agencies referenced in section 2 of this act will not disclose individually identifiable private information except as allowable under federal and state law.&quot; [
+2013 c 205 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

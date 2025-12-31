@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.805"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.805"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.805/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.805/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.805/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.805/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_805">
+        <num>RCW 74.04.805</num>
+        <heading>Essential needs and housing support eligibility</heading>
+        <subsection eId="sec_74_04_805__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department is responsible for determining eligibility for referral for essential needs and housing support under RCW
+43.185C.220
+. Persons eligible for a referral are persons who:</p>
+          </content>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Have been determined to be eligible for the aged, blind, or disabled assistance program under RCW
+74.62.030
+or the pregnant women assistance program under RCW
+74.62.030
+, or are incapacitated from gainful employment by reason of bodily or mental infirmity that will likely continue for a minimum of 90 days. The standard for incapacity in this subsection, as evidenced by the 90-day duration standard, is not intended to be as stringent as federal supplemental security income disability standards;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Are citizens or aliens lawfully admitted for permanent residence or otherwise residing in the United States under color of law, or are victims of human trafficking as defined in RCW
+74.04.005
+;
+(c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Have furnished the department with their social security number. If the social security number cannot be furnished because it has not been issued or is not known, an application for a number must be made prior to authorization of benefits, and the social security number must be provided to the department upon receipt;</p>
+            </content>
+            <subsection eId="sec_74_04_805__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>This requirement does not apply to victims of human trafficking as defined in RCW
+74.04.005
+if they have not been issued a social security number;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Have countable income as described in RCW
+74.04.005
+that meets the standard established by the department, which shall not exceed 100 percent of the federal poverty level; or</p>
+            </content>
+            <subsection eId="sec_74_04_805__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Have income that meets the standard established by the department, who are eligible for the pregnant women assistance program;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Do not have countable resources in excess of those described in RCW
+74.04.005
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Are not eligible for federal aid assistance, other than basic food benefits transferred electronically and medical assistance.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_805__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Recipients of pregnant women assistance program benefits who meet other eligibility requirements in this section are eligible for referral for essential needs and housing support services, within funds appropriated for the department of commerce, for 24 consecutive months from the date the department determines pregnant women assistance program eligibility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_805__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The following persons are not eligible for a referral for essential needs and housing support:</p>
+          </content>
+          <subsection eId="sec_74_04_805__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Persons who refuse or fail to cooperate in obtaining federal aid assistance, without good cause;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Persons who refuse or fail without good cause to participate in substance use treatment if an assessment by a certified substance use disorder professional indicates a need for such treatment. Good cause must be found to exist when a person's physical or mental condition, as determined by the department, prevents the person from participating in substance use treatment, when needed outpatient treatment is not available to the person in the county of their residence, when needed inpatient treatment is not available in a location that is reasonably accessible for the person, or when the person is a parent or other relative personally providing care for a minor child or an incapacitated individual living in the same home as the person, and child care or day care would be necessary for the person to participate in substance use disorder treatment, and such care is not available; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Persons who are fleeing to avoid prosecution of, or to avoid custody or confinement for conviction of, a felony, or an attempt to commit a felony, under the laws of the state of Washington or the place from which the person flees; or who are violating a condition of probation, community supervision, or parole imposed under federal or state law for a felony or gross misdemeanor conviction.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_805__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of determining whether a person is incapacitated from gainful employment under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_805__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section:</p>
+          </content>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall adopt by rule medical criteria for incapacity determinations to ensure that eligibility decisions are consistent with statutory requirements and are based on clear, objective medical information; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_805__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The process implementing the medical criteria must involve consideration of opinions of the treating or consulting physicians or health care professionals regarding incapacity, and any eligibility decision which rejects uncontroverted medical opinion must set forth clear and convincing reasons for doing so.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_805__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For purposes of reviewing a person's continuing eligibility and in order to remain eligible for the program, persons who have been found to have an incapacity from gainful employment must demonstrate that there has been no material improvement in their medical or mental health condition. The department may discontinue benefits when there was specific error in the prior determination that found the person eligible by reason of incapacitation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_805__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must review the cases of all persons who have received benefits under the essential needs and housing support program for twelve consecutive months, and at least annually after the first review, to determine whether they are eligible for the aged, blind, or disabled assistance program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_805__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department shall share client data for individuals eligible for essential needs and housing support with the department of commerce and designated essential needs and housing support entities as required under RCW
+43.185C.230
+.
+[
+2023 c 289 s 1
+;
+2022 c 208 s 1
+;
+2020 c 322 s 1
+;
+2018 c 48 s 1
+;
+2013 2nd sp.s. c 10 s 3
+.]
+NOTES:
+Effective date
+—
+2022 c 208:
+&quot;This act takes effect July 1, 2022.&quot; [
+2022 c 208 s 3
+.]
+Effective date
+—
+2018 c 48 ss 1 and 2:
+&quot;Sections 1 and 2 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect immediately [March 13, 2018].&quot; [
+2018 c 48 s 4
+.]
+Effective date
+—
+2013 2nd sp.s. c 10:
+See note following RCW
+74.62.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

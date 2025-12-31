@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.875"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.875"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.875/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.875/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.875/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.875/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_875">
+        <num>RCW 82.12.875</num>
+        <heading>Automotive adaptive equipment. (Expires July 1, 2028.)</heading>
+        <subsection eId="sec_82_12_875__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by RCW
+82.12.020
+does not apply to the use of prescribed add-on automotive adaptive equipment or to labor and services rendered in respect to the installation and repairing of such equipment. The exemption under this section only applies if the sale of the prescribed add-on automotive adaptive equipment or labor and services was exempt from sales tax under RCW
+82.08.875
+or would have been exempt from sales tax under RCW
+82.08.875
+if the equipment or labor and services had been purchased in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_875__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;prescribed add-on automotive adaptive equipment&quot; has the same meaning as provided in RCW
+82.08.875
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_875__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires July 1, 2028.
+[
+2018 c 130 s 4
+;
+2013 c 211 s 3
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Tax preference performance statement
+—
+2018 c 130:
+See notes following RCW
+82.08.875
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+2013 c 211:
+See notes following RCW
+82.08.875
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4295"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4295"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4295/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4295/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4295/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4295/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4295">
+        <num>RCW 82.04.4295</num>
+        <heading>Deductions—Manufacturing activities completed outside the United States</heading>
+        <subsection eId="sec_82_04_4295__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any additional processing of such articles in this state consists of minor final assembly only; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4295__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In the case of domestic manufacture of such articles, can be and normally is done at the place of initial manufacture; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4295__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The total cost of the minor final assembly does not exceed two percent of the value of the articles; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4295__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The articles are sold and shipped outside the state.
+[
+1980 c 37 s 15
+. Formerly RCW
+82.04.430</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

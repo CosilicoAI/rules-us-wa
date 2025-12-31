@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.48.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.48.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.48.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_48_080">
+        <num>RCW 82.48.080</num>
+        <heading>Payment and distribution of taxes</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.48
+&gt;
+Section 82.48.080
+82.48.070
+&lt;&lt; 
+        82.48.080 &gt;&gt;
+82.48.090
+PDF
+RCW
+82.48.080
+Payment and distribution of taxes.
+The secretary must regularly pay to the state treasurer the excise taxes collected under this chapter, which must be credited by the state treasurer to the aeronautics account for state grants to airports and the administrative expenses associated with grant execution and the collection of excise taxes under this chapter.
+[
+2015 3rd sp.s. c 6 s 901
+;
+1995 c 170 s 2
+;
+1987 c 220 s 8
+;
+1974 ex.s. c 54 s 8
+;
+1967 ex.s. c 9 s 5
+;
+1961 c 15 s 82.48.080
+. Prior:
+1949 c 49 s 8
+; Rem. Supp. 1949 s 11219-40.]
+NOTES:
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Severability
+—
+1987 c 220:
+See note following RCW
+47.68.230
+.
+Effective dates
+—
+1974 ex.s. c 54:
+&quot;Section 6 of this 1974 amendatory act shall not take effect until June 30, 1981, and the remainder of this 1974 amendatory act is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect immediately.&quot; [
+1974 ex.s. c 54 s 13
+.]
+Severability
+—
+1974 ex.s. c 54:
+&quot;If any provision of this 1974 amendatory act, or its application to any person or circumstances is held invalid, the remainder of the act, or the application of the provision to other persons or circumstances is not affected.&quot; [
+1974 ex.s. c 54 s 14
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

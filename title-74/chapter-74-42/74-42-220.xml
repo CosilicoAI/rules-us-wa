@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.220"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.220/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.220/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_220">
+        <num>RCW 74.42.220</num>
+        <heading>Contracts for professional services from outside the agency</heading>
+        <subsection eId="sec_74_42_220__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If the facility does not employ a qualified professional to furnish required services, the facility shall have a written contract with a qualified professional or agency outside the facility to furnish the required services. The terms of the contract, including terms about responsibilities, functions, and objectives, shall be specified. The contract shall be signed by the administrator, or the administrator's representative, and the qualified professional.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_220__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>All contracts for these services shall require the standards in RCW
+74.42.010
+through
+74.42.570
+to be met.
+[
+1980 c 184 s 9
+;
+1979 ex.s. c 211 s 22
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

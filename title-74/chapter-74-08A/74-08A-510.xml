@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.510"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.510/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.510/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_510">
+        <num>RCW 74.08A.510</num>
+        <heading>Legislative-executive WorkFirst poverty reduction oversight task force—Intergenerational poverty advisory committee—Membership—Duties</heading>
+        <subsection eId="sec_74_08A_510__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To assist the task force established in RCW
+74.08A.505
+, there is created the intergenerational poverty advisory committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The advisory committee must include diverse, statewide representation from public, nonprofit, and for-profit entities. The committee membership must reflect regional, racial, and cultural diversity to adequately represent the needs of all children and families in the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Members of the advisory committee are appointed by the secretary, with the approval of the task force.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The advisory committee must include representatives from:</p>
+          </content>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Advocacy groups that focus on childhood poverty issues;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Advocacy groups that focus on education and early childhood education issues;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Academic experts in childhood poverty, education, or early childhood education issues;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Faith-based organizations that address childhood poverty, education, or early childhood education issues;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Tribal governments;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Families impacted by poverty;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Local government representatives that address childhood poverty or education issues;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The business community;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A group representing accredited financial counselors;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>A subject matter expert in infant mental health;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>The department of children, youth, and families; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_4__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>The department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Each member of the advisory committee is appointed for a four-year term unless a member is appointed to complete an unexpired term. The secretary may adjust the length of term at the time of appointment or reappointment so that approximately one-half of the advisory committee is appointed every two years.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The secretary may remove an advisory committee member:</p>
+          </content>
+          <subsection eId="sec_74_08A_510__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the member is unable or unwilling to carry out the member's assigned responsibilities; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For good cause.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>If a vacancy occurs in the advisory committee membership for any reason, a replacement may be appointed for the unexpired term.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The advisory committee shall choose cochairs from among its membership. The secretary shall convene the initial meeting of the advisory committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>A majority of the advisory committee constitutes a quorum of the advisory committee at any meeting and the action of the majority of members present is the action of the advisory committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The advisory committee shall:</p>
+          </content>
+          <subsection eId="sec_74_08A_510__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Meet quarterly at the request of the task force cochairs or the cochairs of the advisory committee;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Make recommendations to the task force on how the task force and the state can effectively address the needs of children affected by intergenerational poverty and achieve the purposes and duties of the task force as described in RCW
+74.08A.505
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Ensure that the advisory committee's recommendations to the task force are supported by verifiable data; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_510__subsec_10__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Gather input from diverse communities about the impact of intergenerational poverty on outcomes such as education, health care, employment, involvement in the child welfare system, and other related areas.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The department shall provide staff support to the advisory committee and shall endeavor to accommodate the participation needs of its members. Accommodations may include considering the location and time of committee meetings, making options available for remote participation by members, and convening meetings of the committee in locations with proximity to available child care whenever feasible.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_510__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Members of the advisory committee may receive reimbursement for travel expenses in accordance with RCW
+43.03.050
+and
+43.03.060
+.
+[
+2022 c 176 s 2
+;
+2018 c 126 s 4
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 126:
+See note following RCW
+74.08A.505
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

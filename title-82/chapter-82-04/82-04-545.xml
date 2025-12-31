@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.545"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.545"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.545/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.545/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.545/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.545/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_545">
+        <num>RCW 82.04.545</num>
+        <heading>Exemptions—Sales of electricity or gas to silicon smelters. (Contingent expiration date.)</heading>
+        <subsection eId="sec_82_04_545__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who is subject to tax under this chapter on gross income from sales of electricity, natural gas, or manufactured gas made to a silicon smelter is eligible for an exemption from the tax in the form of a credit, if the contract for sale of electricity or gas to the silicon smelter specifies that the price charged for the electricity or gas will be reduced by an amount equal to the credit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_545__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credit is equal to the gross income from the sale of the electricity or gas to a silicon smelter multiplied by the corresponding rate in effect at the time of the sale under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_545__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The exemption provided for in this section does not apply to amounts received from the remarketing or resale of electricity originally obtained by contract for the smelting process.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_545__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must provide a separate tax reporting line for reporting credits under this section by sellers of electricity, natural gas, or manufactured gas.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_545__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For purposes of the annual tax performance report required by RCW
+82.32.534
+:</p>
+          </content>
+          <subsection eId="sec_82_04_545__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The silicon smelter receiving the benefit of the credit under this section is deemed to be the taxpayer claiming the credit and is required to file the annual tax performance report; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_545__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The person selling the electricity, natural gas, or manufactured gas to the silicon smelter is not required to file the annual tax performance report.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_545__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For the purposes of this section, &quot;silicon smelter&quot; has the same meaning as provided in RCW
+82.16.315
+.
+[
+2017 3rd sp.s. c 37 s 705
+;
+2017 3rd sp.s. c 37 s 704
+.]
+NOTES:
+Contingent expiration date
+—
+2017 3rd sp.s. c 37 ss 701-708:
+See note following RCW
+82.32.537
+.
+Findings
+—
+Intent
+—
+Tax preference performance statement
+—
+2017 3rd sp.s. c 37 ss 701-708:
+See note following RCW
+82.16.315
+.
+Effective date
+—
+2017 3rd sp.s. c 37 ss 101-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+See note following RCW
+82.04.2404
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

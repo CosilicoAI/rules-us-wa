@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.220"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.220/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.220/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_220">
+        <num>RCW 74.20A.220</num>
+        <heading>Charging off child support debts as uncollectible—Compromise—Waiver of any bar to collection</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.220
+74.20A.200
+&lt;&lt; 
+        74.20A.220 &gt;&gt;
+74.20A.230
+PDF
+RCW
+74.20A.220
+Charging off child support debts as uncollectible
+—
+Compromise
+—
+Waiver of any bar to collection.
+Any support debt due the department from a responsible parent may be written off and cease to be accounted as an asset if the secretary finds there are no cost-effective means of collecting the debt.
+The department may accept offers of compromise of disputed claims or may grant partial or total charge-off of support arrears owed to the department up to the total amount of public assistance paid to or for the benefit of the persons for whom the support obligation was incurred. The department shall adopt rules as to the considerations to be made in the granting or denial of partial or total charge-off and offers of compromise of disputed claims of debt for support arrears. The rights of the payee under an order for support shall not be prejudiced if the department accepts an offer of compromise, or grants a partial or total charge-off under this section.
+The responsible parent owing a support debt may execute a written extension or waiver of any statute which may bar or impair the collection of the debt and the extension or waiver shall be effective according to its terms.
+[
+1989 c 360 s 4
+;
+1989 c 78 s 2
+;
+1979 ex.s. c 171 s 16
+;
+1973 1st ex.s. c 183 s 20
+;
+1971 ex.s. c 164 s 22
+.]
+NOTES:
+Reviser's note:
+This section was amended by 1989 c 78 s 2 and by 1989 c 360 s 4, each without reference to the other. Both amendments are incorporated in the publication of this section pursuant to RCW
+1.12.025
+(2). For rule of construction, see RCW
+1.12.025
+(1).
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

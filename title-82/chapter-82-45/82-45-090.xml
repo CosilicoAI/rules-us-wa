@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_090">
+        <num>RCW 82.45.090</num>
+        <heading>Payment of tax and fee—Evidence of payment—Recording—Sale of beneficial interest</heading>
+        <subsection eId="sec_82_45_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except for a sale of a beneficial interest in real property where no instrument evidencing the sale is recorded in the official real property records of the county in which the property is located, the tax imposed by this chapter must be paid to and collected by the treasurer of the county within which is located the real property that was sold. In collecting the tax the county treasurer must act as agent for the state. The county treasurer must cause a verification of payment evidencing satisfaction of the lien to be affixed to the instrument of sale or conveyance prior to its recording or to the real estate excise tax affidavit in the case of used mobile home sales and used floating home sales. A receipt issued by the county treasurer for the payment of the tax imposed under this chapter is evidence of the satisfaction of the lien imposed in this section and may be recorded in the manner prescribed for recording satisfactions of mortgages. No instrument of sale or conveyance evidencing a sale subject to the tax may be accepted by the county auditor for filing or recording until the tax is paid and the verification of payment affixed thereto; in case the tax is not due on the transfer, the instrument may not be so accepted until suitable notation of such fact has been made on the instrument by the treasurer. At the sale of a used mobile home, used manufactured home, used park model, or used floating home that has not been title eliminated, property taxes must be current in order to complete the processing of the real estate excise tax affidavit or other documents transferring title. Verification that the property taxes are current must be noted on the mobile home real estate excise tax affidavit or on a form approved by the county treasurer. For the purposes of this subsection, &quot;mobile home,&quot; &quot;manufactured home,&quot; and &quot;park model&quot; have the same meaning as provided in RCW
+59.20.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For a sale of a beneficial interest in real property where a tax is due under this chapter and where no instrument is recorded in the official real property records of the county in which the property is located, the sale must be reported to the department of revenue within five days from the sale date on such returns or forms and according to such procedures as the department may prescribe. Such forms or returns must be signed or electronically signed by both the transferor and the transferee and must be accompanied by payment of the tax due.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_090__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Any person who intentionally makes a false statement on any return or form required to be filed with the department under this chapter is guilty of perjury under chapter
+9A.72
+RCW.
+[
+2017 c 142 s 3
+;
+2009 c 350 s 8
+;
+2003 c 53 s 404
+;
+1993 sp.s. c 25 s 506
+;
+1991 c 327 s 6
+;
+1990 c 171 s 7
+;
+1984 c 192 s 2
+;
+1980 c 154 s 4
+;
+1979 ex.s. c 266 s 2
+;
+1969 ex.s. c 223 s 28A.45.090
+. Prior:
+1951 2nd ex.s. c 19 s 4
+;
+1951 1st ex.s. c 11 s 11
+. Formerly RCW
+28A.45.090
+,
+28.45.090
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2003 c 53:
+See notes following RCW
+2.48.180
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Findings
+—
+Intent
+—
+1993 sp.s. c 25:
+See note following RCW
+82.45.010
+.
+Effective date
+—
+1990 c 171 ss 6, 7, 8:
+&quot;Sections 6, 7, and 8 of this act shall take effect July 1, 1990.&quot; [
+1990 c 171 s 11
+.]
+Purpose
+—
+Effective dates
+—
+Savings
+—
+Disposition of certain funds
+—
+Severability
+—
+1980 c 154:
+See notes following chapter digest.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

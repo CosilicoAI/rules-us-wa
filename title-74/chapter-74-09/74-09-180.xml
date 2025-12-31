@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.180"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_180">
+        <num>RCW 74.09.180</num>
+        <heading>Chapter does not apply if another party is liable—Exception—Subrogation—Lien—Reimbursement—Delegation of lien and subrogation rights</heading>
+        <subsection eId="sec_74_09_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter shall not apply to recipients whose personal injuries are occasioned by negligence or wrong of another: PROVIDED, HOWEVER, That the director may furnish assistance, under the provisions of this chapter, for the results of injuries to or illness of a recipient, and the authority shall thereby be subrogated to the recipient's rights against the recovery had from any tort feasor or the tort feasor's insurer, or both, and shall have a lien thereupon to the extent of the value of the assistance furnished by the authority. To secure reimbursement for assistance provided under this section, the authority may pursue its remedies under RCW
+41.05A.070
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The rights and remedies provided to the authority in this section to secure reimbursement for assistance, including the authority's lien and subrogation rights, may be delegated to a *managed health care system by contract entered into pursuant to RCW
+74.09.522
+. A *managed health care system may enforce all rights and remedies delegated to it by the authority to secure and recover assistance provided under a *managed health care system consistent with its agreement with the authority.
+[
+2011 1st sp.s. c 15 s 11
+;
+1997 c 236 s 1
+;
+1990 c 100 s 2
+;
+1987 c 283 s 14
+;
+1979 ex.s. c 171 s 14
+;
+1971 ex.s. c 306 s 1
+;
+1969 ex.s. c 173 s 8
+;
+1959 c 26 s 74.09.180
+. Prior:
+1955 c 273 s 19
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.09.522
+was amended by 2023 c 51 s 43, removing the definition of &quot;managed health care system&quot; and changing &quot;managed health care system&quot; to &quot;managed care organization.&quot;
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Application
+—
+1990 c 100 ss 2, 4, 7</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_090">
+        <num>RCW 82.87.090</num>
+        <heading>Other taxes</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.87
+&gt;
+Section 82.87.090
+82.87.080
+&lt;&lt; 
+        82.87.090 &gt;&gt;
+82.87.100
+PDF
+RCW
+82.87.090
+Other taxes.
+The tax imposed under this chapter is in addition to any other taxes imposed by the state or any of its political subdivisions, or a municipal corporation, with respect to the same sale or exchange, including the taxes imposed in, or under the authority of, chapter
+82.04
+, 82.08, 82.12, 82.14, 82.45, or
+82.46
+RCW.
+[
+2021 c 196 s 10
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

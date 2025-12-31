@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.337"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.337"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.337/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.337/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.337/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.337/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_337">
+        <num>RCW 82.04.337</num>
+        <heading>Exemptions—Amounts received by hop growers or dealers for processed hops shipped outside the state</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.337
+82.04.335
+&lt;&lt; 
+        82.04.337 &gt;&gt;
+82.04.338
+PDF
+RCW
+82.04.337
+Exemptions
+—
+Amounts received by hop growers or dealers for processed hops shipped outside the state.
+This chapter shall not apply to amounts received by hop growers or dealers for hops which are shipped outside the state of Washington for first use, if those hops have been processed into extract, pellets, or powder in this state. This section does not exempt a processor or warehouser from taxation under this chapter on amounts charged for processing or warehousing.
+[
+1987 c 495 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

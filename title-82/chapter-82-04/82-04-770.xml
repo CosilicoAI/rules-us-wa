@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.770"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.770"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.770/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.770/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.770/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.770/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_770">
+        <num>RCW 82.04.770</num>
+        <heading>Deduction of amounts derived from charge collected pursuant to chapter  70A.530 RCW</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.770
+82.04.769
+&lt;&lt; 
+        82.04.770 &gt;&gt;
+82.04.775
+PDF
+RCW
+82.04.770
+Deduction of amounts derived from charge collected pursuant to chapter
+70A.530
+RCW.
+In computing the tax due under this chapter, there may be deducted any amounts derived from the pass-through charge collected by a taxpayer pursuant to chapter
+70A.530
+RCW.
+[
+2020 c 138 s 8
+.]
+NOTES:
+Application of RCW
+82.32.805
+and
+82.32.808
+—
+2020 c 138:
+See note following RCW
+70A.530.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

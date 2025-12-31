@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.735"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.735"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.735/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.735/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.735/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.735/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_735">
+        <num>RCW 82.32.735</num>
+        <heading>Confidentiality and privacy—Certified service providers—Streamlined sales and use tax agreement</heading>
+        <subsection eId="sec_82_32_735__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A fundamental precept of allowing the use of a certified service provider is to preserve the privacy of consumers by protecting their anonymity. With very limited exceptions, a certified service provider shall perform its tax calculation, remittance, and reporting functions without retaining the personally identifiable information of consumers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_735__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall provide public notification to consumers, including purchasers claiming exemption from tax, of its practices relating to the collection, use, and retention of personally identifiable information.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_735__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When personally identifiable information that has been collected and retained is no longer required to ensure the validity of exemptions from taxation by reason of the consumer's status or the intended use of the goods or services purchased, the information shall no longer be retained by the state of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_735__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>When personally identifiable information regarding an individual is retained by or on behalf of the state of Washington, this state shall provide reasonable access for the individual to his or her own information and a right to correct any inaccurately recorded information.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_735__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If anyone other than a member state of the agreement, or other than a person authorized by Washington law or the agreement, seeks to discover personally identifiable information, the state of Washington shall make a reasonable and timely effort to notify the individual of the request.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_735__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The provisions of this section may be enforced by petitioning the superior court of Thurston county for injunctive relief.
+[
+2007 c 6 s 601
+.]
+NOTES:
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.605"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.605"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.605/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.605/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.605/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.605/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_605">
+        <num>RCW 74.09.605</num>
+        <heading>Incorporation of outcomes/criteria into contracts with managed care organizations</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.605
+74.09.600
+&lt;&lt; 
+        74.09.605 &gt;&gt;
+74.09.611
+PDF
+RCW
+74.09.605
+Incorporation of outcomes/criteria into contracts with managed care organizations.
+The authority shall incorporate the expected outcomes and criteria to measure the performance of service coordination organizations as provided in chapter
+70.320
+RCW into contracts with managed care organizations that provide services to clients under this chapter.
+[
+2013 c 320 s 7
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

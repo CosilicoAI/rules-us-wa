@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.540"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.540"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.540/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.540/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.540/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.540/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_540">
+        <num>RCW 74.13.540</num>
+        <heading>Independent living services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.540
+74.13.530
+&lt;&lt; 
+        74.13.540 &gt;&gt;
+74.13.550
+PDF
+RCW
+74.13.540
+Independent living services.
+Independent living services include assistance in achieving basic educational requirements such as a high school equivalency certificate as provided in RCW
+28B.50.536
+, enrollment in vocational and technical training programs offered at the community and vocational colleges, and obtaining and maintaining employment; and accomplishing basic life skills such as money management, nutrition, preparing meals, and cleaning house. A baseline skill level in ability to function productively and independently shall be determined at entry. Performance shall be measured and must demonstrate improvement from involvement in the program. Each recipient shall have a plan for achieving independent living skills by the time the recipient reaches age twenty-one. The plan shall be written within the first thirty days of placement and reviewed every ninety days. A recipient who fails to consistently adhere to the elements of the plan shall be subject to reassessment by the professional staff of the program and may be declared ineligible to receive services.
+[
+2013 c 39 s 30
+;
+2001 c 192 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

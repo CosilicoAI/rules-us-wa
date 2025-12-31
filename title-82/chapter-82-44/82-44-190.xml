@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.190"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.190"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.190/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.190/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.190/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.190/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_190">
+        <num>RCW 82.44.190</num>
+        <heading>Transportation infrastructure account—Deposits and distributions—Subaccounts</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.44
+&gt;
+Section 82.44.190
+82.44.140
+&lt;&lt; 
+        82.44.190 &gt;&gt;
+82.44.195
+PDF
+RCW
+82.44.190
+Transportation infrastructure account
+—
+Deposits and distributions
+—
+Subaccounts.
+The transportation infrastructure account is hereby created in the state treasury. Public and private entities may deposit moneys in the transportation infrastructure account from federal, state, local, or private sources. Proceeds from bonds or other financial instruments sold to finance surface transportation projects from the transportation infrastructure account shall be deposited into the account. Principal and interest payments made on loans from the transportation infrastructure account shall be deposited into the account. Moneys in the account shall be available for purposes specified in RCW
+82.44.195
+. Expenditures from the transportation infrastructure account shall be subject to appropriation by the legislature. To the extent required by federal law or regulations promulgated by the United States secretary of transportation, the state treasurer is authorized to create separate subaccounts within the transportation infrastructure account.
+[
+2017 3rd sp.s. c 25 s 49
+;
+1996 c 262 s 2
+.]
+NOTES:
+Effective date
+—
+1996 c 262:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [March 29, 1996].&quot; [
+1996 c 262 s 5
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.340"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.340"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.340/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.340/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.340/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.340/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_340">
+        <num>RCW 82.14.340</num>
+        <heading>Additional sales and use tax for criminal justice purposes—Referendum—Expenditures</heading>
+        <subsection eId="sec_82_14_340__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislative authority of any county may fix and impose a sales and use tax in accordance with the terms of this chapter, provided that such sales and use tax is subject to repeal by referendum, using the procedures provided in RCW
+82.14.036
+. The referendum procedure provided in RCW
+82.14.036
+is the exclusive method for subjecting any county sales and use tax ordinance or resolution to a referendum vote.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_340__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax authorized in this section is in addition to any other taxes authorized by law and must be collected from those persons who are taxable by the state pursuant to chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within such county. The rate of tax equals one-tenth of one percent of the selling price (in the case of a sales tax) or value of the article used (in the case of a use tax).</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_340__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When distributing moneys collected under this section, the state treasurer must distribute 10 percent of the moneys to the county in which the tax was collected. The remainder of the moneys collected under this section must be distributed to the county and the cities within the county ratably based on population as last determined by the office of financial management. In making the distribution based on population, the county must receive that proportion that the unincorporated population of the county bears to the total population of the county and each city must receive that proportion that the city incorporated population bears to the total county population.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_340__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Moneys received from any tax imposed under this section must be expended for criminal justice purposes. Criminal justice purposes are defined as activities that substantially assist the criminal justice system, which may include circumstances where ancillary benefit to the civil justice system occurs, and which includes domestic violence services such as those provided by domestic violence programs, community advocates, and legal advocates, as defined in RCW
+70.123.020
+. After May 13, 2021, through December 31, 2023, criminal justice purposes includes local government programs which have a reasonable relationship to reducing the numbers of people interacting with the criminal justice system including, but not limited to, reducing homelessness or improving behavioral health.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_340__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In the expenditure of funds for criminal justice purposes as provided in this section, cities and counties, or any combination thereof, are expressly authorized to participate in agreements, pursuant to chapter
+39.34
+RCW, to jointly expend funds for criminal justice purposes of mutual benefit. Such criminal justice purposes of mutual benefit include, but are not limited to, the construction, improvement, and expansion of jails, court facilities, juvenile justice facilities, and services with ancillary benefits to the civil justice system.
+[
+2021 c 296 s 5
+;
+2010 c 127 s 3
+;
+1995 c 309 s 1
+;
+1993 sp.s. c 21 s 6
+. Prior:
+1991 c 311 s 5
+;
+1991 c 301 s 16
+;
+1990 2nd ex.s. c 1 s 901
+.]
+NOTES:
+Finding
+—
+Intent
+—
+Effective date
+—
+2021 c 296:
+See notes following RCW
+82.14.310
+.
+Effective dates
+—
+1993 sp.s. c 21:
+See note following RCW
+82.14.310
+.
+Severability
+—
+1991 c 311:
+See note following RCW
+82.14.310
+.
+Retroactive application
+—
+1991 c 311:
+See note following RCW
+82.14.330
+.
+Finding
+—
+1991 c 301:
+See note following RCW
+10.99.020
+.
+Severability
+—
+1990 2nd ex.s. c 1:
+See note following RCW
+82.14.300
+.
+Sales and use tax for high capacity transportation service limited by imposition of tax under RCW
+82.14.340
+: RCW
+81.104.170
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

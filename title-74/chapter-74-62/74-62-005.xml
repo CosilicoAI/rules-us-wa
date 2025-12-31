@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.62.005"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.62.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.62.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_62_005">
+        <num>RCW 74.62.005</num>
+        <heading>Findings—Intent—2011 1st sp.s. c 36</heading>
+        <subsection eId="sec_74_62_005__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that:</p>
+          </content>
+          <subsection eId="sec_74_62_005__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Persons who have a long-term disability and apply for federal supplemental security income benefits should receive assistance while their application for federal benefits is pending;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_005__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Persons who are incapacitated from gainful employment for an extended period, but who may not meet the level of severity of a long-term disability, are at increased risk of homelessness; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_005__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Persons who are homeless and suffering from significant medical impairments, mental illness, or substance use disorder face substantial barriers to successful participation in, and completion of, needed medical or behavioral health treatment services. Stable housing increases the likelihood of compliance with and completion of treatment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_62_005__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Through chapter 36, Laws of 2011 1st sp. sess., the legislature intends to:</p>
+          </content>
+          <subsection eId="sec_74_62_005__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Terminate all components of the disability lifeline program created in 2010 and codified in *RCW
+74.04.005
+and create new programs:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_005__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To provide financial grants through the aged, blind, or disabled assistance program and the pregnant women assistance program; and</p>
+            </content>
+            <subsection eId="sec_74_62_005__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>to provide services through the essential needs and housing support program; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_62_005__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Increase opportunities to utilize limited public funding, combined with private charitable and volunteer efforts to serve persons who are recipients of the benefits provided by the new programs created under chapter 36, Laws of 2011 1st sp. sess.
+[
+2023 c 289 s 2
+;
+2011 1st sp.s. c 36 s 1
+.]
+NOTES:
+*Reviser's note:
+2011 1st sp.s. c 36 s 8 deleted the definition of &quot;disability lifeline program.&quot;
+Effective date
+—
+2011 1st sp.s. c 36:
+&quot;Except for sections 6 and 8 of this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [June 15, 2011].&quot; [
+2011 1st sp.s. c 36 s 38
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

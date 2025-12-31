@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_100">
+        <num>RCW 82.44.100</num>
+        <heading>Tax receipt</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.44
+&gt;
+Section 82.44.100
+82.44.090
+&lt;&lt; 
+        82.44.100 &gt;&gt;
+82.44.120
+PDF
+RCW
+82.44.100
+Tax receipt.
+The department, county auditor or other agent, or subagent appointed by the director of licensing shall give to each person paying a locally imposed motor vehicle excise tax a receipt identifying the vehicle for which the tax is paid. The receipt may be incorporated in the receipt given for the vehicle license fee or dealer's license fee paid.
+[
+2010 c 161 s 914
+;
+2006 c 318 s 7
+;
+1961 c 15 s 82.44.100
+. Prior:
+1943 c 144 s 9
+; Rem. Supp. 1943 s 6312-123; prior:
+1937 c 228 s 8
+.]
+NOTES:
+Effective date
+—
+Intent
+—
+Legislation to reconcile chapter 161, Laws of 2010 and other amendments made during the 2010 legislative session
+—
+2010 c 161:
+See notes following RCW
+46.04.013
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

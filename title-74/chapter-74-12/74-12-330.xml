@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.330"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.330"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.330/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.330/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.330/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.330/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_330">
+        <num>RCW 74.12.330</num>
+        <heading>Assistance not to be denied for want of relative or court order</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.330
+74.12.320
+&lt;&lt; 
+        74.12.330 &gt;&gt;
+74.12.340
+PDF
+RCW
+74.12.330
+Assistance not to be denied for want of relative or court order.
+Notwithstanding the provisions of this chapter a child otherwise eligible for aid shall not be denied such assistance where a relative as specified in the social security act is unavailable or refuses to accept custody and the juvenile court fails to enter an order removing the child from the custody of the parent, relative or guardian then having custody.
+[
+1963 c 228 s 29
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

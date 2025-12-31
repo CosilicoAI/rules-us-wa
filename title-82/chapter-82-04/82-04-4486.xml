@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4486"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4486"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4486/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4486/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4486/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4486/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4486">
+        <num>RCW 82.04.4486</num>
+        <heading>Credit—Syrup taxes paid by buyer</heading>
+        <subsection eId="sec_82_04_4486__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing the tax imposed under this chapter, a credit is allowed to a buyer of syrup to be used by the buyer in making carbonated beverages that are sold by the buyer if the tax imposed by RCW
+82.64.020
+has been paid in respect to the syrup. The amount of the credit shall be equal to twenty-five percent from July 1, 2006, through June 30, 2007, fifty percent from July 1, 2007, through June 30, 2008, seventy-five percent from July 1, 2008, through June 30, 2009, and one hundred percent after June 30, 2009, of the taxes imposed under RCW
+82.64.020
+in respect to the syrup purchased by the buyer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4486__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Credit under this section shall be earned, and claimed against taxes due under this chapter, for the tax reporting period in which the syrup was purchased by the person claiming credit under this section. The credit shall not exceed the tax otherwise due under this chapter for the tax reporting period. Unused credit may be carried over and used in subsequent tax reporting periods, except that no credit may be claimed more than twelve months from the end of the tax reporting period in which the credit was earned. No refunds shall be granted for credits under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4486__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No credit is available under this section for taxes paid under RCW
+82.64.020
+before July 1, 2006.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4486__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For the purposes of this section, &quot;carbonated beverage,&quot; &quot;previously taxed syrup,&quot; and &quot;syrup&quot; have the same meanings as provided in RCW
+82.64.010
+.
+[
+2006 c 245 s 1
+.]
+NOTES:
+Effective date
+—
+2006 c 245:
+&quot;This act takes effect July 1, 2006.&quot; [
+2006 c 245 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,2404 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.290"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_290">
+        <num>RCW 82.04.290</num>
+        <heading>Tax on service and other activities. (&lt;i&gt;Effective until October 1, 2025.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of providing qualifying international investment management services, as to such persons, the amount of tax with respect to such business is equal to the gross income or gross proceeds of sales of the business multiplied by a rate of 0.275 percent.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon every person engaging within this state in any business activity other than or in addition to an activity taxed explicitly under another section in this chapter or subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section; as to such persons the amount of tax on account of such activities is equal to the gross income of the business multiplied by the rate of:</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>1.75 percent; or</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>1.5 percent for:
+(A) Any person subject to the surcharge imposed under RCW
+82.04.299
+;
+(B) Any person whose gross income of the business subject to the tax imposed under this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for all affiliated persons was greater than or equal to one million dollars for the immediately preceding calendar year; and
+(C) Hospitals as defined in RCW
+70.41.020
+, including any hospital that comes within the scope of chapter
+71.12
+RCW if the hospital is also licensed under chapter
+70.41
+RCW. This subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>includes, among others, and without limiting the scope hereof (whether or not title to materials used in the performance of such business passes to another by accession, confusion or other than by outright sale), persons engaged in the business of rendering any type of service which does not constitute a &quot;sale at retail&quot; or a &quot;sale at wholesale.&quot; The value of advertising, demonstration, and promotional supplies and materials furnished to an agent by his or her principal or supplier to be used for informational, educational, and promotional purposes is not considered a part of the agent's remuneration or commission and is not subject to taxation under this section.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>14.3 percent of the revenues collected under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited into the workforce education investment account created in RCW
+43.79.195
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To aid in the effective administration of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to identify all of the person's affiliates, including their department tax registration number or unified business identifier number, as may be applicable, or to certify that the person is not affiliated with any other person. Requests under this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>must be in writing and may be made electronically.</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the department establishes, by clear, cogent, and convincing evidence, that a person, with intent to evade the additional taxes due under the 1.75 percent tax rate in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>within thirty days of such request, the person is ineligible for the 1.5 percent tax rate in (a)(ii) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the entire current calendar year and the following four calendar years. However, the department must waive the provisions of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>if (A) the department has not previously determined that the person failed to fully comply with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the department determines that the person has come into full compliance with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>applies only with respect to persons claiming entitlement to the 1.5 percent tax rate solely by reason of (a)(ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For the purposes of (a)(ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year, or aggregate gross income of the business subject to the tax imposed under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year for all affiliated persons, based on incomplete information, the taxpayer must correct the reporting for the current calendar year when complete information for the immediately preceding calendar year is available.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Affiliate&quot; means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person; and</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Control&quot; means the possession, directly or indirectly, of more than eighty percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Until July 1, 2040, upon every person engaging within this state in the business of performing aerospace product development for others, as to such persons, the amount of tax with respect to such business is equal to the gross income of the business multiplied by a rate of 0.9 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person reporting under the tax rate provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>must file a complete annual report with the department under RCW
+82.32.534
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Aerospace product development&quot; has the meaning as provided in RCW
+82.04.4461
+.
+[
+2020 c 2 s 3
+;
+2019 c 426 s 2
+;
+2014 c 97 s 404
+; (2014 c 97 s 403 expired July 9, 2014);
+2013 3rd sp.s. c 2 s 8
+;
+2013 c 23 s 314
+;
+2011 c 174 s 101
+;
+2008 c 81 s 6
+;
+2005 c 369 s 8
+;
+2004 c 174 s 2
+;
+2003 c 343 s 2
+;
+2001 1st sp.s. c 9 s 6
+; (2001 1st sp.s. c 9 s 4 expired July 1, 2001). Prior:
+1998 c 343 s 4
+;
+1998 c 331 s 2
+;
+1998 c 312 s 8
+;
+1998 c 308 s 5
+;
+1998 c 308 s 4
+;
+1997 c 7 s 2
+;
+1996 c 1 s 2
+;
+1995 c 229 s 3
+;
+1993 sp.s. c 25 s 203
+;
+1985 c 32 s 3
+;
+1983 2nd ex.s. c 3 s 2
+;
+1983 c 9 s 2
+;
+1983 c 3 s 212
+;
+1971 ex.s. c 281 s 8
+;
+1970 ex.s. c 65 s 4
+;
+1969 ex.s. c 262 s 39
+;
+1967 ex.s. c 149 s 14
+;
+1963 ex.s. c 28 s 2
+;
+1961 c 15 s 82.04.290
+; prior:
+1959 ex.s. c 5 s 5
+;
+1955 c 389 s 49
+; prior:
+1953 c 195 s 2
+; 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Application
+—
+2020 c 2 s 3:
+&quot;Section 3 of this act applies beginning with gross income of the business, as defined in RCW
+82.04.080
+, received or accrued by taxpayers, on or after April 1, 2020.&quot; [
+2020 c 2 s 9
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2020 c 2:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2020 c 2 s 6
+.]
+Effective dates
+—
+2020 c 2:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [February 10, 2020].</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 1 through 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect April 1, 2020.&quot; [
+2020 c 2 s 7
+.]
+Findings
+—
+Intent
+—
+2019 c 426 ss 2 and 3:
+&quot;In 1995, the legislature enacted a business and occupation tax rate for persons providing international investment management services. The legislature finds that the original intent of this tax rate was to reduce a competitive disadvantage for a limited number of firms providing international investment management services. The fiscal note for the bill stated that &quot;only a very limited taxpayer group would benefit from the reduced rate.&quot; The legislature further finds that as a result of the adoption of economic nexus; a single factor, market-based apportionment methodology; and significant ambiguity in the statute governing the qualifications for the tax rate; a much larger number of businesses are claiming the tax rate than was contemplated in 1995. Therefore, the legislature intends in sections 2 and 3 of this act to clarify the scope of activities and persons eligible for the tax rate to more closely align with the legislature's original intent.&quot; [
+2019 c 426 s 1
+.]
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 426 ss 2 and 3:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to sections 2 and 3 of this act.&quot; [
+2019 c 426 s 9
+.]
+Effective date
+—
+2019 c 426 ss 2 and 3:
+&quot;Sections 2 and 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2019.&quot; [
+2019 c 426 s 10
+.]
+Contingent expiration date
+—
+2014 c 97 ss 401 and 403:
+See note following RCW
+82.04.250
+.
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Fi</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 2 and 4 of this act expire July 1, 2001.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 5 of this act expires July 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Section 8 of this act expires July 22, 2001.&quot; [
+2001 1st sp.s. c 9 s 10
+.]
+Effective dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.298
+.
+Effective date
+—
+1998 c 343:
+See note following RCW
+82.04.272
+.
+Effective date
+—
+1998 c 331:
+See note following RCW
+82.04.2907
+.
+Effective date
+—
+Savings
+—
+1998 c 312:
+See notes following RCW
+82.04.332
+.
+Effective dates
+—
+1998 c 308:
+See note following RCW
+82.04.050
+.
+Savings
+—
+Effective date
+—
+1997 c 7:
+See notes following RCW
+82.04.255
+.
+Effective date
+—
+1996 c 1:
+See note following RCW
+82.04.255
+.
+Effective date
+—
+1995 c 229:
+See note following RCW
+82.04.293
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Construction
+—
+Severability
+—
+Effective dates
+—
+1983 2nd ex.s. c 3:
+See notes following RCW
+82.04.255
+.
+Construction
+—
+Severability
+—
+Effective date
+—
+1983 c 9:
+See notes following RCW
+82.04.255
+.
+PDF
+RCW
+82.04.290
+Tax on service and other activities.
+(Effective October 1, 2025, until January 1, 2026.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of providing qualifying international investment management services, as to such persons, the amount of tax with respect to such business is equal to the gross income or gross proceeds of sales of the business multiplied by a rate of 0.275 percent.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon every person engaging within this state in any business activity other than or in addition to an activity taxed explicitly under another section in this chapter or subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section; as to such persons the amount of tax on account of such activities is equal to the gross income of the business multiplied by the rate of:</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>1.75 percent for any person whose gross income of the business subject to the tax imposed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for all affiliated persons was greater than or equal to $5,000,000 for the immediately preceding calendar year;
+(ii) 1.5 percent for:
+(A) Any person subject to the surcharge imposed under RCW
+82.04.299
+;
+(B) Any person whose gross income of the business subject to the tax imposed under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for all affiliated persons was greater than or equal to $1,000,000 for the immediately preceding calendar year; and
+(C) Hospitals as defined in RCW
+70.41.020
+, including any hospital that comes within the scope of chapter
+71.12
+RCW if the hospital is also licensed under chapter
+70.41
+RCW. This subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>includes, among others, and without limiting the scope hereof (whether or not title to materials used in the performance of such business passes to another by accession, confusion or other than by outright sale), persons engaged in the business of rendering any type of service which does not constitute a &quot;sale at retail&quot; or a &quot;sale at wholesale.&quot; The value of advertising, demonstration, and promotional supplies and materials furnished to an agent by his or her principal or supplier to be used for informational, educational, and promotional purposes is not considered a part of the agent's remuneration or commission and is not subject to taxation under this section.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>14.3 percent of the revenues collected under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited into the workforce education investment account created in RCW
+43.79.195
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To aid in the effective administration of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 1.5 percent tax rate under (a)(ii)(B) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to identify all of the person's affiliates, including their department tax registration number or unified business identifier number, as may be applicable, or to certify that the person is not affiliated with any other person. Requests under this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>must be in writing and may be made electronically.</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the department establishes, by clear, cogent, and convincing evidence, that a person, with intent to evade the additional taxes due under either the 1.75 percent tax rate in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 2.1 percent tax rate in</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>within 30 days of such request, the person is ineligible for the lesser applicable tax rate in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the entire current calendar year and the following four calendar years. However, the department must waive the provisions of this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 1.5 percent tax rate in (a)(ii) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>if (A) the department has not previously determined that the person failed to fully comply with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the department determines that the person has come into full compliance with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>applies only with respect to persons claiming entitlement to the 1.5 percent tax rate solely by reason of (a)(ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For the purposes of (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>or (ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year, or aggregate gross income of the business subject to the tax imposed under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year for all affiliated persons, based on incomplete information, the taxpayer must correct the reporting for the current calendar year when complete information for the immediately preceding calendar year is available.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Affiliate&quot; means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person; and</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Control&quot; means the possession, directly or indirectly, of more than eighty percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Until July 1, 2040, upon every person engaging within this state in the business of performing aerospace product development for others, as to such persons, the amount of tax with respect to such business is equal to the gross income of the business multiplied by a rate of 0.9 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person reporting under the tax rate provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>must file a complete annual report with the department under RCW
+82.32.534
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Aerospace product development&quot; has the meaning as provided in RCW
+82.04.4461
+.
+[
+2025 c 420 s 109
+;
+2020 c 2 s 3
+;
+2019 c 426 s 2
+;
+2014 c 97 s 404
+; (2014 c 97 s 403 expired July 9, 2014);
+2013 3rd sp.s. c 2 s 8
+;
+2013 c 23 s 314
+;
+2011 c 174 s 101
+;
+2008 c 81 s 6
+;
+2005 c 369 s 8
+;
+2004 c 174 s 2
+;
+2003 c 343 s 2
+;
+2001 1st sp.s. c 9 s 6
+; (2001 1st sp.s. c 9 s 4 expired July 1, 2001). Prior:
+1998 c 343 s 4
+;
+1998 c 331 s 2
+;
+1998 c 312 s 8
+;
+1998 c 308 s 5
+;
+1998 c 308 s 4
+;
+1997 c 7 s 2
+;
+1996 c 1 s 2
+;
+1995 c 229 s 3
+;
+1993 sp.s. c 25 s 203
+;
+1985 c 32 s 3
+;
+1983 2nd ex.s. c 3 s 2
+;
+1983 c 9 s 2
+;
+1983 c 3 s 212
+;
+1971 ex.s. c 281 s 8
+;
+1970 ex.s. c 65 s 4
+;
+1969 ex.s. c 262 s 39
+;
+1967 ex.s. c 149 s 14
+;
+1963 ex.s. c 28 s 2
+;
+1961 c 15 s 82.04.290
+; prior:
+1959 ex.s. c 5 s 5
+;
+1955 c 389 s 49
+; prior:
+1953 c 195 s 2
+; 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Effective date
+—
+2025 c 420 ss 109 and 202:
+&quot;Sections 109 and 202 of this act take effect October 1, 2025.&quot; [
+2025 c 420 s 508
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Necessity of act
+—
+2025 c 420:
+See notes following RCW
+82.04.230
+.
+Application
+—
+2020 c 2 s 3:
+&quot;Section 3 of this act applies beginning with gross income of the business, as defined in RCW
+82.04.080
+, received or accrued by taxpayers, on or after April 1, 2020.&quot; [
+2020 c 2 s 9
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2020 c 2:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2020 c 2 s 6
+.]
+Effective dates
+—
+2020 c 2:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [February 10, 2020].</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 1 through 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect April 1, 2020.&quot; [
+2020 c 2 s 7
+.]
+Findings
+—
+Intent
+—
+2019 c 426 ss 2 and 3:
+&quot;In 1995, the legislature enacted a business and occupation tax rate for persons providing international investment management services. The legislature finds that the original intent of this tax rate was to reduce a competitive disadvantage for a limited number of firms providing international investment management services. The fiscal note for the bill stated that &quot;only a very limited taxpayer group would benefit from the reduced rate.&quot; The legislature further finds that as a result of the adoption of economic nexus; a single factor, market-based apportionment methodology; and significant ambiguity in the statute governing the qualifications for the tax rate; a much larger number of businesses are claiming the tax rate than was contemplated in 1995. Therefore, the legislature intends in sections 2 and 3 of this act to clarify the scope of activities and persons eligible for the tax rate to more closely align with the legislature's original intent.&quot; [
+2019 c 426 s 1
+.]
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 426 ss 2 and 3:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to sections 2 and 3 of this act.&quot; [
+2019 c 426 s 9
+.]
+Effective date
+—
+2019 c 426 ss 2 and 3:
+&quot;Sections 2 and 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2019.&quot; [
+2019 c 426 s 10
+.]
+Contingent expiration date
+—
+2014 c 97 ss 401 and 403:
+See note following RCW
+82.04.250
+.
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Fi</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 2 and 4 of this act expire July 1, 2001.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 5 of this act expires July 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Section 8 of this act expires July 22, 2001.&quot; [
+2001 1st sp.s. c 9 s 10
+.]
+Effective dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.298
+.
+Effective date
+—
+1998 c 343:
+See note following RCW
+82.04.272
+.
+Effective date
+—
+1998 c 331:
+See note following RCW
+82.04.2907
+.
+Effective date
+—
+Savings
+—
+1998 c 312:
+See notes following RCW
+82.04.332
+.
+Effective dates
+—
+1998 c 308:
+See note following RCW
+82.04.050
+.
+Savings
+—
+Effective date
+—
+1997 c 7:
+See notes following RCW
+82.04.255
+.
+Effective date
+—
+1996 c 1:
+See note following RCW
+82.04.255
+.
+Effective date
+—
+1995 c 229:
+See note following RCW
+82.04.293
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Construction
+—
+Severability
+—
+Effective dates
+—
+1983 2nd ex.s. c 3:
+See notes following RCW
+82.04.255
+.
+Construction
+—
+Severability
+—
+Effective date
+—
+1983 c 9:
+See notes following RCW
+82.04.255
+.
+PDF
+RCW
+82.04.290
+Tax on service and other activities.
+(Effective January 1, 2026, until April 1, 2026.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of providing qualifying international investment management services, as to such persons, the amount of tax with respect to such business is equal to the gross income or gross proceeds of sales of the business multiplied by a rate of 0.275 percent.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon every person engaging within this state in any business activity other than or in addition to an activity taxed explicitly under this chapter; as to such persons the amount of tax on account of such activities is equal to the gross income of the business multiplied by the rate of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>1.75 percent for any person whose gross income of the business subject to the tax imposed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for all affiliated persons was greater than or equal to $5,000,000 for the immediately preceding calendar year;
+(ii) 1.5 percent for:
+(A) Any person subject to the surcharge imposed under RCW
+82.04.299
+;
+(B) Any person whose gross income of the business subject to the tax imposed under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for all affiliated persons was greater than or equal to $1,000,000 for the immediately preceding calendar year; and
+(C) Hospitals as defined in RCW
+70.41.020
+, including any hospital that comes within the scope of chapter
+71.12
+RCW if the hospital is also licensed under chapter
+70.41
+RCW. This subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>includes, among others, and without limiting the scope hereof (whether or not title to materials used in the performance of such business passes to another by accession, confusion or other than by outright sale), persons engaged in the business of rendering any type of service which does not constitute a &quot;sale at retail&quot; or a &quot;sale at wholesale.&quot; The value of advertising, demonstration, and promotional supplies and materials furnished to an agent by his or her principal or supplier to be used for informational, educational, and promotional purposes is not considered a part of the agent's remuneration or commission and is not subject to taxation under this section.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>14.3 percent of the revenues collected under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited into the workforce education investment account created in RCW
+43.79.195
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To aid in the effective administration of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 1.5 percent tax rate under (a)(ii)(B) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to identify all of the person's affiliates, including their department tax registration number or unified business identifier number, as may be applicable, or to certify that the person is not affiliated with any other person. Requests under this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>must be in writing and may be made electronically.</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the department establishes, by clear, cogent, and convincing evidence, that a person, with intent to evade the additional taxes due under either the 1.75 percent tax rate in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 2.1 percent tax rate in</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>within 30 days of such request, the person is ineligible for the lesser applicable tax rate in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the entire current calendar year and the following four calendar years. However, the department must waive the provisions of this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 1.5 percent tax rate in (a)(ii) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>if (A) the department has not previously determined that the person failed to fully comply with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the department determines that the person has come into full compliance with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>applies only with respect to persons claiming entitlement to the 1.5 percent tax rate solely by reason of (a)(ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For the purposes of (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>or (ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year, or aggregate gross income of the business subject to the tax imposed under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year for all affiliated persons, based on incomplete information, the taxpayer must correct the reporting for the current calendar year when complete information for the immediately preceding calendar year is available.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Affiliate&quot; means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person; and</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Control&quot; means the possession, directly or indirectly, of more than 80 percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Until July 1, 2040, upon every person engaging within this state in the business of performing aerospace product development for others, as to such persons, the amount of tax with respect to such business is equal to the gross income of the business multiplied by a rate of 0.9 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person reporting under the tax rate provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>must file a complete annual report with the department under RCW
+82.32.534
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Aerospace product development&quot; has the meaning as provided in RCW
+82.04.4461
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>does not apply to payment card processing activities involving credit, debit, or prepaid card transactions in which:
+(A) The processor:
+(I) Also operates the payment network or is affiliated with the operator of the payment network; and
+(II) Makes related payments to an affiliated financial institution; or
+(B) The payment card processing company is also the issuer.
+(ii) Payment card processing activities excluded from this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>are subject to tax under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section without any deduction under RCW
+82.04.43397
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Affiliated&quot; has the same meaning as in RCW
+82.04.299
+.</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Financial institution&quot; has the same meaning as in RCW
+82.04.080
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>&quot;Issuer&quot; has the same meaning as in RCW
+82.04.43397
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>&quot;Payment card processing activities&quot; means services related to directly or indirectly acquiring, processing, or routing electronic transactions for issuers, acquirers, payment networks, or merchants. &quot;Payment card processing activities&quot; does not include:
+(A) Issuing and authorizing the use of payment cards;
+(B) Authorization, clearance, and settlement of electronic transactions by a payment network; or
+(C) Retail services or the retail sale of hardware or software.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>&quot;Payment network&quot; has the same meaning as in RCW
+82.04.43397
+.
+(vi) &quot;Processor&quot; has the same meaning as in RCW
+82.04.43397
+.
+[
+2025 c 420 s 109
+;
+2025 c 401 s 3
+;
+2020 c 2 s 3
+;
+2019 c 426 s 2
+;
+2014 c 97 s 404
+; (2014 c 97 s 403 expired July 9, 2014);
+2013 3rd sp.s. c 2 s 8
+;
+2013 c 23 s 314
+;
+2011 c 174 s 101
+;
+2008 c 81 s 6
+;
+2005 c 369 s 8
+;
+2004 c 174 s 2
+;
+2003 c 343 s 2
+;
+2001 1st sp.s. c 9 s 6
+; (2001 1st sp.s. c 9 s 4 expired July 1, 2001). Prior:
+1998 c 343 s 4
+;
+1998 c 331 s 2
+;
+1998 c 312 s 8
+;
+1998 c 308 s 5
+;
+1998 c 308 s 4
+;
+1997 c 7 s 2
+;
+1996 c 1 s 2
+;
+1995 c 229 s 3
+;
+1993 sp.s. c 25 s 203
+;
+1985 c 32 s 3
+;
+1983 2nd ex.s. c 3 s 2
+;
+1983 c 9 s 2
+;
+1983 c 3 s 212
+;
+1971 ex.s. c 281 s 8
+;
+1970 ex.s. c 65 s 4
+;
+1969 ex.s. c 262 s 39
+;
+1967 ex.s. c 149 s 14
+;
+1963 ex.s. c 28 s 2
+;
+1961 c 15 s 82.04.290
+; prior:
+1959 ex.s. c 5 s 5
+;
+1955 c 389 s 49
+; prior:
+1953 c 195 s 2
+; 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Reviser's note:
+This section was amended by 2025 c 401 s 3 and by 2025 c 420 s 109, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>&quot;Processor&quot; has the same meaning as in RCW
+82.04.43397
+.
+[
+2025 c 420 s 109
+;
+2025 c 401 s 3
+;
+2020 c 2 s 3
+;
+2019 c 426 s 2
+;
+2014 c 97 s 404
+; (2014 c 97 s 403 expired July 9, 2014);
+2013 3rd sp.s. c 2 s 8
+;
+2013 c 23 s 314
+;
+2011 c 174 s 101
+;
+2008 c 81 s 6
+;
+2005 c 369 s 8
+;
+2004 c 174 s 2
+;
+2003 c 343 s 2
+;
+2001 1st sp.s. c 9 s 6
+; (2001 1st sp.s. c 9 s 4 expired July 1, 2001). Prior:
+1998 c 343 s 4
+;
+1998 c 331 s 2
+;
+1998 c 312 s 8
+;
+1998 c 308 s 5
+;
+1998 c 308 s 4
+;
+1997 c 7 s 2
+;
+1996 c 1 s 2
+;
+1995 c 229 s 3
+;
+1993 sp.s. c 25 s 203
+;
+1985 c 32 s 3
+;
+1983 2nd ex.s. c 3 s 2
+;
+1983 c 9 s 2
+;
+1983 c 3 s 212
+;
+1971 ex.s. c 281 s 8
+;
+1970 ex.s. c 65 s 4
+;
+1969 ex.s. c 262 s 39
+;
+1967 ex.s. c 149 s 14
+;
+1963 ex.s. c 28 s 2
+;
+1961 c 15 s 82.04.290
+; prior:
+1959 ex.s. c 5 s 5
+;
+1955 c 389 s 49
+; prior:
+1953 c 195 s 2
+; 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Reviser's note:
+This section was amended by 2025 c 401 s 3 and by 2025 c 420 s 109, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [February 10, 2020].</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 1 through 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect April 1, 2020.&quot; [
+2020 c 2 s 7
+.]
+Findings
+—
+Intent
+—
+2019 c 426 ss 2 and 3:
+&quot;In 1995, the legislature enacted a business and occupation tax rate for persons providing international investment management services. The legislature finds that the original intent of this tax rate was to reduce a competitive disadvantage for a limited number of firms providing international investment management services. The fiscal note for the bill stated that &quot;only a very limited taxpayer group would benefit from the reduced rate.&quot; The legislature further finds that as a result of the adoption of economic nexus; a single factor, market-based apportionment methodology; and significant ambiguity in the statute governing the qualifications for the tax rate; a much larger number of businesses are claiming the tax rate than was contemplated in 1995. Therefore, the legislature intends in sections 2 and 3 of this act to clarify the scope of activities and persons eligible for the tax rate to more closely align with the legislature's original intent.&quot; [
+2019 c 426 s 1
+.]
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 426 ss 2 and 3:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to sections 2 and 3 of this act.&quot; [
+2019 c 426 s 9
+.]
+Effective date
+—
+2019 c 426 ss 2 and 3:
+&quot;Sections 2 and 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2019.&quot; [
+2019 c 426 s 10
+.]
+Contingent expiration date
+—
+2014 c 97 ss 401 and 403:
+See note following RCW
+82.04.250
+.
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Fi</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 2 and 4 of this act expire July 1, 2001.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 5 of this act expires July 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Section 8 of this act expires July 22, 2001.&quot; [
+2001 1st sp.s. c 9 s 10
+.]
+Effective dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.298
+.
+Effective date
+—
+1998 c 343:
+See note following RCW
+82.04.272
+.
+Effective date
+—
+1998 c 331:
+See note following RCW
+82.04.2907
+.
+Effective date
+—
+Savings
+—
+1998 c 312:
+See notes following RCW
+82.04.332
+.
+Effective dates
+—
+1998 c 308:
+See note following RCW
+82.04.050
+.
+Savings
+—
+Effective date
+—
+1997 c 7:
+See notes following RCW
+82.04.255
+.
+Effective date
+—
+1996 c 1:
+See note following RCW
+82.04.255
+.
+Effective date
+—
+1995 c 229:
+See note following RCW
+82.04.293
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Construction
+—
+Severability
+—
+Effective dates
+—
+1983 2nd ex.s. c 3:
+See notes following RCW
+82.04.255
+.
+Construction
+—
+Severability
+—
+Effective date
+—
+1983 c 9:
+See notes following RCW
+82.04.255
+.
+PDF
+RCW
+82.04.290
+Tax on service and other activities.
+(Effective April 1, 2026.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of providing qualifying international investment management services, as to such persons, the amount of tax with respect to such business is equal to the gross income or gross proceeds of sales of the business multiplied by a rate of 0.275 percent.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon every person engaging within this state in any business activity other than or in addition to an activity taxed explicitly under this chapter; as to such persons the amount of tax on account of such activities is equal to the gross income of the business multiplied by the rate of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>1.75 percent for any person whose gross income of the business subject to the tax imposed under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for all affiliated persons was greater than or equal to $5,000,000 for the immediately preceding calendar year;
+(ii) 1.5 percent for:
+(A) Any person subject to the surcharge imposed under RCW
+82.04.299
+;
+(B) Any person whose gross income of the business subject to the tax imposed under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for all affiliated persons was greater than or equal to $1,000,000 for the immediately preceding calendar year; and
+(C) Hospitals as defined in RCW
+70.41.020
+, including any hospital that comes within the scope of chapter
+71.12
+RCW if the hospital is also licensed under chapter
+70.41
+RCW. This subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>includes, among others, and without limiting the scope hereof (whether or not title to materials used in the performance of such business passes to another by accession, confusion or other than by outright sale), persons engaged in the business of rendering any type of service which does not constitute a &quot;sale at retail&quot; or a &quot;sale at wholesale.&quot; The value of advertising, demonstration, and promotional supplies and materials furnished to an agent by his or her principal or supplier to be used for informational, educational, and promotional purposes is not considered a part of the agent's remuneration or commission and is not subject to taxation under this section.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>14.3 percent of the revenues collected under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must be deposited into the workforce education investment account created in RCW
+43.79.195
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>To aid in the effective administration of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 1.5 percent tax rate under (a)(ii)(B) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to identify all of the person's affiliates, including their department tax registration number or unified business identifier number, as may be applicable, or to certify that the person is not affiliated with any other person. Requests under this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>must be in writing and may be made electronically.</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the department establishes, by clear, cogent, and convincing evidence, that a person, with intent to evade the additional taxes due under either the 1.75 percent tax rate in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 2.1 percent tax rate in</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>within 30 days of such request, the person is ineligible for the lesser applicable tax rate in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the entire current calendar year and the following four calendar years. However, the department must waive the provisions of this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or the 1.5 percent tax rate in (a)(ii) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>if (A) the department has not previously determined that the person failed to fully comply with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the department determines that the person has come into full compliance with</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>applies only with respect to persons claiming entitlement to the 1.5 percent tax rate solely by reason of (a)(ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For the purposes of (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>or (ii)(B) of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year, or aggregate gross income of the business subject to the tax imposed under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>for the immediately preceding calendar year for all affiliated persons, based on incomplete information, the taxpayer must correct the reporting for the current calendar year when complete information for the immediately preceding calendar year is available.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Affiliate&quot; means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person; and</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Control&quot; means the possession, directly or indirectly, of more than 80 percent of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting shares, by contract, or otherwise.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Until July 1, 2040, upon every person engaging within this state in the business of performing aerospace product development for others, as to such persons, the amount of tax with respect to such business is equal to the gross income of the business multiplied by a rate of 0.9 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A person reporting under the tax rate provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>must file a complete annual report with the department under RCW
+82.32.534
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Aerospace product development&quot; has the meaning as provided in RCW
+82.04.4461
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>does not apply to payment card processing activities involving credit, debit, or prepaid card transactions in which:
+(A) The processor:
+(I) Also operates the payment network or is affiliated with the operator of the payment network; and
+(II) Makes related payments to an affiliated financial institution; or
+(B) The payment card processing company is also the issuer.
+(ii) Payment card processing activities excluded from this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>are subject to tax under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section without any deduction under RCW
+82.04.43397
+.</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Affiliated&quot; has the same meaning as in RCW
+82.04.299
+.</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Financial institution&quot; has the same meaning as in RCW
+82.04.080
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>&quot;Issuer&quot; has the same meaning as in RCW
+82.04.43397
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>&quot;Payment card processing activities&quot; means services related to directly or indirectly acquiring, processing, or routing electronic transactions for issuers, acquirers, payment networks, or merchants. &quot;Payment card processing activities&quot; does not include:
+(A) Issuing and authorizing the use of payment cards;
+(B) Authorization, clearance, and settlement of electronic transactions by a payment network; or
+(C) Retail services or the retail sale of hardware or software.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_290__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>&quot;Payment network&quot; has the same meaning as in RCW
+82.04.43397
+.
+(vi) &quot;Processor&quot; has the same meaning as in RCW
+82.04.43397
+.</p>
+            </content>
+            <subsection eId="sec_82_04_290__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>&quot;Processor&quot; has the same meaning as in RCW
+82.04.43397
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The rates in subsection</p>
+          </content>
+          <subsection eId="sec_82_04_290__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section apply upon every person in this state engaging in the business of renting or leasing individual storage space at self-service storage facilities as defined in RCW
+19.150.010
+.
+[
+2025 c 423 s 301
+;
+2025 c 420 s 109
+;
+2025 c 401 s 3
+;
+2020 c 2 s 3
+;
+2019 c 426 s 2
+;
+2014 c 97 s 404
+; (2014 c 97 s 403 expired July 9, 2014);
+2013 3rd sp.s. c 2 s 8
+;
+2013 c 23 s 314
+;
+2011 c 174 s 101
+;
+2008 c 81 s 6
+;
+2005 c 369 s 8
+;
+2004 c 174 s 2
+;
+2003 c 343 s 2
+;
+2001 1st sp.s. c 9 s 6
+; (2001 1st sp.s. c 9 s 4 expired July 1, 2001). Prior:
+1998 c 343 s 4
+;
+1998 c 331 s 2
+;
+1998 c 312 s 8
+;
+1998 c 308 s 5
+;
+1998 c 308 s 4
+;
+1997 c 7 s 2
+;
+1996 c 1 s 2
+;
+1995 c 229 s 3
+;
+1993 sp.s. c 25 s 203
+;
+1985 c 32 s 3
+;
+1983 2nd ex.s. c 3 s 2
+;
+1983 c 9 s 2
+;
+1983 c 3 s 212
+;
+1971 ex.s. c 281 s 8
+;
+1970 ex.s. c 65 s 4
+;
+1969 ex.s. c 262 s 39
+;
+1967 ex.s. c 149 s 14
+;
+1963 ex.s. c 28 s 2
+;
+1961 c 15 s 82.04.290
+; prior:
+1959 ex.s. c 5 s 5
+;
+1955 c 389 s 49
+; prior:
+1953 c 195 s 2
+; 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Reviser's note:
+This section was amended by 2025 c 401 s 3, 2025 c 420 s 109, and by 2025 c 423 s 301, without reference to one another. All amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [February 10, 2020].</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 1 through 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect April 1, 2020.&quot; [
+2020 c 2 s 7
+.]
+Findings
+—
+Intent
+—
+2019 c 426 ss 2 and 3:
+&quot;In 1995, the legislature enacted a business and occupation tax rate for persons providing international investment management services. The legislature finds that the original intent of this tax rate was to reduce a competitive disadvantage for a limited number of firms providing international investment management services. The fiscal note for the bill stated that &quot;only a very limited taxpayer group would benefit from the reduced rate.&quot; The legislature further finds that as a result of the adoption of economic nexus; a single factor, market-based apportionment methodology; and significant ambiguity in the statute governing the qualifications for the tax rate; a much larger number of businesses are claiming the tax rate than was contemplated in 1995. Therefore, the legislature intends in sections 2 and 3 of this act to clarify the scope of activities and persons eligible for the tax rate to more closely align with the legislature's original intent.&quot; [
+2019 c 426 s 1
+.]
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 426 ss 2 and 3:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to sections 2 and 3 of this act.&quot; [
+2019 c 426 s 9
+.]
+Effective date
+—
+2019 c 426 ss 2 and 3:
+&quot;Sections 2 and 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2019.&quot; [
+2019 c 426 s 10
+.]
+Contingent expiration date
+—
+2014 c 97 ss 401 and 403:
+See note following RCW
+82.04.250
+.
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Fi</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 2 and 4 of this act expire July 1, 2001.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 5 of this act expires July 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Section 8 of this act expires July 22, 2001.&quot; [
+2001 1st sp.s. c 9 s 10
+.]
+Effective dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.298
+.
+Effective date
+—
+1998 c 343:
+See note following RCW
+82.04.272
+.
+Effective date
+—
+1998 c 331:
+See note following RCW
+82.04.2907
+.
+Effective date
+—
+Savings
+—
+1998 c 312:
+See notes following RCW
+82.04.332
+.
+Effective dates
+—
+1998 c 308:
+See note following RCW
+82.04.050
+.
+Savings
+—
+Effective date
+—
+1997 c 7:
+See notes following RCW
+82.04.255
+.
+Effective date
+—
+1996 c 1:
+See note following RCW
+82.04.255
+.
+Effective date
+—
+1995 c 229:
+See note following RCW
+82.04.293
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Construction
+—
+Severability
+—
+Effective dates
+—
+1983 2nd ex.s. c 3:
+See notes following RCW
+82.04.255
+.
+Construction
+—
+Severability
+—
+Effective date
+—
+1983 c 9:
+See notes following RCW
+82.04.255
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

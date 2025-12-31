@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.448"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.448"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.448/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.448/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.448/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.448/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_448">
+        <num>RCW 82.04.448</num>
+        <heading>Credit—Manufacturing semiconductor materials. (Contingent effective date; contingent expiration date.)</heading>
+        <subsection eId="sec_82_04_448__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the limits and provisions of this section, a credit is authorized against the tax otherwise due under RCW
+82.04.241
+for persons engaged in the business of manufacturing semiconductor materials. For the purposes of this section &quot;semiconductor materials&quot; has the same meaning as provided in RCW
+82.04.241
+.</p>
+          </content>
+          <subsection eId="sec_82_04_448__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The credit under this section equals $3,000 for each employment position used in manufacturing production that takes place in a new building exempt from sales and use tax under RCW
+82.08.965
+and
+82.12.965
+. A credit is earned for the calendar year a person fills a position. Additionally a credit is earned for each year the position is maintained over the subsequent consecutive years, up to eight years. Those positions that are not filled for the entire year are eligible for 50 percent of the credit if filled less than six months, and the entire credit if filled more than six months.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_448__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To qualify for the credit, the manufacturing activity of the person must be conducted at a new building that qualifies for the exemption from sales and use tax under RCW
+82.08.965
+and
+82.12.965
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_448__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In those situations where a production building in existence on the effective date of this section will be phased out of operation, during which time employment at the new building at the same site is increased, the person is eligible for credit for employment at the existing building and new building, with the limitation that the combined eligible employment not exceed full employment at the new building. &quot;Full employment&quot; has the same meaning as in RCW
+82.08.965
+. The credit may not be earned until the commencement of commercial production, as that term is used in RCW
+82.08.965
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No application is necessary for the tax credit. The person is subject to all of the requirements of chapter
+82.32
+RCW. In no case may a credit earned during one calendar year be carried over to be credited against taxes incurred in a subsequent calendar year. No refunds may be granted for credits under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If at any time the department finds that a person is not eligible for tax credit under this section, the amount of taxes for which a credit has been claimed is immediately due. The department must assess interest, but not penalties, on the taxes for which the person is not eligible. The interest must be assessed at the rate provided for delinquent excise taxes under chapter
+82.32
+RCW, is retroactive to the date the tax credit was taken, and accrues until the taxes for which a credit has been used are repaid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A person claiming the credit under this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Credits may be claimed after the expiration date of this section, for those buildings at which commercial production began before the expiration date of this section, subject to all of the eligibility criteria and limitations of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Any person who has claimed the credit under this section must reimburse the department for 50 percent of the amount of the tax preference under this section if the number of persons employed by the person claiming the tax preference is less than 90 percent of the person's three-year employment average for the three years immediately preceding the year in which the credit is claimed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Pursuant to RCW
+82.32.790
+, this section is contingent on the siting and commercial operation of a significant semiconductor microchip fabrication facility in the state of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>This section expires January 1, 2034, unless the contingency in RCW
+82.32.790</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_448__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>occurs.
+[
+2024 c 261 s 4
+. Prior:
+2017 3rd sp.s. c 37 s 516
+; (2017 3rd sp.s. c 37 s 515 expired January 1, 2018);
+2017 c 135 s 17
+;
+2010 c 114 s 117
+;
+2003 c 149 s 9
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Effective date
+—
+2024 c 261 ss 2-9:
+See notes following RCW
+82.04.241
+.
+Effective date
+—
+2017 3rd sp.s. c 37 ss 101-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+See note following RCW
+82.04.2404
+.
+Expiration date
+—
+2017 3rd sp.s. c 37 ss 502, 505, 507, 509, 511, 513, 515, 517, 519, 521, 523, and 525:
+See note following RCW
+82.04.2404
+.
+*Contingent effective date
+—
+2017 c 135; 2010 c 114:
+See RCW
+82.32.790
+.
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Finding
+—
+Intent
+—
+2010 c 114:
+See note following RCW
+82.32.534
+.
+Findings
+—
+Intent
+—
+2003 c 149:
+See note following RCW
+82.04.426
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,319 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.270"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_270">
+        <num>RCW 82.04.270</num>
+        <heading>Tax on wholesalers. (&lt;i&gt;Effective until January 1, 2027.&lt;/i&gt;)</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.270
+82.04.263
+&lt;&lt; 
+        82.04.270 &gt;&gt;
+82.04.272
+PDF
+RCW
+82.04.270
+Tax on wholesalers.
+(Effective until January 1, 2027.)
+Upon every person engaging within this state in the business of making sales at wholesale, except persons taxable as wholesalers under other provisions of this chapter; as to such persons the amount of tax with respect to such business shall be equal to the gross proceeds of sales of such business multiplied by the rate of 0.484 percent.
+[
+2004 c 24 s 5
+;
+2003 2nd sp.s. c 1 s 5
+;
+2001 1st sp.s. c 9 s 3
+; (2001 1st sp.s. c 9 s 2 expired July 1, 2001);
+1999 c 358 s 2
+. Prior:
+1999 c 358 s 1
+;
+1998 c 343 s 2
+;
+1998 c 329 s 1
+;
+1998 c 312 s 6
+;
+1994 c 124 s 2
+;
+1993 sp.s. c 25 s 105
+;
+1981 c 172 s 4
+;
+1971 ex.s. c 281 s 6
+;
+1971 ex.s. c 186 s 4
+;
+1969 ex.s. c 262 s 37
+;
+1967 ex.s. c 149 s 11
+;
+1961 c 15 s 82.04.270
+; prior:
+1959 ex.s. c 5 s 3
+;
+1955 c 389 s 47
+; prior: 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.
+Finding
+—
+2003 2nd sp.s. c 1:
+See note following RCW
+82.04.4461
+.
+Effective dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.298
+.
+Expiration dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.290
+.
+Effective date
+—
+1999 c 358 s 2:
+&quot;Section 2 of this act takes effect July 1, 2001.&quot; [
+1999 c 358 s 23
+.]
+Effective date
+—
+1999 c 358 ss 1 and 3-21:
+See note following RCW
+82.04.3651
+.
+Effective date
+—
+1998 c 343:
+See note following RCW
+82.04.272
+.
+Effective date
+—
+1998 c 329:
+&quot;This act takes effect July 1, 1998.&quot; [
+1998 c 329 s 2
+.]
+Effective date
+—
+Savings
+—
+1998 c 312:
+See notes following RCW
+82.04.332
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Effective dates
+—
+1981 c 172:
+See note following RCW
+82.04.240
+.
+Effective date
+—
+1971 ex.s. c 186:
+See note following RCW
+82.04.110
+.
+PDF
+RCW
+82.04.270
+Tax on wholesalers.
+(Effective January 1, 2027.)
+Upon every person engaging within this state in the business of making sales at wholesale, except persons taxable as wholesalers under other provisions of this chapter; as to such persons the amount of tax with respect to such business shall be equal to the gross proceeds of sales of such business multiplied by the rate of 0.5 percent.
+[
+2025 c 420 s 106
+;
+2004 c 24 s 5
+;
+2003 2nd sp.s. c 1 s 5
+;
+2001 1st sp.s. c 9 s 3
+; (2001 1st sp.s. c 9 s 2 expired July 1, 2001);
+1999 c 358 s 2
+. Prior:
+1999 c 358 s 1
+;
+1998 c 343 s 2
+;
+1998 c 329 s 1
+;
+1998 c 312 s 6
+;
+1994 c 124 s 2
+;
+1993 sp.s. c 25 s 105
+;
+1981 c 172 s 4
+;
+1971 ex.s. c 281 s 6
+;
+1971 ex.s. c 186 s 4
+;
+1969 ex.s. c 262 s 37
+;
+1967 ex.s. c 149 s 11
+;
+1961 c 15 s 82.04.270
+; prior:
+1959 ex.s. c 5 s 3
+;
+1955 c 389 s 47
+; prior: 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Effective date
+—
+2025 c 420 ss 101-108 and 110-112:
+See note following RCW
+82.04.230
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Necessity of act
+—
+2025 c 420:
+See notes following RCW
+82.04.230
+.
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.
+Finding
+—
+2003 2nd sp.s. c 1:
+See note following RCW
+82.04.4461
+.
+Effective dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.298
+.
+Expiration dates
+—
+2001 1st sp.s. c 9:
+See note following RCW
+82.04.290
+.
+Effective date
+—
+1999 c 358 s 2:
+&quot;Section 2 of this act takes effect July 1, 2001.&quot; [
+1999 c 358 s 23
+.]
+Effective date
+—
+1999 c 358 ss 1 and 3-21:
+See note following RCW
+82.04.3651
+.
+Effective date
+—
+1998 c 343:
+See note following RCW
+82.04.272
+.
+Effective date
+—
+1998 c 329:
+&quot;This act takes effect July 1, 1998.&quot; [
+1998 c 329 s 2
+.]
+Effective date
+—
+Savings
+—
+1998 c 312:
+See notes following RCW
+82.04.332
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Effective dates
+—
+1981 c 172:
+See note following RCW
+82.04.240
+.
+Effective date
+—
+1971 ex.s. c 186:
+See note following RCW
+82.04.110
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

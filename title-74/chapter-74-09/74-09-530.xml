@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.530"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.530"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.530/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.530/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.530/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.530/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_530">
+        <num>RCW 74.09.530</num>
+        <heading>Medical assistance—Powers and duties of authority</heading>
+        <subsection eId="sec_74_09_530__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Individuals eligible for medical assistance under RCW
+74.09.510</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_530__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>shall be transitioned into coverage under that subsection immediately upon their termination from coverage under RCW
+74.09.510</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_530__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>who are approaching their twenty-first birthday.
+[
+2018 c 201 s 7018
+;
+2011 1st sp.s. c 15 s 32
+;
+2007 c 315 s 2
+;
+2000 c 218 s 2
+;
+1979 c 141 s 345
+;
+1967 ex.s. c 30 s 6
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Conflict with federal requirements
+—
+2007 c 315:
+See note following RCW
+74.09.510
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

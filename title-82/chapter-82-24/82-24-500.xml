@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.500"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.500"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.500/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.500/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.500/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.500/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_500">
+        <num>RCW 82.24.500</num>
+        <heading>Business of cigarette purchase, sale, consignment, distribution, or providing access to cigarette-making machines—License required—Penalty</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.24
+&gt;
+Section 82.24.500
+82.24.302
+&lt;&lt; 
+        82.24.500 &gt;&gt;
+82.24.510
+PDF
+RCW
+82.24.500
+Business of cigarette purchase, sale, consignment, distribution, or providing access to cigarette-making machines
+—
+License required
+—
+Penalty.
+No person may engage in or conduct the business of purchasing, selling, consigning, or distributing cigarettes in this state without a license under this chapter, or providing consumers with access to a commercial cigarette-making machine without a license under this chapter. A violation of this section is a class C felony.
+[
+2012 2nd sp.s. c 4 s 11
+;
+2003 c 114 s 10
+;
+1986 c 321 s 4
+.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Policy
+—
+Intent
+—
+1986 c 321:
+&quot;It is the policy of the legislature to encourage competition by reducing the government's role in price setting. It is the legislature's intent to leave price setting mainly to the forces of the marketplace. In the field of cigarette sales, the legislature finds that the goal of open competition should be balanced against the public policy disallowing use of cigarette sales as loss leaders. To balance these public policies, it is the intent of the legislature to repeal the unfair cigarette sales below cost act and to declare the use of cigarettes as loss leaders as an unfair practice under the consumer protection act.&quot; [
+1986 c 321 s 1
+.]
+Savings
+—
+1986 c 321:
+&quot;A cigarette wholesalers or retailers license issued by the department of licensing under RCW
+19.91.130
+in good standing on the July 1, 1991, constitutes a license under RCW
+82.24.500
+.&quot; [
+1986 c 321 s 11
+.]
+Effective date
+—
+1986 c 321:
+&quot;Sections 1 and 4 through 14 of this act shall take effect on July 1, 1991.&quot; [
+1986 c 321 s 15
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

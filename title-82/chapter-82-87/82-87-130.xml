@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.130"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_130">
+        <num>RCW 82.87.130</num>
+        <heading>Administration of taxes</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.87
+&gt;
+Section 82.87.130
+82.87.120
+&lt;&lt; 
+        82.87.130 &gt;&gt;
+82.87.140
+PDF
+RCW
+82.87.130
+Administration of taxes.
+Except as otherwise provided by law and to the extent not inconsistent with the provisions of this chapter, chapter
+82.32
+RCW applies to the administration of taxes imposed under this chapter.
+[
+2021 c 196 s 14
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

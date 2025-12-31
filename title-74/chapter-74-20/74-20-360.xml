@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.360"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.360"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.360/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.360/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.360/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.360/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_360">
+        <num>RCW 74.20.360</num>
+        <heading>Orders for genetic testing</heading>
+        <subsection eId="sec_74_20_360__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The division of child support may issue an order for genetic testing when providing services under this chapter and Title IV-D of the federal social security act if genetic testing:</p>
+          </content>
+          <subsection eId="sec_74_20_360__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is appropriate in an action under chapter
+26.26A
+RCW, the uniform parentage act;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20_360__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is appropriate in an action to establish support under RCW
+74.20A.056
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20_360__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Would assist the parties or the division of child support in determining whether it is appropriate to proceed with an action to establish or disestablish parentage.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The order for genetic testing shall be served on the alleged genetic parent or parents and the legal parent by personal service or by any form of mail requiring a return receipt.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Within twenty days of the date of service of an order for genetic testing, any party required to appear for genetic testing, the child, or a guardian on the child's behalf, may petition in superior court under chapter
+26.26A
+RCW to bar or postpone genetic testing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The order for genetic testing shall contain:</p>
+          </content>
+          <subsection eId="sec_74_20_360__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An explanation of the right to proceed in superior court under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section;</p>
+          </content>
+          <subsection eId="sec_74_20_360__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notice that if no one proceeds under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the agency issuing the order will schedule genetic testing and will notify the parties of the time and place of testing by regular mail;</p>
+          </content>
+          <subsection eId="sec_74_20_360__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Notice that the parties must keep the agency issuing the order for genetic testing informed of their residence address and that mailing a notice of time and place for genetic testing to the last known address of the parties by regular mail constitutes valid service of the notice of time and place;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20_360__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Notice that the order for genetic testing may be enforced through:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20_360__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Public assistance grant reduction for noncooperation, pursuant to agency rule, if the child and custodian are receiving public assistance;</p>
+            </content>
+            <subsection eId="sec_74_20_360__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Termination of support enforcement services under Title IV-D of the federal social security act if the child and custodian are not receiving public assistance;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20_360__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A referral to superior court for an appropriate action under chapter
+26.26A
+RCW; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_20_360__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>A referral to superior court for remedial sanctions under RCW
+7.21.060
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department may advance the costs of genetic testing under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If an action is pending under chapter
+26.26A
+RCW, a judgment for reimbursement of the cost of genetic testing may be awarded under RCW
+26.26A.330
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_360__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>If no action is pending in superior court, the department may impose an obligation to reimburse costs of genetic testing according to rules adopted by the department to implement RCW
+74.20A.056
+.
+[
+2019 c 46 s 5050
+;
+2002 c 302 s 706
+;
+1997 c 58 s 901
+.]
+NOTES:
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

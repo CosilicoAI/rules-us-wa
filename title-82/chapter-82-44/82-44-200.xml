@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.200"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_200">
+        <num>RCW 82.44.200</num>
+        <heading>Electric vehicle account</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.44
+&gt;
+Section 82.44.200
+82.44.195
+&lt;&lt; 
+        82.44.200 &gt;&gt;
+82.44.900
+PDF
+RCW
+82.44.200
+Electric vehicle account.
+The electric vehicle account is created in the transportation infrastructure account. Proceeds from the principal and interest payments made on loans from the account must be deposited into the account. Expenditures from the account may be used only for the purposes specified in RCW
+47.04.350
+,
+82.08.9999
+, and
+82.12.9999
+, and the support of other transportation electrification and alternative fuel related purposes, including RCW
+47.01.520
+. Moneys in the account may be spent only after appropriation. During the 2023-2025 and 2025-2027 fiscal biennia, the legislature may direct the state treasurer to make transfers of moneys in the electric vehicle account to the move ahead WA flexible account, the move ahead WA account, and multimodal transportation account.
+[
+2025 c 416 s 718
+;
+2023 c 472 s 718
+;
+2022 c 187 s 501
+;
+2021 c 300 s 5
+;
+2019 c 287 s 15
+;
+2015 3rd sp.s. c 44 s 404
+.]
+NOTES:
+Effective date
+—
+2025 c 416:
+See note following RCW
+36.79.020
+.
+Effective date
+—
+2023 c 472:
+See note following RCW
+43.19.642
+.
+Effective date
+—
+2022 c 187:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 25, 2022].&quot; [
+2022 c 187 s 503
+.]
+Intent
+—
+2021 c 300:
+See note following RCW
+47.01.520
+.
+Effective date
+—
+2019 c 287 ss 1-7, 12, and 14-23:
+See note following RCW
+28B.30.903
+.
+Findings
+—
+Intent
+—
+2019 c 287:
+See note following RCW
+28B.30.903
+.
+Effective date
+—
+2015 3rd sp.s. c 44:
+See note following RCW
+46.68.395
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

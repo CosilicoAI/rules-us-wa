@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.120"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_120">
+        <num>RCW 82.87.120</num>
+        <heading>Joint filers—Separate filers—Tax liability. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_87_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If the federal income tax liabilities of both spouses are determined on a joint federal return for the taxable year, they must file a joint return under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as otherwise provided in this subsection, if the federal income tax liability of either spouse is determined on a separate federal return for the taxable year, they must file separate returns under this chapter. State registered domestic partners may file a joint return under this chapter even if they filed separate federal returns for the taxable year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The liability for tax due under this chapter of each spouse or state registered domestic partner is joint and several, unless:</p>
+          </content>
+          <subsection eId="sec_82_87_120__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The spouse is relieved of liability for federal tax purposes as provided under Title 26 U.S.C. Sec. 6015 of the internal revenue code; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_120__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department determines that the domestic partner qualifies for relief as provided by rule of the department. Such rule, to the extent possible without being inconsistent with this chapter, must follow Title 26 U.S.C. Sec. 6015.
+[
+2021 c 196 s 13
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.
+PDF
+RCW
+82.87.120
+Joint filers
+—
+Separate filers
+—
+Tax liability.
+(Effective January 1, 2026.)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If the federal income tax liabilities of both spouses are determined on a joint federal return for the taxable year, they must file a joint return under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as otherwise provided in this subsection, if the federal income tax liability of any individual, including either spouse of a marital community, is determined on a separate federal return for the taxable year, they must file separate returns under this chapter. State registered domestic partners may file a joint return under this chapter even if they filed separate federal returns for the taxable year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The liability for tax due under this chapter of each spouse or state registered domestic partner is joint and several, unless:</p>
+          </content>
+          <subsection eId="sec_82_87_120__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The spouse is relieved of liability for federal tax purposes as provided under Title 26 U.S.C. Sec. 6015 of the internal revenue code; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_120__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department determines that the domestic partner qualifies for relief as provided by rule of the department. Such rule, to the extent possible without being inconsistent with this chapter, must follow Title 26 U.S.C. Sec. 6015.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_120__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Unless the context clearly indicates otherwise, individuals who are spouses or state registered domestic partners are not considered separate taxpayers for the purposes of this chapter regardless of whether they file a joint or separate return for the tax imposed under this chapter. The activities and assets of each spouse or state registered domestic partner are combined as if they were one individual for the purposes of determining the applicability of any threshold amounts, caps, deductions, credits, or any other amounts related to the activities or assets of an individual throughout this chapter.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_120__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Except as provided in (b)</p>
+            </content>
+            <subsection eId="sec_82_87_120__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_87_120__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If both spouses or state registered domestic partners cannot agree on an allocation of assets and activity as authorized under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_120__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

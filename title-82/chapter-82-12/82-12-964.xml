@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.964"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.964"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.964/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.964/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.964/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.964/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_964">
+        <num>RCW 82.12.964</num>
+        <heading>Use of machinery and equipment used in generating electricity—Effect of exemption expiration</heading>
+        <subsection eId="sec_82_12_964__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_964__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the expiration of RCW
+82.12.02567
+and
+82.12.962
+do not require the payment of, or authorize the department to assess, use tax imposed by or under the authority of RCW
+82.12.020
+,
+81.104.170
+, and chapter
+82.14
+RCW, on the use of machinery and equipment, and labor and services rendered in respect to installing such machinery and equipment, if such use qualified for the exemption under RCW
+82.12.02567
+or
+82.12.962
+immediately preceding the expiration date of the applicable exemption under RCW
+82.12.02567
+or
+82.12.962
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_964__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_964__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not prohibit the department from assessing, subject to the limitations period in RCW
+82.32.050
+, state and local use taxes on the use of machinery and equipment, and labor and services rendered in respect to installing such machinery and equipment, if, before the expiration of the applicable exemption provided in RCW
+82.12.02567
+or
+82.12.962
+, the machinery and equipment was put to a use that is outside of the scope of the applicable exemption in RCW
+82.12.02567
+or
+82.12.962
+.
+[
+2009 c 469 s 109
+.]
+NOTES:
+Effective date
+—
+2009 c 469:
+See note following RCW
+82.08.962
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

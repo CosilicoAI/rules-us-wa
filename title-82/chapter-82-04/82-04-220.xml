@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.220"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.220/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.220/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_220">
+        <num>RCW 82.04.220</num>
+        <heading>Business and occupation tax imposed</heading>
+        <subsection eId="sec_82_04_220__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>There is levied and collected from every person that has a substantial nexus with this state, as provided in RCW
+82.04.067
+, a tax for the act or privilege of engaging in business activities. The tax is measured by the application of rates against value of products, gross proceeds of sales, or gross income of the business, as the case may be.</p>
+          </content>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person who establishes or reestablishes a substantial nexus with this state after the first day of the current calendar year under the provisions of RCW
+82.04.067
+is subject to the tax imposed under this chapter for the current calendar year only on business activity occurring on and after the date that the person established or reestablished a substantial nexus with this state in the current calendar year.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The provisions of</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection do not apply to a person who met any of the criteria in RCW
+82.04.067</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_220__subsec_1">
+          <num>(1)</num>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>during the immediately preceding calendar year, and such person is taxable under this chapter for the current calendar year in its entirety.
+[
+2021 c 145 s 5
+;
+2019 c 8 s 103
+;
+2017 3rd sp.s. c 28 s 303
+;
+2011 1st sp.s. c 20 s 101
+;
+2010 1st sp.s. c 23 s 102
+;
+1961 c 15 s 82.04.220
+. Prior:
+1955 c 389 s 42
+; prior: 1950 ex.s. c 5 s 1, part; 1949 c 228 s 1, part; 1943 c 156 s 1, part; 1941 c 178 s 1, part; 1939 c 225 s 1, part; 1937 c 227 s 1, part; 1935 c 180 s 4, part; Rem. Supp. 1949 s 8370-4, part.]
+NOTES:
+Effective date
+—
+2019 c 8 ss 102, 103, 107, and 701-703:
+See note following RCW
+82.04.067
+.
+Existing rights and liability
+—
+Retroactive application
+—
+2019 c 8:
+See notes following RCW
+82.02.250
+.
+Existing rights and liability
+—
+Severability
+—
+Application
+—
+Effective dates
+—
+2017 3rd sp.s. c 28:
+See notes following RCW
+82.08.0531
+.
+Intent
+—
+2010 1st sp.s. c 23:
+&quot;In order to preserve funding for education, public safety, health care, environmental protection, and safety net services for children, elderly, disabled, and vulnerable people, it is the intent of the legislature to close obsolete tax preferences, clarify the legislature's intent regarding existing tax policy, and to ensure balanced tax policy while bolstering emerging industries.&quot; [
+2010 1st sp.s. c 23 s 1
+.]
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_220__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that out-of-state businesses that do not have a physical presence in Washington earn significant income from Washington residents from providing services or collecting royalties on the use of intangible property in this state. The legislature further finds that these businesses receive significant benefits and opportunities provided by the state, such as: Laws providing protection of business interests or regulating consumer credit; access to courts and judicial process to enforce business rights, including debt collection and intellectual property rights; an orderly and regulated marketplace; and police and fire protection and a transportation system benefiting in-state agents and other representatives of out-of-state businesses. Therefore, the legislature intends to extend the state's business and occupation tax to these companies to ensure that they pay their fair share of the cost of services that this state renders and the infrastructure it provides.</p>
+          </content>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The legislature also finds that the current cost apportionment method in RCW
+82.04.460</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_220__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>for apportioning most service income has been difficult for both taxpayers and the department to apply due in large part</p>
+          </content>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>to the difficulty in assigning certain costs of doing business inside or outside of this state, and</p>
+            </content>
+            <subsection eId="sec_82_04_220__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>to its dissimilarity with the apportionment methods used in other states for their business activity taxes.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The legislature further finds that there is a trend among states to adopt a single factor apportionment formula based on sales. The legislature recognizes that adoption of a sales factor only apportionment method has the advantages of simplifying apportionment and making Washington a more attractive place for businesses to expand their property and payroll. For these reasons, the legislature adopts single factor sales apportionment for purposes of apportioning royalty income and certain service income for state business and occupation tax purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Nothing in this act may be construed, however, to authorize apportionment of the gross income or value of products taxable under the following business and occupation tax classifications: Retailing, wholesaling, manufacturing, processing for hire, extracting, extracting for hire, printing, government contracting, public road construction, the classifications in RCW
+82.04.280</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_220__subsec_1">
+          <num>(1)</num>
+          <subsection eId="sec_82_04_220__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Nothing in this part is intended to modify the nexus and apportionment requirements for local gross receipts business and occupation taxes.&quot; [
+2011 c 174 s 208
+;
+2010 1st sp.s. c 23 s 101
+.]
+Contingency
+—
+Application
+—
+2010 1st sp.s. c 23 ss 102-112:
+See notes following RCW
+82.04.067
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

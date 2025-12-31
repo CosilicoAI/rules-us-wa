@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.63.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.63.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.63.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_63_090">
+        <num>RCW 82.63.090</num>
+        <heading>Multiple qualified buildings</heading>
+        <subsection eId="sec_82_63_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In the case of multiple qualified buildings, if the lessee who will conduct the qualified research and development or pilot scale manufacturing within the multiple qualified buildings desires to treat the multiple qualified buildings as a single investment project, the lessee must make a preliminary election to treat the multiple qualified buildings as a single investment project. The lessee must make the preliminary election before a temporary certificate of occupancy, or its equivalent, is issued for any of the multiple qualified buildings.</p>
+          </content>
+          <subsection eId="sec_82_63_090__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A final election whether or not to treat the multiple qualified buildings as a single investment project must be made by the date that is the earlier of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_63_090__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Sixty months following the date that the lessee made the preliminary election under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_63_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section; or
+(ii) Thirty days after the issuance of the temporary certificate of occupancy, or its equivalent, for the last qualified building to be completed and that will be included in the final election.</p>
+          </content>
+          <subsection eId="sec_82_63_090__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>All buildings included in a final election to treat multiple qualified buildings as a single investment project must have been issued a temporary certificate of occupancy or its equivalent.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_63_090__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Before the final election is made, the lessee may remove one or more of the qualified buildings included in the preliminary election from the investment project.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_63_090__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>When a qualified building for which a preliminary election has been made under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_63_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section is, for any reason, not included in a final election to treat the multiple qualified buildings as a single investment project, the qualified building will be treated as an individual investment project under the original application for that building.</p>
+          </content>
+          <subsection eId="sec_82_63_090__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If a final election is made not to treat the multiple qualified buildings as a single investment project or a final election is not made by the deadline in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_63_090__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, the qualified buildings will each be treated as individual investment projects under the original applications for those buildings.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_63_090__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When a final election is made to treat multiple qualified buildings as a single investment project, the department must review the investment project to determine whether to certify the investment project as being operationally complete. If the department certifies that an investment project is operationally complete, the certification is deemed to have occurred in the calendar year in which the final election is made.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_63_090__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department may not certify as operationally complete an investment project consisting of multiple qualifying buildings unless the lessee furnishes the department with a bond, letter of credit, or other security acceptable to the department in an amount equal to the repayment obligation as determined by the department. The department may decrease the secured amount each year as the repayment obligation decreases under the provisions of RCW
+82.63.045
+. If the lessee does not furnish the department with a bond, letter of credit, or other security acceptable to the department equal to the amount of deferred tax, the qualified buildings will each be treated as individual investment projects under the original applications for those buildings.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_63_090__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The preliminary election and final election must be made in a form and manner prescribed by the department.
+[
+2009 c 268 s 4
+.]
+NOTES:
+Policy
+—
+2009 c 268:
+&quot;The legislature has long recognized that high-wage, high-skilled jobs are vital to the economic health of the state and its citizens. The legislature also recognizes that targeted tax incentives encourage the formation of high-wage, high-skilled jobs. For that and related reasons, the legislature established the tax deferral program in chapter
+82.63
+RCW for high-technology research and development and pilot scale manufacturing. In doing so, the legislature ensured that the deferral applies to the construction or renovation of one or more buildings by an owner who engages in qualifying research and development or pilot scale manufacturing. The legislature also ensured that the deferral applies to owners who lease newly constructed or renovated buildings to one or more lessees that conduct qualifying research and development or pilot scale manufacturing, if the owner passes on the economic benefit of the deferral to the lessee or lessees. However, current language could be interpreted to deny the deferral to multiple lessors of separate buildings leasing to a single qualifying lessee under the umbrella of one project and a single deferral application, unless the lessors form a joint venture or similar entity. Because the legislature did not intend to deny the deferral for such projects, the legislature by this act, amends chapter
+82.63
+RCW to clarify that the deferral applies to an otherwise qualifying project involving a single deferral application covering multiple lessors leasing separate buildings to a single qualifying lessee.&quot; [
+2009 c 268 s 1
+.]
+Application
+—
+2009 c 268:
+&quot;This act applies to deferral applications received by the department of revenue after June 30, 2007.&quot; [
+2009 c 268 s 7
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

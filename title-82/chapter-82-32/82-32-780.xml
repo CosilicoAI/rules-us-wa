@@ -1,0 +1,375 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.780"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.780"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.780/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.780/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.780/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.780/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_780">
+        <num>RCW 82.32.780</num>
+        <heading>Reseller's permit—Taxpayer application</heading>
+        <subsection eId="sec_82_32_780__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section or resubmit the application. Nothing in this subsection may be construed as preventing the department from ruling on an application more than sixty days after the department received the application.</p>
+          </content>
+          <subsection eId="sec_82_32_780__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An application must be denied if:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The department determines that, based on the nature of the applicant's business, the applicant is not entitled to make purchases at wholesale or is otherwise prohibited from using a reseller permit;</p>
+            </content>
+            <subsection eId="sec_82_32_780__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The application contains any material misstatement; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_780__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The application is incomplete.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may also deny an application if it determines that denial would be in the best interest of collecting taxes due under this title.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department's decision to approve or deny an application may be based on tax returns previously filed with the department by the applicant, a current or previous examination of the applicant's books and records by the department, information provided by the applicant in the master application and the reseller permit application, and other information available to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department must refuse to accept an application to renew a reseller permit that is received more than ninety days before the expiration of the reseller permit.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the department may issue or renew a reseller permit for a taxpayer that has not applied for the permit or renewal of the permit if it appears to the department's satisfaction, based on the nature of the taxpayer's business activities and any other information available to the department, that the taxpayer is entitled to make purchases at wholesale.</p>
+          </content>
+          <subsection eId="sec_82_32_780__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in this section, reseller permits issued, renewed, or reinstated under this section will be valid for a period of forty-eight months from the date of issuance, renewal, or reinstatement.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A reseller permit is valid for a period of twenty-four months and may be renewed for the period prescribed in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>if the permit is issued to a taxpayer who:
+(A) Is not registered with the department under RCW
+82.32.030
+;
+(B) Has been registered with the department under RCW
+82.32.030
+for a continuous period of less than one year as of the date that the department received the taxpayer's application for a reseller permit;
+(C) Was on nonreporting status as authorized under RCW
+82.32.045</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>at the time that the department received the taxpayer's application for a reseller permit or to renew or reinstate a reseller permit;
+(D) Has filed tax returns reporting no business activity for purposes of sales and business and occupation taxes for the twelve-month period immediately preceding the date that the department received the taxpayer's application for a reseller permit or to renew or reinstate a reseller permit; or
+(E) Has failed to file tax returns covering any part of the twelve-month period immediately preceding the department's receipt of the taxpayer's application for a reseller permit or to renew or reinstate a reseller permit.
+(ii) The provisions of this subsection</p>
+          </content>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>do not apply to reseller permits issued to any business owned by a federally recognized Indian tribe or by an enrolled member of a federally recognized Indian tribe, if the business does not engage in any business activity that subjects the business to any tax imposed by the state under chapter
+82.04
+RCW. Permits issued to such businesses are valid for the period provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_32_780__subsec_5__subsec_a__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Nothing in this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may be construed as affecting the department's right to deny a taxpayer's application for a reseller permit or to renew or reinstate a reseller permit as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A reseller permit is no longer valid if the permit holder's certificate of registration is revoked, the permit holder's tax reporting account is closed by the department, or the permit holder otherwise ceases to engage in business.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department may provide by rule for a uniform expiration date for reseller permits issued, renewed, or reinstated under this section, if the department determines that a uniform expiration date for reseller permits will improve administrative efficiency for the department. If the department adopts a uniform expiration date by rule, the department may extend or shorten the twenty-four or forty-eight month period provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection for a period not to exceed six months as necessary to conform the reseller permit to the uniform expiration date.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department may revoke a taxpayer's reseller permit for any of the following reasons:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The taxpayer used or allowed or caused its reseller permit to be used to purchase any item or service without payment of sales tax, but the taxpayer or other purchaser was not entitled to use the reseller permit for the purchase;</p>
+            </content>
+            <subsection eId="sec_82_32_780__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department issued the reseller permit to the taxpayer in error;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_780__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The department determines that the taxpayer is no longer entitled to make purchases at wholesale; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_780__subsec_5__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The department determines that revocation of the reseller permit would be in the best interest of collecting taxes due under this title.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The notice of revocation must be in writing and is effective on the date specified in the revocation notice. The notice must also advise the taxpayer of its right to a review by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may refuse to reinstate a reseller permit revoked under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection until all taxes, penalties, and interest due on any improperly purchased item or service have been paid in full. In the event a taxpayer whose reseller permit has been revoked under this subsection reorganizes, the new business resulting from the reorganization is not entitled to a reseller permit until all taxes, penalties, and interest due on any improperly purchased item or service have been paid in full.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;reorganize&quot; or &quot;reorganization&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_780__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The transfer, however effected, of a majority of the assets of one business to another business where any of the persons having an interest in the ownership or management in the former business maintain an ownership or management interest in the new business, either directly or indirectly;</p>
+            </content>
+            <subsection eId="sec_82_32_780__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a mere change in identity or form of ownership, however effected; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_780__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the new business is a mere continuation of the former business based on significant shared features such as owners, personnel, assets, or general business activity.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department may provide the public with access to reseller permit numbers on its website, including the name of the permit holder, the status of the reseller permit, the expiration date of the permit, and any other information that is disclosable under RCW
+82.32.330</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must provide by rule for the review of the department's decision to deny, revoke, or refuse to reinstate a reseller permit or the department's failure to rule on an application within the time prescribed in subsection</p>
+          </content>
+          <subsection eId="sec_82_32_780__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section. Such review must be consistent with the requirements of chapter
+34.05
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>As part of its continuing efforts to educate taxpayers on their sales and use tax responsibilities, the department will educate taxpayers on the appropriate use of a reseller permit or other documentation authorized under RCW
+82.04.470
+and the consequences of misusing such permits or other documentation.
+[
+2020 c 139 s 40
+;
+2010 c 112 s 2
+;
+2009 c 563 s 201
+.]
+NOTES:
+Effective date
+—
+2010 c 112 ss 2, 3, 11, 12, and 15:
+&quot;Sections 2, 3, 11, 12, and 15 of this act take effect July 1, 2010.&quot; [
+2010 c 112 s 18
+.]
+Retroactive application
+—
+2010 c 112:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, this act applies retroactively to January 1, 2010, as well as prospectively.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_780__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 2, 3, 11, 12, and 15 of this act apply prospectively only.&quot; [
+2010 c 112 s 17
+.]
+Finding
+—
+Intent
+—
+2010 c 112; 2009 c 563:
+&quot;The legislature finds that the department of revenue's 2008 compliance study estimates that sales tax noncompliance exceeds well over one hundred million dollars annually in unpaid state and local sales and use taxes.
+The legislature intends to address this significant problem by eliminating the use of resale certificates to document wholesale purchases. Resale certificates will be replaced with reseller permits, which will be issued by the department of revenue only to those businesses that make wholesale purchases, such as retailers, wholesalers, manufacturers, and qualified contractors. Businesses that do not make wholesale purchases, such as most service businesses, will not be entitled to a reseller permit.&quot; [
+2010 c 112 s 1
+;
+2009 c 563 s 101
+.]
+Construction
+—
+2009 c 563:
+&quot;This act must be liberally construed in order to carry out its purposes.&quot; [
+2009 c 563 s 402
+.]
+Effective date
+—
+2009 c 563:
+&quot;This act takes effect January 1, 2010.&quot; [
+2009 c 563 s 403
+.]
+Reports and recommendations
+—
+2009 c 563:
+&quot;By December 1, 2009, the finance committee of the house of representatives and the joint legislative task force on the underground economy in the Washington state construction industry, shall each prepare a report that reviews the issues and concerns that need to be addressed by the legislature as a result of the changes made in this act. The reports shall include any recommendations on potential modifications to the provisions of this act. The department of revenue shall provide necessary support and information.&quot; [
+2009 c 563 s 405
+.]
+Construction
+—
+2009 c 563:
+&quot;The effective date in section 403 of this act may not be construed as preventing the department of revenue from accepting applications for, or issuing, seller's permits before January 1, 2010, adopting rules, or taking any other action before January 1, 2010, necessary to e</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

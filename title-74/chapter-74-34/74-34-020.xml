@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_020">
+        <num>RCW 74.34.020</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_34_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Abandonment&quot; means action or inaction by a person or entity with a duty of care for a vulnerable adult that leaves the vulnerable person without the means or ability to obtain necessary food, clothing, shelter, or health care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Abuse&quot; means the intentional, willful, or reckless action or inaction that inflicts injury, unreasonable confinement, intimidation, or punishment on a vulnerable adult. In instances of abuse of a vulnerable adult who is unable to express or demonstrate physical harm, pain, or mental anguish, the abuse is presumed to cause physical harm, pain, or mental anguish. Abuse includes sexual abuse, mental abuse, physical abuse, and personal exploitation of a vulnerable adult, and improper use of restraint against a vulnerable adult which have the following meanings:</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Sexual abuse&quot; means any form of nonconsensual sexual conduct, including but not limited to unwanted or inappropriate touching, rape, molestation, indecent liberties, sexual coercion, sexually explicit photographing or recording, voyeurism, indecent exposure, and sexual harassment. Sexual abuse also includes any sexual conduct between a staff person, who is not also a resident or client, of a facility or a staff person of a program authorized under chapter
+71A.12
+RCW, and a vulnerable adult living in that facility or receiving service from a program authorized under chapter
+71A.12
+RCW, whether or not it is consensual.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Physical abuse&quot; means the intentional, willful, or reckless action of inflicting bodily injury or physical mistreatment. Physical abuse includes, but is not limited to, striking with or without an object, slapping, pinching, choking, kicking, shoving, or prodding.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Mental abuse&quot; means an intentional, willful, or reckless verbal or nonverbal action that threatens, humiliates, harasses, coerces, intimidates, isolates, unreasonably confines, or punishes a vulnerable adult. Mental abuse may include ridiculing, yelling, or swearing.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Personal exploitation&quot; means an act of forcing, compelling, or exerting undue influence over a vulnerable adult causing the vulnerable adult to act in a way that is inconsistent with relevant past behavior, or causing the vulnerable adult to perform services for the benefit of another.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Improper use of restraint&quot; means the inappropriate use of chemical, physical, or mechanical restraints for convenience or discipline or in a manner that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Is inconsistent with federal or state licensing or certification requirements for facilities, hospitals, or programs authorized under chapter
+71A.12
+RCW;</p>
+            </content>
+            <subsection eId="sec_74_34_020__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>is not medically authorized; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_34_020__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>otherwise constitutes abuse under this section.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Chemical restraint&quot; means the administration of any drug to manage a vulnerable adult's behavior in a way that reduces the safety risk to the vulnerable adult or others, has the temporary effect of restricting the vulnerable adult's freedom of movement, and is not standard treatment for the vulnerable adult's medical or psychiatric condition.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Consent&quot; means express written consent granted after the vulnerable adult or his or her legal representative has been fully informed of the nature of the services to be offered and that the receipt of services is voluntary.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Facility&quot; means a residence licensed or required to be licensed under chapter
+18.20
+RCW, assisted living facilities; chapter
+18.51
+RCW, nursing homes; chapter
+70.128
+RCW, adult family homes; chapter
+72.36
+RCW, soldiers' homes; chapter
+71A.20
+RCW, residential habilitation centers; any other facility licensed or certified by the department; or a medical foster home as defined in 38 C.F.R. 17.73.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Financial exploitation&quot; means the illegal or improper use, control over, or withholding of the property, income, resources, or trust funds of the vulnerable adult by any person or entity for any person's or entity's profit or advantage other than for the vulnerable adult's profit or advantage. &quot;Financial exploitation&quot; includes, but is not limited to:</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The use of deception, intimidation, or undue influence by a person or entity in a position of trust and confidence with a vulnerable adult to obtain or use the property, income, resources, or trust funds of the vulnerable adult for the benefit of a person or entity other than the vulnerable adult;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The breach of a fiduciary duty, including, but not limited to, the misuse of a power of attorney, trust, or a guardianship appointment, that results in the unauthorized appropriation, sale, or transfer of the property, income, resources, or trust funds of the vulnerable adult for the benefit of a person or entity other than the vulnerable adult; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Obtaining or using a vulnerable adult's property, income, resources, or trust funds without lawful authority, by a person or entity who knows or clearly should know that the vulnerable adult lacks the capacity to consent to the release or use of his or her property, income, resources, or trust funds.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Financial institution&quot; has the same meaning as in RCW
+30A.22.040
+and
+30A.22.041
+. For purposes of this chapter only, &quot;financial institution&quot; also means a &quot;broker-dealer&quot; or &quot;investment adviser&quot; as defined in RCW
+21.20.005
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Hospital&quot; means a facility licensed under chapter
+70.41
+or
+71.12
+RCW or a state hospital defined in chapter
+72.23
+RCW and any employee, agent, officer, director, or independent contractor thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Individual provider&quot; has the same meaning as in RCW
+74.39A.240
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Interested person&quot; means a person who demonstrates to the court's satisfaction that the person is interested in the welfare of the vulnerable adult, that the person has a good faith belief that the court's intervention is necessary, and that the vulnerable adult is unable, due to incapacity, undue influence, or duress at the time the petition is filed, to protect his or her own interests.</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Isolate&quot; or &quot;isolation&quot; means to restrict a vulnerable adult's ability to communicate, visit, interact, or otherwise associate with persons of his or her choosing. Isolation may be evidenced by acts including but not limited to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_11__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Acts that prevent a vulnerable adult from sending, making, or receiving his or her personal mail, electronic communications, or telephone calls; or</p>
+            </content>
+            <subsection eId="sec_74_34_020__subsec_11__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Acts that prevent or obstruct the vulnerable adult from meeting with others, such as telling a prospective visitor or caller that a vulnerable adult is not present, or does not wish contact, where the statement is contrary to the express wishes of the vulnerable adult.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term &quot;isolate&quot; or &quot;isolation&quot; may not be construed in a manner that prevents a guardian or limited guardian from performing his or her fiduciary obligations under chapter
+11.130
+RCW or prevents a hospital or facility from providing treatment consistent with the standard of care for delivery of health services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Mandated reporter&quot; is an employee of the department or the department of children, youth, and families; law enforcement officer; social worker; professional school personnel; individual provider; an operator of a facility or a certified residential services and supports agency under chapter
+71A.12
+RCW; an employee of a facility; an employee of a social service, welfare, mental health, adult day health, adult day care, home health, home care, hospice, or certified residential services and supports agency; county coroner or medical examiner; Christian Science practitioner; or health care provider subject to chapter
+18.130
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Mechanical restraint&quot; means any device attached or adjacent to the vulnerable adult's body that he or she cannot easily remove that restricts freedom of movement or normal access to his or her body. &quot;Mechanical restraint&quot; does not include the use of devices, materials, or equipment that are</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>medically authorized, as required, and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>used in a manner that is consistent with federal or state licensing or certification requirements for facilities, hospitals, or programs authorized under chapter
+71A.12
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Neglect&quot; means</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_15__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>a pattern of conduct or inaction by a person or entity with a duty of care that fails to provide the goods and services that maintain physical or mental health of a vulnerable adult, or that fails to avoid or prevent physical or mental harm or pain to a vulnerable adult; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>an act or omission by a person or entity with a duty of care that demonstrates a serious disregard of consequences of such a magnitude as to constitute a clear and present danger to the vulnerable adult's health, welfare, or safety, including but not limited to conduct prohibited under RCW
+9A.42.100
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Permissive reporter&quot; means any person, including, but not limited to, an employee of a financial institution, attorney, or volunteer in a facility or program providing services for vulnerable adults.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Physical restraint&quot; means the application of physical force without the use of any device, for the purpose of restraining the free movement of a vulnerable adult's body. &quot;Physical restraint&quot; does not include</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_17__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>briefly holding without undue force a vulnerable adult in order to calm or comfort him or her, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_17__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>holding a vulnerable adult's hand to safely escort him or her from one area to another.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Protective services&quot; means any services provided by the department to a vulnerable adult with the consent of the vulnerable adult, or the legal representative of the vulnerable adult, who has been abandoned, abused, financially exploited, neglected, or in a state of self-neglect. These services may include, but are not limited to case management, social casework, home care, placement, arranging for medical evaluations, psychological evaluations, day care, or referral for legal assistance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Self-neglect&quot; means the failure of a vulnerable adult, not living in a facility, to provide for himself or herself the goods and services necessary for the vulnerable adult's physical or mental health, and the absence of which impairs or threatens the vulnerable adult's well-being. This definition may include a vulnerable adult who is receiving services through home health, hospice, or a home care agency, or an individual provider when the neglect is not a result of inaction by that agency or individual provider.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;Social worker&quot; means:</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_20__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A social worker as defined in RCW
+18.320.010</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_20__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Anyone engaged in a professional capacity during the regular course of employment in encouraging or promoting the health, welfare, support, or education of vulnerable adults, or providing social services to vulnerable adults, whether in an individual capacity or as an employee or agent of any public or private organization or institution.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Vulnerable adult&quot; includes a person:</p>
+          </content>
+          <subsection eId="sec_74_34_020__subsec_21__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Sixty years of age or older who has the functional, mental, or physical inability to care for himself or herself; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_21__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Subject to a guardianship under RCW
+11.130.265
+or adult subject to conservatorship under RCW
+11.130.360
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_21__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Who has a developmental disability as defined under RCW
+71A.10.020
+; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_21__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Admitted to any facility; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_21__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Receiving services from home health, hospice, or home care agencies licensed or required to be licensed under chapter
+70.127
+RCW; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_21__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Receiving services from an individual provider; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_34_020__subsec_21__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Who self-directs his or her own care and receives services from a personal aide under chapter
+74.39
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_34_020__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Vulnerable adult advocacy team&quot; means a team of three or more persons who coordinate a multidisciplinary process, in compliance with chapter 266, Laws of 2017 and the protocol governed by RCW
+74.34.320
+, for preventing, identifying, investigating, prosecuting, and providing services related to abuse, neglect, or financial exploitation of vulnerable adults.
+[
+2025 c 108 s 3
+;
+2023 c 44 s 1
+;
+2021 c 215 s 162
+;
+2020 c 312 s 735
+;
+2019 c 325 s 5030
+;
+2018 c 201 s 9016
+. Prior:
+2017 c 268 s 2
+;
+2017 c 266 s 12
+;
+2015 c 268 s 1
+;
+2013 c 263 s 1
+;
+2012 c 10 s 62
+; prior:
+2011 c 170 s 1
+;
+2011 c 89 s 18
+;
+2010 c 133 s 2
+;
+2007 c 312 s 1
+;
+2006 c 339 s 109
+;
+2003 c 230 s 1
+;
+1999 c 176 s 3
+;
+1997 c 392 s 523
+;
+1995 1st sp.s. c 18 s 84
+;
+1984 c 97 s 8
+.]
+NOTES:
+Effective date
+—
+2022 c 268; 2021 c 215:
+See note following RCW
+7.105.900
+.
+Effective dates
+—
+2020 c 312:
+See note following RCW
+11.130.915
+.
+Effective date
+—
+2019 c 325 ss 1003 and 5030:
+See note following RCW
+71.24.016
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Finding
+—
+Intent
+—
+2017 c 266:
+See note following RCW
+9A.42.020
+.
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Effective date
+—
+2011 c 89:
+See note following RCW
+18.320.005
+.
+Findings
+—
+2011 c 89:
+See RCW
+18.320.005
+.
+Intent
+—
+2006 c 339:
+&quot;It is the intent of the legislature to provide assistance for jurisdictions enforcing illegal drug laws that have historically been underserved by federally funded state narcotics task forces and are considered to be major transport areas of narcotics traffickers.&quot; [
+2006 c 339 s 103
+.]
+Part headings not law
+—
+2006 c 339:
+&quot;Part headings used in this act are no part of the law.&quot; [
+2006 c 339 s 401
+.]
+Effective date
+—
+2003 c 230:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 12, 2003].&quot; [
+2003 c 230 s 3
+.]
+Findings</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

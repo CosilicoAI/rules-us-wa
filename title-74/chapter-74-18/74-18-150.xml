@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.150"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_150">
+        <num>RCW 74.18.150</num>
+        <heading>Vocational rehabilitation—Grants of equipment and material</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.18
+&gt;
+Section 74.18.150
+74.18.140
+&lt;&lt; 
+        74.18.150 &gt;&gt;
+74.18.170
+PDF
+RCW
+74.18.150
+Vocational rehabilitation
+—
+Grants of equipment and material.
+The department may grant to eligible participants in the vocational rehabilitation program equipment and materials in accordance with the provisions related to transfer of capital assets as set forth by the office of financial management in the state administrative and accounting manual, provided that the equipment or materials are required by the individual's plan for employment and are used in a manner consistent therewith. The department shall adopt rules to implement this section.
+[
+2003 c 409 s 15
+;
+1996 c 7 s 1
+;
+1983 c 194 s 15
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

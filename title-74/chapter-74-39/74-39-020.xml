@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39_020">
+        <num>RCW 74.39.020</num>
+        <heading>Opportunities—Increase of federal funds—Title XIX of the federal social security act</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.39
+&gt;
+Section 74.39.020
+74.39.010
+&lt;&lt; 
+        74.39.020 &gt;&gt;
+74.39.030
+PDF
+RCW
+74.39.020
+Opportunities
+—
+Increase of federal funds
+—
+Title XIX of the federal social security act.
+Title XIX of the federal social security act offers valuable opportunities to increase federal funds available to provide community-based long-term care services to functionally disabled persons in their homes, and in noninstitutional residential facilities, such as adult family homes and congregate care facilities.
+[
+1989 c 427 s 9
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

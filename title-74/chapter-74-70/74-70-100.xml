@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.70.100"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.70.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.70.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_70_100">
+        <num>RCW 74.70.100</num>
+        <heading>Operation and termination—Contingent expiration date. (Contingent expiration date.)</heading>
+        <subsection eId="sec_74_70_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The assessment, collection, and disbursement of funds under this chapter shall be conditional upon:</p>
+          </content>
+          <subsection eId="sec_74_70_100__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The federal centers for medicare and medicaid services not determining that the quality assurance fee revenues may not be used for the purposes set forth in this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The state not reducing its fee-for-service payment schedule for emergency ambulance transports provided by ambulance transport providers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The state not delegating responsibility to pay for emergency ambulance transports to a managed care organization, prepaid inpatient health plan, or prepaid ambulatory health plan, as those terms are defined in 42 C.F.R. Sec. 438.2;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Federal financial participation being available and not otherwise jeopardized;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The program not prohibiting, diminishing, or harming the ground emergency medical transportation services reimbursement program described in RCW
+41.05.730
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Consistent with RCW
+74.70.060</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_70_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This chapter ceases to be operative on the first day of the state fiscal year beginning on or after the date one or more of the following conditions is satisfied:</p>
+          </content>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The federal centers for medicare and medicaid services no longer allows the collection or use of the ambulance transport provider assessment provided in this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The increase to the medicaid payments described in RCW
+74.70.060
+no longer remains in effect;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The quality assurance fee assessed and collected pursuant to this chapter is no longer available for the purposes specified in this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A final judicial determination made by any state or federal court that is not appealed, or by a court of appellate jurisdiction that is not further appealed, in any action by any party, or a final determination by the administrator of the federal centers for medicare and medicaid services that is not appealed, that federal financial participation is not available with respect to any payment made under the methodology implemented pursuant to this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The state reduces its fee-for-service payment schedule for emergency ambulance transports provided by ambulance transport providers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The state delegates responsibility to pay for emergency ambulance transports to a managed care organization, prepaid inpatient health plan, or prepaid ambulatory health plan, as those terms are defined in 42 C.F.R. Sec. 438.2; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The program not prohibiting, diminishing, or harming the ground emergency medical transportation services reimbursement program described in RCW
+41.05.730
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_70_100__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In the event one or more of the conditions listed in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_70_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section is satisfied, the authority shall notify, in writing and as soon as practicable, the secretary of state, the secretary of the senate, the chief clerk of the house of representatives, the appropriate fiscal and policy committees of the legislature, and the code reviser's office of the condition and the approximate date or dates that it occurred. The authority shall post the notice on the authority's website.</p>
+          </content>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding any other law, in the event this chapter becomes inoperative pursuant to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_70_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the authority shall be authorized to conduct all appropriate close-out activities and implement applicable provisions of this chapter for prior state fiscal years during which this chapter was operative including, but not limited to, the collection of outstanding quality assurance fees pursuant to RCW
+74.70.050
+and payments associated with any add-on increase to the medicaid fee-for-service payment schedule pursuant to RCW
+74.70.060
+. In implementing these close-out activities, the authority shall ensure that the actual or projected available fee amount for each applicable state fiscal year remains approximately equal to the aggregate fee schedule amount for the state fiscal year, as defined by RCW
+74.70.050</p>
+          </content>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Upon a determination by the authority that all appropriate close-out and implementation activities pursuant to</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_70_100__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection have been completed, the authority shall notify, in writing, the secretary of state, the secretary of the senate, the chief clerk of the house of representatives, the appropriate fiscal and policy committees of the legislature, and the code reviser's office of that determination. This chapter shall expire as of the effective date of the notification issued by the authority pursuant to this subsection.
+[
+2020 c 354 s 10
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

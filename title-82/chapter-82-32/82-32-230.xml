@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.230"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.230"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.230/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.230/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.230/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.230/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_230">
+        <num>RCW 82.32.230</num>
+        <heading>Agent of the department of revenue may execute</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.230
+82.32.220
+&lt;&lt; 
+        82.32.230 &gt;&gt;
+82.32.235
+PDF
+RCW
+82.32.230
+Agent of the department of revenue may execute.
+In the discretion of the department of revenue, an order of execution of like terms, force, and effect may be issued and directed to any agent of the department authorized to collect taxes, and in the execution thereof such agent shall have all the powers conferred by law upon sheriffs, but shall not be entitled to any fee or compensation in excess of the actual expenses paid in the performance of such duty, which shall be added to the amount of the warrant.
+[
+1983 1st ex.s. c 55 s 11
+;
+1975 1st ex.s. c 278 s 84
+;
+1961 c 15 s 82.32.230
+. Prior: 1949 c 228 s 25, part; 1937 c 227 s 20, part; 1935 c 180 s 202, part; Rem. Supp. 1949 s 8370-202, part.]
+NOTES:
+Effective dates
+—
+1983 1st ex.s. c 55:
+See note following RCW
+82.08.010
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

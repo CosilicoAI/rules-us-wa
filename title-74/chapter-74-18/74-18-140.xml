@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.140"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.140"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.140/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.140/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.140/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.140/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_140">
+        <num>RCW 74.18.140</num>
+        <heading>Vocational rehabilitation—Services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.18
+&gt;
+Section 74.18.140
+74.18.130
+&lt;&lt; 
+        74.18.140 &gt;&gt;
+74.18.150
+PDF
+RCW
+74.18.140
+Vocational rehabilitation
+—
+Services.
+The department shall ensure that vocational rehabilitation services in accordance with requirements under the federal rehabilitation act of 1973 are available to meet the identified requirements of each eligible individual in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the individual's strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.
+[
+2003 c 409 s 14
+;
+1983 c 194 s 14
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

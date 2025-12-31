@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_020">
+        <num>RCW 74.46.020</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_46_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Appraisal&quot; means the process of estimating the fair market value or reconstructing the historical cost of an asset acquired in a past period as performed by a professionally designated real estate appraiser with no pecuniary interest in the property to be appraised. It includes a systematic, analytic determination and the recording and analyzing of property facts, rights, investments, and values based on a personal inspection and inventory of the property.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Arm's-length transaction&quot; means a transaction resulting from good-faith bargaining between a buyer and seller who are not related organizations and have adverse positions in the market place. Sales or exchanges of nursing home facilities among two or more parties in which all parties subsequently continue to own one or more of the facilities involved in the transactions shall not be considered as arm's-length transactions for purposes of this chapter. Sale of a nursing home facility which is subsequently leased back to the seller within five years of the date of sale shall not be considered as an arm's-length transaction for purposes of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Assets&quot; means economic resources of the contractor, recognized and measured in conformity with generally accepted accounting principles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Audit&quot; or &quot;department audit&quot; means an examination of the records of a nursing facility participating in the medicaid payment system, including but not limited to: The contractor's financial and statistical records, cost reports and all supporting documentation and schedules, receivables, and resident trust funds, to be performed as deemed necessary by the department and according to department rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Capital component&quot; means a fair market rental system that sets a price per nursing facility bed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Capitalization&quot; means the recording of an expenditure as an asset.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Case mix&quot; means a measure of the intensity of care and services needed by the residents of a nursing facility or a group of residents in the facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Case mix index&quot; means a number representing the average case mix of a nursing facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Case mix weight&quot; means a numeric score that identifies the relative resources used by a particular group of a nursing facility's residents.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Contractor&quot; means a person or entity licensed under chapter
+18.51
+RCW to operate a medicare and medicaid certified nursing facility, responsible for operational decisions, and contracting with the department to provide services to medicaid recipients residing in the facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Default case&quot; means no initial assessment has been completed for a resident and transmitted to the department by the cut-off date, or an assessment is otherwise past due for the resident, under state and federal requirements.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services (DSHS) and its employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Depreciation&quot; means the systematic distribution of the cost or other basis of tangible assets, less salvage, over the estimated useful life of the assets.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Direct care component&quot; means nursing care and related care provided to nursing facility residents and includes the therapy care component, along with food, laundry, and dietary services of the previous system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Direct care supplies&quot; means medical, pharmaceutical, and other supplies required for the direct care of a nursing facility's residents.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Entity&quot; means an individual, partnership, corporation, limited liability company, or any other association of individuals capable of entering enforceable contracts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Equity&quot; means the net book value of all tangible and intangible assets less the recorded value of all liabilities, as recognized and measured in conformity with generally accepted accounting principles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Essential community provider&quot; means a facility which is the only nursing facility within a commuting distance radius of at least forty minutes duration, traveling by automobile.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Facility&quot; or &quot;nursing facility&quot; means a nursing home licensed in accordance with chapter
+18.51
+RCW, excepting nursing homes certified as institutions for mental diseases, or that portion of a multiservice facility licensed as a nursing home, or that portion of a hospital licensed in accordance with chapter
+70.41
+RCW which operates as a nursing home.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;Fair market value&quot; means the replacement cost of an asset less observed physical depreciation on the date for which the market value is being determined.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Financial statements&quot; means statements prepared and presented in conformity with generally accepted accounting principles including, but not limited to, balance sheet, statement of operations, statement of changes in financial position, and related notes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Generally accepted accounting principles&quot; means accounting principles approved by the financial accounting standards board (FASB) or its successor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_23">
+          <num>(23)</num>
+          <content>
+            <p>&quot;Grouper&quot; means a computer software product that groups individual nursing facility residents into case mix classification groups based on specific resident assessment data and computer logic.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_24">
+          <num>(24)</num>
+          <content>
+            <p>&quot;High labor-cost county&quot; means an urban county in which the median allowable facility cost per case mix unit is more than ten percent higher than the median allowable facility cost per case mix unit among all other urban counties, excluding that county.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_25">
+          <num>(25)</num>
+          <content>
+            <p>&quot;Historical cost&quot; means the actual cost incurred in acquiring and preparing an asset for use, including feasibility studies, architect's fees, and engineering studies.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_26">
+          <num>(26)</num>
+          <content>
+            <p>&quot;Home and central office costs&quot; means costs that are incurred in the support and operation of a home and central office. Home and central office costs include centralized services that are performed in support of a nursing facility. The department may exclude from this definition costs that are nonduplicative, documented, ordinary, necessary, and related to the provision of care services to authorized patients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_27">
+          <num>(27)</num>
+          <content>
+            <p>&quot;Indirect care component&quot; means the elements of administrative expenses, maintenance costs, taxes, and housekeeping services from the previous system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_28">
+          <num>(28)</num>
+          <content>
+            <p>&quot;Large nonessential community providers&quot; means nonessential community providers with more than sixty licensed beds, regardless of how many beds are set up or in use.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_29">
+          <num>(29)</num>
+          <content>
+            <p>&quot;Lease agreement&quot; means a contract between two parties for the possession and use of real or personal property or assets for a specified period of time in exchange for specified periodic payments. Elimination (due to any cause other than death or divorce) or addition of any party to the contract, expiration, or modification of any lease term in effect on January 1, 1980, or termination of the lease by either party by any means shall constitute a termination of the lease agreement. An extension or renewal of a lease agreement, whether or not pursuant to a renewal provision in the lease agreement, shall be considered a new lease agreement. A strictly formal change in the lease agreement which modifies the method, frequency, or manner in which the lease payments are made, but does not increase the total lease payment obligation of the lessee, shall not be considered modification of a lease term.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_30">
+          <num>(30)</num>
+          <content>
+            <p>&quot;Medical care program&quot; or &quot;medicaid program&quot; means medical assistance, including nursing care, provided under RCW
+74.09.500
+or authorized state medical care services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_31">
+          <num>(31)</num>
+          <content>
+            <p>&quot;Medical care recipient,&quot; &quot;medicaid recipient,&quot; or &quot;recipient&quot; means an individual determined eligible by the department for the services provided under chapter
+74.09
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_32">
+          <num>(32)</num>
+          <content>
+            <p>&quot;Minimum data set&quot; means the overall data component of the resident assessment instrument, indicating the strengths, needs, and preferences of an individual nursing facility resident.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_33">
+          <num>(33)</num>
+          <content>
+            <p>&quot;Net book value&quot; means the historical cost of an asset less accumulated depreciation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_34">
+          <num>(34)</num>
+          <content>
+            <p>&quot;Net invested funds&quot; means the net book value of tangible fixed assets employed by a contractor to provide services under the medical care program, including land, buildings, and equipment as recognized and measured in conformity with generally accepted accounting principles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_35">
+          <num>(35)</num>
+          <content>
+            <p>&quot;Nonurban county&quot; means a county which is not located in a metropolitan statistical area as determined and defined by the United States office of management and budget or other appropriate agency or office of the federal government.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_36">
+          <num>(36)</num>
+          <content>
+            <p>&quot;Owner&quot; means a sole proprietor, general or limited partners, members of a limited liability company, and beneficial interest holders of five percent or more of a corporation's outstanding stock.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_37">
+          <num>(37)</num>
+          <content>
+            <p>&quot;Patient day&quot; or &quot;resident day&quot; means a calendar day of care provided to a nursing facility resident, regardless of payment source, which will include the day of admission and exclude the day of discharge; except that, when admission and discharge occur on the same day, one day of care shall be deemed to exist. A &quot;medicaid day&quot; or &quot;recipient day&quot; means a calendar day of care provided to a medicaid recipient determined eligible by the department for services provided under chapter
+74.09
+RCW, subject to the same conditions regarding admission and discharge applicable to a patient day or resident day of care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_38">
+          <num>(38)</num>
+          <content>
+            <p>&quot;Patient-driven payment method&quot; means a case mix system implemented by the centers for medicare and medicaid services to classify skilled nursing facility patients into payment groups based on specific data-driven patient characteristics.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_39">
+          <num>(39)</num>
+          <content>
+            <p>&quot;Qualified therapist&quot; means:</p>
+          </content>
+          <subsection eId="sec_74_46_020__subsec_39__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A mental health professional as defined by chapter
+71.05
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_020__subsec_39__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An intellectual disabilities professional who is a therapist approved by the department who has had specialized training or one year's experience in treating or working with persons with intellectual or developmental disabilities;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_020__subsec_39__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A speech pathologist who is eligible for a certificate of clinical competence in speech pathology or who has the equivalent education and clinical experience;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_020__subsec_39__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A physical therapist as defined by chapter
+18.74
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_020__subsec_39__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>An occupational therapist who is a graduate of a program in occupational therapy, or who has the equivalent of such education or training; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_020__subsec_39__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A respiratory care practitioner certified under chapter
+18.89
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_40">
+          <num>(40)</num>
+          <content>
+            <p>&quot;Quality enhancement component&quot; means a rate enhancement offered to facilities that meet or exceed the standard established for the quality measures.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_41">
+          <num>(41)</num>
+          <content>
+            <p>&quot;Rate&quot; or &quot;rate allocation&quot; means the medicaid per-patient-day payment amount for medicaid patients calculated in accordance with the allocation methodology set forth in RCW
+74.46.421
+through
+74.46.531
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_42">
+          <num>(42)</num>
+          <content>
+            <p>&quot;Rebased rate&quot; or &quot;cost-rebased rate&quot; means a facility-specific component rate assigned to a nursing facility for a particular rate period established on desk-reviewed, adjusted costs reported for that facility covering at least six months of a prior calendar year designated as a year to be used for cost-rebasing payment rate allocations under the provisions of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_43">
+          <num>(43)</num>
+          <content>
+            <p>&quot;Records&quot; means those data supporting all financial statements and cost reports including, but not limited to, all general and subsidiary ledgers, books of original entry, and transaction documentation, however such data are maintained.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_44">
+          <num>(44)</num>
+          <content>
+            <p>&quot;Resident assessment instrument,&quot; including federally approved modifications for use in this state, means a federally mandated, comprehensive nursing facility resident care planning and assessment tool, consisting of the minimum data set and resident assessment protocols.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_45">
+          <num>(45)</num>
+          <content>
+            <p>&quot;Resident assessment protocols&quot; means those components of the resident assessment instrument that use the minimum data set to trigger or flag a resident's potential problems and risk areas.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_46">
+          <num>(46)</num>
+          <content>
+            <p>&quot;Secretary&quot; means the secretary of the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_47">
+          <num>(47)</num>
+          <content>
+            <p>&quot;Small nonessential community providers&quot; means nonessential community providers with sixty or fewer licensed beds, regardless of how many beds are set up or in use.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_48">
+          <num>(48)</num>
+          <content>
+            <p>&quot;Therapy care&quot; means those services required by a nursing facility resident's comprehensive assessment and plan of care, that are provided by qualified therapists, or support personnel under their supervision, including related costs as designated by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_49">
+          <num>(49)</num>
+          <content>
+            <p>&quot;Title XIX&quot; or &quot;medicaid&quot; means the 1965 amendments to the social security act, P.L. 89-07, as amended and the medicaid program administered by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_50">
+          <num>(50)</num>
+          <content>
+            <p>&quot;Urban county&quot; means a county which is located in a metropolitan statistical area as determined and defined by the United States office of management and budget or other appropriate agency or office of the federal government.
+[
+2024 c 246 s 1
+. Prior:
+2016 c 131 s 4
+;
+2010 1st sp.s. c 34 s 2
+;
+2010 c 94 s 29
+;
+2007 c 508 s 7
+;
+2006 c 258 s 1
+;
+2001 1st sp.s. c 8 s 1
+;
+1999 c 353 s 1
+;
+1998 c 322 s 2
+;
+1995 1st sp.s. c 18 s 90
+;
+1993 sp.s. c 13 s 1
+;
+1991 sp.s. c 8 s 11
+;
+1989 c 372 s 17
+;
+1987 c 476 s 6
+;
+1985 c 361 s 16
+;
+1982 c 117 s 1
+;
+1980 c 177 s 2
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 34:
+See note following RCW
+74.46.010
+.
+Purpose
+—
+2010 c 94:
+See note following RCW
+44.04.280
+.
+Effective date
+—
+2007 c 508:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2007.&quot; [
+2007 c 508 s 8
+.]
+Effective date
+—
+2006 c 258:
+&quot;This act takes effect July 1, 2006.&quot; [
+2006 c 258 s 8
+.]
+Severability
+—
+2001 1st sp.s. c 8:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2001 1st sp.s. c 8 s 21
+.]
+Effective dates
+—
+2001 1st sp.s. c 8:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 19 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2001.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 20 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 29, 2001.&quot; [
+2001 1st sp.s. c 8 s 22
+.]
+Effective dates
+—
+1999 c 353:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions. Section 11 of this act takes effect immediately [May 17, 1999], and sections 1 through 10 and 12 through 17 take effect July 1, 1999.&quot; [
+1999 c 353 s 18
+.]
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.
+Effective date
+—
+1993 sp.s. c 13:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1993.&quot; [
+1993 sp.s. c 13 s 21
+.]
+Effective date
+—
+1991 sp.s. c 8:
+See note following RCW
+18.51.050
+.
+Savings
+—
+1985 c 361:
+&quot;This act shall not be construed as affecting any existing right acquired or any obligation or liability incurred under the statutes amended or repealed by this act or any rule, regulation, or order adopted under those sections, nor as affecting any proceeding instituted under those sections.&quot; [
+1985 c 361 s 20
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

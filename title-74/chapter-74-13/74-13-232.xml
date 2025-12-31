@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.232"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.232"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.232/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.232/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.232/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.232/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_232">
+        <num>RCW 74.13.232</num>
+        <heading>Services to homeless families</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.232
+74.13.170
+&lt;&lt; 
+        74.13.232 &gt;&gt;
+74.13.242
+PDF
+RCW
+74.13.232
+Services to homeless families.
+The department's duty to provide services to homeless families with children is set forth in RCW
+43.20A.790
+and in appropriations provided by the legislature for implementation of the comprehensive plan for homeless families with children.
+[
+2009 c 520 s 50
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.217"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.217"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.217/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.217/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.217/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.217/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_217">
+        <num>RCW 82.04.217</num>
+        <heading>&quot;Direct service industrial customer,&quot; &quot;aluminum smelter.&quot;</heading>
+        <subsection eId="sec_82_04_217__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Direct service industrial customer&quot; means the same as in RCW
+82.16.0495
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_217__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Aluminum smelter&quot; means the manufacturing facility of any direct service industrial customer that processes alumina into aluminum.
+[
+2004 c 24 s 2
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

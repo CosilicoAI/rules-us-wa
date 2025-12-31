@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.46.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.46.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.46.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_46_050">
+        <num>RCW 82.46.050</num>
+        <heading>Tax is seller's obligation—Choice of remedies</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.46
+&gt;
+Section 82.46.050
+82.46.040
+&lt;&lt; 
+        82.46.050 &gt;&gt;
+82.46.060
+PDF
+RCW
+82.46.050
+Tax is seller's obligation
+—
+Choice of remedies.
+The taxes levied under this chapter are the obligation of the seller and may be enforced through an action of debt against the seller or in the manner prescribed for the foreclosure of mortgages. Resort to one course of enforcement is not an election not to pursue the other.
+[
+1990 1st ex.s. c 17 s 40
+;
+1982 1st ex.s. c 49 s 15
+.]
+NOTES:
+Severability
+—
+Part, section headings not law
+—
+1990 1st ex.s. c 17:
+See RCW
+36.70A.900
+and
+36.70A.901
+.
+Intent
+—
+Construction
+—
+Effective date
+—
+Fire district funding
+—
+1982 1st ex.s. c 49:
+See notes following RCW
+35.21.710
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

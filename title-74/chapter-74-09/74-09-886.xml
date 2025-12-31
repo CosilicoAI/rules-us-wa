@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.886"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.886"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.886/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.886/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.886/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.886/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_886">
+        <num>RCW 74.09.886</num>
+        <heading>Apple health and homes program—Establishment—Eligibility—Services</heading>
+        <subsection eId="sec_74_09_886__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, the apple health and homes program is established to provide a permanent supportive housing benefit and a community support services benefit through a network of community support services providers for persons assessed with specific health needs and risk factors.</p>
+          </content>
+          <subsection eId="sec_74_09_886__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The program shall operate through the collaboration of the department, the authority, the department of social and health services, local governments, the coordinating entity or entities, community support services providers, local housing providers, local health care entities, and community-based organizations in contact with potentially eligible individuals, to assure seamless integration of community support services, stable housing, and health care services.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_886__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The entities operating the program shall coordinate resources, technical assistance, and capacity building efforts to help match eligible individuals with community support services, health care, including behavioral health care and long-term care services, and stable housing.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_886__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To be eligible for community support services and permanent supportive housing under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_886__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, a person must:</p>
+          </content>
+          <subsection eId="sec_74_09_886__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Be 18 years of age or older;
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_886__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Be enrolled in a medical assistance program under this chapter and eligible for community support services;</p>
+            </content>
+            <subsection eId="sec_74_09_886__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Be assessed as likely eligible for, but not yet enrolled in, a medical assistance program under this chapter due to the severity of behavioral health symptom acuity level which creates barriers to accessing and receiving conventional services;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_886__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Have been assessed:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_886__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>By a licensed behavioral health agency to have a behavioral health need which is defined as meeting one or both of the following criteria:
+(A) Having mental health needs, including a need for improvement, stabilization, or prevention of deterioration of functioning resulting from the presence of a mental illness; or
+(B) Having substance use disorder needs indicating the need for outpatient substance use disorder treatment which may be determined by an assessment using the American society of addiction medicine criteria or a similar assessment tool approved by the authority;</p>
+            </content>
+            <subsection eId="sec_74_09_886__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>By the department of social and health services as needing either assistance with at least three activities of daily living or hands-on assistance with at least one activity of daily living and have the preliminary determination confirmed by the department of social and health services through an in-person assessment conducted by the department of social and health services; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_886__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>To be a homeless person with a long-continuing or indefinite physical condition requiring improvement, stabilization, or prevention of deterioration of functioning, including the ability to live independently without support; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_886__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Have at least one of the following risk factors:</p>
+            </content>
+            <subsection eId="sec_74_09_886__subsec_3__subsec_d__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Have a history of frequent or lengthy institutional contact, including contact at institutional care facilities such as jails, substance use disorder or mental health treatment facilities, hospitals, or skilled nursing facilities; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_886__subsec_3__subsec_d__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Have a history of frequent stays at adult residential care facilities or residential treatment facilities.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_886__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Once a coordinating entity verifies that a person has met the eligibility criteria established in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_886__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, it must connect the eligible person with a community support services provider. The community support services provider must:</p>
+          </content>
+          <subsection eId="sec_74_09_886__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Deliver pretenancy support services to determine the person's specific housing needs and assist the person in identifying permanent supportive housing options that are appropriate and safe for the person;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_886__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Fully incorporate the eligible person's available community support services into the case management services provided by the community support services provider; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_886__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Deliver ongoing tenancy-sustaining services to support the person in maintaining successful tenancy.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_886__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Housing options offered to eligible participants may vary, subject to the availability of housing and funding.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_886__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The community support services benefit must be sustained or renewed in accordance with the eligibility standards in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_886__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, except that the standards related to homelessness shall be replaced with an assessment of the person's likelihood to become homeless in the event that the community support services benefit is terminated. The coordinating entity must adopt procedures to conduct community support services benefit renewals, according to authority standards.
+[
+2022 c 216 s 3
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Short title
+—
+2022 c 216:
+See notes following RCW
+74.09.885
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

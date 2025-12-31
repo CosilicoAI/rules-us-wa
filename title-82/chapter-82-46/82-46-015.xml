@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.46.015"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.46.015/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.46.015/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_46_015">
+        <num>RCW 82.46.015</num>
+        <heading>Capital projects—Use of tax funds</heading>
+        <subsection eId="sec_82_46_015__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A city or county may use the greater of $100,000 or 35 percent of available funds from revenues collected under RCW
+82.46.010
+for the maintenance of, operation of, and service support for, existing capital projects, as defined in RCW
+82.46.010
+and
+82.46.035
+, and including the provision of services to residents of affordable housing or shelter units.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_015__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A city or county may use revenues pursuant to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_46_015__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section if:</p>
+          </content>
+          <subsection eId="sec_82_46_015__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The city or county has not enacted, after June 9, 2016: Any requirement on the listing or sale of real property; or any requirement on landlords, at the time of executing a lease, to perform or provide physical improvements or modifications to real property or fixtures, except if necessary to address an immediate threat to health or safety; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_46_015__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any local requirement adopted by the city or county under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_46_015__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection is: Specifically authorized by RCW
+35.80.030
+,
+35A.11.020
+, chapter
+7.48
+RCW, or chapter
+19.27
+RCW; specifically authorized by other state or federal law; or a seller or landlord disclosure requirement pursuant to RCW
+64.06.080
+.
+[
+2025 c 159 s 4
+;
+2021 c 296 s 11
+;
+2016 c 138 s 3
+;
+2015 2nd sp.s. c 10 s 2
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2025 c 159:
+See note following RCW
+82.45.010
+.
+Finding
+—
+Intent
+—
+Effective date
+—
+2021 c 296:
+See notes following RCW
+82.14.310
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

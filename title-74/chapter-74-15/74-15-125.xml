@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.125"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.125"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.125/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.125/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.125/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.125/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_125">
+        <num>RCW 74.15.125</num>
+        <heading>Probationary licenses—Child-specific licenses</heading>
+        <subsection eId="sec_74_15_125__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department may issue a probationary license to a licensee who has had a license but is temporarily unable to comply with a rule or has been the subject of multiple complaints or concerns about noncompliance if:</p>
+          </content>
+          <subsection eId="sec_74_15_125__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The noncompliance does not present an immediate threat to the health and well-being of the children but would be likely to do so if allowed to continue; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_125__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The licensee has a plan approved by the department to correct the area of noncompliance within the probationary period.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_15_125__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A probationary license may be issued for up to six months, and at the discretion of the department it may be extended for an additional six months. The department shall immediately terminate the probationary license, if at any time the noncompliance for which the probationary license was issued presents an immediate threat to the health or well-being of the children.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_125__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may, at any time, issue a probationary license for due cause that states the conditions of probation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_125__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>An existing license is invalidated when a probationary license is issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_125__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>At the expiration of the probationary license, the department shall reinstate the original license for the remainder of its term, issue a new license, or revoke the original license.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_125__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A right to an adjudicative proceeding shall not accrue to the licensee whose license has been placed on probationary status unless the licensee does not agree with the placement on probationary status and the department then suspends, revokes, or modifies the license.</p>
+          </content>
+          <subsection eId="sec_74_15_125__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department may issue a child-specific license to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_125__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A relative, as defined in RCW
+13.36.020
+, or a suitable person, as defined in RCW
+13.36.020
+, who opts to become licensed for placement of a specific child and that child's siblings or relatives in the department's care, custody, and control; or</p>
+            </content>
+            <subsection eId="sec_74_15_125__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An Indian child's family or extended family member as defined in RCW
+13.38.040
+who opts to become licensed for placement of a specific Indian child and that child's siblings or relatives in the custody of an Indian tribe as defined in RCW
+43.376.010
+or the tribe's child placing agency.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_15_125__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such individuals must meet all minimum licensing requirements for foster family homes established pursuant to RCW
+74.15.030
+and are subject to child-specific license criteria, which the department is authorized to establish by rule.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_125__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of federal funding, a child-specific license is considered a full license with all of the rights and responsibilities of a foster family home license, except that at the discretion of the department the licensee may only receive placement of specific children pursuant to</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_125__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_125__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A child-specific license does not confer upon the licensee a right to placement of a particular child, nor does it confer party status in any proceeding under chapter
+13.34
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_15_125__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department shall seek input from the following stakeholders during the development and adoption of rules necessary to implement this section: Representatives from the kinship care oversight committee, an organization that represents current and former foster youth, an organization that represents child placing agencies, and a statewide advisory group of foster youth and alumni of foster care. The department shall seek tribal input as outlined in the department's government-to-government policy, per RCW
+43.376.020
+.
+[
+2023 c 127 s 1
+;
+2021 c 304 s 30
+;
+1995 c 302 s 7
+.]
+NOTES:
+Intent
+—
+1995 c 302:
+See note following RCW
+74.15.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

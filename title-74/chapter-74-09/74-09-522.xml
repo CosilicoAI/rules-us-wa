@@ -1,0 +1,435 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.522"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.522"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.522/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.522/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.522/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.522/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_522">
+        <num>RCW 74.09.522</num>
+        <heading>Medical assistance—Agreements with managed care organizations for provision of services to medicaid recipients—Principles to be applied in purchasing managed health care</heading>
+        <subsection eId="sec_74_09_522__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of this section, &quot;nonparticipating provider&quot; means a person, health care provider, practitioner, facility, or entity, acting within their scope of practice, that does not have a written contract to participate in a managed care organization's provider network, but provides health care services to enrollees of programs authorized under this chapter or other applicable law whose health care services are provided by the managed care organization.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority shall enter into agreements with managed care organizations to provide health care services to recipients of medicaid under the following conditions:</p>
+          </content>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Agreements shall be made for at least thirty thousand recipients statewide;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Agreements in at least one county shall include enrollment of all recipients of programs as allowed for in the approved state plan amendment or federal waiver for Washington state's medicaid program;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To the extent that this provision is consistent with section 1903</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>of Title XIX of the federal social security act or federal demonstration waivers granted under section 1115</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of Title XI of the federal social security act, recipients shall have a choice of systems in which to enroll and shall have the right to terminate their enrollment in a system: PROVIDED, That the authority may limit recipient termination of enrollment without cause to the first month of a period of enrollment, which period shall not exceed twelve months: AND PROVIDED FURTHER, That the authority shall not restrict a recipient's right to terminate enrollment in a system for good cause as established by the authority by rule;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>To the extent that this provision is consistent with section 1903</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>of Title XIX of the federal social security act, participating managed care organizations shall not enroll a disproportionate number of medical assistance recipients within the total numbers of persons served by the managed care organizations, except as authorized by the authority under federal demonstration waivers granted under section 1115</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of Title XI of the federal social security act;
+(e)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>In negotiating with managed care organizations the authority shall adopt a uniform procedure to enter into contractual arrangements, including:
+(A) Standards regarding the quality of services to be provided;
+(B) The financial integrity of the responding system;
+(C) Provider reimbursement methods that incentivize chronic care management within health homes, including comprehensive medication management services for patients with multiple chronic conditions consistent with the findings and goals established in RCW
+74.09.5223
+;
+(D) Provider reimbursement methods that reward health homes that, by using chronic care management, reduce emergency department and inpatient use;
+(E) Promoting provider participation in the program of training and technical assistance regarding care of people with chronic conditions described in RCW
+43.70.533
+, including allocation of funds to support provider participation in the training, unless the managed care organization is an integrated health delivery system that has programs in place for chronic care management;
+(F) Provider reimbursement methods within the medical billing processes that incentivize pharmacists or other qualified providers licensed in Washington state to provide comprehensive medication management services consistent with the findings and goals established in RCW
+74.09.5223
+;
+(G) Evaluation and reporting on the impact of comprehensive medication management services on patient clinical outcomes and total health care costs, including reductions in emergency department utilization, hospitalization, and drug costs; and
+(H) Established consistent processes to incentivize integration of behavioral health services in the primary care setting, promoting care that is integrated, collaborative, colocated, and preventive.
+(ii)(A) Health home services contracted for under this subsection may be prioritized to enrollees with complex, high cost, or multiple chronic conditions.
+(B) Contracts that include the items in (e)(i)(C) throug</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The authority shall seek waivers from federal requirements as necessary to implement this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The authority shall, wherever possible, enter into prepaid capitation contracts that include inpatient care. However, if this is not possible or feasible, the authority may enter into prepaid capitation contracts that do not include inpatient care;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>The authority shall define those circumstances under which a managed care organization is responsible for out-of-plan services and assure that recipients shall not be charged for such services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Nothing in this section prevents the authority from entering into similar agreements for other groups of people eligible to receive services under this chapter; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_2__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>The authority must consult with the federal center for medicare and medicaid innovation and seek funding opportunities to support health homes.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The authority shall ensure that publicly supported community health centers and providers in rural areas, who show serious intent and apparent capability to participate as managed care organizations are seriously considered as contractors. The authority shall coordinate its managed care activities with activities under chapter
+70.47
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The authority shall work jointly with the state of Oregon and other states in this geographical region in order to develop recommendations to be presented to the appropriate federal agencies and the United States congress for improving health care of the poor, while controlling related costs.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The legislature finds that competition in the managed health care marketplace is enhanced, in the long term, by the existence of a large number of managed care organization options for medicaid clients. In a managed care delivery system, whose goal is to focus on prevention, primary care, and improved enrollee health status, continuity in care relationships is of substantial importance, and disruption to clients and health care providers should be minimized. To help ensure these goals are met, the following principles shall guide the authority in its healthy options managed health care purchasing efforts:</p>
+          </content>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>All managed care organizations should have an opportunity to contract with the authority to the extent that minimum contracting requirements defined by the authority are met, at payment rates that enable the authority to operate as far below appropriated spending levels as possible, consistent with the principles established in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Managed care organizations should compete for the award of contracts and assignment of medicaid beneficiaries who do not voluntarily select a contracting system, based upon:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Demonstrated commitment to or experience in serving low-income populations;</p>
+            </content>
+            <subsection eId="sec_74_09_522__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Quality of services provided to enrollees;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_522__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Accessibility, including appropriate utilization, of services offered to enrollees;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_522__subsec_5__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Demonstrated capability to perform contracted services, including ability to supply an adequate provider network;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Payment rates; and
+(vi) The ability to meet other specifically defined contract requirements established by the authority, including consideration of past and current performance and participation in other state or federal health programs as a contractor.</p>
+            </content>
+            <subsection eId="sec_74_09_522__subsec_5__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The ability to meet other specifically defined contract requirements established by the authority, including consideration of past and current performance and participation in other state or federal health programs as a contractor.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Consideration should be given to using multiple year contracting periods.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Quality, accessibility, and demonstrated commitment to serving low-income populations shall be given significant weight in the contracting, evaluation, and assignment process.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>All contractors that are regulated health carriers must meet state minimum net worth requirements as defined in applicable state laws. The authority shall adopt rules establishing the minimum net worth requirements for contractors that are not regulated health carriers. This subsection does not limit the authority of the Washington state health care authority to take action under a contract upon finding that a contractor's financial status seriously jeopardizes the contractor's ability to meet its contract obligations.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Procedures for resolution of disputes between the authority and contract bidders or the authority and contracting carriers related to the award of, or failure to award, a managed care contract must be clearly set out in the procurement document.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The authority may apply the principles set forth in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section to its managed health care purchasing efforts on behalf of clients receiving supplemental security income benefits to the extent appropriate.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Any contract with a managed care organization to provide services to medical assistance enrollees shall require that managed care organizations offer contracts to mental health providers and substance use disorder treatment providers to provide access to primary care services integrated into behavioral health clinical settings, for individuals with behavioral health and medical comorbidities.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Managed care organization contracts effective on or after April 1, 2016, shall serve geographic areas that correspond to the regional service areas established in RCW
+74.09.870
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>A managed care organization shall pay a nonparticipating provider that provides a service covered under this chapter or other applicable law to the organization's enrollee no more than the lowest amount paid for that service under the managed care organization's contracts with similar providers in the state if the managed care organization has made good faith efforts to contract with the nonparticipating provider.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>For services covered under this chapter or other applicable law to medical assistance or medical care services enrollees, nonparticipating providers must accept as payment in full the amount paid by the managed care organization under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>of this section in addition to any deductible, coinsurance, or copayment that is due from the enrollee for the service provided. An enrollee is not liable to any nonparticipating provider for covered services, except for amounts due for any deductible, coinsurance, or copayment under the terms and conditions set forth in the managed care organization contract to provide services under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Pursuant to federal managed care access standards, 42 C.F.R. Sec. 438, managed care organizations must maintain a network of appropriate providers that is supported by written agreements sufficient to provide adequate access to all services covered under the contract with the authority, including hospital-based physician services. The authority will monitor and periodically report on the proportion of services provided by contracted providers and nonparticipating providers, by county, for each managed care organization to ensure that managed health care systems are meeting network adequacy requirements. No later than January 1st of each year, the authority will review and report its findings to the appropriate policy and fiscal committees of the legislature for the preceding state fiscal year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Payments under RCW
+74.60.130
+are exempt from this section.
+[
+2023 c 51 s 43
+;
+2020 c 260 s 1
+;
+2019 c 325 s 4004
+;
+2018 c 201 s 7017
+;
+2015 c 256 s 1
+;
+2014 c 225 s 55
+;
+2013 2nd sp.s. c 17 s 13
+;
+2013 c 261 s 2
+. Prior:
+2011 1st sp.s. c 15 s 29
+;
+2011 1st sp.s. c 9 s 2
+;
+2011 c 316 s 4
+; prior:
+1997 c 59 s 15
+;
+1997 c 34 s 1
+;
+1989 c 260 s 2
+;
+1987 1st ex.s. c 5 s 21
+;
+1986 c 303 s 2
+.]
+NOTES:
+Effective date
+—
+2019 c 325:
+See note following RCW
+71.24.011
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 9:
+See note following RCW
+70.47.020
+.
+Effective date
+—
+1997 c 34:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 16, 1997].&quot; [
+1997 c 34 s 3
+.]
+Legislative findings
+—
+Intent
+—
+1986 c 303:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that:</p>
+          </content>
+          <subsection eId="sec_74_09_522__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Good health care for indigent persons is of importance to the state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To ensure the availability of a good level of health care, efforts must be made to encourage cost consciousness on the part of providers and consumers, while maintaining medical assistance recipients within the mainstream of health care delivery;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Managed health care systems have been found to be effective in controlling costs while providing good health care services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_522__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>By enrolling medical assistance recipients within managed health care systems, the state's goal is to ensure that medical assistance recipients receive at least the same quality of care they currently receive.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_522__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the intent of the legislature to develop and implement new strategies that promote the use of managed health care systems for medical assistance recipients by establishing prepaid capitated programs for both inpatient and outpatient services.&quot; [
+1986 c 303 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

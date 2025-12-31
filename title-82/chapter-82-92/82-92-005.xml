@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.005"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_005">
+        <num>RCW 82.92.005</num>
+        <heading>Findings</heading>
+        <subsection eId="sec_82_92_005__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Many cities in Washington are actively planning for growth under the growth management act, chapter
+36.70A
+RCW;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_005__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The construction industry provides living wage jobs for families across Washington;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_005__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In the current economic climate, the creation of additional affordable housing units is essential to the economic health of our cities and our state;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_005__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>It is critical that Washington state promote its cities and its property owners that will provide affordable housing;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_005__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A meaningful, fair, and predictable economic incentive should be created to stimulate the redevelopment of underdeveloped property in targeted urban areas through a limited sales and use tax deferral program as provided by this chapter;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_005__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This limited tax deferral will help the owners of underdeveloped property achieve the highest and best use of land and enable cities to more fully realize their planning goals; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_005__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Data regarding the number of additional affordable units created due to the limited tax deferral will be evaluated to determine if this tool could be used to increase affordable housing in other areas of the state.
+[
+2022 c 241 s 1
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

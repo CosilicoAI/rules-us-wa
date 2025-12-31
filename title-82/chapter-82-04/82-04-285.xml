@@ -1,0 +1,258 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.285"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.285"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.285/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.285/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.285/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.285/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_285">
+        <num>RCW 82.04.285</num>
+        <heading>Tax on contests of chance. (&lt;i&gt;Effective until January 1, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of operating contests of chance; as to such persons, the amount of tax with respect to the business of operating contests of chance is equal to the gross income of the business derived from contests of chance multiplied by the rate of 1.5 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An additional tax is imposed on those persons subject to tax in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. The amount of the additional tax with respect to the business of operating contests of chance is equal to the gross income of the business derived from contests of chance multiplied by the rate of 0.2 percent through June 30, 2024, and 0.26 percent thereafter. The money collected under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>shall be deposited in the problem gambling account created in RCW
+41.05.751
+. This subsection does not apply to businesses operating contests of chance when the gross income from the operation of contests of chance is less than $50,000 per year.</p>
+          </content>
+          <subsection eId="sec_82_04_285__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purpose of this section, &quot;contests of chance&quot; means any contests, games, gaming schemes, or gaming devices, other than the state lottery as defined in RCW
+67.70.010
+, in which the outcome depends in a material degree upon an element of chance, notwithstanding that skill of the contestants may also be a factor in the outcome. The term includes social card games, bingo, raffle, and punchboard games, and pull-tabs as defined in chapter
+9.46
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_285__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_285__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Race meet for the conduct of which a license must be secured from the Washington horse racing commission,</p>
+            </content>
+            <subsection eId="sec_82_04_285__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;amusement game&quot; as defined in RCW
+9.46.0201
+, or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_285__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>any activity that is not subject to regulation by the gambling commission.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Gross income of the business&quot; does not include the monetary value or actual cost of any prizes that are awarded, amounts paid to players for winning wagers, accrual of prizes for progressive jackpot contests, or repayment of amounts used to seed guaranteed progressive jackpot prizes.
+[
+2023 c 284 s 4
+;
+2014 c 97 s 303
+;
+2005 c 369 s 5
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2023 c 284:
+See notes following RCW
+41.05.750
+.
+Findings
+—
+Intent
+—
+Severability
+—
+Effective date
+—
+2005 c 369:
+See notes following RCW
+41.05.750
+.
+PDF
+RCW
+82.04.285
+Tax on contests of chance.
+(Effective January 1, 2027.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of operating contests of chance; as to such persons, the amount of tax with respect to the business of operating contests of chance is equal to the gross income of the business derived from contests of chance multiplied by the rate of 1.8 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An additional tax is imposed on those persons subject to tax in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. The amount of the additional tax with respect to the business of operating contests of chance is equal to the gross income of the business derived from contests of chance multiplied by the rate of 0.2 percent through June 30, 2024, and 0.26 percent thereafter. The money collected under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>shall be deposited in the problem gambling account created in RCW
+41.05.751
+. This subsection does not apply to businesses operating contests of chance when the gross income from the operation of contests of chance is less than $50,000 per year.</p>
+          </content>
+          <subsection eId="sec_82_04_285__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purpose of this section, &quot;contests of chance&quot; means any contests, games, gaming schemes, or gaming devices, other than the state lottery as defined in RCW
+67.70.010
+, in which the outcome depends in a material degree upon an element of chance, notwithstanding that skill of the contestants may also be a factor in the outcome. The term includes social card games, bingo, raffle, and punchboard games, and pull-tabs as defined in chapter
+9.46
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_285__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_285__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Race meet for the conduct of which a license must be secured from the Washington horse racing commission,</p>
+            </content>
+            <subsection eId="sec_82_04_285__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;amusement game&quot; as defined in RCW
+9.46.0201
+, or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_285__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>any activity that is not subject to regulation by the gambling commission.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_285__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Gross income of the business&quot; does not include the monetary value or actual cost of any prizes that are awarded, amounts paid to players for winning wagers, accrual of prizes for progressive jackpot contests, or repayment of amounts used to seed guaranteed progressive jackpot prizes.
+[
+2025 c 420 s 108
+;
+2023 c 284 s 4
+;
+2014 c 97 s 303
+;
+2005 c 369 s 5
+.]
+NOTES:
+Effective date
+—
+2025 c 420 ss 101-108 and 110-112:
+See note following RCW
+82.04.230
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Necessity of act
+—
+2025 c 420:
+See notes following RCW
+82.04.230
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+2023 c 284:
+See notes following RCW
+41.05.750
+.
+Findings
+—
+Intent
+—
+Severability
+—
+Effective date
+—
+2005 c 369:
+See notes following RCW
+41.05.750
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

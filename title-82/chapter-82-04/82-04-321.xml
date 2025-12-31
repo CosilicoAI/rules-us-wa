@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.321"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.321"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.321/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.321/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.321/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.321/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_321">
+        <num>RCW 82.04.321</num>
+        <heading>Exemptions—Qualified health plan patients</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.321
+82.04.320
+&lt;&lt; 
+        82.04.321 &gt;&gt;
+82.04.322
+PDF
+RCW
+82.04.321
+Exemptions
+—
+Qualified health plan patients.
+This chapter does not apply to amounts received by a health care provider for services performed on patients covered by a qualified health plan offered under RCW
+41.05.410
+, including reimbursement from the qualified health plan and any amounts collected from the patient as part of his or her cost-sharing obligation.
+[
+2019 c 364 s 9
+.]
+NOTES:
+Reviser's note:
+The tax preference enacted in section 9, chapter 364, Laws of 2019 expires January 1, 2032, pursuant to the automatic expiration date established in RCW
+82.32.805
+(1)(a).</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

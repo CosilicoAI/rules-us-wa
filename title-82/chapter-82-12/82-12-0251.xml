@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0251"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0251"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0251/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0251/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0251/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0251/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0251">
+        <num>RCW 82.12.0251</num>
+        <heading>Exemptions—Use of tangible personal property by nonresident while temporarily within state—Use of household goods, personal effects, and private motor vehicles acquired in another state while resident of other state—Use of certain warranties</heading>
+        <subsection eId="sec_82_12_0251__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Of any article of tangible personal property or any digital good or digital code, and any services that were rendered in respect to such property, brought into the state of Washington by a nonresident thereof for his or her use or enjoyment while temporarily within the state of Washington unless such property is used in conducting a nontransitory business activity within the state of Washington;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0251__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>By a nonresident of Washington of a motor vehicle or trailer which is registered or licensed under the laws of the state of his or her residence, and which is not required to be registered or licensed under the laws of Washington, including motor vehicles or trailers exempt pursuant to a declaration issued by the department of licensing under RCW
+46.85.060
+, and services rendered outside the state of Washington in respect to such property;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0251__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Of household goods, including digital goods, and digital codes, personal effects, private motor vehicles, and services rendered in respect to such property, by a bona fide resident of Washington, or nonresident members of the armed forces who are stationed in Washington pursuant to military orders, if such articles and services were acquired and used by such person in another state while a bona fide resident thereof and such acquisition and use occurred more than ninety days prior to the time he or she entered Washington. For purposes of this subsection, private motor vehicles do not include motor homes;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0251__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Of an extended warranty, to the extent that the property covered by the extended warranty is exempt under this section from the tax imposed under this chapter.
+For purposes of this section, &quot;state&quot; means a state of the United States, any political subdivision thereof, the District of Columbia, and any foreign country or political subdivision thereof, and &quot;services&quot; means services defined as retail sales in RCW
+82.04.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0251__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_0251__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or (g).
+[
+2009 c 535 s 608
+;
+2005 c 514 s 106
+;
+2003 c 5 s 18
+;
+1997 c 301 s 1
+;
+1987 c 27 s 1
+;
+1985 c 353 s 4
+;
+1983 c 26 s 2
+;
+1980 c 37 s 51
+. Formerly RCW
+82.12.030</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

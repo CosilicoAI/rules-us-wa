@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.25.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.25.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.25.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_25_030">
+        <num>RCW 82.25.030</num>
+        <heading>Recordkeeping requirements</heading>
+        <subsection eId="sec_82_25_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every distributor must keep at each place of business complete and accurate records for that place of business, including itemized invoices, of vapor products held, purchased, manufactured, brought in or caused to be brought in from without the state, or shipped or transported to retailers in this state, and of all sales of vapor products made.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>These records must show the names and addresses of purchasers, the inventory of all vapor products, and other pertinent papers and documents relating to the purchase, sale, or disposition of vapor products. All invoices and other records required by this section to be kept must be preserved for a period of five years from the date of the invoices or other documents or the date of the entries appearing in the records.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>At any time during usual business hours the department, board, or its duly authorized agents or employees may enter any place of business of a distributor, without a search warrant, and inspect the premises, the records required to be kept under this chapter, and the vapor products contained therein, to determine whether or not all the provisions of this chapter are being fully complied with. If the department, board, or any of its agents or employees are denied free access or are hindered or interfered with in making such examination, the registration certificate issued under RCW
+82.32.030
+of the distributor at such premises are subject to revocation by the department, and any licenses issued under chapter
+70.345
+, 82.26, or
+82.24
+RCW are subject to suspension or revocation by the board.
+[
+2019 c 445 s 106
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

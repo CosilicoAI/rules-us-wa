@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.46.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.46.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.46.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_46_080">
+        <num>RCW 82.46.080</num>
+        <heading>Notice to county treasurer</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.46
+&gt;
+Section 82.46.080
+82.46.075
+&lt;&lt; 
+        82.46.080 &gt;&gt;
+82.46.090
+PDF
+RCW
+82.46.080
+Notice to county treasurer.
+A county, city, or town that imposes an excise tax under this chapter must provide the county treasurer with a copy of the ordinance or other action initially authorizing the tax or altering the rate of the tax that is imposed at least sixty days before change becomes effective.
+[
+1998 c 106 s 10
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

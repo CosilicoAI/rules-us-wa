@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.057"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.057"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.057/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.057/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.057/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.057/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_057">
+        <num>RCW 74.20.057</num>
+        <heading>Adjudicative proceedings—Role of department</heading>
+        <subsection eId="sec_74_20_057__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Act in furtherance of the state's financial interest in the matter;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_057__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Act in the best interests of the children of the state;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_057__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Facilitate the resolution of the controversy; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_057__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Make independent recommendations to ensure the integrity and proper application of the law and process.
+In the proceedings the department does not act on behalf or as an agent or representative of an individual.
+[
+1994 c 230 s 18
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

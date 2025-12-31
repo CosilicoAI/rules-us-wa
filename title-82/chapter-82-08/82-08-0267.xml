@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0267"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0267"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0267/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0267/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0267/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0267/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0267">
+        <num>RCW 82.08.0267</num>
+        <heading>Exemptions—Sales of poultry for producing poultry and poultry products for sale</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0267
+82.08.02665
+&lt;&lt; 
+        82.08.0267 &gt;&gt;
+82.08.0268
+PDF
+RCW
+82.08.0267
+Exemptions
+—
+Sales of poultry for producing poultry and poultry products for sale.
+The tax levied by RCW
+82.08.020
+shall not apply to sales of poultry for use in the production for sale of poultry or poultry products.
+[
+1980 c 37 s 34
+. Formerly RCW
+82.08.030
+(16).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

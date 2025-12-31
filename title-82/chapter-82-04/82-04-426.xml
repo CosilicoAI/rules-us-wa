@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.426"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.426"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.426/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.426/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.426/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.426/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_426">
+        <num>RCW 82.04.426</num>
+        <heading>Exemptions—Semiconductor microchips. (Contingent effective date; contingent expiration date.)</heading>
+        <subsection eId="sec_82_04_426__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by RCW
+82.04.241
+does not apply to any person in respect to the manufacturing of semiconductor microchips.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_426__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_82_04_426__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Manufacturing semiconductor microchips&quot; means taking raw polished semiconductor wafers and embedding integrated circuits on the wafers using processes such as masking, etching, and diffusion; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_426__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Integrated circuit&quot; means a set of microminiaturized, electronic circuits.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_426__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A person reporting under the tax rate provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_426__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Pursuant to RCW
+82.32.790
+, this section is contingent on the siting and commercial operation of a significant semiconductor microchip fabrication facility in the state of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_426__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any person who has claimed the exemption under this section must reimburse the department for 50 percent of the amount of the tax preference under this section if the number of persons employed by the person claiming the tax preference is less than 90 percent of the person's three-year employment average for the three years immediately preceding the year in which the exemption is claimed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_426__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section expires January 1, 2034, unless the contingency in RCW
+82.32.790</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_426__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>occurs.
+[
+2024 c 261 s 3
+. Prior:
+2017 3rd sp.s. c 37 s 524
+; (2017 3rd sp.s. c 37 s 523 expired January 1, 2018);
+2017 c 135 s 13
+;
+2010 c 114 s 110
+;
+2003 c 149 s 2
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Effective date
+—
+2024 c 261 ss 2-9:
+See notes following RCW
+82.04.241
+.
+Effective date
+—
+2017 3rd sp.s. c 37 ss 101-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+See note following RCW
+82.04.2404
+.
+Expiration date
+—
+2017 3rd sp.s. c 37 ss 502, 505, 507, 509, 511, 513, 515, 517, 519, 521, 523, and 525:
+See note following RCW
+82.04.2404
+.
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Finding
+—
+Intent
+—
+2010 c 114:
+See note following RCW
+82.32.534
+.
+Findings
+—
+Intent
+—
+2003 c 149:
+&quot;The legislature finds that the welfare of the people of the state of Washington is positively impacted through the encouragement and expansion of family wage employment in the state's manufacturing industries. The legislature further finds that targeting tax incentives to focus on key industry clusters is an important business climate strategy. The Washington competitiveness council has recognized the semiconductor industry, which includes the design and manufacture of semiconductor materials, as one of the state's existing key industry clusters. Businesses in this cluster in the state of Washington are facing increasing pressure to expand elsewhere. The sales and use tax exemptions for manufacturing machinery and equipment enacted by the 1995 legislature improved Washington's ability to compete with other states for manufacturing investment. However, additional incentives for the semiconductor cluster need to be put in place in recognition of the unique forces and global issues involved in business decisions that key businesses in this cluster face.
+Therefore, the legislature intends to enact comprehensive tax incentives for the semiconductor cluster that address activities of the lead product indust</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

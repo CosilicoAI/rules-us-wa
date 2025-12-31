@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.270"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_270">
+        <num>RCW 74.08A.270</num>
+        <heading>Good cause</heading>
+        <subsection eId="sec_74_08A_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Good cause reasons for failure to participate in WorkFirst program components include situations where:</p>
+          </content>
+          <subsection eId="sec_74_08A_270__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The recipient is a parent or other relative personally providing care for a child under the age of six years, and formal or informal child care, or day care for an incapacitated individual living in the same home as a dependent child, is necessary for an individual to participate or continue participation in the program or accept employment, and such care is not available, and the department fails to provide such care;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>the recipient is a parent with a child under the age of two years; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>the recipient is experiencing a hardship as defined by the department in rule.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_270__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A parent claiming a good cause exemption from WorkFirst participation under subsection</p>
+          </content>
+          <subsection eId="sec_74_08A_270__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section may be required to participate in one or more of the following, up to a maximum total of twenty hours per week, if such treatment, services, or training is indicated by the comprehensive evaluation or other assessment:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Mental health treatment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Alcohol or drug treatment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Domestic violence services; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Parenting education or parenting skills training, if available.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_270__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall:</p>
+          </content>
+          <subsection eId="sec_74_08A_270__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Work with a parent claiming a good cause exemption under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section to identify and access programs and services designed to improve parenting skills and promote child well-being, including but not limited to home visitation programs and services; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08A_270__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>provide information on the availability of home visitation services to temporary assistance for needy families caseworkers, who shall inform clients of the availability of the services. If desired by the client, the caseworker shall facilitate appropriate referrals to providers of home visitation services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08A_270__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Nothing in this section shall prevent a recipient from participating in the WorkFirst program on a voluntary basis.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_270__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A parent is eligible for a good cause exemption under subsection</p>
+          </content>
+          <subsection eId="sec_74_08A_270__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section for a maximum total of 24 months over the parent's lifetime.
+[
+2023 c 418 s 7
+;
+2017 3rd sp.s. c 21 s 2
+;
+2007 c 289 s 1
+;
+2002 c 89 s 1
+;
+1997 c 58 s 314
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

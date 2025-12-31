@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.120"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_120">
+        <num>RCW 82.92.120</num>
+        <heading>Transfer of project ownership</heading>
+        <subsection eId="sec_82_92_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Transfer of investment project ownership does not terminate the deferral. The deferral is transferred subject to the successor meeting the eligibility requirements of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The transferor of an eligible project must notify the city and the department of such transfer. The city must certify to the department that the successor meets the requirements of the deferral. The transferor must provide the information necessary for the department to transfer the deferral. If the transferor fails to notify the city and the department, all deferred sales and use taxes are immediately due and payable. The department must assess interest at the rate provided for delinquent taxes and penalties retroactively to the date of deferral.
+[
+2022 c 241 s 14
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

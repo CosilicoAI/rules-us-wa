@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.411"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.411"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.411/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.411/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.411/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.411/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_411">
+        <num>RCW 74.08A.411</num>
+        <heading>Outcome measures—Data—Report to the legislature and the legislative-executive WorkFirst poverty reduction oversight task force</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.411
+74.08A.410
+&lt;&lt; 
+        74.08A.411 &gt;&gt;
+74.08A.420
+PDF
+RCW
+74.08A.411
+Outcome measures
+—
+Data
+—
+Report to the legislature and the legislative-executive WorkFirst poverty reduction oversight task force.
+The department shall continue to implement WorkFirst program improvements that are designed to achieve progress against outcome measures specified in RCW
+74.08A.410
+. Outcome data regarding job retention and wage progression shall be reported quarterly to the appropriate fiscal and policy committees of the legislature and to the legislative-executive WorkFirst poverty reduction oversight task force for families who leave assistance for any reason, measured after twelve months, twenty-four months, and thirty-six months. The department shall also report the percentage of families who have returned to temporary assistance for needy families after twelve months, twenty-four months, and thirty-six months. The department shall make every effort to maximize vocational training, as allowed by federal and state requirements.
+[
+2019 c 343 s 4
+;
+2009 c 85 s 3
+.]
+NOTES:
+Prospective application
+—
+2019 c 343:
+See note following RCW
+74.08.025
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

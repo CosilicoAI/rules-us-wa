@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.860"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.860"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.860/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.860/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.860/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.860/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_860">
+        <num>RCW 82.32.860</num>
+        <heading>Liquefied natural gas—Estimated sales tax revenue. (Expires July 1, 2028.)</heading>
+        <subsection eId="sec_82_32_860__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>By the last workday of the second and fourth calendar quarters, the state treasurer must transfer the amount specified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_860__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section from the general fund to the motor vehicle fund established under RCW
+46.68.070
+. The first transfer under this subsection must occur by December 31, 2017.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_860__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>By December 15th and by June 15th of each year, the department must estimate the increase in state general fund revenues from the taxes collected under RCW
+82.08.0261</p>
+          </content>
+          <subsection eId="sec_82_32_860__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>on the nonexempt portion of liquefied natural gas sales in the current and prior calendar quarters and notify the state treasurer of the increase.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_860__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires July 1, 2028.
+[
+2014 c 216 s 406
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

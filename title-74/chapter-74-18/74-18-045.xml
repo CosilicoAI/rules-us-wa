@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.045"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.045"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.045/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.045/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.045/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.045/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_045">
+        <num>RCW 74.18.045</num>
+        <heading>Telephonic reading service</heading>
+        <subsection eId="sec_74_18_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The director may enter into contracts or other agreements that he or she determines to be appropriate to provide telephonic reading services pursuant to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_045__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The director may expand the type and scope of materials available on the telephonic reading service in order to meet the local, regional, or foreign language needs of blind or visually impaired residents of this state. The director may also expand the scope of services and availability of telephonic reading services by current methods and technologies that may be developed. The director may inform current and potential patrons of the availability of telephonic reading services through appropriate means, including, but not limited to, direct mailings, direct telephonic contact, and public service announcements.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_045__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The director may expend moneys from the business enterprises revolving account accrued from vending machine sales in state and local government buildings, as well as donations and grants, for the purpose of supporting the cost of activities described in this section.
+[
+2020 c 274 s 65
+;
+2003 c 409 s 4
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

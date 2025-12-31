@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.657"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.657"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.657/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.657/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.657/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.657/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_657">
+        <num>RCW 74.04.657</num>
+        <heading>Veterans' benefits—Assessment for eligibility</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.657
+74.04.655
+&lt;&lt; 
+        74.04.657 &gt;&gt;
+74.04.658
+PDF
+RCW
+74.04.657
+Veterans' benefits
+—
+Assessment for eligibility.
+During the application process for benefits under RCW
+74.62.030
+and
+43.185C.220
+, the department shall inquire of each applicant whether he or she has ever served in the United States military service. If the applicant answers in the affirmative, the department shall confer with a veterans benefit specialist with the Washington state department of veterans affairs or a contracted veterans service officer in the community to determine whether the applicant is eligible for any benefits or programs offered to veterans by either the state or the federal government.
+[
+2011 1st sp.s. c 36 s 25
+;
+2010 1st sp.s. c 8 s 6
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Implementation
+—
+2010 1st sp.s. c 8 ss 1-10 and 29:
+See note following RCW
+74.04.225
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

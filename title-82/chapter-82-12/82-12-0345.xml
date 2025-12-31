@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0345"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0345"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0345/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0345/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0345/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0345/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0345">
+        <num>RCW 82.12.0345</num>
+        <heading>Exemptions—Use of newspapers</heading>
+        <subsection eId="sec_82_12_0345__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Printed newspapers as defined in RCW
+82.08.0253
+; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0345__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Newspapers transferred electronically, provided that the electronic version of a printed newspaper:</p>
+          </content>
+          <subsection eId="sec_82_12_0345__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Shares content with the printed newspaper; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0345__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is prominently identified by the same name as the printed newspaper or otherwise conspicuously indicates that it is a complement to the printed newspaper.
+[
+2009 c 535 s 618
+;
+1994 c 124 s 11
+.]
+NOTES:
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

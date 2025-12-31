@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.240"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.240"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.240/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.240/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.240/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.240/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_240">
+        <num>RCW 74.12.240</num>
+        <heading>Services provided to help attain maximum self-support and independence of parents and relatives</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.240
+74.12.035
+&lt;&lt; 
+        74.12.240 &gt;&gt;
+74.12.250
+PDF
+RCW
+74.12.240
+Services provided to help attain maximum self-support and independence of parents and relatives.
+The department is authorized to provide such social and related services as are reasonably necessary to encourage the care of dependent children in their own homes or in the homes of relatives, to help maintain and strengthen family life and to help such parents or relatives to attain maximum self-support and personal independence consistent with the maintenance of continuing parental care and protection. In the provision of such services, maximum utilization of other agencies providing similar or related services shall be effected.
+[
+1959 c 26 s 74.12.240
+. Prior:
+1957 c 63 s 8
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

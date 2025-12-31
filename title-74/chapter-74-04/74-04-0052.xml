@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.0052"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.0052"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.0052/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.0052/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.0052/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.0052/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_0052">
+        <num>RCW 74.04.0052</num>
+        <heading>Teen applicants' living situation—Criteria—Presumption—Protective payee—Adoption referral</heading>
+        <subsection eId="sec_74_04_0052__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall determine, after consideration of all relevant factors and in consultation with the applicant, the most appropriate living situation for applicants under eighteen years of age, unmarried, and pregnant who are eligible for benefits under RCW
+74.62.030
+and
+43.185C.220
+. An appropriate living situation shall include a place of residence that is maintained by the applicant's parents, parent, legal guardian, or other adult relative as their or his or her own home and that the department finds would provide an appropriate supportive living arrangement. It also includes a living situation maintained by an agency that is licensed under chapter
+74.15
+RCW that the department finds would provide an appropriate supportive living arrangement. Grant assistance shall not be provided under this chapter if the applicant does not reside in the most appropriate living situation, as determined by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_0052__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A pregnant minor residing in the most appropriate living situation, as provided under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_0052__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, is presumed to be unable to manage adequately the funds paid to the minor or on behalf of the dependent child or children and, unless the minor provides sufficient evidence to rebut the presumption, shall be subject to the protective payee requirements provided for under RCW
+74.12.250
+and
+74.08.280
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_0052__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall consider any statements or opinions by either parent of the unmarried minor parent or pregnant minor applicant as to an appropriate living situation for the minor, whether in the parental home or other situation. If the parents or a parent of the minor request, they or he or she shall be entitled to a hearing in juvenile court regarding designation of the parental home or other relative placement as the most appropriate living situation for the pregnant or parenting minor.
+The department shall provide the parents or parent with the opportunity to make a showing that the parental home, or home of the other relative placement, is the most appropriate living situation. It shall be presumed in any administrative or judicial proceeding conducted under this subsection that the parental home or other relative placement requested by the parents or parent is the most appropriate living situation. This presumption is rebuttable.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_0052__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In cases in which the minor is unmarried and unemployed, the department shall, as part of the determination of the appropriate living situation, provide information about adoption including referral to community-based organizations providing counseling.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_0052__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For the purposes of this section, &quot;most appropriate living situation&quot; shall not include a living situation including an adult male who fathered the qualifying child and is found to meet the elements of rape of a child as set forth in RCW
+9A.44.079
+.
+[
+2011 1st sp.s. c 36 s 18
+;
+2010 1st sp.s. c 8 s 18
+;
+1997 c 58 s 502
+;
+1994 c 299 s 34
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Intent
+—
+Finding
+—
+Severability
+—
+Conflict with federal requirements
+—
+1994 c 299:
+See notes following RCW
+74.12.400
+.
+Aid to families with dependent children: RCW
+74.12.255
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,849 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.192"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.192"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.192/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.192/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.192/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.192/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_192">
+        <num>RCW 82.04.192</num>
+        <heading>Digital products definitions. (&lt;i&gt;Effective until October 1, 2025.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_192__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Digital audio works&quot; means works that result from the fixation of a series of musical, spoken, or other sounds, including ringtones.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Digital audiovisual works&quot; means a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any.</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Digital automated service,&quot; except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Digital automated service&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any service that primarily involves the application of human effort by the seller, and the human effort originated after the customer requested the service;</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The loaning or transferring of money or the purchase, sale, or transfer of financial instruments. For purposes of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Dispensing cash or other physical items from a machine;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Payment processing services;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Parimutuel wagering and handicapping contests as authorized by chapter
+67.16
+RCW;
+(vi) Telecommunications services and ancillary services as those terms are defined in RCW
+82.04.065
+;
+(vii) The internet and internet access as those terms are defined in RCW
+82.04.297
+;
+(viii) The service described in RCW
+82.04.050</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Telecommunications services and ancillary services as those terms are defined in RCW
+82.04.065
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>The internet and internet access as those terms are defined in RCW
+82.04.297
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>The service described in RCW
+82.04.050</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>Live presentations, such as lectures, seminars, workshops, or courses, where participants are connected to other participants via the internet or telecommunications equipment, which allows audience members and the presenter or instructor to give, receive, and discuss information with each other in real time;
+(xi) Travel agent services, including online travel services, and automated systems used by travel agents to book reservations;
+(xii)(A) A service that allows the person receiving the service to make online sales of products or services, digital or otherwise, using either: (I) The service provider's website; or (II) the service recipient's website, but only when the service provider's technology is used in creating or hosting the service recipient's website or is used in processing orders from customers using the service recipient's website.
+(B) The service described in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Digital books&quot; means works that are generally recognized in the ordinary and usual sense as books.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Digital code&quot; means a code that provides a purchaser with the right to obtain one or more digital products, if all of the digital products to be obtained through the use of the code have the same sales and use tax treatment. &quot;Digital code&quot; does not include a code that represents a stored monetary value that is deducted from a total as it is used by the purchaser. &quot;Digital code&quot; also does not include a code that represents a redeemable card, gift card, or gift certificate that entitles the holder to select digital products of an indicated cash value. A digital code may be obtained by any means, including email or by tangible means regardless of its designation as song code, video code, book code, or some other term.</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Digital goods,&quot; except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term &quot;digital goods&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Telecommunications services and ancillary services as those terms are defined in RCW
+82.04.065
+;</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Computer software as defined in RCW
+82.04.215
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The internet and internet access as those terms are defined in RCW
+82.04.297
+;
+(iv)(A) Except as provided in</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>does not apply to photographers in respect to amounts received for the taking of photographs that are transferred electronically to the customer, but only if the customer is an end user, as defined in RCW
+82.04.190</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_6__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Services and activities excluded from the definition of digital automated services in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (xv) of this section and not otherwise described in (b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (iv) of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_6__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Digital products&quot; means digital goods and digital automated services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Electronically transferred&quot; or &quot;transferred electronically&quot; means obtained by the purchaser by means other than tangible storage media. It is not necessary that a copy of the product be physically transferred to the purchaser. So long as the purchaser may access the product, it will be considered to have been electronically transferred to the purchaser.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Specified digital products&quot; means electronically transferred digital audiovisual works, digital audio works, and digital books.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Subscription radio services&quot; means the sale of audio programming by a radio broadcaster as defined in RCW
+82.08.0208
+, except as otherwise provided in this subsection. &quot;Subscription radio services&quot; does not include audio programming that is sold on a pay-per-program basis or that allows the buyer to access a library of programs at any time for a specific charge for that service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Subscription television services&quot; means the sale of video programming by a television broadcaster as defined in RCW
+82.08.0208
+, except as otherwise provided in this subsection. &quot;Subscription television services&quot; does not include video programming that is sold on a pay-per-program basis or that allows the buyer to access a library of programs at any time for a specific charge for that service, but only if the seller is not subject to a franchise fee in this state under the authority of Title 47 U.S.C. Sec. 542</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>on the gross revenue derived from the sale.
+[
+2020 c 139 s 4
+;
+2017 c 323 s 514
+;
+2010 c 111 s 203
+;
+2009 c 535 s 201
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+See note following RCW
+82.04.040
+.
+Purpose
+—
+Retroactive application
+—
+Effective date
+—
+2010 c 111:
+See notes following RCW
+82.04.050
+.
+Intent
+—
+2009 c 535:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In 2007, the legislature directed the department of revenue (department) to conduct a study of the taxation of electronically delivered products (digital products). In conducting the study, the department was assisted by a committee comprised of legislators, academics, and individuals representing different segments of government and industry (the &quot;study committee&quot;).</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>At the conclusion of the study, the department issued its final report December 5, 2008. The final report noted that any recommendations to the legislature should promote the following goals:</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Simplicity and fairness;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>conformity with the streamlined sales and use tax agreement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>neutrality regardless of industry, content, and delivery method while taking the purchaser's underlying property rights into account;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>consideration given to the revenue impact of potential changes to the tax base;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>consideration given to the impact caused by the pyramiding of business inputs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>maintaining or enhancing the competitiveness of businesses located in Washington; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>maintaining certainty, consistency, durability, and equity despite changes in technology and business models.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>While the department's final report did not contain recommendations for the legislature, the report's conclusion notes that the study committee found that legislation implementing digital products tax policy is necessary in 2009 to:</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Protect the sales and use tax base;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>establish certainty in our tax code;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>maintain conformity with the streamlined sales and use tax agreement; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>encourage economic development.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This act is the outgrowth of the work of the department and the study committee. The purpose of this act is to implement those findings of the study committee noted in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section. This act also takes into account the goals noted in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section. Moreover, this act contains specific provisions to:</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide protections for taxpayers who failed to pay or collect tax on digital products for periods before July 26, 2009; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>promote the location of server farms and data centers in this state by preventing the department from considering a person's ownership of, or rights in, digital goods or digital codes residing on servers located in this state in determining whether the person has nexus with this state for purposes of the taxes imposed in Title
+82
+RCW.&quot; [
+2009 c 535 s 101
+.]
+Construction
+—
+2009 c 535:
+&quot;This act does not have any impact whatsoever on the characterization of digital goods and digital codes as tangible or intangible personal property for purposes of property taxation and may not be used in any way in construing any provision of Title
+84
+RCW.&quot; [
+2009 c 535 s 1201
+.]
+Construction
+—
+2009 c 535:
+&quot;The repeals in sections 515 and 623 of this act do not affect any existing right acquired or liability or obligation incurred under the statutes repealed or under any rule or order adopted under those statutes nor do they affect any proceedings instituted under them.&quot; [
+2009 c 535 s 1203
+.]
+PDF
+RCW
+82.04.192
+Digital products definitions.
+(Effective October 1, 2025.)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Digital audio works&quot; means works that result from the fixation of a series of musical, spoken, or other sounds, including ringtones.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Digital audiovisual works&quot; means a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any.</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Digital automated service,&quot; except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Digital automated service&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The loaning or transferring of money or the purchase, sale, or transfer of financial instruments. For purposes of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Dispensing cash or other physical items from a machine;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Payment processing services;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Parimutuel wagering and handicapping contests as authorized by chapter
+67.16
+RCW;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Telecommunications services and ancillary services as those terms are defined in RCW
+82.04.065
+;
+(vi) The internet and internet access as those terms are defined in RCW
+82.04.297
+;
+(vii) The service described in RCW
+82.04.050</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The internet and internet access as those terms are defined in RCW
+82.04.297
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>The service described in RCW
+82.04.050</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_2__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>Online educational programs provided by a:
+(A) Public or private elementary or secondary school; or
+(B) An institution of higher education as defined in sections 1001 or 1002 of the federal higher education act of 1965 (Title 20 U.S.C. Secs. 1001 and 1002), as existing on July 1, 2009. For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>does not include the underlying sale of the products or services, digital or otherwise, by the person receiving the service;
+(xi) Telehealth as defined in RCW
+18.134.010
+or telemedicine as defined in RCW
+48.43.735
+;
+(xii) The mere storage of digital products, digital codes, computer software, or master copies of software. This exclusion from the definition of digital automated services includes providing space on a server for web hosting or the backing up of data or other information; and
+(xiii) Digital goods.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Digital books&quot; means works that are generally recognized in the ordinary and usual sense as books.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Digital code&quot; means a code that provides a purchaser with the right to obtain one or more digital products, if all of the digital products to be obtained through the use of the code have the same sales and use tax treatment. &quot;Digital code&quot; does not include a code that represents a stored monetary value that is deducted from a total as it is used by the purchaser. &quot;Digital code&quot; also does not include a code that represents a redeemable card, gift card, or gift certificate that entitles the holder to select digital products of an indicated cash value. A digital code may be obtained by any means, including email or by tangible means regardless of its designation as song code, video code, book code, or some other term.</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Digital goods,&quot; except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The term &quot;digital goods&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Telecommunications services and ancillary services as those terms are defined in RCW
+82.04.065
+;</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Computer software as defined in RCW
+82.04.215
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_192__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The internet and internet access as those terms are defined in RCW
+82.04.297
+;
+(iv)(A) Except as provided in</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>does not apply to photographers in respect to amounts received for the taking of photographs that are transferred electronically to the customer, but only if the customer is an end user, as defined in RCW
+82.04.190</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_6__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Services and activities excluded from the definition of digital automated services in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (xii) of this section and not otherwise described in (b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (iv) of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_192__subsec_6__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Digital products&quot; means digital goods and digital automated services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Electronically transferred&quot; or &quot;transferred electronically&quot; means obtained by the purchaser by means other than tangible storage media. It is not necessary that a copy of the product be physically transferred to the purchaser. So long as the purchaser may access the product, it will be considered to have been electronically transferred to the purchaser.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Specified digital products&quot; means electronically transferred digital audiovisual works, digital audio works, and digital books.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Subscription radio services&quot; means the sale of audio programming by a radio broadcaster as defined in RCW
+82.08.0208
+, except as otherwise provided in this subsection. &quot;Subscription radio services&quot; does not include audio programming that is sold on a pay-per-program basis or that allows the buyer to access a library of programs at any time for a specific charge for that service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Subscription television services&quot; means the sale of video programming by a television broadcaster as defined in RCW
+82.08.0208
+, except as otherwise provided in this subsection. &quot;Subscription television services&quot; does not include video programming that is sold on a pay-per-program basis or that allows the buyer to access a library of programs at any time for a specific charge for that service, but only if the seller is not subject to a franchise fee in this state under the authority of Title 47 U.S.C. Sec. 542</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>on the gross revenue derived from the sale.
+[
+2025 c 422 s 201
+;
+2020 c 139 s 4
+;
+2017 c 323 s 514
+;
+2010 c 111 s 203
+;
+2009 c 535 s 201
+.]
+NOTES:
+Effective date
+—
+2025 c 422 ss 101 and 201:
+See note following RCW
+82.04.050
+.
+Findings
+—
+Intent
+—
+Necessity of act
+—
+2025 c 422:
+See notes following RCW
+82.04.050
+.
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+See note following RCW
+82.04.040
+.
+Purpose
+—
+Retroactive application
+—
+Effective date
+—
+2010 c 111:
+See notes following RCW
+82.04.050
+.
+Intent
+—
+2009 c 535:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In 2007, the legislature directed the department of revenue (department) to conduct a study of the taxation of electronically delivered products (digital products). In conducting the study, the department was assisted by a committee comprised of legislators, academics, and individuals representing different segments of government and industry (the &quot;study committee&quot;).</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>At the conclusion of the study, the department issued its final report December 5, 2008. The final report noted that any recommendations to the legislature should promote the following goals:</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Simplicity and fairness;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>conformity with the streamlined sales and use tax agreement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>neutrality regardless of industry, content, and delivery method while taking the purchaser's underlying property rights into account;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>consideration given to the revenue impact of potential changes to the tax base;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>consideration given to the impact caused by the pyramiding of business inputs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>maintaining or enhancing the competitiveness of businesses located in Washington; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>maintaining certainty, consistency, durability, and equity despite changes in technology and business models.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>While the department's final report did not contain recommendations for the legislature, the report's conclusion notes that the study committee found that legislation implementing digital products tax policy is necessary in 2009 to:</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Protect the sales and use tax base;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>establish certainty in our tax code;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>maintain conformity with the streamlined sales and use tax agreement; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>encourage economic development.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This act is the outgrowth of the work of the department and the study committee. The purpose of this act is to implement those findings of the study committee noted in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section. This act also takes into account the goals noted in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_192__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section. Moreover, this act contains specific provisions to:</p>
+          </content>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide protections for taxpayers who failed to pay or collect tax on digital products for periods before July 26, 2009; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_192__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>promote the location of server farms and data centers in this state by preventing the department from considering a person's ownership of, or rights in, digital goods or digital codes residing on servers located in this state in determining whether the person has nexus with this state for purposes of the taxes imposed in Title
+82
+RCW.&quot; [
+2009 c 535 s 101
+.]
+Construction
+—
+2009 c 535:
+&quot;This act does not have any impact whatsoever on the characterization of digital goods and digital codes as tangible or intangible personal property for purposes of property taxation and may not be used in any way in construing any provision of Title
+84
+RCW.&quot; [
+2009 c 535 s 1201
+.]
+Construction
+—
+2009 c 535:
+&quot;The repeals in sections 515 and 623 of this act do not affect any existing right acquired or liability or obligation incurred under the statutes repealed or under any rule or order adopted under those statutes nor do they affect any proceedings instituted under them.&quot; [
+2009 c 535 s 1203
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.820"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.820"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.820/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.820/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.820/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.820/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_820">
+        <num>RCW 82.14.820</num>
+        <heading>Warehouse and grain elevators and distribution centers—Exemption does not apply</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.820
+82.14.550
+&lt;&lt; 
+        82.14.820 &gt;&gt;
+End of Chapter
+PDF
+RCW
+82.14.820
+Warehouse and grain elevators and distribution centers
+—
+Exemption does not apply.
+The exemptions in RCW
+82.08.820
+,
+82.12.820
+,
+82.08.0207
+, and
+82.12.0207
+are for the state portion of the sales and use tax and do not extend to the tax imposed in this chapter.
+[
+2017 c 176 s 4
+;
+1997 c 450 s 4
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Application
+—
+2017 c 176:
+See notes following RCW
+82.08.0207
+.
+Findings
+—
+Intent
+—
+Report
+—
+Effective date
+—
+1997 c 450:
+See notes following RCW
+82.08.820
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.258"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.258"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.258/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.258/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.258/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.258/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_258">
+        <num>RCW 82.04.258</num>
+        <heading>Digital products—Apportionable income</heading>
+        <subsection eId="sec_82_04_258__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of this subsection, a person is considered to be engaging outside this state in the business of making sales of digital goods, digital codes, digital automated services, or services described in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>if the person makes any sales of digital goods, digital codes, digital automated services, or services described in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>that are sourced to a jurisdiction other than Washington under RCW
+82.32.730
+for sales tax purposes or would have been sourced to a jurisdiction other than Washington under RCW
+82.32.730
+if the sale had been a retail sale.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_258__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Apportionable income must be apportioned to Washington by multiplying the apportionable income by the sales factor.</p>
+          </content>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The sales factor is a fraction, the numerator of which is the total receipts of the taxpayer from making sales of digital goods, digital codes, digital automated services, and services described in *RCW
+82.04.050</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>in this state during the tax period, and the denominator of which is the total receipts of the taxpayer derived from such activity everywhere during the tax period.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_258__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For purposes of computing the sales factor, sales are considered in this state if the sale was sourced to this state under RCW
+82.32.730
+for sales tax purposes or would have been sourced to this state under RCW
+82.32.730
+if the sale had been taxable under chapter
+82.08
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_258__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of this section, &quot;apportionable income&quot; means the gross income of the business taxable under RCW
+82.04.257
+, including income received from activities outside this state if the income would be taxable under RCW
+82.04.257
+if received from activities in this state.
+[
+2017 c 323 s 516
+;
+2009 c 535 s 402
+.]
+NOTES:
+*
+Reviser's note:
+RCW
+82.04.050
+was amended by 2025 c 422 s 101, changing subsection</p>
+          </content>
+          <subsection eId="sec_82_04_258__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

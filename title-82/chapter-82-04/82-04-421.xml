@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.421"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.421"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.421/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.421/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.421/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.421/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_421">
+        <num>RCW 82.04.421</num>
+        <heading>Exemptions—Out-of-state membership sales in discount programs</heading>
+        <subsection eId="sec_82_04_421__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For the purposes of this section, &quot;qualifying discount program&quot; means a membership program, club, or plan that entitles the member to discounts on services or products sold by others. The term does not include any discount program which in part or in total entitles the member to discounts on services or products sold by the seller of the membership or an affiliate of the seller of the membership. &quot;Affiliate,&quot; for the purposes of this section, means any person who directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the seller.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_421__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Persons selling memberships in a qualifying discount program are not subject to tax under this chapter on that portion of the membership sales where the seller delivers the membership materials to the purchaser who receives them at a point outside this state.
+[
+1997 c 408 s 1
+.]
+NOTES:
+Effective date
+—
+1997 c 408:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 1997.&quot; [
+1997 c 408 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

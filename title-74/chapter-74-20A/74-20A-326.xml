@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.326"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.326"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.326/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.326/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.326/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.326/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_326">
+        <num>RCW 74.20A.326</num>
+        <heading>License suspension—Payment schedule arrangements</heading>
+        <subsection eId="sec_74_20A_326__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If a responsible parent contacts the department's division of child support office indicated on the notice of noncompliance within twenty days of service of the notice provided in RCW
+74.20A.320
+and requests arrangement of a payment schedule, the department shall stay the certification of noncompliance during negotiation of the schedule for payment of arrears up to thirty days from the date of contact by the responsible parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_326__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In proposing or approving a written payment schedule, the department or the administrative law judge shall take into consideration the amount of the arrearages, the amount of the current support order, the earnings of the responsible parent, and the needs of all children who rely on the responsible parent for support. The department or administrative law judge shall consider the individual financial circumstances of each responsible parent in evaluating the parent's ability to pay any proposed payment schedule and shall propose a fair and reasonable payment schedule tailored to the individual financial circumstances of the responsible parent. A payment schedule may include a graduated payment plan and may require a responsible parent to engage in employment-enhancing activities to attain a satisfactory payment level.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_326__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A payment schedule may be for the payment of less than current monthly support for a reasonable time and is not required to include a lump sum payment for the amount of arrears.
+[
+2009 c 408 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.790"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.790"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.790/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.790/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.790/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.790/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_790">
+        <num>RCW 74.09.790</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_09_790__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;At-risk eligible person&quot; means an eligible person determined by the authority to need special assistance in applying for and obtaining maternity care, including pregnant women who are substance abusers, pregnant and parenting adolescents, pregnant minority women, and other eligible persons who need special assistance in gaining access to the maternity care system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_790__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Authority&quot; means the Washington state health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_790__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;County authority&quot; means the board of county commissioners, county council, or county executive having the authority to participate in the maternity care access program or its designee. Two or more county authorities may enter into joint agreements to fulfill the requirements of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_790__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_790__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Eligible person&quot; means a woman in need of maternity care or a child, who is eligible for medical assistance pursuant to this chapter or the prenatal care program administered by the authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_790__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Family planning services&quot; means planning the number of one's children by use of contraceptive techniques.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_790__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Maternity care services&quot; means inpatient and outpatient medical care, case management, and support services necessary during prenatal, delivery, and postpartum periods.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_790__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Support services&quot; means, at least, public health nursing assessment and follow-up, health and childbirth education, psychological assessment and counseling, outreach services, nutritional assessment and counseling, needed vitamin and nonprescriptive drugs, transportation, family planning services, and child care. Support services may include alcohol and substance abuse treatment for pregnant women who are addicted or at risk of being addicted to alcohol or drugs to the extent funds are made available for that purpose.
+[
+2011 1st sp.s. c 15 s 49
+;
+1993 c 407 s 9
+;
+1990 c 151 s 4
+;
+1989 1st ex.s. c 10 s 4
+.]
+NOTES:
+Reviser's note:
+The definitions in this section have been alphabetized pursuant to RCW
+1.08.015</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.85.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.85.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.85.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.85.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_85_050">
+        <num>RCW 82.85.050</num>
+        <heading>Deferral certificate—Issued by the department</heading>
+        <subsection eId="sec_82_85_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters
+82.08
+, 82.12, 82.14, and
+81.104
+RCW on each eligible investment project.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>No certificate may be issued for an investment project that has already received a deferral under this part [chapter] or chapter
+82.60
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_85_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department must keep a running total of all deferrals granted under this chapter during each fiscal biennium.
+[
+2015 3rd sp.s. c 6 s 405
+.]
+NOTES:
+Reviser's note:
+For information on the expiration of tax preferences, see RCW
+82.32.805
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

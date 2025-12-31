@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.086"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.086"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.086/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.086/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.086/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.086/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_086">
+        <num>RCW 74.39A.086</num>
+        <heading>Enforcement actions against persons not certified as home care aides and their employers—Rule-making authority</heading>
+        <subsection eId="sec_74_39A_086__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall take appropriate enforcement action related to the contract of a consumer directed employer or a licensed or certified private agency or facility that provides long-term care services and knowingly employs a long-term care worker who is not a certified home care aide as required under chapter
+18.88B
+RCW or, if exempted from certification under RCW
+18.88B.041
+, who has not completed his or her required training under RCW
+74.39A.074
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_086__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall deny payment to individual providers who provided services under a contract with the department if they have been notified that they are no longer permitted to work because they:</p>
+          </content>
+          <subsection eId="sec_74_39A_086__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Were not certified as home care aides as required under chapter
+18.88B
+RCW; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_086__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Had not completed the training required under RCW
+74.39A.074
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_086__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may terminate the contract of any individual provider under contract with the department who:</p>
+          </content>
+          <subsection eId="sec_74_39A_086__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is not certified as a home care aide as required under chapter
+18.88B
+RCW; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_086__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Has not completed the training required under RCW
+74.39A.074
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_086__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Chapter
+34.05
+RCW shall govern actions by the department under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_086__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department shall adopt rules to implement this section.
+[
+2018 c 278 s 10
+;
+2012 c 164 s 602
+;
+2012 c 1 s 109
+(Initiative Measure No. 1163, approved November 8, 2011).]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.
+Finding
+—
+Intent
+—
+Rules
+—
+Effective date
+—
+2012 c 164:
+See notes following RCW
+18.88B.010
+.
+Intent
+—
+Findings
+—
+Performance audits
+—
+Spending limits
+—
+Contingent effective dates
+—
+Application
+—
+Construction
+—
+Effective date
+—
+Short title
+—
+2012 c 1 (Initiative Measure No. 1163):
+See notes following RCW
+74.39A.056
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.510"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.510/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.510/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_510">
+        <num>RCW 74.42.510</num>
+        <heading>Room for dining, recreation, social activities—Waiver</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.510
+74.42.500
+&lt;&lt; 
+        74.42.510 &gt;&gt;
+74.42.520
+PDF
+RCW
+74.42.510
+Room for dining, recreation, social activities
+—
+Waiver.
+The facility shall provide one or more areas not used for corridor traffic for dining, recreation, and social activities. A multipurpose room may be used if it is large enough to accommodate all of the activities without the activities interfering with each other: PROVIDED, That the department may waive the provisions of this section for facilities constructed prior to January 1, 1980.
+[
+1979 ex.s. c 211 s 51
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

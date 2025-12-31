@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.195"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.195"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.195/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.195/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.195/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.195/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_195">
+        <num>RCW 82.45.195</num>
+        <heading>Exemptions—Standing timber sales</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.45
+&gt;
+Section 82.45.195
+82.45.190
+&lt;&lt; 
+        82.45.195 &gt;&gt;
+82.45.197
+PDF
+RCW
+82.45.195
+Exemptions
+—
+Standing timber sales.
+A sale of standing timber is exempt from tax under this chapter if the gross income from such sale is taxable under RCW
+82.04.260
+(12)(d).
+[
+2014 c 97 s 308
+;
+2010 1st sp.s. c 23 s 518
+;
+2007 c 48 s 7
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+2007 c 48:
+See note following RCW
+82.04.260
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

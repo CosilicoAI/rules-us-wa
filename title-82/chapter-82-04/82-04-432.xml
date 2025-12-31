@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.432"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.432"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.432/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.432/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.432/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.432/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_432">
+        <num>RCW 82.04.432</num>
+        <heading>Deductions—Municipal sewer service fees or charges</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.432
+82.04.4311
+&lt;&lt; 
+        82.04.432 &gt;&gt;
+82.04.4327
+PDF
+RCW
+82.04.432
+Deductions
+—
+Municipal sewer service fees or charges.
+In computing the tax imposed by this chapter, municipal sewerage utilities and other public corporations imposing and collecting fees or charges for sewer service may deduct from the measure of the tax, amounts paid to another municipal corporation or governmental agency for sewerage interception, treatment or disposal.
+[
+1967 ex.s. c 149 s 17
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

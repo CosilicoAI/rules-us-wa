@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_040">
+        <num>RCW 82.24.040</num>
+        <heading>Duty of wholesaler</heading>
+        <subsection eId="sec_82_24_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as authorized by this chapter, no person other than a licensed wholesaler shall possess in this state unstamped cigarettes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>No wholesaler in this state may possess within this state unstamped cigarettes except that:</p>
+          </content>
+          <subsection eId="sec_82_24_040__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Every wholesaler in the state who is licensed under Washington state law may possess within this state unstamped cigarettes for such period of time after receipt as is reasonably necessary to affix the stamps as required; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_24_040__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any wholesaler in the state who is licensed under Washington state law and who furnishes a surety bond in a sum satisfactory to the department, shall be permitted to set aside, without affixing the stamps required by this chapter, such part of the wholesaler's stock as may be necessary for the conduct of the wholesaler's business in making sales to persons in another state or foreign country or to instrumentalities of the federal government. Such unstamped stock shall be kept separate and apart from stamped stock.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_24_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Every wholesaler licensed under Washington state law shall, at the time of shipping or delivering any of the articles taxed herein to a point outside of this state or to a federal instrumentality, make a true duplicate invoice of the same which shall show full and complete details of the sale or delivery, whether or not stamps were affixed thereto, and shall transmit such true duplicate invoice to the department, at Olympia, not later than the fifteenth day of the following calendar month. For failure to comply with the requirements of this section, the department may revoke the permission granted to the taxpayer to maintain a stock of goods to which the stamps required by this chapter have not been affixed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Unstamped cigarettes possessed by a wholesaler under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section that are transferred by the wholesaler to another facility of the wholesaler within the borders of Washington shall be transferred in compliance with RCW
+82.24.250
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Every wholesaler who is licensed by Washington state law shall sell cigarettes to retailers located in Washington only if the retailer has a current cigarette retailer's license or is an Indian tribal organization authorized to possess untaxed cigarettes under this chapter and the rules adopted by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_040__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Nothing in this section shall be construed as limiting any otherwise lawful activity under a cigarette tax compact pursuant to chapter
+43.06
+RCW.
+[
+2003 c 114 s 3
+;
+1995 c 278 s 3
+;
+1990 c 216 s 2
+;
+1969 ex.s. c 214 s 1
+;
+1961 c 15 s 82.24.040
+. Prior:
+1959 c 270 s 4
+; prior: 1949 c 228 s 13, part; 1943 c 156 s 11, part; 1941 c 178 s 13, part; 1939 c 225 s 23, part; 1935 c 180 s 82, part; Rem. Supp. 1949 s 8370-82, part.]
+NOTES:
+Effective date
+—
+1995 c 278:
+See note following RCW
+82.24.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

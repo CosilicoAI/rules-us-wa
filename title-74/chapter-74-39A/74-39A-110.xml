@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.110"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_110">
+        <num>RCW 74.39A.110</num>
+        <heading>Chore services—Legislative policy and intent regarding available funds—Levels of service</heading>
+        <subsection eId="sec_74_39A_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The kind of services needed;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The degree of service need, and the extent to which an individual is dependent upon such services to remain in his or her home or return to his or her home;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_110__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The availability of personal or community resources which may be utilized to meet the individual's need; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_110__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Such other factors as the department considers necessary to insure service is provided only to those persons whose chore service needs cannot be met by relatives, friends, nonprofit organizations, other persons, or by other programs or resources.
+In determining the level of services to be provided under this chapter, the client shall be assessed using an instrument designed by the department to determine the level of functional disability, the need for service and the person's risk of long-term care facility placement.
+[
+1995 1st sp.s. c 18 s 36
+;
+1989 c 427 s 5
+;
+1981 1st ex.s. c 6 s 16
+. Formerly RCW
+74.08.545
+.]
+NOTES:
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

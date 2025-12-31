@@ -1,0 +1,307 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.525"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.525"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.525/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.525/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.525/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.525/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_525">
+        <num>RCW 74.39A.525</num>
+        <heading>Overtime criteria—Department-contracted individual providers—Individual providers employed by a consumer directed employer—Rule making—Expenditure reports—Joint legislative-executive overtime oversight task force</heading>
+        <subsection eId="sec_74_39A_525__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as authorized by subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section or otherwise required by law, the department may not permit a client to use a single department-contracted individual provider for more than forty hours in one workweek.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A consumer directed employer that employs individual providers:</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Must permit a client to use a single individual provider more than forty hours in a workweek if required by rules adopted under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section;</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>May permit an individual provider to work additional hours in accordance with subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section; and</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>May permit an individual provider to work more than forty hours per workweek.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall adopt rules describing criteria under which a consumer may be permitted to use a single individual provider for more than forty hours per week. At a minimum, the criteria shall limit the state's exposure to exceeding the expenditure limits established in this section, require consumers to use good faith efforts to locate additional providers, address travel time from worksite to worksite, and address the following needs of consumers:</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Emergencies that could pose a health and safety risk for consumers; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Circumstances that could increase the risk of institutionalization without the use of overtime.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>An individual provider may be authorized to work more than forty hours in a workweek:</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the department established a permanent workweek limit between forty and one-quarter hours and sixty-five hours for an individual provider, based upon work performed by the individual provider in January 2016, as modified by an appeal, if any; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For required training under RCW
+74.39A.074
+,
+74.39A.076
+, and
+74.39A.341
+, and for required travel time between clients.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The cost of overtime incurred under subsections</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section shall be included in a consumer directed employer labor rate determined in accordance with RCW
+74.39A.530
+. The following overtime costs shall not be included in the labor rate under RCW
+74.39A.530
+:</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Costs incurred under subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Costs incurred by an employee of a consumer directed employer for services provided to an individual who is not a consumer;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Costs for services not authorized under this chapter; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Overtime costs incurred because an employee of a consumer directed employer performed work:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For both a consumer and an individual who is not a consumer; or</p>
+            </content>
+            <subsection eId="sec_74_39A_525__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Worked as both an individual provider and as an employee of the licensed home care agency affiliated with the consumer directed employer.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Expenditures for hours in excess of forty hours each workweek under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section shall not exceed eight and one-fourth percent of the total actual authorized personal care hours for the fiscal year as projected by the caseload forecast council.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The caseload forecast council may adopt a temporary adjustment to the eight and one-fourth percent of the total average in-home personal care hours projection for that fiscal year, up to a maximum of ten percent, if it finds a higher percentage of overtime hours is necessitated by a shortage of individual providers to provide adequate client care, taking into consideration factors including the criteria in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section and rules adopted by the department. If the council elects to temporarily increase the limit, it may do so only upon a majority vote of the council.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The department shall prepare expenditure reports beginning September 1, 2018, and on September 1st every year thereafter. The report shall include the results of the department's monitoring of authorizations and costs of hours in excess of forty hours each workweek. If the department determines that the annual expenditures will exceed the limitation established in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department shall take those actions necessary to ensure compliance with the limitation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The expenditure reports must be submitted to the legislative fiscal committees and the joint legislative-executive overtime oversight task force. The joint legislative-executive overtime oversight task force members are as follows:</p>
+          </content>
+          <subsection eId="sec_74_39A_525__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Two members from each of the two largest caucuses of the senate, appointed by the respective caucus leaders.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Two members from each of the two largest caucuses of the house of representatives, appointed by the speaker of the house of representatives.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The governor shall appoint members representing the department of social and health services and the office of financial management.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_525__subsec_9__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The governor shall appoint two members representing individual providers and two members representing consumers receiving personal care or respite care services from an individual provider.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The task force shall meet when the department determines that it is projected to or is exceeding the expenditure limits established in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section but may meet more frequently as desired by the task force. The task force shall choose cochairs, one from among the legislative members and one from among the executive branch members.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_525__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The department may take appropriate corrective action, up to and including termination of an individual provider's contract, when the individual provider works more than his or her workweek limit in any given workweek.
+[
+2018 c 278 s 26
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

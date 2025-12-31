@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.3395"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.3395"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.3395/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.3395/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.3395/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.3395/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_3395">
+        <num>RCW 82.04.3395</num>
+        <heading>Exemptions—Child care resource and referral services by nonprofit organizations</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.3395
+82.04.339
+&lt;&lt; 
+        82.04.3395 &gt;&gt;
+82.04.340
+PDF
+RCW
+82.04.3395
+Exemptions
+—
+Child care resource and referral services by nonprofit organizations.
+This chapter does not apply to nonprofit organizations in respect to amounts derived from the provision of child care resource and referral services.
+[
+1995 2nd sp.s. c 11 s 3
+.]
+NOTES:
+Effective date
+—
+1995 2nd sp.s. c 11:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 2nd sp.s. c 11 s 4
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

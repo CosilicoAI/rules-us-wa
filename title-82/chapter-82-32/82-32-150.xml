@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.150"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_150">
+        <num>RCW 82.32.150</num>
+        <heading>Contest of tax—Prepayment required—Restraining orders and injunctions barred</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.150
+82.32.145
+&lt;&lt; 
+        82.32.150 &gt;&gt;
+82.32.160
+PDF
+RCW
+82.32.150
+Contest of tax
+—
+Prepayment required
+—
+Restraining orders and injunctions barred.
+All taxes, penalties, and interest shall be paid in full before any action may be instituted in any court to contest all or any part of such taxes, penalties, or interest. No restraining order or injunction shall be granted or issued by any court or judge to restrain or enjoin the collection of any tax or penalty or any part thereof, except upon the ground that the assessment thereof was in violation of the Constitution of the United States or that of the state.
+[
+1961 c 15 s 82.32.150
+. Prior:
+1935 c 180 s 198
+; RRS s 8370-198.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

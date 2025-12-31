@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.120"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_120">
+        <num>RCW 74.18.120</num>
+        <heading>Administrative hearing—Appeal—Rules</heading>
+        <subsection eId="sec_74_18_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An applicant or eligible person who is dissatisfied with a decision, action, or inaction made by the department or its agents regarding that person's eligibility or department services provided to that person is entitled to an administrative hearing. Such administrative hearings shall be conducted pursuant to chapter
+34.05
+RCW by an administrative law judge.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The applicant or eligible individual may appeal final decisions issued following administrative hearings under RCW
+34.05.510
+through
+34.05.598
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall develop rules governing other processes for dispute resolution as required under the federal rehabilitation act of 1973.
+[
+2003 c 409 s 10
+;
+1989 c 175 s 150
+;
+1983 c 194 s 12
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

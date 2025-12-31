@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.540"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.540"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.540/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.540/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.540/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.540/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_540">
+        <num>RCW 74.39A.540</num>
+        <heading>Home care safety net assessment work group—Securing federal funding—Contracting—Reporting</heading>
+        <subsection eId="sec_74_39A_540__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The home care safety net assessment work group is established, with the following members:</p>
+          </content>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director of the health care authority, or the director's designee;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The secretary of the department, or the secretary's designee;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The secretary of the department of health, or the secretary's designee;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The director of the department of revenue, or the director's designee;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A representative from the exclusive bargaining representative of individual providers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A representative of a coalition representing home care agencies serving medicaid clients;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A representative of an association representing home care and home health agencies; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_540__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>A representative from each consumer directed employer in Washington.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_540__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The work group shall develop a home care safety net assessment proposal to secure federal matching funds under federally prescribed programs available through the state medicaid plan or a waiver. In developing the proposal, the work group shall consider the financial information provided by consumer directed employers and in-home services agencies under RCW
+70.127.295
+to the extent authorized under RCW
+70.127.295</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_540__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_540__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The health care authority may contract with a private entity to provide data analysis of the financial information submitted by in-home services agencies and consumer directed employers as necessary to inform the work group's development of a home care safety net assessment proposal. The data analysis must include the development of various financial modeling options that may meet federal regulations for approval of the assessment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_540__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Staff support to the work group must be provided by the health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_540__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The work group shall report its findings to the governor and the appropriate committees of the legislature by December 1, 2024. The report must include recommendations related to the elements necessary to adopt and implement a home care safety net assessment proposal that meets the requirements needed for federal approval.
+[
+2023 c 209 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

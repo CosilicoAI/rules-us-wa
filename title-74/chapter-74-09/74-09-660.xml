@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.660"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.660"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.660/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.660/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.660/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.660/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_660">
+        <num>RCW 74.09.660</num>
+        <heading>Prescription drug education for seniors—Grant qualifications</heading>
+        <subsection eId="sec_74_09_660__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The agency has the ability to effectively administer such a program, including an understanding of the relevant issues and appropriate outreach and follow-up;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_660__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The agency can bring resources to the program in addition to those funded by the grant; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_660__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The program will be a collaborative effort between the agency and other health care programs and providers in the location to be served, including doctors, pharmacists, and long-term care providers.
+[
+2003 1st sp.s. c 29 s 8
+.]
+NOTES:
+Finding
+—
+Intent
+—
+Severability
+—
+Conflict with federal requirements
+—
+Effective date
+—
+2003 1st sp.s. c 29:
+See notes following RCW
+74.09.650
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

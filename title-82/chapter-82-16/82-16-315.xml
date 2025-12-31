@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.315"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.315"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.315/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.315/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.315/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.315/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_315">
+        <num>RCW 82.16.315</num>
+        <heading>Exemptions—Sales of electricity or gas to silicon smelters. (Contingent expiration date.)</heading>
+        <subsection eId="sec_82_16_315__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who is subject to tax under this chapter on gross income from sales of electricity, natural gas, or manufactured gas made to a silicon smelter is eligible for an exemption from the tax in the form of a credit, if the contract for sale of electricity or gas to the silicon smelter specifies that the price charged for the electricity or gas will be reduced by an amount equal to the credit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_315__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credit is equal to the gross income from the sale of the electricity or gas to a silicon smelter multiplied by the corresponding rate in effect at the time of the sale for the public utility tax under RCW
+82.16.020
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_315__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The exemption provided for in this section does not apply to amounts received from the remarketing or resale of electricity originally obtained by contract for the smelting process.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_315__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department must provide a separate tax reporting line for reporting credits under this section by sellers of electricity, natural gas, or manufactured gas.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_315__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For purposes of the annual tax performance report required by RCW
+82.32.534
+:</p>
+          </content>
+          <subsection eId="sec_82_16_315__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The silicon smelter receiving the benefit of the credit under this section is deemed to be the taxpayer claiming the credit and is required to file the annual tax performance report; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The person selling the electricity, natural gas, or manufactured gas to the silicon smelter is not required to file the annual tax performance report.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_315__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_16_315__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Silicon smelter&quot; means a manufacturing facility that processes silica into solar grade silicon.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Solar grade silicon&quot; means high-purity silicon used exclusively in components of solar energy systems using photovoltaic modules to capture direct sunlight. &quot;Solar grade silicon&quot; does not include silicon used in semiconductors.
+[
+2017 3rd sp.s. c 37 s 703
+;
+2017 3rd sp.s. c 37 s 702
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Tax preference performance statement
+—
+2017 3rd sp.s. c 37 ss 701-708:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_315__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that an opportunity exists through a smelting process to produce silicon metal, which can be used in the production of photovoltaic cells for solar energy systems. The legislature further finds that energy is one of the largest costs for the smelting process and therefore ensuring the lowest possible energy cost is one of the key drivers of business location decisions. The legislature further finds that the silicon smelting process creates an opportunity to reduce carbon dioxide emissions used in the manufacturing of materials for solar energy systems. The legislature further finds that if the silicon smelting process occurs in Washington, the carbon footprint of the end product solar energy systems is likely to be less than if the silicon smelting occurred elsewhere. It is the legislature's specific public policy objective to promote the manufacturing of silicon for use in production of photovoltaic cells for solar energy systems. The legislature intends to provide a public utility tax credit, a business and occupation tax credit, and an exemption from the brokered natural gas use tax for silicon smelters thereby promoting the manufacture of silicon for solar energy systems, thereby reducing the cost of energy in the smelting process, and thereby stimulating economic growth and job creation in Washington's rural counties, as defined in RCW
+82.14.370</p>
+          </content>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This section is the tax preference performance statement for the tax preferences contained in this part. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The legislature categorizes the tax preferences in sections 702 through 707, chapter 37, Laws of 2017 3rd sp. sess. as ones intended to create jobs, as indicated in RCW
+82.32.808</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and to provide tax relief for certain businesses or individuals as indicated in RCW
+82.32.808</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To measure the effectiveness of this part in achieving the specific public policy objective described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, the joint legislative audit and review committee must, at minimum, evaluate the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The number of businesses who are claiming the tax preferences in sections 702 through 707, chapter 37, Laws of 2017 3rd sp. sess., and the total relief provided to them, as reported to the department of revenue on an annual basis;</p>
+            </content>
+            <subsection eId="sec_82_16_315__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The volume of solar grade silicon made in Washington compared to years prior to October 19, 2017;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_315__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Specifically assess the number of employment positions for each silicon smelter claiming or receiving the benefit of the preferences in sections 702 through 707, chapter 37, Laws of 2017 3rd sp. sess., using data provided by the department of revenue;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_315__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Estimate the cost per job based on the amount of tax preferences taken by each silicon smelter;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Estimate the number of solar energy systems, and the power output of those systems, that were likely produced using Washington state solar grade silicon based on the volume of silicon smelted in Washington at each silicon smelter utilizing the incentive; and
+(vi) Determine, utilizing the finalized 2015 county wage data from the census of employment and wages as reported by the employment security department:
+(A) The number of jobs at each eligible silicon smelter paying above the county average annual wage in the county in which the facility is located; and
+(B) The proportion of jobs paying above the county average annual wage represented by the jobs provided by each eligible silicon smelter utilizing the incentive.</p>
+            </content>
+            <subsection eId="sec_82_16_315__subsec_1__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Determine, utilizing the finalized 2015 county wage data from the census of employment and wages as reported by the employment security department:
+(A) The number of jobs at each eligible silicon smelter paying above the county average annual wage in the county in which the facility is located; and
+(B) The proportion of jobs paying above the county average annual wage represented by the jobs provided by each eligible silicon smelter utilizing the incentive.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In addition to the data sources described under this section, the joint legislative audit and review committee may use any other data it deems necessary in performing the evaluation under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_315__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection.&quot; [
+2017 3rd sp.s. c 37 s 701
+.]
+Contingent expiration date
+—
+2017 3rd sp.s. c 37 ss 701-708:
+See note following RCW
+82.32.537
+.
+Effective date
+—
+2017 3rd sp.s. c 37 ss 101-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+See note following RCW
+82.04.2404
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_040">
+        <num>RCW 74.60.040</num>
+        <heading>Exemptions</heading>
+        <subsection eId="sec_74_60_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Hospitals owned or operated by an agency of federal, state, or county government, including but not limited to western state hospital and eastern state hospital;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Designated public hospitals;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Hospitals owned or operated by health maintenance organizations under chapter
+48.46
+RCW; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Long-term acute care hospitals.
+[
+2023 c 430 s 5
+;
+2010 1st sp.s. c 30 s 5
+.]
+NOTES:
+Contingent effective date
+—
+2023 c 430:
+See note following RCW
+74.60.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_040">
+        <num>RCW 74.15.040</num>
+        <heading>Licenses for foster family homes required—Inspections</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.040
+74.15.038
+&lt;&lt; 
+        74.15.040 &gt;&gt;
+74.15.050
+PDF
+RCW
+74.15.040
+Licenses for foster family homes required
+—
+Inspections.
+An agency seeking to accept and serve children, developmentally disabled persons, or expectant mothers as a foster family home shall make application for license in such form and substance as required by the department. The department shall maintain a list of applicants through which placement may be undertaken. However, agencies and the department shall not place a child, developmentally disabled person, or expectant mother in a home until the home is licensed. The department shall inquire whether an applicant has previously resided in any other state or foreign country and shall check databases available to it through the Washington state patrol and federal bureau of investigation to ascertain whether the applicant has ever been the subject of a conviction or civil finding outside of the state of Washington that bears upon the fitness of the applicant to serve as a foster family home. Foster family homes shall be inspected prior to licensure, except that inspection by the department is not required if the foster family home is under the supervision of a licensed agency upon certification to the department by the licensed agency that such homes meet the requirements for foster homes as adopted pursuant to chapter
+74.15
+RCW and RCW
+74.13.031
+.
+[
+2008 c 232 s 3
+;
+1982 c 118 s 7
+;
+1979 c 141 s 356
+;
+1967 c 172 s 4
+.]
+NOTES:
+Finding
+—
+2008 c 232:
+See note following RCW
+26.44.240
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

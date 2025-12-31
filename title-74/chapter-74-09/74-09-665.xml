@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.665"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.665"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.665/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.665/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.665/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.665/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_665">
+        <num>RCW 74.09.665</num>
+        <heading>Human immunodeficiency virus postexposure prophylaxis drugs—Coverage—Reimbursement</heading>
+        <subsection eId="sec_74_09_665__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The authority and all medicaid contracted managed care organizations shall provide coverage without prior authorization for the drugs that comprise at least one regimen recommended by the centers for disease control and prevention for human immunodeficiency virus postexposure prophylaxis.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_665__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding the coverage requirements of this section, the authority or a medicaid contracted managed care organization shall reimburse a hospital that bills for a 28-day supply of any human immunodeficiency virus postexposure prophylaxis drugs or therapies dispensed or delivered to a patient in the emergency department for take-home use, pursuant to RCW
+70.41.495
+, as a separate reimbursable expense. This reimbursable expense is separate from any bundled payment for emergency department services.
+[
+2024 c 251 s 4
+.]
+NOTES:
+Effective date
+—
+2024 c 251:
+See note following RCW
+70.41.495
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.210"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.210/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.210/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_210">
+        <num>RCW 82.45.210</num>
+        <heading>State assistance for county electronic processing and reporting of taxes—Grant program</heading>
+        <subsection eId="sec_82_45_210__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To the extent that funds are appropriated, the department shall administer a grant program for counties to assist in the development, implementation, and maintenance of an electronic processing and reporting system for real estate excise tax affidavits that is compatible with the automated real estate excise tax system developed by the department, and to assist in complying with the requirements of RCW
+82.45.180</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_210__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the limits in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_210__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the amount of the grant shall be equal to the amount paid by a county to:</p>
+          </content>
+          <subsection eId="sec_82_45_210__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Purchase computer hardware or software, or to repair or upgrade existing computer hardware or software, used for the electronic processing and reporting of real estate excise tax affidavits and that is compatible with the automated real estate excise tax system developed by the department; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_210__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Make changes to existing software that are necessary to comply with the requirements of RCW
+82.45.180</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_210__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No county is eligible for grants under this section totaling more than one hundred thousand dollars.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_45_210__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Grant funds shall not be awarded for expenditures made by a county with funds distributed to the county by the state treasurer under RCW
+82.45.180</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_45_210__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>No more than three million nine hundred thousand dollars in grants may be awarded under this section.
+[
+2012 c 198 s 7
+;
+2006 c 312 s 2
+;
+2005 c 480 s 4
+.]
+NOTES:
+Effective date
+—
+2012 c 198:
+See note following RCW
+70A.15.5110
+.
+Effective date
+—
+2006 c 312:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 29, 2006].&quot; [
+2006 c 312 s 4
+.]
+Severability
+—
+2006 c 312:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+2006 c 312 s 3
+.]
+Intent
+—
+Findings
+—
+2005 c 480:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_210__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>It is the legislature's intent to provide funding for the development and implementation of an automated system for the electronic processing of the real estate excise tax. The legislature finds that due to the numerous users of the real estate excise tax information, and the many entities involved in its workflow, county systems must be compatible with the automated system developed by the state department of revenue.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_210__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that under current law an electronic real estate excise tax affidavit that is signed with a digital signature under chapter
+19.34
+RCW is a legally valid document and, pursuant to RCW
+5.46.010
+, electronic facsimiles, scanned signatures, and digital and other electronic conversions of written signatures satisfy the signature component of the affidavit requirement under this act.&quot; [
+2005 c 480 s 1
+.]
+Effective date
+—
+2005 c 480:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2005.&quot; [
+2005 c 480 s 6
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,459 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4281"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4281"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4281/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4281/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4281/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4281/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4281">
+        <num>RCW 82.04.4281</num>
+        <heading>Deductions—Investments, dividends, interest on loans. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_4281__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax there may be deducted from the measure of tax:</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Amounts derived from investments;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Amounts derived as dividends or distributions from the capital account by a parent from its subsidiary entities; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Amounts derived from interest on loans between subsidiary entities and a parent entity or between subsidiaries of a common parent entity, but only if the total investment and loan income is less than five percent of gross receipts of the business annually.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The following are not deductible under subsection</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Amounts received from loans, except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, or the extension of credit to another, revolving credit arrangements, installment sales, the acceptance of payment over time for goods or services, or any of the foregoing that have been transferred by the originator of the same to an affiliate of the transferor; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Amounts received by a banking, lending, or security business.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection apply only to this section.</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Banking business&quot; means a person engaging in business as a national or state-chartered bank, a mutual savings bank, a savings and loan association, a trust company, an alien bank, a foreign bank, a credit union, a stock savings bank, or a similar entity that is chartered under Title *30, 31, 32, or 33 RCW, or organized under Title 12 U.S.C.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Lending business&quot; means a person engaged in the business of making secured or unsecured loans of money, or extending credit, and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>more than one-half of the person's gross income is earned from such activities and</p>
+            </content>
+            <subsection eId="sec_82_04_4281__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>more than one-half of the person's total expenditures are incurred in support of such activities.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The terms &quot;loan&quot; and &quot;extension of credit&quot; do not include ownership of or trading in publicly traded debt instruments, or substantially equivalent instruments offered in a private placement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Security business&quot; means a person, other than an issuer, who is engaged in the business of effecting transactions in securities as a broker, dealer, or broker-dealer, as those terms are defined in the securities act of Washington, chapter
+21.20
+RCW, or the federal securities act of 1933. &quot;Security business&quot; does not include any company excluded from the definition of broker or dealer under the federal investment company act of 1940 or any entity that is not an investment company by reason of sections 3(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and 3(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>through 3(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>thereof.
+[
+2007 c 54 s 9
+;
+2002 c 150 s 2
+;
+1980 c 37 s 2
+. Formerly RCW
+82.04.430</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax under this chapter, a person may deduct the following from the measure of tax:</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, amounts derived from investments that are incidental to the main purpose of the person's business. Investments are incidental to the main purpose of the person's business if the total worldwide gross income derived from such investments is less than five percent of the person's total worldwide gross income of the business annually.</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Amounts derived as dividends or distributions from the capital account by a parent from its subsidiary entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Amounts derived from interest on loans between subsidiary entities and a parent entity or between subsidiaries of a common parent entity, but only if the total investment and loan income is less than five percent of gross receipts of the business annually.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The following are not deductible under either subsection</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, or both:</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Amounts received from loans, except as provided in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section, or the extension of credit to another, revolving credit arrangements, installment sales, the acceptance of payment over time for goods or services, or any of the foregoing that have been transferred by the originator of the same to an affiliate of the transferor; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Amounts received by a banking, lending, or security business.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Except as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, in computing tax under this chapter, the following persons may deduct from the measure of the tax amounts derived from such person's investments regardless of whether the investments are incidental to the main purpose of the person's business:</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Nonprofit organizations;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Collective investment vehicles;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Retirement accounts and recipients of distributions therefrom, to that extent; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Family investment vehicles and recipients of distributions therefrom, to that extent.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The following are not deductible under subsection</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Amounts derived from investments of persons who are invested in a collective investment vehicle but not themselves a collective investment vehicle;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Amounts received by persons as compensation for services rendered to either the collective investment vehicle or the collective investment vehicle's investors, or both;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Amounts derived from sources other than investments by a collective investment vehicle; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Amounts derived from factoring.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department must, consistent with the purpose of this section, adopt rules necessary to implement this section including, but not limited to, rules that provide examples of investment income from personal investments that is not eligible for a deduction under this section by virtue of it not being income from engaging in business and thus not taxable under this chapter. Such rule making must also include examples of the tax treatment of investment income received by persons making certain investments through different types of collective investment vehicles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The definitions in this subsection apply only to this section.</p>
+          </content>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Banking business&quot; means a person engaging in business as a national or state-chartered bank, a mutual savings bank, a savings and loan association, a trust company, an alien bank, a foreign bank, a credit union, a stock savings bank, or a similar entity that is chartered under Title *30, 31, 32, or 33 RCW, or organized under Title 12 U.S.C.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Collective investment vehicle&quot; means a person who meets all the following criteria:
+(A) The person's total gross income derived from its investments is at least 90 percent of the person's total worldwide gross income of the business annually;
+(B) The person holds title to passive investment assets for the benefit of the person's investors and the investment decisions are made by another person who serves as the collective investment vehicle's manager or advisor; and
+(C) The person accepts unrelated persons as its investors.</p>
+            </content>
+            <subsection eId="sec_82_04_4281__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A collective investment vehicle may take the form of a mutual fund, collective fund, and any similar investment vehicle whether structured as a limited or general partnership, limited liability company, corporation, trust, or otherwise.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Family investment vehicle&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The estate of any decedent;</p>
+            </content>
+            <subsection eId="sec_82_04_4281__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An inter vivos or testamentary trust, provided that the grantor and all beneficiaries are either members of the family as defined in RCW
+83.100.046
+, or nonprofit organizations, or both;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_4281__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A qualified tuition program established under the provisions of the internal revenue code section 529; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_4281__subsec_6__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>A coverdell education savings account established under the provisions of the internal revenue code section 530.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Internal revenue code&quot; means the United States internal revenue code of 1986, as amended, as of January 1, 2026, or such subsequent date as the department may provide by rule consistent with this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Investments&quot; includes, but is not limited to, securities, trading account assets, federal funds, options, futures contracts, forward contracts, notional principal contracts, equities, foreign currency transactions, fixed income instruments, derivative instruments, and commodities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Lending business&quot; means a person engaged in the business of making secured or unsecured loans of money, or extending credit, and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>more than one-half of the person's gross income is earned from such activities and</p>
+            </content>
+            <subsection eId="sec_82_04_4281__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>more than one-half of the person's total expenditures are incurred in support of such activities.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The terms &quot;loan&quot; and &quot;extension of credit&quot; do not include ownership of or trading in publicly traded debt instruments, or substantially equivalent instruments offered in a private placement.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Nonprofit organization&quot; has the same meaning as in RCW
+82.04.3651
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Retirement account&quot; means any qualified plan established under any of the provisions of sections 401 through 409, inclusive, of the internal revenue code.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4281__subsec_6__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Security business&quot; means a person, other than an issuer, who is engaged in the business of effecting transactions in securities as a broker, dealer, or broker-dealer, as those terms are defined in the securities act of Washington, chapter
+21.20
+RCW, or the federal securities act of 1933. &quot;Security business&quot; does not include any company excluded from the definition of broker or dealer under the federal investment company act of 1940 or any entity that is not an investment company by reason of sections 3(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and 3(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>through 3(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4281__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>thereof.
+[
+2025 c 420 s 402
+;
+2007 c 54 s 9
+;
+2002 c 150 s 2
+;
+1980 c 37 s 2
+. Formerly RCW
+82.04.430</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

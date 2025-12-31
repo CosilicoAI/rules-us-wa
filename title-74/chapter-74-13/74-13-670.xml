@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.670"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.670"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.670/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.670/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.670/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.670/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_670">
+        <num>RCW 74.13.670</num>
+        <heading>Care provider immunity for allegation of failure to supervise a sexually reactive, physically assaultive, or physically aggressive youth—Conditions</heading>
+        <subsection eId="sec_74_13_670__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A care provider may not be found to have abused or neglected a child under chapter
+26.44
+RCW or be denied a license pursuant to chapter
+74.15
+RCW and RCW
+74.13.031
+for any allegations of failure to supervise in which:</p>
+          </content>
+          <subsection eId="sec_74_13_670__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The allegations arise from the child's conduct that is substantially similar to prior behavior of the child, and:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_670__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The child is a sexually reactive youth, exhibits high-risk behaviors, or is physically assaultive or physically aggressive as defined in RCW
+74.13.280
+, and this information and the child's prior behavior was not disclosed to the care provider as required by RCW
+74.13.280
+; and</p>
+            </content>
+            <subsection eId="sec_74_13_670__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The care provider did not know or have reason to know that the child needed supervision as a sexually reactive or physically assaultive or physically aggressive youth, or because of a documented history of high-risk behaviors, as a result of the care provider's involvement with or independent knowledge of the child or training and experience; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_13_670__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The child was not within the reasonable control of the care provider at the time of the incident that is the subject of the allegation, and the care provider was acting in good faith and did not know or have reason to know that reasonable control or supervision of the child was necessary to prevent harm or risk of harm to the child or other persons.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_670__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Allegations of child abuse or neglect that meet the provisions of this section shall be designated as &quot;unfounded&quot; as defined in RCW
+26.44.020
+.
+[
+2009 c 520 s 93
+;
+2007 c 220 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_030">
+        <num>RCW 74.60.030</num>
+        <heading>Assessments</heading>
+        <subsection eId="sec_74_60_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon satisfaction of the conditions in RCW
+74.60.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>have not occurred, an annual assessment is imposed as set forth in this subsection, which shall be paid in equal quarterly installments. For calendar year 2024, the first assessment notice shall be sent on or before February 7th unless the conditions in RCW
+74.60.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>are not satisfied by January 1, 2024, in which case the first assessment notice shall be sent 21 calendar days following satisfaction of those conditions. So long as none of the conditions specified in RCW
+74.60.150</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>have occurred, subsequent assessment notices must be sent on or before 45 calendar days prior to the end of each quarter. Hospitals shall pay their assessments within 30 calendar days of receiving any notice.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For calendar year 2024, unless adjusted as provided for in this chapter, the authority, after consultation with the Washington state hospital association, shall determine inpatient and outpatient assessment rates that, when applied as set forth below, will produce $510,000,000 from the inpatient assessment and $386,400,000 from the outpatient assessment. For subsequent years, the authority, in consultation with the Washington state hospital association, shall adjust the assessment amounts to fund adjustments in directed payments under RCW
+74.60.130
+and quality incentive payments under RCW
+74.09.611
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The authority shall determine standard assessment rates for hospital inpatient and outpatient assessments that are sufficient, when applied to net nonmedicare inpatient and outpatient revenue, to produce the inpatient and outpatient assessment amounts needed to fund the payments in RCW
+74.60.020</p>
+          </content>
+          <subsection eId="sec_74_60_030__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For medicaid prospective payment system hospitals that are rehabilitation hospitals, the assessment rate to be applied to net nonmedicare inpatient revenue shall be 50 percent of the standard inpatient assessment and 50 percent of the standard outpatient assessment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_030__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For medicaid prospective payment system hospitals that are psychiatric hospitals, the assessment rate to be applied to net nonmedicare inpatient revenue shall be 100 percent of the standard inpatient assessment and 50 percent of the standard outpatient assessment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_030__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For medicaid prospective payment system hospitals that are cancer hospitals, the assessment rate to be applied to net nonmedicare revenue shall be 100 percent of the standard rate for inpatient revenue and 40 percent of the standard rate for outpatient revenue;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_030__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For medicaid prospective payment system hospitals that are children's hospitals, the assessment rate to be applied to net nonmedicare revenue shall be five percent of the standard rate for inpatient revenue and 20 percent of the standard rate for outpatient revenue;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_030__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For medicaid prospective payment system hospitals that are high government payer independent hospitals, the assessment rate to be applied to net nonmedicare revenue shall be 20 percent of the standard rate for inpatient revenue and 90 percent of the standard rate for outpatient revenue;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_030__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For any other medicaid prospective payment system hospitals, the assessment rate to be applied to net nonmedicare revenue is 100 percent of the standard rate for inpatient revenue and 100 percent of the standard rate for outpatient revenue;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_030__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>For each critical access hospital, the assessment rate to be applied to net nonmedicare revenue shall be five percent of the inpatient standard rate and 40 percent of the outpatient standard assessment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If federal assessment demonstration requirements are not met for either the inpatient or outpatient assessment, the authority shall revise the other assessment in consultation with the Washington state hospital association so as to raise the same total amount of assessments. If the assessment fails federal distributional tests, the authority will work with the Washington state hospital association to develop a threshold to enable passage of the test.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The authority shall determine each nonexempt hospital's annual net nonmedicare revenue from the hospital's cost report data file available through the centers for medicare and medicaid services. For calendar year 2024, the authority shall use cost report data for hospitals' fiscal years ending in 2021. For subsequent years, the cost report for the next succeeding fiscal year data must be used. For any hospital without a cost report for the relevant year, including any recently opened hospital, the authority shall use the most recently available cost report or an annualized partial cost report available by June 1st reflecting at least six months of information, for annual nonmedicare net inpatient and outpatient revenue. For purposes of this subsection, annualized means the total amount divided by actual months, multiplied by 12 months.
+[
+2023 c 430 s 4
+;
+2019 c 318 s 4
+;
+2017 c 228 s 4
+;
+2015 2nd sp.s. c 5 s 3
+;
+2014 c 143 s 1
+;
+2013 2nd sp.s. c 17 s 4
+;
+2010 1st sp.s. c 30 s 4
+.]
+NOTES:
+Contingent effective date
+—
+2023 c 430:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2019 c 318:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2017 c 228:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2015 2nd sp.s. c 5:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2014 c 143:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 28, 2014].&quot; [
+2014 c 143 s 4
+.]
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

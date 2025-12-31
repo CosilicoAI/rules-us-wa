@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.160"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.160"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.160/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.160/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.160/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.160/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_160">
+        <num>RCW 82.26.160</num>
+        <heading>Distributor's license—Application fees</heading>
+        <subsection eId="sec_82_26_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A fee of six hundred fifty dollars shall accompany each distributor's license application or license renewal application. If a distributor sells or intends to sell tobacco products at two or more places of business, whether established or temporary, a separate license with a license fee of one hundred fifteen dollars shall be required for each additional place of business.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_26_160__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The fees imposed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_26_160__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section do not apply to any person applying for a distributor's license or for renewal of a distributor's license if the person has a valid wholesaler's license under RCW
+82.24.510
+for the place of business associated with the distributor's license application or license renewal application.
+[
+2005 c 180 s 12
+.]
+NOTES:
+Effective date
+—
+2005 c 180:
+See note following RCW
+82.26.105
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

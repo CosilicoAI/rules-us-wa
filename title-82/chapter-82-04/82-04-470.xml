@@ -1,0 +1,332 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.470"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.470"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.470/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.470/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.470/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.470/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_470">
+        <num>RCW 82.04.470</num>
+        <heading>Wholesale sale—Reseller permit—Exemption certificates—Burden of proof—Tax liability</heading>
+        <subsection eId="sec_82_04_470__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The burden of proving that a sale is a wholesale sale rather than a retail sale is on the seller. A seller may meet its burden of proving a sale is a wholesale sale rather than a retail sale by taking from the buyer, at the time of sale or within a reasonable time after the sale as provided by rule of the department, a copy of a reseller permit issued to the buyer by the department under RCW
+82.32.780
+or
+82.32.783
+.</p>
+          </content>
+          <subsection eId="sec_82_04_470__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In lieu of a copy of a reseller permit issued by the department, a seller may accept from a buyer that is required to be registered with the department under RCW
+82.32.030
+:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A properly completed uniform exemption certificate approved by the streamlined sales and use tax agreement governing board; or</p>
+            </content>
+            <subsection eId="sec_82_04_470__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Any other exemption certificate as may be authorized by the department and properly completed by the buyer.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Certificates authorized under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_82_04_470__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must include the reseller permit number issued by the department to the buyer.</p>
+          </content>
+          <subsection eId="sec_82_04_470__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A seller who accepts exemption certificates authorized in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>is not required to verify with the department whether the buyer is required to be registered with the department under RCW
+82.32.030
+. Nothing in this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_470__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>may be construed to modify any of the provisions of RCW
+82.08.050
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In lieu of a copy of a reseller permit issued by the department, a seller may accept from a buyer that is not required to be registered with the department under RCW
+82.32.030
+:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A properly completed uniform sales and use tax exemption certificate developed by the multistate tax commission;</p>
+            </content>
+            <subsection eId="sec_82_04_470__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A properly completed uniform exemption certificate approved by the streamlined sales and use tax agreement governing board; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_470__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Any other exemption certificate as may be authorized by the department and properly completed by the buyer.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A seller who accepts exemption certificates authorized in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_470__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>is not required to verify with the department whether the buyer is not required to be registered with the department under RCW
+82.32.030
+. Nothing in this subsection</p>
+          </content>
+          <subsection eId="sec_82_04_470__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may be construed to modify any of the provisions of RCW
+82.08.050
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In lieu of obtaining the documentation in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, a seller may capture the relevant data elements as allowed under the streamlined sales and use tax agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A seller that does not comply with subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section may meet its burden of proving that a sale is a wholesale sale rather than a retail sale by demonstrating facts and circumstances, according to rules adopted by the department, that show the sale was properly made without payment of retail sales tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Notwithstanding anything in this section to the contrary, a seller who maintains records establishing that it uses electronic means to verify, at least once per calendar year, the validity of its customers' reseller permits need not take a copy of a reseller permit or other documentation or the data elements as authorized in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section for wholesale sales to those customers with valid reseller permits as confirmed by the department for all sales occurring within twelve months following the date that the seller last electronically verified the validity of its customers' reseller permits. A seller that meets the requirements of this subsection will be deemed to have met its burden of proving a sale is a wholesale sale rather than a retail sale.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_470__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>As used in this section &quot;reseller permit&quot; means documentation issued by the department under RCW
+82.32.780
+or
+82.32.783
+, which is used to substantiate a wholesale sale.
+[
+2010 c 112 s 7
+. Prior:
+2009 c 563 s 205
+;
+2009 c 535 s 411
+;
+2007 c 6 s 1201
+;
+2003 c 168 s 204
+;
+1993 sp.s. c 25 s 701
+;
+1983 2nd ex.s. c 3 s 29
+;
+1975 1st ex.s. c 278 s 43
+;
+1961 c 15 s 82.04.470
+; prior:
+1935 c 180 s 9
+; RRS s 8370-9.]
+NOTES:
+Retroactive application
+—
+2010 c 112:
+See note following RCW
+82.32.780
+.
+Finding
+—
+Intent
+—
+Construction
+—
+Effective date
+—
+Reports and recommendations
+—
+2009 c 563:
+See notes following RCW
+82.32.780
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Construction
+—
+Severability
+—
+Effective dates
+—
+1983 2nd ex.s. c 3:
+See notes following RCW
+82.04.255
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.
+Reseller's permit: RCW
+82.08.130
+and
+82.32.291
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

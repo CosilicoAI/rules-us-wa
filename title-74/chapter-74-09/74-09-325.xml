@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.325"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.325"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.325/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.325/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.325/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.325/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_325">
+        <num>RCW 74.09.325</num>
+        <heading>Reimbursement of a health care service provided through telemedicine or store and forward technology—Audio-only telemedicine</heading>
+        <subsection eId="sec_74_09_325__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, reimbursement of store and forward technology is available only for those services specified in the negotiated agreement between the managed care organization and health care provider.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>An originating site for a telemedicine health care service subject to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section includes a:</p>
+          </content>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Hospital;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Rural health clinic;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Federally qualified health center;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Physician's or other health care provider's office;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Licensed or certified behavioral health agency;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Skilled nursing facility;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Home or any location determined by the individual receiving the service; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Renal dialysis center, except an independent renal dialysis center.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Except for subsection</p>
+          </content>
+          <subsection eId="sec_74_09_325__subsec_4__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>of this section, any originating site under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section may charge a facility fee for infrastructure and preparation of the patient. Reimbursement for a facility fee must be subject to a negotiated agreement between the originating site and the managed care organization. A distant site, a hospital that is an originating site for audio-only telemedicine, or any other site not identified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section may not charge a facility fee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A managed care organization may not distinguish between originating sites that are rural and urban in providing the coverage required in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A managed care organization may subject coverage of a telemedicine or store and forward technology health service under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section to all terms and conditions of the plan in which the covered person is enrolled including, but not limited to, utilization review, prior authorization, deductible, copayment, or coinsurance requirements that are applicable to coverage of a comparable health care service provided in person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section does not require a managed care organization to reimburse:</p>
+          </content>
+          <subsection eId="sec_74_09_325__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An originating site for professional fees;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A provider for a health care service that is not a covered benefit under the plan; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An originating site or health care provider when the site or provider is not a contracted provider under the plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If a provider intends to bill a patient or a managed care organization for an audio-only telemedicine service, the provider must obtain patient consent for the billing in advance of the service being delivered and comply with all rules created by the authority related to restrictions on billing medicaid recipients. The authority may submit information on any potential violations of this subsection to the appropriate disciplining authority, as defined in RCW
+18.130.020
+, or take contractual actions against the provider's agreement for participation in the medicaid program, or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the health care authority has cause to believe that a provider has engaged in a pattern of unresolved violations of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the provider has engaged in a pattern of unresolved violations of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_325__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>For purposes of this section:</p>
+          </content>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Audio-only telemedicine&quot; means the delivery of health care services through the use of audio-only technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment.</p>
+            </content>
+            <subsection eId="sec_74_09_325__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For purposes of this section only, &quot;audio-only telemedicine&quot; does not include:
+(A) The use of facsimile or email; or
+(B) The delivery of health care services that are customarily delivered by audio-only technology and customarily not billed as separate services by the provider, such as the sharing of laboratory results;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Disciplining authority&quot; has the same meaning as in RCW
+18.130.020
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Distant site&quot; means the site at which a physician or other licensed provider, delivering a professional service, is physically located at the time the service is provided through telemedicine;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Established relationship&quot; means the provider providing audio-only telemedicine has access to sufficient health records to ensure safe, effective, and appropriate care services and:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The covered person has had, within the past three years, at least one in-person appointment, or at least one real-time interactive appointment using both audio and video technology, with the provider providing audio-only telemedicine or with a provider employed at the same medical group, at the same clinic, or by the same integrated delivery system operated by a carrier licensed under chapter
+48.44
+or
+48.46
+RCW as the provider providing audio-only telemedicine; or</p>
+            </content>
+            <subsection eId="sec_74_09_325__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The covered person was referred to the provider providing audio-only telemedicine by another provider who has had, within the past three years, at least one in-person appointment, or at least one real-time interactive appointment using both audio and video technology, with the covered person and has provided relevant medical information to the provider providing audio-only telemedicine;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Health care service&quot; has the same meaning as in RCW
+48.43.005
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Hospital&quot; means a facility licensed under chapter
+70.41
+, 71.12, or
+72.23
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Originating site&quot; means the physical location of a patient receiving health care services through telemedicine;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Provider&quot; has the same meaning as in RCW
+48.43.005
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Store and forward technology&quot; means use of an asynchronous transmission of a covered person's medical information from an originating site to the health care provider at a distant site which results in medical diagnosis and management of the covered person, and does not include the use of audio-only telephone, facsimile, or email; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_325__subsec_9__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Telemedicine&quot; means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, &quot;telemedicine&quot; includes audio-only telemedicine, but does not include facsimile or email.
+[
+2024 c 215 s 3
+. Prior:
+2023 c 51 s 38
+;
+2023 c 8 s 3
+;
+2022 c 213 s 4
+;
+2021 c 157 s 5
+;
+2020 c 92 s 3
+;
+2017 c 219 s 3
+;
+2016 c 68 s 5
+;
+2015 c 23 s 4
+.]
+NOTES:
+Conflict with federal requirements
+—
+2022 c 213:
+See note following RCW
+41.05.700
+.
+Conflict with federal requirements
+—
+2021 c 157:
+See note following RCW
+74.09.327
+.
+Effective date
+—
+2020 c 92:
+See note following RCW
+48.43.735
+.
+Effective date
+—
+2017 c 219:
+See note following RCW
+48.43.735
+.
+Effective date
+—
+Intent
+—
+2016 c 68:
+See notes following RCW
+48.43.735
+.
+Effective date
+—
+Adoption of sections
+—
+2015 c 23 ss 2-4:
+See notes following RCW
+41.05.700
+.
+Intent
+—
+2015 c 23:
+See note following RCW
+41.05.700
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

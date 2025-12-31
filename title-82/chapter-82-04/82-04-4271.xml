@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4271"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4271"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4271/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4271/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4271/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4271/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4271">
+        <num>RCW 82.04.4271</num>
+        <heading>Deductions—Membership fees and certain service fees by nonprofit youth organization</heading>
+        <subsection eId="sec_82_04_4271__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>As membership fees or dues, irrespective of the fact that the payment of the membership fees or dues to the organization may entitle its members, in addition to other rights or privileges, to receive services from the organization or to use the organization's facilities; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4271__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>From members of the organization for camping and recreational services provided by the organization or for the use of the organization's camping and recreational facilities.
+For purposes of this section: &quot;Nonprofit youth organization&quot; means a nonprofit organization engaged in character building of youth which is exempt from property tax under RCW
+84.36.030
+.
+[
+1981 c 74 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

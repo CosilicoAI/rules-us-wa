@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.105"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.105"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.105/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.105/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.105/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.105/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_105">
+        <num>RCW 74.13A.105</num>
+        <heading>Interstate agreements for adoption of children with special needs—Authorization</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13A
+&gt;
+Section 74.13A.105
+74.13A.100
+&lt;&lt; 
+        74.13A.105 &gt;&gt;
+74.13A.110
+PDF
+RCW
+74.13A.105
+Interstate agreements for adoption of children with special needs
+—
+Authorization.
+The department is authorized to develop, participate in the development of, negotiate, and enter into one or more interstate compacts on behalf of this state with other states to implement one or more of the purposes set forth in *RCW
+74.13.152
+through
+74.13.159
+. When entered into, and for so long as it remains in force, such a compact has the force and effect of law.
+[
+1997 c 31 s 4
+. Formerly RCW
+74.13.155
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.13.152
+through
+74.13.159
+were recodified as RCW
+74.13A.090
+through
+74.13A.125
+pursuant to
+2009 c 520 s 95
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

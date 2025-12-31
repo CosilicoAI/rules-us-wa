@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.207"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.207"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.207/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.207/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.207/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.207/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_207">
+        <num>RCW 82.08.207</num>
+        <heading>Investment data for investment firms. (Expires July 1, 2031.)</heading>
+        <subsection eId="sec_82_08_207__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by RCW
+82.08.020
+does not apply to sales of standard financial information to qualifying international investment management companies or persons affiliated with a qualifying international investment management company. The exemption provided in this section applies regardless of whether the standard financial information is provided to the buyer in a tangible format or on a tangible storage medium or as a digital product transferred electronically.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sellers making tax-exempt sales under this section must obtain an exemption certificate from the buyer in a form and manner prescribed by the department. The seller must retain a copy of the exemption certificate for the seller's files. In lieu of an exemption certificate, a seller may capture the relevant data elements as allowed under the streamlined sales and use tax agreement. For sellers who electronically file their taxes, the department must provide a separate tax reporting line for exemption amounts claimed under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A buyer may not continue to claim the exemption under this section once the buyer has purchased standard financial information during the current calendar year with an aggregate total selling price in excess of fifteen million dollars and an exemption has been claimed under this section or RCW
+82.12.207
+for such standard financial information. The fifteen million dollar limitation under this subsection does not apply to any other exemption under this chapter that applies to standard financial information. Sellers are not responsible for ensuring a buyer's compliance with the fifteen million dollar limitation under this subsection. Sellers may not be assessed for uncollected sales tax on a sale to a buyer claiming an exemption under this section after having exceeded the fifteen million dollar limitation under this subsection, except as provided in RCW
+82.08.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The definitions in this subsection and RCW
+82.04.293
+apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_207__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Qualifying international investment management company&quot; means a person who is eligible for the tax rate in RCW
+82.04.290</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_207__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Standard financial information&quot; means financial data, facts, or information, or financial information services, not generated, compiled, or developed only for a single customer. Standard financial information includes, but is not limited to, financial market data, bond ratings, credit ratings, and deposit, loan, or mortgage reports.</p>
+            </content>
+            <subsection eId="sec_82_08_207__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section expires July 1, 2031.
+[
+2019 c 426 s 6
+;
+2013 2nd sp.s. c 13 s 702
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2019 c 426 ss 6 and 7:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that a strong financial cluster is critical to the economic health of Washington state. The legislature further finds that anchor institutions are key to growing a strong financial cluster, including international investment management firms. Therefore, the legislature finds that maintaining a competitive tax policy in Washington state enables the state to maintain its anchor investment management firms.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that standard financial information has not historically been subject to sales tax. In 2007 the legislature clarified that sales tax does not apply to electronically delivered standard financial information purchased by investment management companies or financial institutions. In 2013, the legislature provided clarification by passing a sales and use tax exemption for standard financial information purchased by investment management companies.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature further finds that taxation of such standard financial information would be uncompetitive and inconsistent with the fundamental structure of sales tax as a tax on retail transactions. Therefore, it is the legislature's intent to conform with a previously determined policy objective of exempting certain standard financial information purchased by investment management companies from sales and use tax in order to improve industry competitiveness.&quot; [
+2019 c 426 s 4
+.]
+Tax preference performance statement
+—
+2019 c 426 ss 6 and 7:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences contained in sections 6 and 7, chapter 426, Laws of 2019. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes these tax preferences as ones intended to improve industry competitiveness, as indicated in RCW
+82.32.808</p>
+          </content>
+          <subsection eId="sec_82_08_207__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and to reduce structural inefficiencies in the tax structure as indicated in RCW
+82.32.808</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to maintain a viable financial cluster. It is the legislature's intent to exempt sales and use taxes on sales of standard financial information to qualifying international investment management companies, in order to maintain the presence of at least one international investment management services firm headquartered in Washington state with at least two hundred billion dollars of assets under management.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that there is at least one international investment management services firm with at least two hundred billion dollars of assets under management headquartered in Washington state, then the legislature intends to extend the expiration date of the tax preferences.&quot; [
+2019 c 426 s 5
+.]
+Findings
+—
+Intent
+—
+2013 2nd sp.s. c 13:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that in 2007, Engrossed Substitute House Bill No. 1981 was enacted into law, which provided a sales tax exemption for electronically delivered standard financial information if the sales were to an investment management company or financial institution. The legislature further finds that in 2009 and 2010, Engrossed Substitute House Bill No. 2075 and Substitute House Bill No. 2620 were passed, to address the taxation of electronically delivered products. The legislature further finds that this legislation imposed sales and use tax on most digital services, goods, and prewritten software, but provided a broad business exemption for digital goods. The legislature further finds that the sales tax exemption for standard financial information from the 2007 legislation was eliminated because it was believed that the broader business exemption in Engrossed Substitute House Bill No. 2075 covered these transactions. The legislature further finds that the method of transmission of data by data providers to investment management companies has evolved over time where data providers add search tools to their web-based data, which makes it subject to sales tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_207__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature's intent under part VII of this act is to conform with a previously determined policy objective of exempting certain standard financial information purchased by international investment management companies from sales and use tax on the understanding that the fiscal impact is minimal. Therefore, it is the legislature's further intent to reevaluate the exemption in three years to ensure that actual fiscal impact on state revenues reasonably conforms with the fiscal estimate in the fiscal note for this legislation.&quot; [
+2013 2nd sp.s. c 13 s 701
+.]
+Effective date
+—
+2013 2nd sp.s. c 13:
+See note following RCW
+82.04.43393
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

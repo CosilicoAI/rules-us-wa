@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.045"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.045"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.045/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.045/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.045/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.045/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_045">
+        <num>RCW 74.20.045</num>
+        <heading>Employment status—Self-employed individuals—Enforcement</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.045
+74.20.040
+&lt;&lt; 
+        74.20.045 &gt;&gt;
+74.20.055
+PDF
+RCW
+74.20.045
+Employment status
+—
+Self-employed individuals
+—
+Enforcement.
+The office of support enforcement shall, as a matter of policy, use all available remedies for the enforcement of support obligations where the obligor is a self-employed individual. The office of support enforcement shall not discriminate in favor of certain obligors based upon employment status.
+[
+1994 c 299 s 16
+.]
+NOTES:
+Intent
+—
+Finding
+—
+Severability
+—
+Conflict with federal requirements
+—
+1994 c 299:
+See notes following RCW
+74.12.400
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.659"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.659"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.659/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.659/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.659/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.659/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_659">
+        <num>RCW 74.09.659</num>
+        <heading>Family planning waiver program request</heading>
+        <subsection eId="sec_74_09_659__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The authority shall continue to submit applications for the family planning waiver program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_659__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority shall submit a request to the federal department of health and human services to amend the current family planning waiver program as follows:</p>
+          </content>
+          <subsection eId="sec_74_09_659__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide coverage for sexually transmitted disease testing and treatment; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_659__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Return to the eligibility standards used in 2005 including, but not limited to, citizenship determination based on declaration or matching with federal social security databases, insurance eligibility standards comparable to 2005, and confidential service availability for minors and survivors of domestic and sexual violence.
+[
+2023 c 51 s 51
+. Prior:
+2011 1st sp.s. c 41 s 2
+;
+2011 1st sp.s. c 15 s 41
+;
+2009 c 545 s 5
+.]
+NOTES:
+Funding reduction
+—
+2011 1st sp.s. c 41:
+See note following RCW
+74.09.657
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Findings
+—
+2009 c 545:
+See note following RCW
+43.06.155
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

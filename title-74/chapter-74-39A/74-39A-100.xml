@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.100"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_100">
+        <num>RCW 74.39A.100</num>
+        <heading>Chore services—Legislative finding, intent</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.39A
+&gt;
+Section 74.39A.100
+74.39A.095
+&lt;&lt; 
+        74.39A.100 &gt;&gt;
+74.39A.110
+PDF
+RCW
+74.39A.100
+Chore services
+—
+Legislative finding, intent.
+The legislature finds that it is desirable to provide a coordinated and comprehensive program of in-home services for certain citizens in order that such persons may remain in their own homes, obtain employment if possible, and maintain a closer contact with the community. Such a program will seek to prevent mental and psychological deterioration which our citizens might otherwise experience. The legislature intends that the services will be provided in a fashion which promotes independent living.
+[
+1980 c 137 s 1
+;
+1973 1st ex.s. c 51 s 1
+. Formerly RCW
+74.08.530
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

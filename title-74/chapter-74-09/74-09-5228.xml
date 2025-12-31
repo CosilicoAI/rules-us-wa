@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5228"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5228"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5228/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5228/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.5228/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.5228/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_5228">
+        <num>RCW 74.09.5228</num>
+        <heading>Primary care health homes—Children with medically complex conditions</heading>
+        <subsection eId="sec_74_09_5228__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that:</p>
+          </content>
+          <subsection eId="sec_74_09_5228__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Children with medical complexity deserve coordinated and effective care delivered in a high quality setting. Families should be able to focus solely on their child's needs and not waste precious time fighting a fragmented care system or the complexities of medicaid;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_5228__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In 2019, the federal government adopted the advancing care for exceptional kids act to address these concerns. This law created a new health home model that will coordinate prompt care for children with medically complex conditions, develop an individualized, comprehensive, pediatric, family-centered care plan, coordinate access to subspecialized care, and coordinate appropriate care with out-of-state providers; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_5228__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The federal law provides health homes with a higher federal matching rate, making this proposal beneficial to Washington's children with medical complexities while also being financially prudent.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_5228__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature, therefore, intends to actively support these medically complex children by taking the steps necessary to implement health homes in Washington.&quot; [
+2024 c 177 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

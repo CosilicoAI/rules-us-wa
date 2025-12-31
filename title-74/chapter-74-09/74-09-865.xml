@@ -1,0 +1,306 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.865"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.865"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.865/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.865/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.865/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.865/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_865">
+        <num>RCW 74.09.865</num>
+        <heading>Postinpatient housing program for young adults</heading>
+        <subsection eId="sec_74_09_865__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, the postinpatient housing program for young adults is established to provide supportive transitional housing with behavioral health support focused on securing long-term housing for young adults exiting inpatient behavioral health treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To be eligible for the postinpatient housing program for young adults created under this section, a person must:</p>
+          </content>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Be 18 through 24 years of age;
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Be exiting inpatient behavioral health treatment; or</p>
+            </content>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Have exited inpatient behavioral health treatment within the last month and be engaged in a recovery plan; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Not have secured long-term housing.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose and to fulfill the requirements of this section, the authority shall:</p>
+          </content>
+          <subsection eId="sec_74_09_865__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide funding to a community-based organization or organizations or federally recognized tribes within Washington or tribal organizations that serve American Indians and Alaska Natives in Washington with expertise in working with young people experiencing unaccompanied homelessness, behavioral health conditions, or both, to operate a residential program or programs as described in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>may choose whether or not to serve individuals eligible according to the criteria established in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section. The residential program or programs must be voluntary for participants and may not be a secure facility, or a facility that limits residents' ingress and egress pursuant to chapter
+71.24
+RCW, or a facility at which individuals may be detained pursuant to chapter
+71.05
+RCW. In addition, the authority shall consult with a transition support provider when soliciting and selecting a community-based organization or organizations under this subsection. The funding provided under this subsection must be used to:</p>
+          </content>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Establish at least two residential programs with six to 10 beds with one program on either side of the Cascade mountain range;</p>
+            </content>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Establish a developmentally and culturally responsive environment that values healing and recovery;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Engage peers with behavioral health experience in the support and recovery of individuals served by the program;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Serve individuals determined eligible according to the criteria established in subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section for up to 90 days; and</p>
+          </content>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Support and strengthen the ongoing healing and learning that occurred for those served by the program during their inpatient treatment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide additional funding to the transition support provider for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Consultation and training services to the residential program or programs selected under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection;</p>
+            </content>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_a__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Return-to-community planning for the individuals served by the residential programs described under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection; and</p>
+            </content>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_a__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>To the extent possible, making contact with individuals served by the residential programs described under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection at regular intervals after those individuals leave the residential program and reporting this information to the authority;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Provide flexible funding to support individuals served by the residential programs described under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection. The flexible funding provided under this subsection may be provided to support the immediate needs of the individual. Uses of the flexible funding provided under this subsection may include, but are not limited to, the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Car repair or other transportation assistance;</p>
+            </content>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Rental application fees, a security deposit, or short-term rental assistance; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Other uses that will help support the person's housing stability, education, or employment, or meet immediate basic needs; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Provide funding to contract with individuals or entities that provide behavioral health support to individuals determined eligible according to the criteria established in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, which may include, but are not limited to:</p>
+          </content>
+          <subsection eId="sec_74_09_865__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>On-site and community-based behavioral health supports;</p>
+            </content>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Peer supports; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_865__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Medication management.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of this section, &quot;transition support provider&quot; means a community-based organization selected by the authority that continues to:</p>
+          </content>
+          <subsection eId="sec_74_09_865__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide information and support services related to safe housing and support services for youth exiting inpatient behavioral health treatment; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_865__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Organize a coalition of community housing providers, federally recognized tribes within Washington or tribal organizations that serve American Indians and Alaska Natives in Washington, inpatient behavioral health discharge planners, and young people with lived experience of behavioral health conditions or unaccompanied homelessness.
+[
+2024 c 175 s 2
+.]
+NOTES:
+Findings
+—
+2024 c 175:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature has committed to and invested in ensuring that young people exiting the system of care do so with safe housing and developmentally responsive services through the enactment of Substitute Senate Bill No. 6560</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_2018">
+          <num>(2018)</num>
+          <content>
+            <p>and Second Substitute House Bill No. 1905</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that young people who exit behavioral health inpatient treatment are the largest group of people who become homeless within three to 12 months of all the young people who exit any publicly funded system of care, as identified in a 2023 report produced by the research and data analysis division of the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature has invested significant funding in the behavioral health system and finds that ensuring a person's safe return to the community postinpatient treatment is a high priority and a major opportunity to end their experience with homelessness. In addition, the legislature finds that a young person who enters treatment demonstrates the courage to engage in their personal health and creates the opportunity for family and community reunification, career development, and a full life.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature further finds that it often takes more time and resources than expected during a person's inpatient treatment episode to identify a return to community plan that includes long-term, safe housing and a developmentally and culturally responsive support system that includes relationships, services, and passions.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_865__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For these reasons, the legislature finds that having an interim housing option that provides a safe and soft landing postinpatient treatment, located on each side of the state, that has well-trained staff and peers who have behavioral health expertise, is a sound investment in our young people and our collective goals to prevent and end homelessness.&quot; [
+2024 c 175 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

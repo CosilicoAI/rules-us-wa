@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.310"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.310/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.310/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_310">
+        <num>RCW 82.14.310</num>
+        <heading>County criminal justice assistance account—Transfers from general fund—Distributions based on crime rate and population—Limitations</heading>
+        <subsection eId="sec_82_14_310__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The county criminal justice assistance account is created in the state treasury. Beginning in fiscal year 2000, the state treasurer must transfer into the county criminal justice assistance account from the general fund the sum of $23,200,000 divided into four equal deposits occurring on July 1, October 1, January 1, and April 1. For each fiscal year thereafter, the state treasurer must increase the total transfer by the fiscal growth factor, as defined in RCW
+43.135.025
+, forecast for that fiscal year by the office of financial management in November of the preceding year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_310__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The moneys deposited in the county criminal justice assistance account for distribution under this section, less any moneys appropriated for purposes under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_310__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_310__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section, must be distributed at such times as distributions are made under *RCW
+82.44.150
+and on the relative basis of each county's funding factor as determined under this subsection.</p>
+          </content>
+          <subsection eId="sec_82_14_310__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A county's funding factor is the sum of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_310__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The population of the county, divided by 1,000, and multiplied by two-tenths;</p>
+            </content>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The crime rate of the county, multiplied by three-tenths; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The annual number of criminal cases filed in the county superior court, for each 1,000 in population, multiplied by five-tenths.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_310__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Under this section and RCW
+82.14.320
+and
+82.14.330
+:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_310__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The population of the county or city is as last determined by the office of financial management;</p>
+            </content>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The crime rate of the county or city is the annual occurrence of specified criminal offenses, as calculated in the most recent annual report on crime in Washington state as published by the Washington association of sheriffs and police chiefs, for each 1,000 in population;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The annual number of criminal cases filed in the county superior court must be determined by the most recent annual report of the courts of Washington, as published by the administrative office of the courts;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Distributions and eligibility for distributions in the 1989-1991 biennium must be based on 1988 figures for both the crime rate as described under</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection and the annual number of criminal cases that are filed as described under</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection. Future distributions must be based on the most recent figures for both the crime rate as described under</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection and the annual number of criminal cases that are filed as described under</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_310__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_310__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Moneys distributed under this section must be expended exclusively for criminal justice purposes. Except after May 13, 2021, through December 31, 2023, these funds may not be used to replace or supplant existing funding. Criminal justice purposes are defined as activities that substantially assist the criminal justice system, which may include circumstances where ancillary benefit to the civil or juvenile justice system occurs, and which includes</p>
+          </content>
+          <subsection eId="sec_82_14_310__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>domestic violence services such as those provided by domestic violence programs, community advocates, and legal advocates, as defined in RCW
+70.123.020
+, and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_310__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>during the 2001-2003 fiscal biennium, juvenile dispositional hearings relating to petitions for at-risk youth, truancy, and children in need of services. Existing funding for purposes of this subsection is defined as calendar year 1989 actual operating expenditures for criminal justice purposes. Calendar year 1989 actual operating expenditures for criminal justice purposes exclude the following: Expenditures for extraordinary events not likely to reoccur, changes in contract provisions for criminal justice services, beyond the control of the local jurisdiction receiving the services, and major nonrecurring capital expenditures.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_310__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Not more than five percent of the funds deposited to the county criminal justice assistance account may be available for appropriations for enhancements to the state patrol crime laboratory system and the continuing costs related to these enhancements. Funds appropriated from this account for such enhancements may not supplant existing funds from the state general fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_310__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Each fiscal biennium, the sum of $510,000, may be appropriated for the Washington state patrol to provide investigative assistance and report services to assist local law enforcement agencies to prosecute criminals.
+[
+2022 c 157 s 21
+. Prior:
+2021 c 334 s 999
+;
+2021 c 296 s 2
+;
+2019 c 415 s 988
+;
+2013 2nd sp.s. c 4 s 1004
+;
+2011 1st sp.s. c 50 s 970
+;
+2005 c 282 s 49
+;
+2001 2nd sp.s. c 7 s 915
+;
+1999 c 309 s 920
+;
+1998 c 321 s 11
+(Referendum Bill No. 49, approved November 3, 1998);
+1995 c 398 s 11
+;
+1993 sp.s. c 21 s 1
+;
+1991 c 311 s 1
+;
+1990 2nd ex.s. c 1 s 102
+.]
+NOTES:
+*Reviser's note:
+RCW
+82.44.150
+was repealed by
+2003 c 1 s 5
+(Initiative Measure No. 776, approved November 5, 2002).
+Conflict with federal requirements
+—
+Effective date
+—
+2021 c 334:
+See notes following RCW
+43.79.555
+.
+Finding
+—
+Intent
+—
+2021 c 296:
+&quot;The legislature finds that the COVID-19 pandemic, as recognized by emergency proclamations issued by the governor, has resulted in an unprecedented drop in local government revenues. The legislature intends to provide local governments with increased flexibility in the use of existing revenues in order to enable local governments to continue to provide essential services and to facilitate economic recovery through December 31, 2023.&quot; [
+2021 c 296 s 1
+.]
+Effective date
+—
+2021 c 296:
+&quot;Except for section 9 of this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 13, 2021].&quot; [
+2021 c 296 s 19
+.]
+Effective date
+—
+2019 c 415:
+See note following RCW
+28B.20.476
+.
+Effective dates
+—
+2013 2nd sp.s. c 4:
+See note following RCW
+2.68.020
+.
+Effective dates
+—
+2011 1st sp.s. c 50:
+See note following RCW
+15.76.115
+.
+Severability
+—
+Effective date
+—
+2001 2nd sp.s. c 7:
+See notes following RCW
+43.320.110
+.
+Severability
+—
+Effective date
+—
+1999 c 309:
+See notes following RCW
+41.06.152
+.
+Purpose
+—
+Severability
+—
+1998 c 321</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

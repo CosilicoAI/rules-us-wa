@@ -1,0 +1,336 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.462"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.462"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.462/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.462/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.462/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.462/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_462">
+        <num>RCW 82.04.462</num>
+        <heading>Apportionable income</heading>
+        <subsection eId="sec_82_04_462__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The apportionable income of a person within the scope of RCW
+82.04.460</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>is apportioned to Washington by multiplying its apportionable income by the receipts factor. Persons who are subject to tax under more than one of the tax classifications enumerated in RCW
+82.04.460</p>
+          </content>
+          <subsection eId="sec_82_04_462__subsec_1__subsec_a">
+            <num>(a)</num>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_1__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>must calculate a separate receipts factor for each tax classification that the person is taxable under.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the receipts factor is a fraction and is calculated as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section and, for financial institutions, as provided in the rule adopted by the department under the authority of RCW
+82.04.460</p>
+          </content>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The numerator of the receipts factor is the total gross income of the business of the taxpayer attributable to this state during the tax year from engaging in an apportionable activity. The denominator of the receipts factor is the total gross income of the business of the taxpayer from engaging in an apportionable activity everywhere in the world during the tax year.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as otherwise provided in this section, for purposes of computing the receipts factor, gross income of the business generated from each apportionable activity is attributable to the state:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Where the customer received the benefit of the taxpayer's service or, in the case of gross income from royalties, where the customer used the taxpayer's intangible property. When a customer receives the benefit of the taxpayer's services or uses the taxpayer's intangible property in this and one or more other states and the amount of gross income of the business that was received by the taxpayer in return for the services received or intangible property used by the customer in this state can be reasonably determined by the taxpayer, such amount of gross income must be attributed to this state.</p>
+            </content>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the customer received the benefit of the service or used the intangible property in more than one state and if the taxpayer is unable to attribute gross income of the business under the provisions of</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>If the taxpayer is unable to attribute gross income of the business under the provisions of</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>or</p>
+            </content>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>If the taxpayer is unable to attribute gross income of the business under the provisions of</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>If the taxpayer is unable to attribute gross income of the business under the provisions of (b)</p>
+            </content>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_v__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>If the taxpayer is unable to attribute gross income of the business under the provisions of</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>If the taxpayer is unable to attribute gross income of the business under the provisions of</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_462__subsec_4__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Gross income of the business from engaging in an apportionable activity must be excluded from the denominator of the receipts factor if, in respect to such activity, at least some of the activity is performed in this state, and the gross income is attributable under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>to a state in which the taxpayer is not taxable. For purposes of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>regardless of whether that state imposes such a tax. &quot;Business activities tax&quot; means a tax measured by the amount of, or economic results of, business activity conducted in a state. The term includes taxes measured in whole or in part on net income or gross income or receipts. &quot;Business activities tax&quot; does not include a sales tax, use tax, or a similar transaction tax, imposed on the sale or acquisition of goods or services, whether or not denominated a gross receipts tax or a tax imposed on the privilege of doing business.</p>
+          </content>
+          <subsection eId="sec_82_04_462__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>does not apply to financial institutions with respect to apportionable income taxable under RCW
+82.04.290
+. Financial institutions must calculate the receipts factor as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section and the rule adopted by the department under the authority of RCW
+82.04.460</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>with respect to apportionable income taxable under RCW
+82.04.290
+. Financial institutions that are subject to tax under any other tax classification enumerated in RCW
+82.04.460</p>
+          </content>
+          <subsection eId="sec_82_04_462__subsec_2__subsec_a">
+            <num>(a)</num>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>and (vii) through</p>
+            </content>
+            <subsection eId="sec_82_04_462__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_2__subsec_x">
+            <num>(x)</num>
+            <content>
+              <p>must calculate a separate receipts factor, as provided in this section, for each of the other tax classifications that the financial institution is taxable under.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A taxpayer may calculate the receipts factor for the current tax year based on the most recent calendar year for which information is available for the full calendar year. If a taxpayer does not calculate the receipts factor for the current tax year based on previous calendar year information as authorized in this subsection, the business must use current year information to calculate the receipts factor for the current tax year. In either case, a taxpayer must correct the reporting for the current tax year when complete information is available to calculate the receipts factor for that year, but not later than October 31st of the following tax year. Interest will apply to any additional tax due on a corrected tax return. Interest must be computed and assessed as provided in RCW
+82.32.050
+and accrues until the additional taxes are paid. Penalties as provided in RCW
+82.32.090
+will apply to any such additional tax due only if the current tax year reporting is not corrected and the additional tax is not paid by October 31st of the following tax year. Interest as provided in RCW
+82.32.060
+will apply to any tax paid in excess of that properly due on a return as a result of a taxpayer using previous calendar year data or incomplete current-year data to calculate the receipts factor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_462__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Unless the context clearly requires otherwise, the definitions in this subsection apply throughout this section.</p>
+          </content>
+          <subsection eId="sec_82_04_462__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Apportionable activities&quot; and &quot;apportionable income&quot; have the same meaning as in RCW
+82.04.460
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_462__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;State&quot; means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or any foreign country or political subdivision of a foreign country.
+[
+2014 c 97 s 305
+;
+2010 1st sp.s. c 23 s 105
+.]
+NOTES:
+Contingency
+—
+Application
+—
+2010 1st sp.s. c 23 ss 102-112:
+See notes following RCW
+82.04.067
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

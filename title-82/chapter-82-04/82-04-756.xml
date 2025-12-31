@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.756"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.756"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.756/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.756/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.756/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.756/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_756">
+        <num>RCW 82.04.756</num>
+        <heading>Exemptions—Cannabis cooperatives</heading>
+        <subsection eId="sec_82_04_756__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to any cooperative in respect to growing cannabis, or manufacturing cannabis concentrates, useable cannabis, or cannabis-infused products, as those terms are defined in RCW
+69.50.101
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_756__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax preference authorized in this section is not subject to the provisions of RCW
+82.32.805
+and
+82.32.808
+.
+[
+2022 c 16 s 143
+;
+2015 c 70 s 40
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Effective date
+—
+2015 c 70 ss 12, 19, 20, 23-26, 31, 35, 40, and 49:
+See note following RCW
+69.50.357
+.
+Short title
+—
+Findings
+—
+Intent
+—
+References to Washington state liquor control board
+—
+Draft legislation
+—
+2015 c 70:
+See notes following RCW
+66.08.012
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

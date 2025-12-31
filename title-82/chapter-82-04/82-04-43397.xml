@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43397"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43397"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43397/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43397/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43397/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43397/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_43397">
+        <num>RCW 82.04.43397</num>
+        <heading>Deductions—Processors of electronic transactions. (&lt;i&gt;Effective January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_43397__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing the tax under RCW
+82.04.290</p>
+          </content>
+          <subsection eId="sec_82_04_43397__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Interchange fees;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43397__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Network fees; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43397__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Portions of fees retained by other processors.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_43397__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_04_43397__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Acquirer&quot; means a person that contracts directly or indirectly with a merchant to provide settlement for the merchant's electronic transactions over a payment card network. &quot;Acquirer&quot; does not include a person that acts only as a processor for the services it provides to the merchant.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43397__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Interchange fee&quot; means an amount received by an issuer with respect to the interchange of a transaction conducted by a merchant.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43397__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Issuer&quot; means any person that authorizes the use of a card to perform an electronic transaction.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43397__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Network fees&quot; means fees received by payment networks associated with the processing of a transaction or with the acceptance of the payment network's brand.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43397__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Payment network&quot; means an entity that directly or indirectly provides the proprietary services, infrastructure, and software that route information and data to an issuer from an acquirer to conduct the authorization, clearance, and settlement of electronic transactions; and a merchant uses in order to accept as a form of payment a brand of card or other device that may be used to carry out electronic transactions.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43397__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Processor&quot; means a person, including an acquirer or issuer, that processes or routes electronic transactions for issuers, acquirers, or merchants.
+[
+2025 c 401 s 2
+.]
+NOTES:
+Intent
+—
+2025 c 401:
+&quot;The unique nature of payment system arrangements distinguishes payment card processors from other taxpayers. Due to the unique nature of processors' activities related to interchange fees and network fees, the legislature intends to address the business and occupation taxation of processors' activities on a prospective basis through the deduction and rate authorized in this act. The legislature does not intend for inferences as to the taxability of prior periods to be drawn from the passage of this act.&quot; [
+2025 c 401 s 1
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2025 c 401 s 6
+.]
+Effective date
+—
+2025 c 401:
+&quot;This act takes effect January 1, 2026.&quot; [
+2025 c 401 s 7
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

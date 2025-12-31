@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2403"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2403"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2403/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2403/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2403/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2403/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_2403">
+        <num>RCW 82.04.2403</num>
+        <heading>Manufacturer tax not applicable to cleaning fish</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.2403
+82.04.240
+&lt;&lt; 
+        82.04.2403 &gt;&gt;
+82.04.2404
+PDF
+RCW
+82.04.2403
+Manufacturer tax not applicable to cleaning fish.
+The tax imposed by RCW
+82.04.240
+does not apply to cleaning fish. &quot;Cleaning fish&quot; means the removal of the head, fins, or viscera from fresh fish without further processing, other than freezing.
+[
+1994 c 167 s 1
+.]
+NOTES:
+Effective date
+—
+1994 c 167:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [March 30, 1994].&quot; [
+1994 c 167 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

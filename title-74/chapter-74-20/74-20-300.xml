@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.300"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.300"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.300/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.300/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.300/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.300/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_300">
+        <num>RCW 74.20.300</num>
+        <heading>Department exempt from fees relating to paternity or support</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.300
+74.20.280
+&lt;&lt; 
+        74.20.300 &gt;&gt;
+74.20.310
+PDF
+RCW
+74.20.300
+Department exempt from fees relating to paternity or support.
+No filing or recording fees, court fees, or fees for making copies of documents shall be required from the state department of social and health services by any county clerk, county auditor, or other county officer for the filing of any actions or documents necessary to establish paternity or enforce or collect support moneys.
+Filing fees shall also not be required of any prosecuting attorney or the attorney general for action to establish paternity or enforce or collect support moneys.
+[
+1979 ex.s. c 171 s 1
+;
+1973 1st ex.s. c 183 s 3
+;
+1963 c 206 s 15
+.]
+NOTES:
+Severability
+—
+1979 ex.s. c 171:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1979 ex.s. c 171 s 28
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

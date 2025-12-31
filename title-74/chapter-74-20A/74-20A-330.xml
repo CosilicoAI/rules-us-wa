@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.330"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.330"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.330/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.330/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.330/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.330/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_330">
+        <num>RCW 74.20A.330</num>
+        <heading>License suspension—Agreements between department and licensing entities—Identification of responsible parents</heading>
+        <subsection eId="sec_74_20A_330__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department and all of the various licensing entities subject to RCW
+74.20A.320
+shall enter into such agreements as are necessary to carry out the requirements of the license suspension program established in RCW
+74.20A.320
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_330__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department and all licensing entities subject to RCW
+74.20A.320
+shall compare data to identify responsible parents who may be subject to the provisions of chapter 58, Laws of 1997. The comparison may be conducted electronically, or by any other means that is jointly agreeable between the department and the particular licensing entity. The data shared shall be limited to those items necessary to [for] implementation of chapter 58, Laws of 1997. The purpose of the comparison shall be to identify current licensees who are not in compliance with a child support order, and to provide to the department the following information regarding those licensees:</p>
+          </content>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Name;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Date of birth;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Address of record;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Federal employer identification number and social security number;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Type of license;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Effective date of license or renewal;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Expiration date of license; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_330__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Active or inactive status.
+[
+1997 c 58 s 803
+.]
+NOTES:
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Effective dates
+—
+Intent
+—
+1997 c 58:
+See notes following RCW
+74.20A.320
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

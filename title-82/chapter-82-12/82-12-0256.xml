@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0256"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0256"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0256/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0256/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0256/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0256/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0256">
+        <num>RCW 82.12.0256</num>
+        <heading>Exemptions—Use of motor vehicle and special fuel—Conditions</heading>
+        <subsection eId="sec_82_12_0256__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Special fuel purchased in this state upon which a refund is obtained as provided in RCW
+82.38.180</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0256__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Motor vehicle and special fuel if:</p>
+          </content>
+          <subsection eId="sec_82_12_0256__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The fuel is used for the purpose of public transportation and the purchaser is entitled to a refund or an exemption under RCW
+82.38.080</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_0256__subsec_1">
+          <num>(1)</num>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or
+82.38.180</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The fuel is purchased by a private, nonprofit transportation provider certified under chapter
+81.66
+RCW and the purchaser is entitled to a refund or an exemption under RCW
+82.38.080</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>or
+82.38.180</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The fuel is purchased by a public transportation benefit area created under chapter
+36.57A
+RCW or a county-owned ferry or county ferry district created under chapter
+36.54
+RCW for use in passenger-only ferry vessels; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The fuel is taxable under chapter
+82.38
+RCW. However, the use of motor vehicle and special fuel upon which a refund of the applicable fuel tax is obtained is not exempt under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>and the director of licensing must deduct from the amount of such tax to be refunded the amount of tax due under this chapter and remit the same each month to the department of revenue; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The fuel is purchased by a county-owned ferry for use in ferry vessels after June 30, 2013; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0256__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The fuel is purchased by the Washington state ferry system for use in a state-owned ferry after June 30, 2013.
+[
+2013 c 225 s 646
+;
+2011 1st sp.s. c 16 s 5
+;
+2007 c 223 s 10
+;
+2005 c 443 s 6
+;
+1998 c 176 s 5
+. Prior:
+1983 1st ex.s. c 35 s 3
+;
+1983 c 108 s 2
+;
+1980 c 147 s 2
+;
+1980 c 37 s 56
+. Formerly RCW
+82.12.030</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

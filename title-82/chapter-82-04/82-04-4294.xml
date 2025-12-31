@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4294"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4294"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4294/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4294/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4294/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4294/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4294">
+        <num>RCW 82.04.4294</num>
+        <heading>Deductions—Interest on loans to farmers and ranchers, producers or harvesters of aquatic products, or their cooperatives</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4294
+82.04.4293
+&lt;&lt; 
+        82.04.4294 &gt;&gt;
+82.04.4295
+PDF
+RCW
+82.04.4294
+Deductions
+—
+Interest on loans to farmers and ranchers, producers or harvesters of aquatic products, or their cooperatives.
+In computing tax there may be deducted from the measure of tax amounts derived as interest on loans to bona fide farmers and ranchers, producers or harvesters of aquatic products, or their cooperatives by a lending institution which is owned exclusively by its borrowers or members and which is engaged solely in the business of making loans and providing finance-related services to bona fide farmers and ranchers, producers or harvesters of aquatic products, their cooperatives, rural residents for housing, or persons engaged in furnishing farm-related or aquatic-related services to these individuals or entities.
+[
+1980 c 37 s 14
+. Formerly RCW
+82.04.430
+(13).]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

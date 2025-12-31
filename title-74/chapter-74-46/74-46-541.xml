@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.541"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.541"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.541/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.541/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.541/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.541/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_541">
+        <num>RCW 74.46.541</num>
+        <heading>Skilled nursing facility safety net assessment—Reimbursement of medicaid share</heading>
+        <subsection eId="sec_74_46_541__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall establish a skilled nursing facility safety net assessment medicaid share pass-through or rate add-on to reimburse the medicaid share of the skilled nursing facility safety net assessment as a medicaid allowable cost consistent with RCW
+74.48.030
+. This add-on shall not be considered an allowable cost for future year cost rebasing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_541__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>As of July 1, 2011, supplemental payments to reimburse medicaid expenditures, including an amount to reimburse the medicaid share of the skilled nursing facility safety net assessment, not to exceed the annual medicare upper payment limit, must be provided for all years when the skilled nursing facility safety net assessment is levied, consistent with RCW
+74.48.030
+. These supplemental payments, at a minimum, must be sufficient to reimburse the medicaid share of the assessment for those paying the assessment. The part of these supplemental payments that reimburses the medicaid share of the assessment are not subject to the reconciliation and settlement process provided in RCW
+74.46.022</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

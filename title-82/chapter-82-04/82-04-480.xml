@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.480"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.480"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.480/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.480/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.480/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.480/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_480">
+        <num>RCW 82.04.480</num>
+        <heading>Sales in own name—Sales as agent</heading>
+        <subsection eId="sec_82_04_480__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every consignee, bailee, factor, or auctioneer having either actual or constructive possession of personal property, or having possession of the documents of title thereto, with power to sell such personal property in that person's own name and actually so selling, is deemed the seller of such personal property within the meaning of this chapter. Furthermore, the consignor, bailor, principal, or owner is deemed a seller of such property to the consignee, bailee, factor, or auctioneer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_480__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The burden is on the taxpayer in every case to establish the fact that the taxpayer is not engaged in the business of making retail sales or wholesale sales but is acting merely as broker or agent in promoting sales for a principal. Such claim will be allowed only when the taxpayer's accounting records are kept in such manner as required by rule by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_480__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For purposes of this section, &quot;personal property&quot; means tangible personal property, digital goods, digital codes, and extended warranties.
+[
+2009 c 535 s 412
+;
+1975 1st ex.s. c 278 s 44
+;
+1961 c 15 s 82.04.480
+. Prior:
+1935 c 180 s 10
+; RRS s 8370-10.]
+NOTES:
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

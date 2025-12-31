@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0268"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0268"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0268/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0268/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0268/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0268/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0268">
+        <num>RCW 82.08.0268</num>
+        <heading>Exemptions—Sales of machinery and implements, and related parts and labor, for farming to nonresidents for use outside the state</heading>
+        <subsection eId="sec_82_08_0268__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Machinery and implements for use in conducting a farming activity;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0268__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Parts for machinery and implements for use in conducting a farming activity; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0268__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Labor and services for the repair of machinery, implements, and parts for use in conducting a farming activity,
+when such machinery, implements, and parts will be transported immediately outside the state. As proof of exemption, an affidavit or certification in such form as the department of revenue shall require shall be retained as a business record of the seller.
+[
+1998 c 167 s 1
+;
+1980 c 37 s 35
+. Formerly RCW
+82.08.030</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

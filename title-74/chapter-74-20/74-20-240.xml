@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.240"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.240"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.240/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.240/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.240/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.240/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_240">
+        <num>RCW 74.20.240</num>
+        <heading>Petition for support order by married parent with minor children who are receiving public assistance—Order—Powers of court</heading>
+        <subsection eId="sec_74_20_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>After the hearing of the petition for an order of support the court shall make an order granting or denying it and fixing, if allowed, the terms and amount of the support.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The court has the same power to compel the attendance of witnesses and the production of testimony as in actions and suits, to make such decree or orders as are equitable in view of the circumstances of both parties and to punish violations thereof as other contempts are punished.
+[
+1963 c 206 s 9
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

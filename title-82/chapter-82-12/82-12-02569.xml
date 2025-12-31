@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02569"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02569"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02569/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02569/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02569/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02569/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_02569">
+        <num>RCW 82.12.02569</num>
+        <heading>Exemptions—Use of tangible personal property related to a building or structure that is an integral part of a laser interferometer gravitational wave observatory</heading>
+        <subsection eId="sec_82_12_02569__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>if the tangible personal property is incorporated into, installed in, or attached to a building or other structure that is an integral part of a laser interferometer gravitational wave observatory on which construction is commenced before December 1, 1996.
+[
+1996 c 113 s 2
+.]
+NOTES:
+Effective date
+—
+1996 c 113:
+See note following RCW
+82.08.02569
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

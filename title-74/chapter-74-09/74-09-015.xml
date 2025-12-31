@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.015"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.015/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.015/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_015">
+        <num>RCW 74.09.015</num>
+        <heading>Nurse hotline, when funded</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.015
+74.09.010
+&lt;&lt; 
+        74.09.015 &gt;&gt;
+74.09.035
+PDF
+RCW
+74.09.015
+Nurse hotline, when funded.
+To the extent that sufficient funding is provided specifically for this purpose, the authority shall provide all persons receiving services under this chapter with access to a twenty-four hour, seven day a week nurse hotline. The authority shall determine the most appropriate way to provide the nurse hotline under RCW
+41.05.037
+and this section, which may include use of the 211 system established in chapter
+43.211
+RCW.
+[
+2011 1st sp.s. c 15 s 122
+;
+2007 c 259 s 16
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Subheadings not law
+—
+2007 c 259:
+See note following RCW
+7.70.060
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

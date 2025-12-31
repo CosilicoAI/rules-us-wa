@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.051"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.051"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.051/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.051/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.051/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.051/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_051">
+        <num>RCW 82.04.051</num>
+        <heading>&quot;Services rendered in respect to&quot;—Taxation of hybrid or subsequent agreements</heading>
+        <subsection eId="sec_82_04_051__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>As used in RCW
+82.04.050
+and including for the purposes of the taxes imposed in chapter
+82.08
+RCW in addition to the taxes imposed in this chapter, the term &quot;services rendered in respect to&quot; means, in the context of constructing, building, repairing, improving, and decorating buildings or other structures, those services that are directly related to the constructing, building, repairing, improving, and decorating of buildings or other structures and that are performed by a person who is responsible for the performance of the constructing, building, repairing, improving, or decorating activity. The term does not include services such as engineering, architectural, surveying, flagging, accounting, legal, consulting, land development or management, or administrative services provided to the consumer of, or person responsible for performing, the constructing, building, repairing, improving, or decorating services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A contract or agreement under which a person is responsible for both services that would otherwise be subject to tax as a service under RCW
+82.04.290</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and also constructing, building, repairing, improving, or decorating activities that would otherwise be subject to tax under another section of this chapter is subject to the tax that applies to the predominant activity under the contract or agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Unless otherwise provided by law, a contract or agreement under which a person is responsible for activities that are subject to tax as a service under RCW
+82.04.290</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_04_051__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Land development or management&quot; means site identification, zoning, permitting, and other preconstruction regulatory services provided to the consumer of the constructing, building, repairing, improving, or decorating services. This includes, but is not limited to, acting as an owner's representative during any design or construction period, including recommending a contractor, monitoring the budget and schedule, approving invoices, and interacting on the behalf of the consumer with the person who has control over the work itself or responsible for the performance of the work.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_051__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Responsible for the performance&quot; means that the person is obligated to perform the activities, either personally or through a third party. A person who reviews work for a consumer, retailer, or wholesaler but does not supervise or direct the work is not responsible for the performance of the work. A person who is financially obligated for the work, such as a bank, but who does not have control over the work itself is not responsible for the performance of the work.
+[
+2021 c 145 s 4
+;
+2020 c 109 s 2
+;
+1999 c 212 s 2
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2020 c 109; 1999 c 212:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the taxation of &quot;services rendered in respect to constructing buildings or other structures&quot; has generally included the entire transaction for construction, including certain services provided directly to the consumer or owner rather than the person engaged in the performance of the constructing activity. Changes in business practices and recent administrative and court decisions have confused the issue. Recognizing the need to remove barriers to the creation of affordable housing, it is the intent of the legislature to clarify which services, if standing alone and not part of the construction agreement, are taxed as retail or wholesale sales, and which services will continue to be taxed as a service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is further the intent of the legislature to confirm that the entire price for the construction of a building or other structure for a consumer or owner continues to be a retail sale, even though some of the individual services reflected in the price, if provided alone, would be taxed as services and not as separate retail or wholesale sales.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Therefore, the intent of this act is to maintain the application of the law and not to extend retail treatment to activities not previously treated as retail activities. Services that are otherwise subject to tax as a service under RCW
+82.04.290</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_051__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>with respect to the first agreement, and is subject to tax under the appropriate section of chapter
+82.04
+RCW with respect to the second agreement, if at the time of the first agreement there was no contemplation by the parties, as evidenced by the facts, that the agreements would be awarded to the same person.&quot; [
+2020 c 109 s 1
+;
+1999 c 212 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

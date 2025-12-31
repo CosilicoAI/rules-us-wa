@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.300"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.300"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.300/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.300/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.300/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.300/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_300">
+        <num>RCW 74.04.300</num>
+        <heading>Recovery of payments improperly received—Lien—Recipient reporting requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.300
+74.04.290
+&lt;&lt; 
+        74.04.300 &gt;&gt;
+74.04.310
+PDF
+RCW
+74.04.300
+Recovery of payments improperly received
+—
+Lien
+—
+Recipient reporting requirements.
+If a recipient receives public assistance and/or food stamps or food stamp benefits transferred electronically for which the recipient is not eligible, or receives public assistance and/or food stamps or food stamp benefits transferred electronically in an amount greater than that for which the recipient is eligible, the portion of the payment to which the recipient is not entitled shall be a debt due the state recoverable under RCW
+43.20B.030
+and
+43.20B.620
+through
+43.20B.645
+. It shall be the duty of recipients of cash benefits to notify the department of changes to earned income as defined in RCW
+74.04.005
+. It shall be the duty of recipients of cash benefits to notify the department of changes to liquid resources as defined in RCW
+74.04.005
+that would result in ineligibility for cash benefits. It shall be the duty of recipients of food benefits to report changes in income that result in ineligibility for food benefits. All recipients shall report changes required in this section by the tenth of the month following the month in which the change occurs. The department shall make a determination of eligibility within ten days from the date it receives the reported change from the recipient. The department shall adopt rules consistent with federal law and regulations for additional reporting requirements. The department shall advise applicants for assistance that failure to report as required, failure to reveal resources or income, and false statements will result in recovery by the state of any overpayment and may result in criminal prosecution.
+[
+2025 c 58 s 2045
+;
+2003 c 208 s 1
+;
+1998 c 79 s 7
+;
+1987 c 75 s 32
+;
+1982 c 201 s 16
+;
+1980 c 84 s 2
+;
+1979 c 141 s 306
+;
+1973 1st ex.s. c 49 s 1
+;
+1969 ex.s. c 173 s 18
+;
+1959 c 26 s 74.04.300
+. Prior:
+1957 c 63 s 3
+;
+1953 c 174 s 35
+;
+1939 c 216 s 27
+; RRS s 10007-127a.]
+NOTES:
+Explanatory note
+—
+2025 c 58:
+See note following RCW
+1.16.050
+.
+Savings
+—
+1987 c 75:
+See RCW
+43.20B.900
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

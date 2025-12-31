@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.025661"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.025661"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.025661/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.025661/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.025661/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.025661/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_025661">
+        <num>RCW 82.12.025661</num>
+        <heading>Exemptions—Aircraft maintenance repair—Building construction. (Expires January 1, 2031.)</heading>
+        <subsection eId="sec_82_12_025661__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply with respect to the use of:</p>
+          </content>
+          <subsection eId="sec_82_12_025661__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Tangible personal property that will be incorporated as an ingredient or component in constructing new buildings for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_025661__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An eligible maintenance repair operator; or</p>
+            </content>
+            <subsection eId="sec_82_12_025661__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a port district, political subdivision, or municipal corporation, to be leased to an eligible maintenance repair operator; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_12_025661__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Labor and services rendered in respect to installing, during the course of constructing such buildings, building fixtures not otherwise eligible for the exemption under RCW
+82.08.02565
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_025661__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The eligibility requirements, conditions, and definitions in RCW
+82.08.025661
+apply to this section, including the filing of a complete annual report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_025661__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires January 1, 2031.
+[
+2023 c 414 s 2
+;
+2016 c 191 s 3
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+2023 c 414:
+See note following RCW
+82.08.025661
+.
+Tax preference performance statement
+—
+2016 c 191 ss 2 and 3:
+See note following RCW
+82.08.025661
+.
+Effective date
+—
+2016 c 191:
+See note following RCW
+82.08.025661
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

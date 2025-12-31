@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.036"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.036"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.036/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.036/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.036/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.036/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_036">
+        <num>RCW 74.13.036</num>
+        <heading>Implementation of chapters  13.32A and  13.34 RCW</heading>
+        <subsection eId="sec_74_13_036__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall oversee implementation of chapter
+13.34
+RCW and chapter
+13.32A
+RCW. The oversight shall be comprised of working with affected parts of the criminal justice and child care systems as well as with local government, legislative, and executive authorities to effectively carry out these chapters. The department shall work with all such entities to ensure that chapters
+13.32A
+and
+13.34
+RCW are implemented in a uniform manner throughout the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_036__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall develop a plan and procedures, in cooperation with the statewide advisory committee, to insure the full implementation of the provisions of chapter
+13.32A
+RCW. Such plan and procedures shall include but are not limited to:</p>
+          </content>
+          <subsection eId="sec_74_13_036__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Procedures defining and delineating the role of the department and juvenile court with regard to the execution of the child in need of services placement process;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_036__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Procedures for designating department staff responsible for family reconciliation services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_036__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Procedures assuring enforcement of contempt proceedings in accordance with RCW
+13.32A.170
+and
+13.32A.250
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_036__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Procedures for the continued education of all individuals in the criminal juvenile justice and child care systems who are affected by chapter
+13.32A
+RCW, as well as members of the legislative and executive branches of government.
+There shall be uniform application of the procedures developed by the department and juvenile court personnel, to the extent practicable. Local and regional differences shall be taken into consideration in the development of procedures required under this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_036__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In addition to its other oversight duties, the department shall:</p>
+          </content>
+          <subsection eId="sec_74_13_036__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Identify and evaluate resource needs in each region of the state;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_036__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Disseminate information collected as part of the oversight process to affected groups and the general public;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_036__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Educate affected entities within the juvenile justice and child care systems, local government, and the legislative branch regarding the implementation of chapters
+13.32A
+and
+13.34
+RCW;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_036__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Review complaints concerning the services, policies, and procedures of those entities charged with implementing chapters
+13.32A
+and
+13.34
+RCW; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_036__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Report any violations and misunderstandings regarding the implementation of chapters
+13.32A
+and
+13.34
+RCW.
+[
+2018 c 284 s 39
+. Prior:
+2009 c 520 s 54
+;
+2009 c 518 s 5
+;
+2003 c 207 s 2
+;
+1996 c 133 s 37
+;
+1995 c 312 s 65
+;
+1989 c 175 s 147
+;
+1987 c 505 s 70
+;
+1985 c 257 s 11
+;
+1981 c 298 s 18
+;
+1979 c 155 s 82
+.]
+NOTES:
+Findings
+—
+Short title
+—
+Intent
+—
+Construction
+—
+1996 c 133:
+See notes following RCW
+13.32A.197
+.
+Short title
+—
+1995 c 312:
+See note following RCW
+13.32A.010
+.
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.
+Severability
+—
+1985 c 257:
+See note following RCW
+13.34.165
+.
+Severability
+—
+1981 c 298:
+See note following RCW
+13.32A.040
+.
+Effective date
+—
+Severability
+—
+1979 c 155:
+See notes following RCW
+13.04.011
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

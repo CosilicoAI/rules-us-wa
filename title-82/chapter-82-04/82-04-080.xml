@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_080">
+        <num>RCW 82.04.080</num>
+        <heading>&quot;Gross income of the business.&quot;</heading>
+        <subsection eId="sec_82_04_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Gross income of the business&quot; means the value proceeding or accruing by reason of the transaction of the business engaged in and includes gross proceeds of sales, compensation for the rendition of services, gains realized from trading in stocks, bonds, or other evidences of indebtedness, interest, discount, rents, royalties, fees, commissions, dividends, and other emoluments however designated, all without any deduction on account of the cost of tangible property sold, the cost of materials used, labor costs, interest, discount, delivery costs, taxes, or any other expense whatsoever paid or accrued and without any deduction on account of losses.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Financial institutions must determine gains realized from trading in stocks, bonds, and other evidences of indebtedness on a net annualized basis. For purposes of this subsection, a financial institution means a person within the scope of the rule adopted by the department under the authority of RCW
+82.04.460</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

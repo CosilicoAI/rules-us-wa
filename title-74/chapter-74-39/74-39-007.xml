@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39.007"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.007"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39.007/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.007/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39.007/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.007/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39_007">
+        <num>RCW 74.39.007</num>
+        <heading>Definitions. (&lt;i&gt;Effective until January 1, 2026.&lt;/i&gt;)</heading>
+        <subsection eId="sec_74_39_007__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Self-directed care&quot; means the process in which an adult person, who is prevented by a functional disability from performing a manual function related to health care that an individual would otherwise perform for himself or herself, chooses to direct and supervise a paid personal aide to perform those tasks.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_007__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Personal aide&quot; means an individual, working privately or as an individual provider as defined in RCW
+74.39A.240
+, who acts at the direction of an adult person with a functional disability living in his or her own home to assist with the physical performance of a health care task, as described in RCW
+74.39.050
+, that persons without a functional disability can perform themselves.
+[
+2022 c 86 s 1
+;
+1999 c 336 s 2
+.]
+NOTES:
+Finding
+—
+Intent
+—
+1999 c 336:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_007__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that certain aspects of health licensure laws have the unintended consequence of limiting the right of persons with functional disabilities to care for themselves in their own home, and of securing assistance from other persons in performing routine health-related tasks that persons without these disabilities customarily perform.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_007__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the intent of the legislature to clarify the right of adults with functional disabilities to choose to self-direct their own health-related tasks through personal aides, and to describe the circumstances under which self-directed care may take place in the home setting. The legislature declares that it is in the public interest to preserve the autonomy and dignity of persons with functional disabilities to care for themselves in their own homes, among the continuum of options for health care services where the judgment and control over the care rests with the individual.&quot; [
+1999 c 336 s 1
+.]
+PDF
+RCW
+74.39.007
+Definitions.
+(Effective January 1, 2026.)
+The definitions in this section apply throughout this section, RCW
+74.39.050
+,
+74.39.070
+,
+43.190.060
+, and section 1, chapter 336, Laws of 1999 unless the context clearly requires otherwise.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_007__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Self-directed care&quot; means the process in which an adult person, who is prevented by a functional disability from performing a manual function related to health care that an individual would otherwise perform for himself or herself, chooses to direct and supervise a paid personal aide to perform those tasks.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_007__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Personal aide&quot; means an individual, working privately, as an individual provider as defined in RCW
+74.39A.240
+, or as a qualified family member paid through the long-term services and supports trust as described in RCW
+50B.04.010
+, who acts at the direction of an adult person with a functional disability living in his or her own home to assist with the physical performance of a health care task, as described in RCW
+74.39.050
+, that persons without a functional disability can perform themselves.
+[
+2025 c 380 s 45
+;
+2022 c 86 s 1
+;
+1999 c 336 s 2
+.]
+NOTES:
+Effective date
+—
+2025 c 380 ss 1-11, 15, 16, and 40-46:
+See note following RCW
+50B.04.180
+.
+Finding
+—
+Intent
+—
+1999 c 336:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_007__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that certain aspects of health licensure laws have the unintended consequence of limiting the right of persons with functional disabilities to care for themselves in their own home, and of securing assistance from other persons in performing routine health-related tasks that persons without these disabilities customarily perform.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39_007__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the intent of the legislature to clarify the right of adults with functional disabilities to choose to self-direct their own health-related tasks through personal aides, and to describe the circumstances under which self-directed care may take place in the home setting. The legislature declares that it is in the public interest to preserve the autonomy and dignity of persons with functional disabilities to care for themselves in their own homes, among the continuum of options for health care services where the judgment and control over the care rests with the individual.&quot; [
+1999 c 336 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

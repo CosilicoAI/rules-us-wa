@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_030">
+        <num>RCW 82.16.030</num>
+        <heading>Taxable under each schedule if within its purview</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.16
+&gt;
+Section 82.16.030
+82.16.023
+&lt;&lt; 
+        82.16.030 &gt;&gt;
+82.16.040
+PDF
+RCW
+82.16.030
+Taxable under each schedule if within its purview.
+Every person engaging in businesses which are within the purview of two or more of schedules of RCW
+82.16.020
+(1), shall be taxable under each schedule applicable to the businesses engaged in.
+[
+1989 c 302 s 205
+;
+1982 1st ex.s. c 35 s 6
+;
+1961 c 15 s 82.16.030
+. Prior:
+1935 c 180 s 38
+; RRS s 8370-38.]
+NOTES:
+Finding, purpose
+—
+1989 c 302:
+See note following RCW
+82.04.120
+.
+Severability
+—
+Effective dates
+—
+1982 1st ex.s. c 35:
+See notes following RCW
+82.08.020
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

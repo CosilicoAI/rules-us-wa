@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.241"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.241"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.241/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.241/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.241/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.241/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_241">
+        <num>RCW 82.04.241</num>
+        <heading>Manufacturers—Semiconductor materials. (Contingent effective date; contingent expiration date.)</heading>
+        <subsection eId="sec_82_04_241__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person engaging within this state in the business of manufacturing semiconductor materials, as to such persons the amount of tax with respect to such business is, in the case of manufacturers, equal to the value of the product manufactured, or, in the case of processors for hire, equal to the gross income of the business, multiplied by the rate of 0.275 percent. For the purposes of this subsection &quot;semiconductor materials&quot; means silicon crystals, silicon ingots, raw polished semiconductor wafers, compound semiconductors, integrated circuits, and microchips.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_241__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person reporting under the tax rate provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_241__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Pursuant to RCW
+82.32.790
+, this section is contingent on the siting and commercial operation of a significant semiconductor microchip fabrication facility in the state of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_241__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any person who has claimed the preferential rate under this section must reimburse the department for 50 percent of the amount of the tax preference under this section if the number of persons employed by the person claiming the tax preference is less than 90 percent of the person's three-year employment average for the three years immediately preceding the year in which the preferential rate is claimed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_241__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section expires January 1, 2034, unless the contingency in RCW
+82.32.790</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_241__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>occurs.
+[
+2024 c 261 s 2
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+2024 c 261 ss 2-9:
+&quot;RCW
+82.32.808
+does not apply to sections 2 through 9 of this act.&quot; [
+2024 c 261 s 13
+.]
+Effective date
+—
+2024 c 261:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 26, 2024].&quot; [
+2024 c 261 s 16
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

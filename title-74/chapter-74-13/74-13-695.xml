@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.695"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.695"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.695/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.695/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.695/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.695/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_695">
+        <num>RCW 74.13.695</num>
+        <heading>Validated tool to assess care needs</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.695
+74.13.690
+&lt;&lt; 
+        74.13.695 &gt;&gt;
+74.13.700
+PDF
+RCW
+74.13.695
+Validated tool to assess care needs.
+The office of innovation, alignment, and accountability must develop a single validated tool to assess the care needs of foster children. Once the validated tool is available for use on a statewide basis, the department of children, youth, and families must use the tool for assessing the care needs of foster children, including but not limited to whether the department should provide foster children with behavioral rehabilitation services. The department must notify the caseload forecast council, the office of financial management, and the appropriate fiscal committees of the legislature when it begins statewide use of the validated tool.
+[
+2018 c 208 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

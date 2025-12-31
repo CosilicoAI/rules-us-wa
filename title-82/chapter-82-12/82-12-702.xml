@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.702"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.702"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.702/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.702/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.702/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.702/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_702">
+        <num>RCW 82.12.702</num>
+        <heading>Exemptions—Sales to a farmer performing custom farming services or farm management services</heading>
+        <subsection eId="sec_82_12_702__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply with respect to the use of goods or services by an eligible farmer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_702__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions, conditions, and requirements of RCW
+82.08.702
+apply to this section.
+[
+2024 c 222 s 2
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+Effective date
+—
+2024 c 222:
+See notes following RCW
+82.08.702
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

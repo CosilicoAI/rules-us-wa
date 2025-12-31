@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9996"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9996"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9996/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9996/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9996/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9996/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_9996">
+        <num>RCW 82.08.9996</num>
+        <heading>Exemptions—Vessel deconstruction</heading>
+        <subsection eId="sec_82_08_9996__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of vessel deconstruction performed at:</p>
+          </content>
+          <subsection eId="sec_82_08_9996__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A qualified vessel deconstruction facility; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_9996__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An area over water that has been permitted under section 402 of the clean water act of 1972 (33 U.S.C. Sec. 1342) for vessel deconstruction.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_9996__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_9996__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Vessel deconstruction&quot; means permanently dismantling a vessel, including: Abatement and removal of hazardous materials; the removal of mechanical, hydraulic, or electronic components or other vessel machinery and equipment; and either the cutting apart or disposal, or both, of vessel infrastructure. For the purposes of this subsection, &quot;hazardous materials&quot; includes fuel, lead, asbestos, polychlorinated biphenyls, and oils.</p>
+            </content>
+            <subsection eId="sec_82_08_9996__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Vessel deconstruction&quot; does not include vessel modification or repair.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_9996__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Qualified vessel deconstruction facility&quot; means structures, including floating structures, that are permitted under section 402 of the clean water act of 1972 (33 U.S.C. Sec. 1342) for vessel deconstruction.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_9996__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Sellers making tax-exempt sales under this section must obtain from the purchaser an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files. In lieu of an exemption certificate, a seller may capture the relevant data elements as allowed under the streamlined sales and use tax agreement.
+[
+2014 c 195 s 301
+.]
+NOTES:
+Reviser's note:
+Section 301, chapter 195, Laws of 2014 expires January 1, 2025, pursuant to the automatic expiration date established in RCW
+82.32.805</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

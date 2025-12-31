@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.670"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.670"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.670/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.670/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.670/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.670/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_670">
+        <num>RCW 82.32.670</num>
+        <heading>Tax evasion by electronic means—Seizure and forfeiture</heading>
+        <subsection eId="sec_82_32_670__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>are considered contraband and are subject to seizure and forfeiture.</p>
+          </content>
+          <subsection eId="sec_82_32_670__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Property subject to forfeiture under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_670__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>may be seized by any agent of the department authorized to assess or collect taxes, or law enforcement officer of this state, upon process issued by any superior court or district court having jurisdiction over the property. Seizure without process may be made if:</p>
+          </content>
+          <subsection eId="sec_82_32_670__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The seizure is incident to an arrest or a search under a search warrant; or</p>
+            </content>
+            <subsection eId="sec_82_32_670__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department or the law enforcement officer has probable cause to believe that the property was used or is intended to be used in violation of RCW
+82.32.290</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_670__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>and exigent circumstances exist making procurement of a search warrant impracticable.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_670__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Forfeiture authorized by this section is deemed to have commenced by the seizure. Notice of seizure must be given to the department if the seizure is made by a law enforcement officer without the presence of any agent of the department. The department must cause notice of the seizure and intended forfeiture to be served on the owner of the property seized, if known, and on any other person known by the department to have a right or interest in the seized property. Such service must be made within fifteen days following the seizure or the department's receipt of notification of the seizure. The notice may be served by any method authorized by law or court rule, by certified mail with return receipt requested, or electronically in accordance with RCW
+82.32.135
+. Service by certified mail or electronic means is deemed complete upon mailing the notice, electronically sending the notice, or electronically notifying the person or persons entitled to the notice that the notice is available to be accessed by the person or persons, within the fifteen-day period following the seizure or the department's receipt of notification of the seizure.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_670__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If no person notifies the department in writing of the person's claim of lawful ownership or right to lawful possession of the item or items seized within thirty days of the date of service of the notice of seizure and intended forfeiture, the item or items seized are deemed forfeited.</p>
+          </content>
+          <subsection eId="sec_82_32_670__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any person notifies the department, in writing, of the person's claim of lawful ownership or lawful right to possession of the item or items seized within thirty days of the date of service of the notice of seizure and intended forfeiture, the person or persons must be afforded a reasonable opportunity to be heard as to the claim. The hearing must be before the director or the director's designee. A hearing and any administrative or judicial review is governed by chapter
+34.05
+RCW. The burden of proof by a preponderance of the evidence is upon the person claiming to be the lawful owner or the person claiming to have the lawful right to possession of the item or items seized.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department must return the item or items to the claimant as soon as possible upon a determination that the claimant is the present lawful owner or is lawfully entitled to possession of the item or items seized.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_670__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>When property is sought to be forfeited on the ground that it constitutes proceeds traceable to a violation of RCW
+82.32.290</p>
+          </content>
+          <subsection eId="sec_82_32_670__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When automated sales suppression devices or phantom-ware voluntarily surrendered to an agent of the department, or property forfeited under this section, other than proceeds traceable to a violation of RCW
+82.32.290</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Destroy or have the property destroyed;</p>
+            </content>
+            <subsection eId="sec_82_32_670__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Retain the property for training or other official purposes; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_670__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Loan or give the property to any law enforcement or tax administration agency of any state, political subdivision or municipal corporation of a state, or the United States for training or other official purposes. For purposes of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When proceeds traceable to a violation of RCW
+82.32.290</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_670__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>forfeited under this section are no longer required for evidentiary purposes, they must be deposited into the general fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_670__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The definitions in this subsection apply to this section:</p>
+          </content>
+          <subsection eId="sec_82_32_670__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Automated sales suppression device&quot; means a software program that falsifies the electronic records of electronic cash registers or other point of sale systems, including transaction data and transaction reports. The term includes the software program, any device that carries the software program, or an internet link to the software program.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Electronic cash register&quot; means a device that keeps a register or supporting documents through the means of an electronic device or computer system designed to record transaction data for the purpose of computing, compiling, or processing sales transaction data in whatever manner.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Phantom-ware&quot; means a programming option that is hidden, preinstalled, or installed-at-a-later-time in the operating system of an electronic cash register or other point of sale device, or hardwired into the electronic cash register or other point of sale device, and that can be used to create a virtual second till or may eliminate or manipulate transaction reports that may or may not be preserved in digital formats to represent the true or manipulated record of transactions in the electronic cash register or other point of sale device.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Transaction data&quot; means information about sales transactions, including items purchased by a customer, the price for each item, a taxability determination for each item, a segregated tax amount for each of the taxed items, the amount of cash or credit tendered, the net amount returned to the customer in change, the date and time of the purchase, the name, address, and identification number of the vendor, and the receipt or invoice number of the transaction.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_670__subsec_7__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Transaction reports&quot; means a report that includes information associated with sales transactions, taxes collected, media totals, and discount voids at an electronic cash register that can be printed on cash register tape at the end of a day or shift, or a report documenting every action at an electronic cash register or other point of sale device and that is stored electronically.
+[
+2017 c 323 s 401
+;
+2013 c 309 s 3
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+See note following RCW
+82.04.040
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

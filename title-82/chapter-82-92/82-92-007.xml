@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.007"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.007"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.007/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.007/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.007/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.007/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_007">
+        <num>RCW 82.92.007</num>
+        <heading>Purpose</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.92
+&gt;
+Section 82.92.007
+82.92.005
+&lt;&lt; 
+        82.92.007 &gt;&gt;
+82.92.010
+PDF
+RCW
+82.92.007
+Purpose.
+It is the purpose of this chapter to encourage the redevelopment of underdeveloped land in targeted urban areas, thereby increasing affordable housing, employment opportunities, and helping accomplish the other planning goals of Washington cities. The legislative authorities of cities to which this chapter applies may authorize a sales and use tax deferral for an investment project within the city if the legislative authority of the city finds that there are significant areas of underdeveloped land and a lack of affordable housing in areas proximate to the land. If a conditional recipient maintains the property for qualifying purposes for at least 10 years, deferred sales and use taxes need not be repaid.
+[
+2022 c 241 s 2
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

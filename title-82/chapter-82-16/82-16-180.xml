@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.180"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_180">
+        <num>RCW 82.16.180</num>
+        <heading>Solar modules—Sale and installation tax incentives</heading>
+        <subsection eId="sec_82_16_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any person who sells a solar module to a customer-owner, or who receives compensation from a customer-owner in exchange for installing a solar module for use in a residential-scale system or commercial-scale system in Washington must provide to the customer-owner current information regarding the tax incentives available to the customer-owner under Washington law, including the scheduled expiration date of any tax incentives and the maximum period of time during which the customer-owner may benefit from any tax incentives, based on the law as it existed on the date of sale or installation of the solar module.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions in RCW
+82.16.160
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_180__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section, &quot;solar module&quot; has the same meaning as provided in RCW
+82.16.110
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_180__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature finds that the practices covered by this section are matters vitally affecting the public interest for the purpose of applying the consumer protection act, chapter
+19.86
+RCW. A violation of this section is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act or practice in the conduct of trade or commerce and an unfair method of competition. Violations of this section may be enforced by the attorney general under the consumer protection act, chapter
+19.86
+RCW.
+[
+2017 3rd sp.s. c 36 s 9
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2017 3rd sp.s. c 36:
+See notes following RCW
+82.16.130
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

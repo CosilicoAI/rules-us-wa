@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.015"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.015/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.015/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_015">
+        <num>RCW 82.44.015</num>
+        <heading>Ride-sharing passenger motor vehicles excluded—Exemption requirements—Notice—Liability for tax</heading>
+        <subsection eId="sec_82_44_015__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Passenger motor vehicles used primarily for ride sharing and ride sharing for persons with special transportation needs, as defined in RCW
+46.74.010
+, are not subject to the motor vehicle excise tax authorized under this chapter if the vehicles are used as ride-sharing vehicles for thirty-six consecutive months beginning from the date of purchase.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_44_015__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To qualify for the motor vehicle excise tax exemption for ride-sharing vehicles, passenger motor vehicles must:</p>
+          </content>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Have a seating capacity of three or more passengers, including the driver;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Be used for ride sharing;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Be operated either within:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The state's eight largest counties that are required to develop commute trip reduction plans as directed by chapter
+70A.15
+RCW;</p>
+            </content>
+            <subsection eId="sec_82_44_015__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Other counties, or cities and towns within those counties, that elect to adopt and implement a commute trip reduction plan; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_44_015__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Other counties, where the vehicle is registered with or operated by a public transportation agency; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Meet at least one of the following conditions:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The vehicle must be operated by a public transportation agency for the benefit of the general public;</p>
+            </content>
+            <subsection eId="sec_82_44_015__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The vehicle must be used by a major employer, as defined in RCW
+70A.15.4010
+as an element of its commute trip reduction program for their employees; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_44_015__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The vehicle must be owned and operated by individual employees and must be registered either with the employer as part of its commute trip reduction program or with a public transportation agency. Individual employee owned and operated motor vehicles will require certification that the vehicle is registered with a major employer or a public transportation agency. Major employers who own and operate motor vehicles for their employees must certify that the ride-sharing arrangement conforms to a carpool/vanpool element contained within their commute trip reduction program.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_44_015__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The registered owner of a passenger motor vehicle described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_44_015__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section:</p>
+          </content>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Shall notify the department upon the termination of the primary use of the vehicle in ride sharing or ride sharing for persons with special transportation needs; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_015__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is liable for the motor vehicle excise tax imposed under this chapter, prorated on the remaining months for which the vehicle is registered.
+[
+2021 c 135 s 9
+;
+2020 c 20 s 1488
+;
+2014 c 97 s 502
+;
+2010 c 161 s 909
+;
+1996 c 244 s 7
+;
+1993 c 488 s 3
+;
+1982 c 142 s 1
+;
+1980 c 166 s 3
+.]
+NOTES:
+Effective date
+—
+2021 c 135:
+See note following RCW
+46.18.285
+.
+Effective date
+—
+Intent
+—
+Legislation to reconcile chapter 161, Laws of 2010 and other amendments made during the 2010 legislative session
+—
+2010 c 161:
+See notes following RCW
+46.04.013
+.
+Finding
+—
+Annual recertification rule
+—
+Report
+—
+1993 c 488:
+See notes following RCW
+82.08.0287
+.
+Severability
+—
+1980 c 166:
+See note following RCW
+82.08.0287
+.
+Ride-sharing vehicles
+—
+Special plates: RCW
+46.18.285
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

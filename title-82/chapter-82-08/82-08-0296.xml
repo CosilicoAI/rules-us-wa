@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0296"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0296"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0296/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0296/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0296/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0296/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0296">
+        <num>RCW 82.08.0296</num>
+        <heading>Exemptions—Sales of feed consumed by livestock at a public livestock market</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.0296
+82.08.0294
+&lt;&lt; 
+        82.08.0296 &gt;&gt;
+82.08.0297
+PDF
+RCW
+82.08.0296
+Exemptions
+—
+Sales of feed consumed by livestock at a public livestock market.
+The tax levied by RCW
+82.08.020
+shall not apply to sales of feed consumed by livestock at a public livestock market.
+[
+1986 c 265 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

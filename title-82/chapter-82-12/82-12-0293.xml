@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0293"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0293"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0293/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0293/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0293/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0293/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0293">
+        <num>RCW 82.12.0293</num>
+        <heading>Exemptions—Use of food and food ingredients</heading>
+        <subsection eId="sec_82_12_0293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply in respect to the use of food and food ingredients for human consumption. &quot;Food and food ingredients&quot; has the same meaning as in RCW
+82.08.0293
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0293__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption of &quot;food and food ingredients&quot; provided for in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0293__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to prepared food, soft drinks, bottled water, or dietary supplements. &quot;Prepared food,&quot; &quot;soft drinks,&quot; &quot;bottled water,&quot; and &quot;dietary supplements&quot; have the same meanings as in RCW
+82.08.0293
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0293__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Notwithstanding anything in this section to the contrary, the exemption of &quot;food and food ingredients&quot; provided in this section applies to food and food ingredients which are furnished, prepared, or served as meals:</p>
+          </content>
+          <subsection eId="sec_82_12_0293__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Under a state administered nutrition program for the aged as provided for in the older Americans act (P.L. 95-478 Title III) and RCW
+74.38.040</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0293__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Which are provided to senior citizens, individuals with disabilities, or low-income persons by a nonprofit organization organized under chapter
+24.03A
+or
+24.12
+RCW; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0293__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>That are provided to residents, sixty-two years of age or older, of a qualified low-income senior housing facility by the lessor or operator of the facility. The sale of a meal that is billed to both spouses of a marital community or both domestic partners of a domestic partnership meets the age requirement in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_0293__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>if at least one of the spouses or domestic partners is at least sixty-two years of age. For purposes of this subsection, &quot;qualified low-income senior housing facility&quot; has the same meaning as in RCW
+82.08.0293
+.
+[
+2021 c 176 s 5250
+;
+2017 3rd sp.s. c 28 s 102
+;
+2011 c 2 s 303
+(Initiative Measure No. 1107, approved November 2, 2010);
+2010 1st sp.s. c 23 s 903
+;
+2009 c 483 s 4
+;
+2003 c 168 s 303
+;
+1988 c 103 s 2
+;
+1986 c 182 s 2
+;
+1985 c 104 s 2
+;
+1982 1st ex.s. c 35 s 34
+.]
+NOTES:
+Effective date
+—
+2021 c 176:
+See note following RCW
+24.03A.005
+.
+Existing rights and liability
+—
+Severability
+—
+Application
+—
+Effective dates
+—
+2017 3rd sp.s. c 28:
+See notes following RCW
+82.08.0531
+.
+Findings
+—
+Construction
+—
+2011 c 2 (Initiative Measure No. 1107):
+See notes following RCW
+82.08.0293
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Finding
+—
+Intent
+—
+Effective date
+—
+2009 c 483:
+See notes following RCW
+82.08.0293
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Effective date
+—
+1988 c 103:
+See note following RCW
+82.08.0293
+.
+Severability
+—
+Effective dates
+—
+1982 1st ex.s. c 35:
+See notes following RCW
+82.08.020
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

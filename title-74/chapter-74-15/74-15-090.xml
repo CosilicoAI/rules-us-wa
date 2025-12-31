@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.090"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_090">
+        <num>RCW 74.15.090</num>
+        <heading>Licenses required for agencies</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.090
+74.15.080
+&lt;&lt; 
+        74.15.090 &gt;&gt;
+74.15.100
+PDF
+RCW
+74.15.090
+Licenses required for agencies.
+Except as provided in RCW
+74.15.190
+, it shall hereafter be unlawful for any agency to receive children, expectant mothers or developmentally disabled persons for supervision or care, or arrange for the placement of such persons, unless such agency is licensed as provided in chapter
+74.15
+RCW.
+[
+1987 c 170 s 14
+;
+1982 c 118 s 10
+;
+1977 ex.s. c 80 s 73
+;
+1967 c 172 s 9
+.]
+NOTES:
+Severability
+—
+1987 c 170:
+See note following RCW
+13.04.030
+.
+Purpose
+—
+Intent
+—
+Severability
+—
+1977 ex.s. c 80:
+See notes following RCW
+4.16.190
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

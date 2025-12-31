@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.500"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.500"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.500/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.500/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.500/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.500/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_500">
+        <num>RCW 74.08A.500</num>
+        <heading>Legislative-executive WorkFirst poverty reduction oversight task force—Definitions</heading>
+        <subsection eId="sec_74_08A_500__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Advisory committee&quot; means the intergenerational poverty advisory committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_500__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Cycle of poverty&quot; or &quot;poverty cycle&quot; means the set of factors or events by which the long-term poverty of a person is likely to continue and be experienced by each child of the person when the child becomes an adult unless there is outside intervention.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_500__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_500__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Intergenerational poverty&quot; means poverty in which two or more successive generations of a family continue in the cycle of poverty and governmental dependence, and is not situational poverty.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_500__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Partner agency&quot; means an executive branch agency represented by a voting or nonvoting member of the task force.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_500__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Secretary&quot; means the secretary of the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_500__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Task force&quot; means the legislative-executive WorkFirst poverty reduction oversight task force.
+[
+2018 c 126 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 126:
+See note following RCW
+74.08A.505
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.575"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.575"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.575/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.575/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.575/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.575/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_575">
+        <num>RCW 74.09.575</num>
+        <heading>Medical assistance for institutionalized persons—Treatment of resources</heading>
+        <subsection eId="sec_74_09_575__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department or authority, as appropriate, shall promulgate rules consistent with the treatment of resources provisions of section 1924 of the social security act in determining the allocation of resources between the institutionalized and community spouse.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_575__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In the interest of supporting the community spouse the department or authority, as appropriate, shall allow the maximum resource allowance amount permissible under the social security act for the community spouse for persons institutionalized before August 1, 2003.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_575__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For persons institutionalized on or after August 1, 2003, the department or authority, as appropriate, in the interest of supporting the community spouse, shall allow up to a maximum of forty thousand dollars in resources for the community spouse. For the fiscal biennium beginning July 1, 2005, and each fiscal biennium thereafter, the maximum resource allowance amount for the community spouse shall be adjusted for economic trends and conditions by increasing the amount allowable by the consumer price index as published by the federal bureau of labor statistics. However, in no case shall the amount allowable exceed the maximum resource allowance permissible under the social security act.
+[
+2011 1st sp.s. c 15 s 36
+;
+2003 1st sp.s. c 28 s 1
+;
+1989 c 87 s 5
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Effective date
+—
+2003 1st sp.s. c 28:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2003.&quot; [
+2003 1st sp.s. c 28 s 2
+.]
+Effective dates
+—
+1989 c 87:
+See note following RCW
+74.09.510
+.
+Captions not law
+—
+1989 c 87:
+See note following RCW
+74.09.565
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

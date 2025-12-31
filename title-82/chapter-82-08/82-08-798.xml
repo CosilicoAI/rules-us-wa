@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.798"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.798"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.798/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.798/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.798/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.798/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_798">
+        <num>RCW 82.08.798</num>
+        <heading>Exemptions—Sales of feminine hygiene products</heading>
+        <subsection eId="sec_82_08_798__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to the sales of feminine hygiene products.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_798__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Feminine hygiene products&quot; means sanitary napkins, tampons, menstrual cups, or any other similar products sold at retail designed specifically to catch menstrual flow either internally or externally.
+[
+2020 c 350 s 3
+.]
+NOTES:
+Tax preference performance statement
+—
+2020 c 350 ss 3 and 4:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_798__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the sales and use tax exemptions for feminine hygiene products provided in sections 3 and 4, chapter 350, Laws of 2020. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility to preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_798__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes these tax preferences as one[s] intended to provide tax relief for certain individuals as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_798__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to authorize a permanent sales and use tax exemption for feminine hygiene products to reduce the tax burden on females for a product that is fundamental to personal hygiene and health.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_798__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The joint legislative audit and review committee is not required to include the tax preferences authorized in sections 3 and 4, chapter 350, Laws of 2020 as part of its normal review process of tax preferences. The tax preferences authorized in sections 3 and 4, chapter 350, Laws of 2020 will be included in the tax exemption report required under RCW
+43.06.400
+published by the department of revenue.&quot; [
+2020 c 350 s 2
+.]
+Findings
+—
+Intent
+—
+2020 c 350:
+&quot;The legislature finds that feminine hygiene products are a necessity for most females in the state. Taxing a necessary feminine hygiene product unjustly adds an additional tax burden on females that creates a tax gap between genders, requiring females to potentially pay more of their income to state taxes. The legislature further finds that taxing feminine hygiene products adds to the regressive tax burden on low-income families. The legislature further finds that feminine hygiene products are not a discretionary purchase, they are a necessity for which there is no alternative for females to maintain proper health and hygiene. Therefore, the legislature intends to provide a permanent sales and use tax exemption for feminine hygiene products.&quot; [
+2020 c 350 s 1
+.]
+Exemption from automatic expiration date of new tax preference
+—
+2020 c 350:
+&quot;The automatic expiration date provisions of RCW
+82.32.805</p>
+          </content>
+          <subsection eId="sec_82_08_798__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>do not apply to this act.&quot; [
+2020 c 350 s 5
+.]
+Effective date
+—
+2020 c 350:
+&quot;This act takes effect July 1, 2020.&quot; [
+2020 c 350 s 6
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.46.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.46.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.46.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.46.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_46_040">
+        <num>RCW 82.46.040</num>
+        <heading>Tax is lien on property—Enforcement</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.46
+&gt;
+Section 82.46.040
+82.46.037
+&lt;&lt; 
+        82.46.040 &gt;&gt;
+82.46.050
+PDF
+RCW
+82.46.040
+Tax is lien on property
+—
+Enforcement.
+Any tax imposed under this chapter or RCW
+82.46.070
+and any interest or penalties thereon is a specific lien upon each piece of real property sold from the time of sale until the tax is paid, which lien may be enforced in the manner prescribed for the foreclosure of mortgages.
+[
+1990 1st ex.s. c 17 s 39
+;
+1990 1st ex.s. c 5 s 4
+;
+1982 1st ex.s. c 49 s 14
+.]
+NOTES:
+Reviser's note:
+This section was amended by 1990 1st ex.s. c 5 s 4 and by 1990 1st ex.s. c 17 s 39, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025
+(2). For rule of construction, see RCW
+1.12.025
+(1).
+Severability
+—
+Part, section headings not law
+—
+1990 1st ex.s. c 17:
+See RCW
+36.70A.900
+and
+36.70A.901
+.
+Purpose
+—
+1990 1st ex.s. c 5:
+See note following RCW
+36.32.570
+.
+Intent
+—
+Construction
+—
+Effective date
+—
+Fire district funding
+—
+1982 1st ex.s. c 49:
+See notes following RCW
+35.21.710
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

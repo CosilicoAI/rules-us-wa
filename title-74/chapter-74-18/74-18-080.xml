@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.080"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_080">
+        <num>RCW 74.18.080</num>
+        <heading>Rehabilitation council for the blind—Meetings—Travel expenses</heading>
+        <subsection eId="sec_74_18_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The rehabilitation council for the blind shall meet officially with the director of the department quarterly to perform the duties enumerated in RCW
+74.18.090
+. Additional meetings of the rehabilitation council may be convened at the call of the chairperson or of a majority of the members. The rehabilitation council shall elect a chairperson from among its members for a term of one year or until a successor has been elected.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Rehabilitation councilmembers shall receive reimbursement for travel expenses incurred in the performance of their official duties in accordance with RCW
+43.03.050
+and
+43.03.060
+.
+[
+2000 c 57 s 2
+;
+1983 c 194 s 8
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

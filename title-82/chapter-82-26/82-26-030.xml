@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_030">
+        <num>RCW 82.26.030</num>
+        <heading>Legislative intent—Purpose</heading>
+        <subsection eId="sec_82_26_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>for moist snuff the tax will be based on the net weight listed by the manufacturer and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_26_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>in most other instances the tax will be based on the actual price that the distributor paid for the tobacco product, unless the distributor is affiliated with the seller.
+[
+2010 1st sp.s. c 22 s 7
+;
+2005 c 180 s 1
+;
+2002 c 325 s 4
+;
+1961 c 15 s 82.26.030
+. Prior:
+1959 ex.s. c 5 s 13
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2010 1st sp.s. c 22:
+See notes following RCW
+82.24.020
+.
+Effective date
+—
+2005 c 180:
+See note following RCW
+82.26.105
+.
+Effective date
+—
+2002 c 325:
+See note following RCW
+82.26.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

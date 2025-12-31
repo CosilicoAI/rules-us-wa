@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.037"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.037"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.037/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.037/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.037/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.037/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_037">
+        <num>RCW 74.09.037</num>
+        <heading>Identification card—Social security number restriction</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.037
+74.09.035
+&lt;&lt; 
+        74.09.037 &gt;&gt;
+74.09.050
+PDF
+RCW
+74.09.037
+Identification card
+—
+Social security number restriction.
+Any card issued by the authority or a managed health care system to a person receiving services under this chapter, that must be presented to providers for purposes of claims processing, may not display an identification number that includes more than a four-digit portion of the person's complete social security number.
+[
+2011 1st sp.s. c 15 s 4
+;
+2004 c 115 s 3
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

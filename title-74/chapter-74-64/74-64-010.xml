@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.64.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.64.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.64.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.64.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.64.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.64.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_64_010">
+        <num>RCW 74.64.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_64_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Authority&quot; means the Washington state health care authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_64_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Enrollee&quot; means an individual who receives benefits through a medical services program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_64_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Medical services programs&quot; means those medical programs established under chapter
+74.09
+RCW or other applicable law, including medical assistance, the limited casualty program, children's health program, medical care services, and state children's health insurance program.
+[
+2018 c 201 s 7022
+;
+2012 c 234 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

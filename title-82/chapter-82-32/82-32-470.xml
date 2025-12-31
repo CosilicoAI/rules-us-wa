@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.470"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.470"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.470/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.470/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.470/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.470/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_470">
+        <num>RCW 82.32.470</num>
+        <heading>Transfer of sales and use tax on toll projects</heading>
+        <subsection eId="sec_82_32_470__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed and collected under chapters
+82.08
+and
+82.12
+RCW, less any credits allowed under chapter
+82.14
+RCW, on initial construction for a transportation project to be constructed under chapter
+36.120
+RCW, must be transferred to the transportation project to defray costs or pay debt service on that transportation project. In the case of a toll project, this transfer or credit must be used to lower the overall cost of the project and thereby the corresponding tolls.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_470__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This transaction is exempt from the requirements in *RCW
+43.135.035</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_470__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Government entities constructing transportation projects under chapter
+36.120
+RCW shall report to the department the amount of state sales or use tax covered under this section.
+[
+2002 c 56 s 407
+.]
+NOTES:
+*Reviser's note:
+RCW
+43.135.035
+was repealed by
+2011 c 1 s 3
+(Initiative Measure No. 1053) without cognizance of its amendment by 2010 c 4 s 2. 2010 c 4 s 2 was subsequently repealed by 2013 c 1 s 3 (Initiative Measure No. 1185, approved November 6, 2012).</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

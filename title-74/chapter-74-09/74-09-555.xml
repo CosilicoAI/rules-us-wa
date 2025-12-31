@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.555"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.555"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.555/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.555/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.555/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.555/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_555">
+        <num>RCW 74.09.555</num>
+        <heading>Medical assistance—Reinstatement upon release from confinement—Expedited eligibility determinations</heading>
+        <subsection eId="sec_74_09_555__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The authority shall adopt rules and policies providing that when persons who were enrolled in medical assistance immediately prior to confinement, or who become enrolled in medical assistance in suspense status during the period of confinement, are released from confinement, their medical assistance coverage shall be fully reinstated no later than at the moment of their release, subject to any expedited review of their continued eligibility for medical assistance coverage that is required under federal or state law. The authority may reinstate medical assistance prior to the day of release provided that no federal funds are expended for any purpose that is not authorized by the state's agreements with the federal government.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_555__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority, in collaboration with the Washington association of sheriffs and police chiefs, the department of corrections, the department of children, youth, and families, managed care organizations, and behavioral health administrative services organizations, shall establish procedures for coordination between the authority and department field offices, institutions for mental disease, correctional facilities, as defined in RCW
+72.09.015
+and
+70.48.020
+, and institutions or facilities operated by the department of children, youth, and families, that result in prompt reinstatement of eligibility and speedy eligibility determinations for medical assistance services upon release from confinement. Procedures developed under this subsection must address:</p>
+          </content>
+          <subsection eId="sec_74_09_555__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Mechanisms for receiving medical assistance services applications on behalf of confined persons in anticipation of their release from confinement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_555__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Expeditious review of applications filed by or on behalf of confined persons and, to the extent practicable, completion of the review before the person is released;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_555__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Mechanisms for providing medical assistance services identity cards to persons eligible for medical assistance services before their release from confinement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_555__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Coordination with the federal social security administration, through interagency agreements or otherwise, to expedite processing of applications for federal supplemental security income or social security disability benefits, including federal acceptance of applications on behalf of confined persons; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_555__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Assuring that notification of the person's release date, current location, and other appropriate information is provided to the person's managed care organization before the person's scheduled release from confinement, or as soon as practicable thereafter.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_555__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Where medical or psychiatric examinations during a person's confinement indicate that the person is disabled, the correctional facility, institution for mental diseases, or institution or facility operated by the department of children, youth, and families, shall provide the authority with that information for purposes of making medical assistance eligibility and enrollment determinations prior to the person's release from confinement. The authority shall, to the maximum extent permitted by federal law, use the examination in making its determination whether the person is disabled and eligible for medical assistance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_555__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For purposes of this section, &quot;confined&quot; or &quot;confinement&quot; means incarcerated in a correctional facility, as defined in RCW
+72.09.015
+and
+70.48.020
+, held in an institution or facility operated by the department of children, youth, and families, or admitted to an institute for mental disease, as defined in 42 C.F.R. part 435, Sec. 1009 on July 24, 2005.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_555__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The economic services administration within the department shall adopt standardized statewide screening and application practices and forms designed to facilitate the application of a confined person for medicaid.
+[
+2025 c 12 s 3
+;
+2021 c 243 s 3
+;
+2019 c 325 s 4005
+;
+2014 c 225 s 102
+. Prior:
+2011 1st sp.s. c 36 s 32
+;
+2011 1st sp.s. c 15 s 34
+;
+2010 1st sp.s. c 8 s 30
+;
+2005 c 503 s 12
+.]
+NOTES:
+Finding
+—
+Conflict with federal requirements
+—
+2025 c 12:
+See notes following RCW
+74.09.670
+.
+Findings
+—
+2021 c 243:
+See note following RCW
+74.09.670
+.
+Effective date
+—
+2019 c 325:
+See note following RCW
+71.24.011
+.
+Effective date
+—
+2014 c 225:
+See note following RCW
+71.24.016
+.
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.
+Correction of references
+—
+Savings
+—
+Severability
+—
+2005 c 503:
+See notes following RCW
+71.24.015
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

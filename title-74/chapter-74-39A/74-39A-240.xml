@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.240"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.240"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.240/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.240/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.240/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.240/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_240">
+        <num>RCW 74.39A.240</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_39A_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Consumer&quot; means a person to whom an individual provider provides any such services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_240__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Individual provider&quot; means a person, including a personal aide, who, under an individual provider contract with the department or as an employee of a consumer directed employer, provides personal care or respite care services to persons who are functionally disabled or otherwise eligible under programs authorized and funded by the medicaid state plan, medicaid waiver programs[,] chapter
+71A.12
+RCW, RCW
+74.13.270
+, or similar state-funded in-home care programs.
+[
+2018 c 278 s 16
+;
+2011 1st sp.s. c 21 s 7
+;
+2002 c 3 s 3
+(Initiative Measure No. 775, approved November 6, 2001).]
+NOTES:
+Reviser's note:
+*</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+74.39A.220
+was repealed by
+2018 c 278 s 32
+.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This RCW reference has been corrected to reflect the reorganization of chapter
+41.56
+RCW by
+2025 c 290 s 2
+.
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.
+Effective date
+—
+2011 1st sp.s. c 21:
+See note following RCW
+72.23.025
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

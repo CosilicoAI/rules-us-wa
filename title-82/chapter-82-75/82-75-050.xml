@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.75.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.75.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.75.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.75.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_75_050">
+        <num>RCW 82.75.050</num>
+        <heading>Application of chapter  82.32 RCW</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.75
+&gt;
+Section 82.75.050
+82.75.040
+&lt;&lt; 
+        82.75.050 &gt;&gt;
+82.75.060
+PDF
+RCW
+82.75.050
+Application of chapter
+82.32
+RCW.
+Chapter
+82.32
+RCW applies to the administration of this chapter.
+[
+2006 c 178 s 6
+.]
+NOTES:
+Effective date
+—
+Severability
+—
+2006 c 178:
+See notes following RCW
+82.75.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

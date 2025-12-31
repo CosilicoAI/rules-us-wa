@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.770"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.770"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.770/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.770/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.770/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.770/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_770">
+        <num>RCW 82.32.770</num>
+        <heading>Sourcing compliance—Taxpayer relief—Collection and remittance errors</heading>
+        <subsection eId="sec_82_32_770__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding any other provision in this chapter, no interest or penalties may be imposed on any taxpayer because of errors in collecting or remitting the correct amount of local sales or use tax arising out of changes in local sales and use tax sourcing rules implemented under RCW
+82.14.490
+and section 502, chapter 6, Laws of 2007 if the taxpayer demonstrates that it made a good faith effort to comply with the sourcing rules.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_770__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The relief from penalty and interest provided by subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_770__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section only applies to taxpayers with a gross income of the business of less than five hundred thousand dollars in the prior calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_770__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The relief from penalty and interest provided by subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_770__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply with respect to sales occurring after December 31, 2012.
+[
+2009 c 289 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

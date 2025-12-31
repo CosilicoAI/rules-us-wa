@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02566"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02566"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02566/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02566/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02566/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02566/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_02566">
+        <num>RCW 82.12.02566</num>
+        <heading>Exemptions—Use of tangible personal property incorporated in prototype for aircraft parts, auxiliary equipment, and aircraft modification—Limitations on yearly exemption</heading>
+        <subsection eId="sec_82_12_02566__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter shall not apply with respect to the use of tangible personal property incorporated into a prototype for aircraft parts, auxiliary equipment, or modifications; or in respect to the use of tangible personal property that at one time is incorporated into the prototype but is later destroyed in the testing or development of the prototype.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02566__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This exemption does not apply in respect to the use of tangible personal property by any person whose total taxable amount during the immediately preceding calendar year exceeds twenty million dollars. For purposes of this section, &quot;total taxable amount&quot; means gross income of the business and value of products manufactured, less any amounts for which a credit is allowed under RCW
+82.04.440
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02566__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>State and local taxes for which an exemption is received under this section and RCW
+82.08.02566
+shall not exceed one hundred thousand dollars for any person during any calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02566__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Sellers obligated to collect use tax shall collect tax on sales subject to this exemption. The buyer shall apply for a refund directly from the department.
+[
+2003 c 168 s 209
+;
+1997 c 302 s 2
+;
+1996 c 247 s 5
+.]
+NOTES:
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Effective date
+—
+1997 c 302:
+See note following RCW
+82.08.02566
+.
+Findings
+—
+Intent
+—
+1996 c 247:
+See note following RCW
+82.08.02566
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

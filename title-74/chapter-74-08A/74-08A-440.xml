@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.440"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.440"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.440/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.440/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.440/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.440/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_440">
+        <num>RCW 74.08A.440</num>
+        <heading>Recipients exempted from active work search—Benefits eligibility</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.440
+74.08A.420
+&lt;&lt; 
+        74.08A.440 &gt;&gt;
+74.08A.500
+PDF
+RCW
+74.08A.440
+Recipients exempted from active work search
+—
+Benefits eligibility.
+Recipients exempted from active work search activities due to incapacity or a disability shall receive services for which they are eligible, including aged, blind, or disabled assistance benefits as they relate to the facilitation of enrollment in the federal supplemental security income program, referrals to essential needs and housing support benefits, access to chemical dependency treatment, referrals to vocational rehabilitation, and other services needed to assist the recipient in becoming employable. Aged, blind, or disabled assistance and essential needs and housing support benefits shall not supplant cash assistance and other services provided through the temporary assistance for needy families program. To the greatest extent possible, services shall be funded through the temporary assistance for needy families appropriations.
+[
+2011 1st sp.s. c 36 s 31
+;
+2010 1st sp.s. c 8 s 32
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2011 1st sp.s. c 36:
+See RCW
+74.62.005
+.
+Effective date
+—
+2011 1st sp.s. c 36:
+See note following RCW
+74.62.005
+.
+Findings
+—
+Intent
+—
+Short title
+—
+Effective date
+—
+2010 1st sp.s. c 8:
+See notes following RCW
+74.04.225
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

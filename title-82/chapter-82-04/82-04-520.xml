@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.520"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.520"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.520/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.520/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.520/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.520/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_520">
+        <num>RCW 82.04.520</num>
+        <heading>Administrative provisions for motor vehicle sales by courtesy dealers</heading>
+        <subsection eId="sec_82_04_520__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In the payment of the tax imposed by this chapter on new motor vehicles sold to Washington customers that are delivered to the customer through courtesy dealers located in this state, the courtesy dealer is deemed to be the agent for the selling dealer in reporting and paying the tax imposed by this chapter, unless the selling dealer is already registered and reporting and remitting taxes under this chapter. It is the duty of each courtesy dealer to pay the tax imposed by this chapter to the department when the courtesy dealer files its tax return. Each courtesy dealer who acts as the agent for the selling dealer in reporting, paying, and remitting the tax imposed by this chapter must at the time of paying and remitting its own taxes imposed by this chapter pay the tax due on the transaction under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_520__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax paid by the courtesy dealer on behalf of the selling dealer shall constitute a debt from the selling dealer to the courtesy dealer, and the courtesy dealer is authorized to withhold payment to the selling dealer out of the proceeds of the sale an amount equal to the tax imposed by this chapter. Amounts withheld by the courtesy dealer are deemed to be held in trust by the courtesy dealer until paid to the department, and any courtesy dealer who appropriates or converts the amount withheld to the courtesy dealer's own use or to any use other than the payment of the tax to the extent that the money withheld is not available for payment on the due date is guilty of a gross misdemeanor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section is construed as cumulative of other methods prescribed in chapters
+82.04
+through
+82.32
+RCW, inclusive, for the collection of the tax imposed by this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_520__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>As used in this section, &quot;courtesy dealer&quot; means any licensed new motor vehicle dealer authorized to prepare or deliver a new motor vehicle to a customer in this state. &quot;Selling dealer&quot; means a motor vehicle dealer not licensed to prepare or deliver a new motor vehicle to a customer in this state.
+[
+2001 c 258 s 2
+.]
+NOTES:
+Effective date
+—
+2001 c 258:
+See note following RCW
+82.04.422
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

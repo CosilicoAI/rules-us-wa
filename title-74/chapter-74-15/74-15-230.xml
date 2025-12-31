@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.230"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.230"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.230/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.230/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.230/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.230/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_230">
+        <num>RCW 74.15.230</num>
+        <heading>Responsible living skills programs—Established—Requirements</heading>
+        <subsection eId="sec_74_15_230__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A license issued by the secretary;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_230__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A professional with a master's degree in counseling, social work, or related field and at least one year of experience working with street youth available to serve residents or a bachelor of arts degree in social work or a related field and five years of experience working with street youth. The professional shall provide counseling services and interface with other relevant resources and systems to prepare the minor for adult living. Preference shall be given to those professionals cross-credentialed in mental health and chemical dependency;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_230__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Staff trained in development needs of older adolescents eligible to participate in responsible living skills programs as determined by the secretary;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_230__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Transitional living services and a therapeutic model of service delivery that provides necessary program supervision of residents and at the same time includes a philosophy, program structure, and treatment planning that emphasizes achievement of competency in independent living skills. Independent living skills include achieving basic educational requirements such as a high school equivalency certificate as provided in RCW
+28B.50.536
+, enrollment in vocational and technical training programs offered at the community and vocational colleges, obtaining and maintaining employment; accomplishing basic life skills such as money management, nutrition, preparing meals, and cleaning house. A baseline skill level in ability to function productively and independently shall be determined at entry. Performance shall be measured and must demonstrate improvement from involvement in the program. Each resident shall have a plan for achieving independent living skills by the time the resident leaves the placement. The plan shall be written within the first thirty days of placement and reviewed every ninety days. A resident who fails to consistently adhere to the elements of the plan shall be subject to reassessment by the professional staff of the program and may be placed outside the program; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_230__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A data collection system that measures outcomes for the population served, and enables research and evaluation that can be used for future program development and service delivery. Data collection systems must have confidentiality rules and protocols developed by the secretary.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_230__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department shall not award contracts for the operation of responsible living skills programs until HOPE center beds are operational.
+[
+2013 c 39 s 31
+;
+1999 c 267 s 13
+.]
+NOTES:
+Phase in of beds
+—
+Effective date
+—
+1999 c 267 ss 12 and 13:
+See notes following RCW
+43.185C.315
+.
+Findings
+—
+Intent
+—
+Severability
+—
+1999 c 267:
+See notes following RCW
+43.20A.790
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

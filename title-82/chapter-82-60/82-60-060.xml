@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.060"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_060">
+        <num>RCW 82.60.060</num>
+        <heading>Repayment schedule</heading>
+        <subsection eId="sec_82_60_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In the event the eligible investment project ceases to meet the requirements of this chapter, the recipient must begin paying the deferred taxes in the third year after the date certified by the department as the date on which the investment project has been operationally completed. The first payment is due on December 31st of the third calendar year after such certified date, with subsequent annual payments due on December 31st of the following four years with amounts of payment scheduled as follows:
+Repayment Year
+% of Deferred Tax Repaid
+1
+10%
+2
+15%
+3
+20%
+4
+25%
+5
+30%</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may authorize an accelerated repayment schedule upon request of the recipient.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Interest may not be charged on any taxes deferred under this chapter for the period of deferral, although all other penalties and interest applicable to delinquent excise taxes may be assessed and imposed for delinquent payments under this chapter. The debt for deferred taxes may not be extinguished by insolvency or other failure of the recipient. Transfer of ownership does not terminate the deferral. The deferral is transferred, subject to the successor meeting the eligibility requirements of this chapter, for the remaining periods of the deferral.
+[
+2023 c 374 s 16
+;
+2010 1st sp.s. c 16 s 8
+;
+2000 c 106 s 5
+;
+1985 c 232 s 5
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 16:
+See note following RCW
+82.60.010
+.
+Effective date
+—
+2000 c 106:
+See note following RCW
+82.32.330
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

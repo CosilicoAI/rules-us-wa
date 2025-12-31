@@ -1,0 +1,316 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_020">
+        <num>RCW 82.60.020</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_60_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Applicant&quot; means a person applying for a tax deferral under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of revenue.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Eligible area&quot; means:</p>
+          </content>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Through June 30, 2010, a rural county as defined in RCW
+82.14.370
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning July 1, 2010, a qualifying county.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Eligible investment project&quot; means an investment project that is located, as of the date the deferral application is received by the department, in an eligible area as defined in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Eligible investment project&quot; does not include any portion of an investment project undertaken by a light and power business as defined in RCW
+82.16.010</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; means the date that a building permit is issued under the building code adopted under RCW
+19.27.031
+for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Construction of the qualified building, if the underlying ownership of the building vests exclusively with the person receiving the economic benefit of the deferral;</p>
+            </content>
+            <subsection eId="sec_82_60_020__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Construction of the qualified building, if the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.60.025
+; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_60_020__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Tenant improvements for a qualified building, if the economic benefits of the deferral are passed to a lessee as provided in RCW
+82.60.025
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Initiation of construction&quot; does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of the building.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the investment project is a phased project, &quot;initiation of construction&quot; applies separately to each phase.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Investment project&quot; means an investment in qualified buildings or qualified machinery and equipment, including labor and services rendered in the planning, installation, and construction of the project.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Manufacturing&quot; means the same as defined in RCW
+82.04.120
+. &quot;Manufacturing&quot; also includes:</p>
+          </content>
+          <subsection eId="sec_82_60_020__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Before July 1, 2010:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Computer programming, the production of computer software, and other computer-related services, but only when the computer programming, production of computer software, or other computer-related services are performed by a manufacturer as defined in RCW
+82.04.110
+and contribute to the production of a new, different, or useful substance or article of tangible personal property for sale;</p>
+            </content>
+            <subsection eId="sec_82_60_020__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the activities performed by research and development laboratories and commercial testing laboratories; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_60_020__subsec_7__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the conditioning of vegetable seeds; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Beginning July 1, 2010:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_60_020__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The activities performed by research and development laboratories and commercial testing laboratories; and</p>
+            </content>
+            <subsection eId="sec_82_60_020__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the conditioning of vegetable seeds.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Person&quot; has the meaning given in RCW
+82.04.030
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Qualified buildings&quot; means construction of new structures, and expansion or renovation of existing structures for the purpose of increasing floor space or production capacity used for manufacturing or research and development activities, including plant offices and warehouses or other facilities for the storage of raw material or finished goods if such facilities are an essential or an integral part of a factory, mill, plant, or laboratory used for manufacturing or research and development. If a building is used partly for manufacturing or research and development and partly for other purposes, the applicable tax deferral must be determined by apportionment of the costs of construction under rules adopted by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Qualified employment position&quot; means a permanent full-time employee employed in the eligible investment project during the entire tax year. The term &quot;entire tax year&quot; means a full-time position that is filled for a period of 12 consecutive months. The term &quot;full-time&quot; means at least 35 hours a week, 455 hours a quarter, or 1,820 hours a year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Qualified machinery and equipment&quot; means all new industrial and research fixtures, equipment, and support facilities that are an integral and necessary part of a manufacturing or research and development operation. &quot;Qualified machinery and equipment&quot; includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control or operate the machinery.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Qualifying county&quot; means a county that has an unemployment rate, as determined by the employment security department, which is at least 20 percent above the state average for the three calendar years immediately preceding the year in which the list of qualifying counties is established or updated, as the case may be, as provided in RCW
+82.60.120
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Recipient&quot; means a person receiving a tax deferral under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_020__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Research and development&quot; means the development, refinement, testing, marketing, and commercialization of a product, service, or process before commercial sales have begun, but only when such activities are intended to ultimately result in the production of a new, different, or useful substance or article of tangible personal property for sale. As used in this subsection, &quot;commercial sales&quot; excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed $1,000,000.
+[
+2023 c 374 s 14
+;
+2010 1st sp.s. c 16 s 2
+;
+2010 c 114 s 138
+;
+2006 c 142 s 1
+;
+2004 c 25 s 3
+;
+1999 sp.s. c 9 s 2
+;
+1999 c 164 s 301
+;
+1996 c 290 s 4
+;
+1995 1st sp.s. c 3 s 5
+. Prior:
+1994 sp.s. c 7 s 704
+;
+1994 sp.s. c 1 s 1
+;
+1993 sp.s. c 25 s 403
+;
+1988 c 42 s 16
+;
+1986 c 116 s 12
+;
+1985 c 232 s 2
+.]
+NOTES:
+Retroactive application
+—
+2010 1st sp.s. c 16 ss 2 and 11:
+&quot;The amendments to the definitions of &quot;manufacturing&quot; and &quot;research and development&quot; in sections 2 and 11 of this act apply retroactively as well as prospectively.&quot; [
+2010 1st sp.s. c 16 s 15
+.]
+Effective date
+—
+2010 1st sp.s. c 16:
+See note following RCW
+82.60.010
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+2006 c 142:
+&quot;This act takes effect July 1, 2006.&quot; [
+2006 c 142 s 2
+.]
+Effective date
+—
+2004 c 25:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect April 1, 2004.&quot; [
+2004 c 25 s 8
+.]
+Intent
+—
+Severability
+—
+Effective date
+—
+1999 sp.s. c 9:
+See notes following RCW
+82.04.120
+.
+Savings
+—
+1999 c 164 ss 301-303, 305, 306, and 601-603:
+&quot;Sections 301 through 303, 305, 306, and 601 through 603 of this act do not affect any existing right acquired or liability or obligation under the sections amended or repealed in those sections or any rule or order adopted under those </p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

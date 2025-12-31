@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.605"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.605"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.605/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.605/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.605/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.605/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_605">
+        <num>RCW 82.32.605</num>
+        <heading>Annual tax performance report—Hog fuel. (Expires June 30, 2034.)</heading>
+        <subsection eId="sec_82_32_605__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every taxpayer claiming an exemption under RCW
+82.08.956
+or
+82.12.956
+must file with the department a complete annual tax performance report under RCW
+82.32.534
+, except that the taxpayer must file a separate tax performance report for each facility owned or operated in the state of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_605__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section expires June 30, 2034.
+[
+2023 c 341 s 4
+;
+2017 c 135 s 5
+;
+2013 2nd sp.s. c 13 s 1004
+.]
+NOTES:
+Intent
+—
+2023 c 341:
+See note following RCW
+82.08.956
+.
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Intent
+—
+Effective date
+—
+2013 2nd sp.s. c 13:
+See notes following RCW
+82.08.956
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

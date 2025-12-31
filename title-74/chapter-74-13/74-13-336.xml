@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.336"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.336"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.336/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.336/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.336/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.336/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_336">
+        <num>RCW 74.13.336</num>
+        <heading>Extended foster care services</heading>
+        <subsection eId="sec_74_13_336__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A youth who has reached age 18 years may request extended foster care services authorized under RCW
+74.13.031
+at any time before he or she reaches the age of 21 years if:</p>
+          </content>
+          <subsection eId="sec_74_13_336__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The dependency proceeding of the youth was dismissed pursuant to RCW
+13.34.267</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_336__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>at the time that he or she reached age 18 years; or</p>
+          </content>
+          <subsection eId="sec_74_13_336__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The court, after holding the dependency case open pursuant to RCW
+13.34.267</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_336__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Upon a request for extended foster care services by a youth pursuant to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_336__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, a determination that the youth is eligible for extended foster care services, and the completion of a voluntary placement agreement, the department shall provide extended foster care services to the youth.</p>
+          </content>
+          <subsection eId="sec_74_13_336__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In order to continue receiving extended foster care services after entering into a voluntary placement agreement with the department, the youth must agree to the entry of an order of dependency within 180 days of the date that the youth is placed in extended foster care pursuant to a voluntary placement agreement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_336__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A youth may enter into a voluntary placement agreement for extended foster care services. A youth becomes eligible for extended foster care services as of the date the youth either signs an extended foster care agreement or voluntary placement agreement or turns 18, whichever occurs later. A youth may sign a voluntary placement agreement or an extended foster care agreement anytime within six months of the youth's 18th birthday, in which case the agreement will take effect on the youth's 18th birthday. A youth may sign a voluntary placement agreement or agreement to participate in extended foster care at any time after turning 18. The youth may withdraw his or her consent to participate, at any time, including prior to their 18th birthday. A voluntary placement agreement may be signed by a dependent child or eligible youth over the age of 18 electronically.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_336__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A youth who is not in a licensed foster care placement upon signing an extended foster care agreement or voluntary placement agreement, and who has turned 18 years old, shall receive their first supervised independent living subsidy within one month.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_336__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department shall develop a program to make incentive payments to youth in extended foster care who participate in qualifying activities described in *RCW
+74.13.031</p>
+          </content>
+          <subsection eId="sec_74_13_336__subsec_5__subsec_b">
+            <num>(b)</num>
+          </subsection>
+          <subsection eId="sec_74_13_336__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through (v). This program design must include stakeholder engagement from impacted communities. Subject to appropriations for this specific purpose, the department shall make incentive payments to qualifying youth in addition to the supervised independent living subsidy, beginning by July 1, 2025.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_336__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Voluntary placement agreement,&quot; for the purposes of this section, means a written voluntary agreement by a youth who agrees to participate in extended foster care.
+[
+2024 c 192 s 6
+;
+2018 c 34 s 4
+;
+2013 c 332 s 5
+.]
+NOTES:
+*Reviser's note:
+74.13.031 was amended by 2024 c 298 s 8, changing subsection</p>
+          </content>
+          <subsection eId="sec_74_13_336__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.057"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.057"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.057/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.057/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.057/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.057/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_057">
+        <num>RCW 74.42.057</num>
+        <heading>Notification regarding resident likely to become medicaid eligible</heading>
+        <subsection eId="sec_74_42_057__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Assess any such resident to determine if the resident prefers and could live appropriately at home or in some other community-based setting; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_057__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Provide case management services to the resident.
+[
+1995 1st sp.s. c 18 s 8
+.]
+NOTES:
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

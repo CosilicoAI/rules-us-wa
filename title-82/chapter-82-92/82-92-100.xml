@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.92.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.92.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.92.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.92.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_92_100">
+        <num>RCW 82.92.100</num>
+        <heading>Tax deferral certificates. (Expires July 1, 2032.)</heading>
+        <subsection eId="sec_82_92_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>After receiving the conditional certificate of program approval issued by the city and provided to the department by the applicant, the department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters
+82.08
+, 82.12, and
+82.14
+RCW on each eligible investment project.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must keep a running total of all estimated sales and use tax deferrals provided under this chapter during each fiscal biennium.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_100__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The deferral certificate is valid during active construction of a qualified investment project and expires on the day the city issues a certificate of occupancy for the investment project for which a deferral certificate was issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_92_100__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2032.
+[
+2022 c 241 s 12
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 241:
+See note following RCW
+82.92.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

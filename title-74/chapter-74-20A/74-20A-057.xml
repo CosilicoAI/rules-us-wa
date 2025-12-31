@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.057"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.057"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.057/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.057/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.057/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.057/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_057">
+        <num>RCW 74.20A.057</num>
+        <heading>Jurisdiction over responsible parent</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.057
+74.20A.056
+&lt;&lt; 
+        74.20A.057 &gt;&gt;
+74.20A.059
+PDF
+RCW
+74.20A.057
+Jurisdiction over responsible parent.
+A support obligation arising under the statutes or common law of this state binds the responsible parent, present in this state, regardless of the presence or residence of the custodian or children. The obligor is presumed to have been present in the state of Washington during the period for which support is sought until otherwise shown. The department may establish an administrative order pursuant to RCW
+74.20A.055
+that is based upon any support obligation imposed or imposable under the statutes or common law of any state in which the obligor was present during the period for which support is sought.
+[
+1985 c 276 s 15
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

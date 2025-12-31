@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.680"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.680"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.680/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.680/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.680/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.680/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_680">
+        <num>RCW 82.32.680</num>
+        <heading>Tax evasion by electronic means—Search and seizure</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.680
+82.32.670
+&lt;&lt; 
+        82.32.680 &gt;&gt;
+82.32.700
+PDF
+RCW
+82.32.680
+Tax evasion by electronic means
+—
+Search and seizure.
+When the department has good reason to believe that any property subject to seizure and forfeiture under RCW
+82.32.670
+is being used or maintained in this state in violation of RCW
+82.32.290
+(4)(a), the department may make affidavit of facts describing the place or thing to be searched before any judge of any superior or district court in this state. The judge may issue a search warrant directed to a law enforcement officer or agent of the department authorized under RCW
+82.32.670
+to seize contraband, commanding him or her to diligently search any place or thing as designated in the affidavit and search warrant, and to seize such suspected contraband and hold it until disposed of as provided by RCW
+82.32.670
+.
+[
+2013 c 309 s 4
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

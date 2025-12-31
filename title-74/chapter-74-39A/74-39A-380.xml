@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.380"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.380"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.380/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.380/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.380/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.380/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_380">
+        <num>RCW 74.39A.380</num>
+        <heading>Internal quality review and accountability program for residential care services—Quality assurance panel—Report</heading>
+        <subsection eId="sec_74_39A_380__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to funding provided for this specific purpose, the department of social and health services shall develop for phased-in implementation a statewide internal quality review and accountability program for residential care services. The program must be designed to enable the department to improve the accountability of staff and the consistent application of investigative activities across all long-term care settings, and must allow the systematic monitoring and evaluation of long-term care licensing and certification. The program must be designed to improve and standardize investigative outcomes for the vulnerable individuals at risk of abuse and neglect, and coordinate outcomes across the department to prevent perpetrators from changing settings and continuing to work with vulnerable adults.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_380__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall convene a quality assurance panel to review problems in the quality of care in adult family homes and to reduce incidents of abuse, neglect, abandonment, and financial exploitation. The state's long-term care ombuds shall chair the panel and identify appropriate stakeholders to participate. The panel must consider inspection, investigation, public complaint, and enforcement issues that relate to adult family homes. The panel must also focus on oversight issues to address de minimis violations, processes for handling unresolved citations, and better ways to oversee new providers. The panel shall meet at least quarterly, and provide a report with recommendations to the governor's office, the senate health and long-term care committee, and the house of representatives health and wellness committee by December 1, 2012.
+[
+2013 c 23 s 228
+;
+2011 1st sp.s. c 3 s 502
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2011 1st sp.s. c 3:
+See note following RCW
+70.128.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

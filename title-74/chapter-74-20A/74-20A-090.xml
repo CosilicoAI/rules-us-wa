@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.090"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_090">
+        <num>RCW 74.20A.090</num>
+        <heading>Certain amount of earnings exempt from lien or order—&quot;Earnings&quot; and &quot;disposable earnings&quot; defined</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.090
+74.20A.080
+&lt;&lt; 
+        74.20A.090 &gt;&gt;
+74.20A.095
+PDF
+RCW
+74.20A.090
+Certain amount of earnings exempt from lien or order
+—
+&quot;Earnings&quot; and &quot;disposable earnings&quot; defined.
+Whenever a support lien or order to withhold and deliver is served upon any person, firm, corporation, association, political subdivision, or department of the state asserting a support debt against earnings and there is in the possession of such person, firm, corporation, association, political subdivision, or department of the state, any such earnings, RCW
+6.27.150
+shall not apply, but fifty percent of the disposable earnings shall be exempt and may be disbursed to the debtor whether such earnings are paid, or to be paid weekly, monthly, or at other intervals and whether there be due the debtor earnings for one week or for a longer period. The lien or order to withhold and deliver shall continue to operate and require said person, firm, corporation, association, political subdivision, or department of the state to withhold the nonexempt portion of earnings at each succeeding earnings disbursement interval until the entire amount of the support debt stated in the lien or order to withhold and deliver has been withheld. As used in this chapter, the term &quot;earnings&quot; means compensation paid or payable for personal services, whether denominated as wages, salary, commission, bonus, or otherwise, and, notwithstanding any other provision of law making such payments exempt from garnishment, attachment, or other process to satisfy support obligation, specifically includes periodic payments pursuant to pension or retirement programs, or insurance policies of any type, but does not include payments made under Title
+50
+RCW, except as provided in RCW
+50.40.020
+and
+50.40.050
+or Title
+74
+RCW. Earnings shall specifically include all gain derived from capital, from labor, or from both combined, not including profit gained through sale or conversion of capital assets. The term &quot;disposable earnings&quot; means that part of the earnings of any individual remaining after the deduction from those earnings of any amount required by law to be withheld.
+[
+1982 1st ex.s. c 18 s 12
+. Prior:
+1982 c 201 s 21
+;
+1979 ex.s. c 171 s 10
+;
+1973 1st ex.s. c 183 s 10
+;
+1971 ex.s. c 164 s 9
+.]
+NOTES:
+Severability
+—
+Conflict with federal requirements
+—
+1982 1st ex.s. c 18:
+See notes following RCW
+50.12.200
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

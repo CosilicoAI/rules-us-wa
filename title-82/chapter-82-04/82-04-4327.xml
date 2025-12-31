@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4327"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4327"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4327/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4327/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4327/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4327/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4327">
+        <num>RCW 82.04.4327</num>
+        <heading>Deductions—Artistic and cultural organizations</heading>
+        <subsection eId="sec_82_04_4327__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>All amounts received by the artistic or cultural organization; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4327__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The value of articles manufactured by the artistic or cultural organization solely for use by the organization in displaying art objects or presenting artistic or cultural exhibitions, performances, or programs for attendance or viewing by the general public.
+[
+2020 c 139 s 8
+;
+1985 c 471 s 6
+.]
+NOTES:
+Severability
+—
+Effective date
+—
+1985 c 471:
+See notes following RCW
+82.04.260
+.
+&quot;Artistic or cultural organization&quot; defined: RCW
+82.04.4328
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.94.030"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.94.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.94.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_94_030">
+        <num>RCW 82.94.030</num>
+        <heading>Tax deferral certificates. (Expires July 1, 2032.)</heading>
+        <subsection eId="sec_82_94_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters
+82.08
+, 82.12, and
+82.14
+RCW on each eligible investment project.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_94_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must keep a running total of all deferrals granted under this chapter during each fiscal biennium. The amount of state and local sales and use taxes eligible for deferral under this chapter is limited to $400,000 per person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_94_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires July 1, 2032.
+[
+2022 c 257 s 104
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

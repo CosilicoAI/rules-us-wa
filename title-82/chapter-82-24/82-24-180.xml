@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.180"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_180">
+        <num>RCW 82.24.180</num>
+        <heading>Seized property may be returned—Penalty, interest</heading>
+        <subsection eId="sec_82_24_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department of revenue may return any property seized under the provisions of this chapter when it is shown that there was no intention to violate the provisions thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>When any property is returned under this section, the department may return such goods to the parties from whom they were seized if and when such parties affix the proper amount of stamps thereto, and pay to the department as penalty an amount equal to the greater of ten dollars per package of unstamped cigarettes or ten dollars per twenty roll-your-own cigarettes, or two hundred fifty dollars, and interest on the amount of the tax at the rate as computed under RCW
+82.32.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>from the date the tax became due until the date of payment, and in such cases, no advertisement shall be made or notices posted in connection with said seizure.
+[
+2012 2nd sp.s. c 4 s 9
+;
+1996 c 149 s 8
+;
+1990 c 267 s 2
+;
+1975 1st ex.s. c 278 s 66
+;
+1961 c 15 s 82.24.180
+. Prior:
+1935 c 180 s 90
+; RRS s 8370-90.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Findings
+—
+Intent
+—
+Effective date
+—
+1996 c 149:
+See notes following RCW
+82.32.050
+.
+Effective date
+—
+1990 c 267:
+See note following RCW
+82.24.120
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.29002"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.29002"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.29002/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.29002/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.29002/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.29002/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_29002">
+        <num>RCW 82.04.29002</num>
+        <heading>Additional tax on certain business and service activities</heading>
+        <subsection eId="sec_82_04_29002__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning May 1, 2010, through June 30, 2013, an additional rate of tax of 0.30 percent is added to the rate provided for in RCW
+82.04.255
+,
+82.04.285
+, and
+82.04.290</p>
+          </content>
+          <subsection eId="sec_82_04_29002__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The additional rate in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_29002__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to persons engaging within this state in business as a hospital. &quot;Hospital&quot; has the meaning provided in chapter
+70.41
+RCW but also includes any hospital that comes within the scope of chapter
+71.12
+RCW if the hospital is also licensed under chapter
+70.41
+RCW.</p>
+          </content>
+          <subsection eId="sec_82_04_29002__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The additional rate in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_29002__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to amounts received from performing scientific research and development services including but not limited to research and development in the physical, engineering, and life sciences (such as agriculture, bacteriological, biotechnology, chemical, life sciences, and physical science research and development laboratories or services).
+[
+2010 1st sp.s. c 23 s 1101
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.32.655
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

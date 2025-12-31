@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.480"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.480"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.480/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.480/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.480/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.480/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_480">
+        <num>RCW 82.32.480</num>
+        <heading>Washington forest products commission—Disclosure of taxpayer information</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.480
+82.32.470
+&lt;&lt; 
+        82.32.480 &gt;&gt;
+82.32.490
+PDF
+RCW
+82.32.480
+Washington forest products commission
+—
+Disclosure of taxpayer information.
+The forest products commission, created pursuant to chapter
+15.100
+RCW, constitutes a state agency for purposes of applying the exemption contained in RCW
+82.32.330
+(3)(e) for the disclosure of taxpayer information by the department. Disclosure of return or tax information may be made only to employees of the commission and not to commission members. Employees are authorized to use this information in accordance with RCW
+15.100.100
+(4). Employees are subject to all civil and criminal penalties provided under RCW
+82.32.330
+for disclosures made to another person not entitled under the provisions of this section or RCW
+15.100.100
+to knowledge of such information.
+[
+2010 c 106 s 105
+;
+2001 c 314 s 20
+.]
+NOTES:
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Findings
+—
+Construction
+—
+2001 c 314:
+See RCW
+15.100.010
+and
+15.100.900
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

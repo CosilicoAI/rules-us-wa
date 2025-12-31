@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39.070"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39_070">
+        <num>RCW 74.39.070</num>
+        <heading>Personal aide—Qualification exemptions</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.39
+&gt;
+Section 74.39.070
+74.39.050
+&lt;&lt; 
+        74.39.070 &gt;&gt;
+End of Chapter
+PDF
+RCW
+74.39.070
+Personal aide
+—
+Qualification exemptions.
+A personal aide, in the performance of a health care task, who is directed and supervised by a person with a functional disability in his or her own home, is exempt from any legal requirement to qualify and be credentialed by the department of health as a health care provider under Title
+18
+RCW to the extent of the responsibilities provided and health care tasks performed under chapter 336, Laws of 1999. Nothing in this section exempts an individual provider from being required to become a certified home care aide under chapter
+18.88B
+RCW.
+[
+2022 c 86 s 3
+;
+1999 c 336 s 8
+.]
+NOTES:
+Finding
+—
+Intent
+—
+1999 c 336:
+See note following RCW
+74.39.007
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

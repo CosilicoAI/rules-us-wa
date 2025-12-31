@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0495"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0495"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0495/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0495/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0495/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0495/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_0495">
+        <num>RCW 82.16.0495</num>
+        <heading>Credit—Electricity sold to a direct service industrial customer</heading>
+        <subsection eId="sec_82_16_0495__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Unless the context clearly requires otherwise, the definitions in this subsection apply throughout this section.</p>
+          </content>
+          <subsection eId="sec_82_16_0495__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Direct service industrial customer&quot; means a person who is an industrial customer that contracts for the purchase of power from the Bonneville Power Administration for direct consumption as of May 8, 2001. &quot;Direct service industrial customer&quot; includes a person who is a subsidiary that is more than fifty percent owned by a direct service industrial customer and who receives power from the Bonneville Power Administration pursuant to the parent's contract for power.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0495__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Facility&quot; means a gas turbine electrical generation facility that does not exist on May 8, 2001.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0495__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Average annual employment&quot; means the total employment in this state for a calendar year at the direct service industrial customer's location where electricity from the facility will be consumed.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0495__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Effective July 1, 2001, a credit is allowed against the tax due under this chapter on sales of electricity made from a facility to a direct service industrial customer if the contract for sale of electricity to a direct service industrial customer contains the following terms:</p>
+          </content>
+          <subsection eId="sec_82_16_0495__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Sales of electricity from the facility to the direct service industrial customer will be made for ten consecutive years or more;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0495__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The price charged for the electricity will be reduced by an amount equal to the tax credit; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0495__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Disallowance of all or part of the credit under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0495__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section is a breach of contract and the damages to be paid by the direct service industrial customer to the facility are the amount of tax credit disallowed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0495__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The credit is equal to the gross proceeds from the sale of the electricity to a direct service industrial customer multiplied by the rate in effect at the time of the sale for the public utility tax on light and power businesses under RCW
+82.16.020
+. The credit may be used each reporting period for sixty months following the first month electricity is sold from a facility to a direct service industrial customer. Credit under this section is limited to the amount of tax imposed under this chapter. Refunds shall not be given in place of credits and credits may not be carried over to subsequent calendar years.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0495__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Application for credit shall be made before the first sale of electricity from a facility to a direct service industrial customer. The application shall be in a form and manner prescribed by the department and shall include but is not limited to information regarding the location of the facility, identification of the direct service industrial customer who will receive electricity from the facility, the projected date of the first sale of electricity to a direct service industrial customer, the date construction is projected to begin or did begin, and the average annual employment in the state of the direct service industrial customer who will receive electricity from the facility for the six calendar years immediately preceding the year in which the application is made. A copy of the contract for sale of electricity must be attached to the application. The department shall rule on the application within thirty days of receipt.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0495__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>All or part of the credit shall be disallowed and must be paid if the average of the direct service industrial customer's average annual employment for the five calendar years subsequent to the calendar year containing the first month of sale of electricity from a facility to a direct service industrial customer is less than the six-year average annual employment stated on the application for credit under this section. The direct service industrial customer shall certify to the department and to the facility by June 1st of the sixth calendar year following the calendar year in which the month of first sale occurs the average annual employment for each of the five prior calendar years. All or part of the credit that shall be disallowed and must be paid is commensurate with the decrease in the five-year average of average annual employment as follows:
+Decrease in Average Annual
+Employment Over
+Five-Year Period
+% of Credit to be Paid
+Less than 10%
+10%
+10% or more but less than 25%
+25%
+25% or more but less than 50%
+50%
+50% or more but less than 75%
+75%
+75% or more
+100%</p>
+          </content>
+          <subsection eId="sec_82_16_0495__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Payments on credit that is disallowed shall begin in the sixth calendar year following the calendar year in which the month following the first month of sale of electricity from a facility to a direct service industrial customer occurs. The first payment will be due on or before December 31st with subsequent annual payments due on or before December 31st of the following four years according to the schedule in this subsection.
+Payment Year
+% of Credit to be Paid
+1
+10%
+2
+15%
+3
+20%
+4
+25%
+5
+30%</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0495__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may authorize an accelerated payment schedule upon request of the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0495__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Interest shall not be charged on the credit that is disallowed for the sixty-month period the credit may be taken, although all other penalties and interest applicable to delinquent excise taxes may be assessed and imposed. The debt for credit that is disallowed and must be paid will not be extinguished by insolvency or other failure of the taxpayer. Transfer of ownership of the facility does not affect eligibility for this credit. However, the credit is available to the successor only if the eligibility conditions of this section are met.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0495__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The employment security department shall make, and certify to the department of revenue, all determinations of employment under this section as requested by the department.
+[
+2001 c 214 s 11
+.]
+NOTES:
+Severability
+—
+Effective date
+—
+2001 c 214:
+See notes following RCW
+80.50.010
+.
+Findings
+—
+2001 c 214:
+See note following RCW
+39.35.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9891"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9891"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9891/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9891/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9891/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9891/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_9891">
+        <num>RCW 82.08.9891</num>
+        <heading>Internet and telecommunications infrastructure—Labor agreements. (Expires January 1, 2030.)</heading>
+        <subsection eId="sec_82_08_9891__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In order to obtain the exemption provided in chapter 355, Laws of 2023, a qualified infrastructure project owner must certify to the department of labor and industries that the work performed on the qualified infrastructure project by the prime contractor and its subcontractors was performed under the terms of a community workforce agreement or project labor agreement negotiated prior to the start of the qualified infrastructure project. The agreements must include worker compensation requirements consistent with the payment of area standard prevailing wages in accordance with chapter
+39.12
+RCW, apprenticeship utilization requirements, and tribal employment and contracting opportunities, provided the following:</p>
+          </content>
+          <subsection eId="sec_82_08_9891__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The owner and the prime contractor and all of its subcontractors regardless of tier have the absolute right to select any qualified and responsible bidder for the award of contracts on a specified project without reference to the existence or nonexistence of any agreements between such bidder and any party to such project labor agreement, and only when such bidder is willing, ready, and able to become a party to, signs a letter of assent, and complies with such agreement or agreements, should it be designated the successful bidder; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_9891__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>It is understood that this is a self-contained, stand-alone agreement, and that by virtue of having become bound to such agreement or agreements, neither the project contractor nor the subcontractors are obligated to sign any other local, area, or national agreement.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_9891__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section expires January 1, 2030.
+[
+2023 c 355 s 3
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Effective date
+—
+2023 c 355:
+See notes following RCW
+82.08.989
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

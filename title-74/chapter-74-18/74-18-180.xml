@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.180"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_180">
+        <num>RCW 74.18.180</num>
+        <heading>Services for independent living</heading>
+        <subsection eId="sec_74_18_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department may provide a program of independent living services for blind persons who are not seeking vocational rehabilitation services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Independent living services may include, but are not limited to, instruction in adaptive skills of blindness, counseling regarding adjustment to vision loss, and provision of adaptive devices that enable service recipients to participate in the community and maintain or increase their independence.
+[
+2003 c 409 s 17
+;
+1983 c 194 s 18
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.311"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.311"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.311/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.311/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.311/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.311/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_311">
+        <num>RCW 82.04.311</num>
+        <heading>Exemptions—Tobacco settlement authority</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.311
+82.04.310
+&lt;&lt; 
+        82.04.311 &gt;&gt;
+82.04.315
+PDF
+RCW
+82.04.311
+Exemptions
+—
+Tobacco settlement authority.
+This chapter does not apply to income received by the tobacco settlement authority under chapter
+43.340
+RCW.
+[
+2002 c 365 s 14
+.]
+NOTES:
+Effective date
+—
+2002 c 365:
+See RCW
+43.340.902
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

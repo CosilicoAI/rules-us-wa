@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.250"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_250">
+        <num>RCW 82.50.250</num>
+        <heading>Term &quot;house trailer&quot; construed</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.50
+&gt;
+Section 82.50.250
+82.50.170
+&lt;&lt; 
+        82.50.250 &gt;&gt;
+82.50.425
+PDF
+RCW
+82.50.250
+Term &quot;house trailer&quot; construed.
+Whenever this chapter refers to chapter
+46.12
+, 46.16A, or
+82.44
+RCW, with references to &quot;house trailers&quot;, the term &quot;house trailer&quot; as used in those chapters shall be construed to include and embrace &quot;mobile home and travel trailer&quot; as used in chapter 149, Laws of 1967 ex. sess.
+[
+2011 c 171 s 124
+;
+1967 ex.s. c 149 s 59
+.]
+NOTES:
+Reviser's note:
+See note following RCW
+82.50.010
+.
+Intent
+—
+Effective date
+—
+2011 c 171:
+See notes following RCW
+4.24.210
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

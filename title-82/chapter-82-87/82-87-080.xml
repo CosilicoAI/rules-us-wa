@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.080"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_080">
+        <num>RCW 82.87.080</num>
+        <heading>Charitable donation deduction</heading>
+        <subsection eId="sec_82_87_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax under this chapter for a taxable year, a taxpayer may deduct from the person's Washington capital gains the amount donated by the taxpayer to one or more qualified organizations during the same taxable year in excess of the minimum qualifying charitable donation amount. For the purposes of this section, the minimum qualifying charitable donation amount equals $250,000. The minimum qualifying charitable donation amount under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>shall be adjusted pursuant to RCW
+82.87.150
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The deduction authorized under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section may not exceed $100,000 for the taxable year. The maximum amount of the available deduction under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>shall be adjusted pursuant to RCW
+82.87.150
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The deduction authorized under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section may not be carried forward or backward to another tax reporting period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For the purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_87_080__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Nonprofit organization&quot; means an organization exempt from tax under Title 26 U.S.C. Sec. 501(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_080__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the internal revenue code.</p>
+          </content>
+          <subsection eId="sec_82_87_080__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Principally directed and managed&quot; means the place where a qualified organization's activities are primarily directed, controlled, and coordinated.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_080__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Qualified organization&quot; means a nonprofit organization, or any other organization, that is:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_080__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Eligible to receive a charitable contribution as defined in Title 26 U.S.C. Sec. 170</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_080__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the internal revenue code; and</p>
+            </content>
+            <subsection eId="sec_82_87_080__subsec_3__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Principally directed and managed within the state of Washington.
+[
+2025 c 409 s 7
+;
+2021 c 196 s 9
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

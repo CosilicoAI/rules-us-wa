@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.070"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_070">
+        <num>RCW 74.34.070</num>
+        <heading>Cooperative agreements for services</heading>
+        <subsection eId="sec_74_34_070__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The appropriate roles and responsibilities of the department and community-based agencies in identifying and responding to reports of alleged abuse;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_070__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the provision of case-management services;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_070__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>standardized data collection procedures; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_34_070__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>related coordination activities.
+[
+1999 c 176 s 10
+;
+1997 c 386 s 35
+;
+1995 1st sp.s. c 18 s 87
+;
+1984 c 97 s 13
+.]
+NOTES:
+Findings
+—
+Purpose
+—
+Severability
+—
+Conflict with federal requirements
+—
+1999 c 176:
+See notes following RCW
+74.34.005
+.
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.390"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.390"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.390/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.390/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.390/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.390/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_390">
+        <num>RCW 74.09.390</num>
+        <heading>Access to baby and child dentistry program—Coverage for eligible children—Authority's duties—Report to legislature</heading>
+        <subsection eId="sec_74_09_390__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, the authority shall expand the access to baby and child dentistry (ABCD) program to include eligible children as clients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_390__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Once enrolled in the program, eligible children must be covered until their thirteenth birthday.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_390__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Eligible children enrolled in the program shall receive all services and benefits received by program clients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_390__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The authority shall pay enhanced fees for program services provided to eligible children enrolled in the program to dentists, primary care providers, and dental hygienists certified to provide program services. To receive certification to provide program services to eligible children, a dentist, primary care provider, or dental hygienist must:</p>
+          </content>
+          <subsection eId="sec_74_09_390__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Be licensed under Title
+18
+RCW; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_390__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Complete a course on treating eligible children as defined by the authority in rule.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_390__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>On or before December 15, 2020, and on or before December 15, 2021, the authority, in consultation with any organizations administering the program, shall provide a report, in compliance with RCW
+43.01.036
+, to the health care and fiscal committees of the legislature, to include:</p>
+          </content>
+          <subsection eId="sec_74_09_390__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The number of dentists, primary care providers, and dental hygienists participating in the program; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_390__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The number of eligible children who received treatment through the program.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_390__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For purposes of this section:</p>
+          </content>
+          <subsection eId="sec_74_09_390__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Eligible children&quot; means all individuals who meet clinical criteria established by the authority, who are under the age of thirteen with a disability attributable to intellectual disability, cerebral palsy, epilepsy, autism, or another neurological condition closely related to an intellectual disability or that requires treatment similar to that required for persons with intellectual disabilities, which has continued or can be expected to continue indefinitely, and which constitutes a substantial limitation to such individual, who are eligible for one of the following medical assistance programs:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_390__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Categorically needy program;</p>
+            </content>
+            <subsection eId="sec_74_09_390__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Limited casualty program-medically needy program;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_390__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Children's health program; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_390__subsec_6__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>State children's health insurance program.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_390__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Program&quot; means the access to baby and child dentistry program as established by WAC 182-535-1245 or successor rule.
+[
+2020 c 242 s 1
+;
+2018 c 156 s 1
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

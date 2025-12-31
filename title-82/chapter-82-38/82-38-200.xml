@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.200"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_200">
+        <num>RCW 82.38.200</num>
+        <heading>Suits for recovery of taxes illegally or erroneously collected</heading>
+        <subsection eId="sec_82_38_200__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>No suit or proceeding shall be maintained in any court for the recovery of any amount alleged to have been overpaid under RCW
+82.38.180
+unless a claim for refund or credit has been duly filed pursuant to RCW
+82.38.190
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_200__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Within ninety days after the mailing of the notice of the department's action upon a claim filed pursuant to RCW
+82.38.190
+, the claimant may bring an action against the department on the grounds set forth in the claim in a court of competent jurisdiction in Thurston county for the recovery of the whole or any part of the amount with respect to which the claim has been disallowed. Failure to bring action within the time specified constitutes a waiver of any demand against the state on account of the alleged overpayments.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_200__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the department fails to mail notice of action on a claim within six months after the claim is filed, the claimant may, prior to the mailing of notice by the department of its intention on the claim, consider the claim disallowed and bring an action against the department, on the grounds set forth in the claim for the recovery of the whole or any part of the amount claimed as an overpayment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_200__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If judgment is rendered for the plaintiff, the amount of the judgment shall first be credited on any special fuel tax due and payable from the plaintiff. The balance of the judgment shall be refunded to the plaintiff.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_200__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In any judgment, interest shall be allowed at the rate of twelve percent per annum upon the amount found to have been illegally collected from the date of payment of the amount to the date of allowance of credit on account of the judgment or to a date preceding the date of the refund warrant, but not more than thirty days, the date to be determined by the department.
+[
+1971 ex.s. c 175 s 21
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

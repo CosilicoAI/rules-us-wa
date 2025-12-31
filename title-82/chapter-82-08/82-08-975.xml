@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.975"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.975"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.975/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.975/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.975/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.975/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_975">
+        <num>RCW 82.08.975</num>
+        <heading>Exemptions—Computer parts and software related to the manufacture of commercial airplanes. (Expires July 1, 2040.)</heading>
+        <subsection eId="sec_82_08_975__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of computer hardware, computer peripherals, or software, not otherwise eligible for exemption under RCW
+82.08.02565
+, used primarily in the development, design, and engineering of aerospace products or in providing aerospace services, or to sales of or charges made for labor and services rendered in respect to installing the computer hardware, computer peripherals, or software.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_975__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption is available only when the buyer provides the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_975__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_975__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Aerospace products&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_975__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Commercial airplanes and their components;</p>
+            </content>
+            <subsection eId="sec_82_08_975__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Machinery and equipment that is designed and used primarily for the maintenance, repair, overhaul, or refurbishing of commercial airplanes or their components by federal aviation regulation part 145 certificated repair stations; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_975__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Tooling specifically designed for use in manufacturing commercial airplanes or their components.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_975__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Aerospace services&quot; means the maintenance, repair, overhaul, or refurbishing of commercial airplanes or their components, but only when such services are performed by a FAR part 145 certificated repair station.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_975__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Commercial airplane&quot; and &quot;component&quot; have the same meanings provided in RCW
+82.32.550
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_975__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Peripherals&quot; includes keyboards, monitors, mouse devices, and other accessories that operate outside of the computer, excluding cables, conduit, wiring, and other similar property.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_975__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2040.
+[
+2013 3rd sp.s. c 2 s 11
+;
+2008 c 81 s 2
+;
+2003 2nd sp.s. c 1 s 9
+.]
+NOTES:
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Findings
+—
+2008 c 81:
+&quot;The legislature finds that the aerospace industry provides good wages and benefits for the thousands of engineers, mechanics, support staff, and other employees working directly in the industry throughout the state. The legislature further finds that suppliers and vendors that support the aerospace industry in turn provide a range of well-paying jobs. In 2003, and again in 2006, the legislature determined it was in the public interest to encourage the continued presence of this industry through the provision of tax incentives.
+However, the legislature recognizes that key elements of Washington's aerospace industry cluster were afforded few, if any, of the aerospace tax incentives enacted in 2003 and 2006. The comprehensive tax incentives in this act are intended to more comprehensively address the cost of doing business in Washington state compared to locations in other states for a larger segment of the aerospace industry cluster.&quot; [
+2008 c 81 s 1
+.]
+Savings
+—
+2008 c 81:
+&quot;This act does not affect any existing right acquired or liability or obligation incurred under the sections amended or repealed in this act or under any rule or order adopted under those sections, nor does it affect any proceeding instituted under those sections.&quot; [
+2008 c 81 s 17
+.]
+Effective date
+—
+2008 c 81:
+&quot;This act takes effect July 1, 2008.&quot; [
+2008 c 81 s 18
+.]
+Finding
+—
+2003 2nd sp.s. c 1:
+See note following RCW
+82.04.4461
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.291"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.291"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.291/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.291/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.291/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.291/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_291">
+        <num>RCW 82.32.291</num>
+        <heading>Reseller permit—Unlawful use—Penalty—Rules</heading>
+        <subsection eId="sec_82_32_291__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, if any buyer improperly uses a reseller permit number, reseller permit, or other documentation authorized under RCW
+82.04.470
+to purchase items or services at retail without payment of sales tax that was legally due on the purchase, the department must assess against that buyer a penalty of fifty percent of the tax due, in addition to all other taxes, penalties, and interest due, on the improperly purchased item or service.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_291__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must waive the penalty imposed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_291__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section if it finds that the use of the reseller permit number, reseller permit, or other documentation authorized under RCW
+82.04.470
+was due to circumstances beyond the taxpayer's control or if the reseller permit number, reseller permit, or other documentation authorized under RCW
+82.04.470
+was properly used for purchases for dual purposes. The department must define by rule what circumstances are considered to be beyond the taxpayer's control.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_291__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A buyer that purchases items or services at retail without payment of sales tax legally due on the purchase is deemed to have improperly used a reseller permit number, reseller permit, or other documentation authorized under RCW
+82.04.470
+to purchase the items or services without payment of sales tax and is subject to the penalty in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_291__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section if the buyer:</p>
+          </content>
+          <subsection eId="sec_82_32_291__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Furnished to the seller a reseller permit number, a reseller permit or copy of a reseller permit, or other documentation authorized under RCW
+82.04.470
+to avoid payment of sales tax legally due on the purchase; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_291__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Made the purchase from a seller that had previously used electronic means to verify the validity of the buyer's reseller permit with the department and, as a result, did not require the buyer to provide a copy of its reseller permit or furnish other documentation authorized under RCW
+82.04.470
+to document the wholesale nature of the purchase. In such cases, the buyer bears the burden of proving that it did not improperly use its reseller permit to make the purchase without payment of sales tax.
+[
+2010 c 112 s 12
+. Prior:
+2009 c 563 s 212
+;
+2009 c 289 s 4
+;
+1993 sp.s. c 25 s 703
+.]
+NOTES:
+Effective date
+—
+2010 c 112 ss 2, 3, 11, 12, and 15:
+See note following RCW
+82.32.780
+.
+Retroactive application
+—
+2010 c 112:
+See note following RCW
+82.32.780
+.
+Finding
+—
+Intent
+—
+Construction
+—
+Effective date
+—
+Reports and recommendations
+—
+2009 c 563:
+See notes following RCW
+82.32.780
+.
+Severability
+—
+Effective dates
+—
+Part headings, captions not law
+—
+1993 sp.s. c 25:
+See notes following RCW
+82.04.230
+.
+Seller's permit and uniform exemption certificate: RCW
+82.04.470
+and
+82.08.130
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

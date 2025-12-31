@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.541"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.541"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.541/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.541/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.541/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.541/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_541">
+        <num>RCW 74.04.541</num>
+        <heading>Supplemental nutrition assistance program benefits—Distribution dates</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.541
+74.04.535
+&lt;&lt; 
+        74.04.541 &gt;&gt;
+74.04.600
+PDF
+RCW
+74.04.541
+Supplemental nutrition assistance program benefits
+—
+Distribution dates.
+Beginning February 1, 2017, the department must expand the dates it distributes supplemental nutrition assistance program benefits from the first through the tenth of every month, to the first through the twentieth of every month.
+[
+2016 c 54 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

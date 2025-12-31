@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.301"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.301"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.301/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.301/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.301/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.301/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_301">
+        <num>RCW 82.04.301</num>
+        <heading>Exemptions—Certain hospitals. (Expires January 1, 2030.)</heading>
+        <subsection eId="sec_82_04_301__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to any person engaging within this state in business as a hospital, as defined in chapter
+70.41
+RCW, that is owned by a county with a population greater than two million and that is managed by a state university.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_301__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section expires January 1, 2030.
+[
+2019 c 451 s 2
+.]
+NOTES:
+Tax preference performance statement
+—
+2019 c 451:
+&quot;This section is the tax preference performance statement for the tax preference contained in section 2, chapter 451, Laws of 2019. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_301__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to provide tax relief to certain eligible businesses, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_301__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The joint legislative audit and review committee is directed to evaluate the role eligible hospitals play as safety net providers, using metrics including but not limited to:</p>
+          </content>
+          <subsection eId="sec_82_04_301__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The monetary value of the following services provided by each eligible hospital:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_301__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Uncompensated care, by category of health care services; and</p>
+            </content>
+            <subsection eId="sec_82_04_301__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Medicaid and medicare funded treatment, by category of health care services;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_301__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Percentage and count of all clients served by each eligible hospital, by category of health care services, who:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_301__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Receive uncompensated care; and</p>
+            </content>
+            <subsection eId="sec_82_04_301__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Use medicare or medicaid to pay for treatment; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_301__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Percentage and count of all clients served in all hospitals in Washington who:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_301__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Receive uncompensated care from an eligible hospital, by category of health care services;</p>
+            </content>
+            <subsection eId="sec_82_04_301__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Use medicare and medicaid to pay for treatment from an eligible hospital, by category of health care services; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_301__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Receive uncompensated trauma care from an eligible hospital.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_301__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section, &quot;eligible hospital&quot; means a taxpayer claiming the tax preference provided in section 2, chapter 451, Laws of 2019.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_301__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in this section, the joint legislative audit and review committee may refer to data from the health care authority and the department of health, as well as any other available data sources.&quot; [
+2019 c 451 s 1
+.]
+Effective date
+—
+2019 c 451:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2019.&quot; [
+2019 c 451 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_010">
+        <num>RCW 74.15.010</num>
+        <heading>Declaration of purpose</heading>
+        <subsection eId="sec_74_15_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To safeguard the health, safety, and well-being of children, expectant mothers and developmentally disabled persons receiving care away from their own homes, which is paramount over the right of any person to provide care;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To strengthen and encourage family unity and to sustain parental rights and responsibilities to the end that foster care is provided only when a child's family, through the use of all available resources, is unable to provide necessary care;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To promote the development of a sufficient number and variety of adequate foster family homes and maternity-care facilities, both public and private, through the cooperative efforts of public agencies and related groups;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To provide consultation to agencies caring for children, expectant mothers or developmentally disabled persons in order to help them to improve their methods of and facilities for care;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>To license agencies as defined in RCW
+74.15.020
+and to assure the users of such agencies, their parents, the community at large and the agencies themselves that adequate minimum standards are maintained by all agencies caring for children, expectant mothers and developmentally disabled persons.
+[
+2018 c 284 s 65
+;
+2009 c 520 s 12
+;
+1995 c 302 s 2
+;
+1983 c 3 s 192
+;
+1977 ex.s. c 80 s 70
+;
+1967 c 172 s 1
+.]
+NOTES:
+Intent
+—
+1995 c 302:
+&quot;The legislature declares that the state of Washington has a compelling interest in protecting and promoting the health, welfare, and safety of children, including those who receive care away from their own homes. The legislature further declares that no person or agency has a right to be licensed under this chapter to provide care for children. The health, safety, and well-being of children must be the paramount concern in determining whether to issue a license to an applicant, whether to suspend or revoke a license, and whether to take other licensing action. The legislature intends, through the provisions of this act, to provide the department of social and health services with additional enforcement authority to carry out the purpose and provisions of this act. Furthermore, administrative law judges should receive specialized training so that they have the specialized expertise required to appropriately review licensing decisions of the department.
+Children placed in foster care are particularly vulnerable and have a special need for placement in an environment that is stable, safe, and nurturing. For this reason, foster homes should be held to a high standard of care, and department decisions regarding denial, suspension, or revocation of foster care licenses should be upheld on review if there are reasonable grounds for such action.&quot; [
+1995 c 302 s 1
+.]
+Purpose
+—
+Intent
+—
+Severability
+—
+1977 ex.s. c 80:
+See notes following RCW
+4.16.190
+.
+Severability
+—
+1967 c 172:
+&quot;If any provision of this 1967 amendatory act, or its application to</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

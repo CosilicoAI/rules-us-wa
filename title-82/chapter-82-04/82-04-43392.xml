@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43392"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43392"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43392/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43392/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.43392/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.43392/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_43392">
+        <num>RCW 82.04.43392</num>
+        <heading>Deductions—Qualified dispute resolution centers</heading>
+        <subsection eId="sec_82_04_43392__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A qualified dispute resolution center may deduct from the measure of tax amounts received as a contribution from federal, state, or local governments and nonprofit organizations for providing dispute resolution services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43392__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A nonprofit organization may deduct from the measure of tax amounts received from federal, state, or local governments for distribution to a qualified dispute resolution center.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_43392__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A qualified dispute resolution center must:</p>
+          </content>
+          <subsection eId="sec_82_04_43392__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Be established under chapter
+7.75
+RCW; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_43392__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide services either without charge to the participants or for a fee that is based on the participant's ability to pay, as required by RCW
+7.75.030
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_43392__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>As used in this section, a &quot;nonprofit organization&quot; has the same meaning as in RCW
+82.04.3651</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

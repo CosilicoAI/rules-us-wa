@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.250"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_250">
+        <num>RCW 74.13.250</num>
+        <heading>Preservice training—Foster parents</heading>
+        <subsection eId="sec_74_13_250__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Preservice training is recognized as a valuable tool to reduce placement disruptions, the length of time children are in care, and foster parent turnover rates. Preservice training also assists potential foster parents in making their final decisions about foster parenting and assists social service agencies in obtaining information about whether to approve potential foster parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_250__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Foster parent preservice training shall include information about the potential impact of placement on foster children; social service agency administrative processes; the requirements, responsibilities, expectations, and skills needed to be a foster parent; attachment, separation, and loss issues faced by birth parents, foster children, and foster parents; child management and discipline; birth family relationships; information on the limits of the adoption support program as provided in RCW
+74.13A.020</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_250__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Foster parents shall complete preservice training before the issuance of a foster care license, except that the department may, on a case by case basis, issue a written waiver that allows the foster parent to complete the training after licensure, so long as the training is completed within ninety days following licensure.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_250__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>All components of the foster parent preservice training shall be made available online. The department shall allow individuals to complete as much online preservice training as is practicable while requiring that some preservice training be completed in person.
+[
+2018 c 20 s 1
+. Prior:
+2009 c 520 s 71
+;
+2009 c 491 s 10
+;
+1990 c 284 s 2
+.]
+NOTES:
+Finding
+—
+1990 c 284:
+&quot;The legislature finds that the foster care system plays an important role in preserving families and giving consistent and nurturing care to children placed in its care. The legislature further finds that foster parents play an integral and important role in the system and particularly in the child's chances for the earliest possible reunification with his or her family.&quot; [
+1990 c 284 s 1
+.]
+Effective date
+—
+1990 c 284:
+&quot;This act shall take effect July 1, 1990, however the secretary may immediately take any steps necessary to ensure implementation of section 17 of this act on July 1, 1990.&quot; [
+1990 c 284 s 27
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

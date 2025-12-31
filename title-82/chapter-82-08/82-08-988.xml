@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.988"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.988"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.988/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.988/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.988/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.988/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_988">
+        <num>RCW 82.08.988</num>
+        <heading>Requirements for computer data centers receiving an exemption—Labor agreements</heading>
+        <subsection eId="sec_82_08_988__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The owner and the prime contractor and all of its subcontractors regardless of tier have the absolute right to select any qualified and responsible bidder for the award of contracts on a specified project without reference to the existence or nonexistence of any agreements between such bidder and any party to such project labor agreement, and only when such bidder is willing, ready, and able to become a party to, signs a letter of assent, and complies with such agreement or agreements, should it be designated the successful bidder; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_988__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is understood that this is a self-contained, stand-alone agreement, and that by virtue of having become bound to such agreement or agreements, neither the project contractor nor the subcontractors are obligated to sign any other local, area, or national agreement.
+[
+2022 c 267 s 7
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2022 c 267:
+See note following RCW
+82.08.986
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

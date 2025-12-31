@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4489"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4489"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4489/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4489/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4489/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4489/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4489">
+        <num>RCW 82.04.4489</num>
+        <heading>Credit—Motion picture competitiveness program</heading>
+        <subsection eId="sec_82_04_4489__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the limitations in this section, a credit is allowed against the tax imposed under this chapter for contributions made by a person to a Washington motion picture competitiveness program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The person must make the contribution before claiming a credit authorized under this section. Credits earned under this section may be claimed against taxes due for the calendar year in which the contribution is made. The amount of credit claimed for a reporting period may not exceed the tax otherwise due under this chapter for that reporting period. No person may claim more than $1,000,000 of credit in any calendar year, including credit carried over from a previous calendar year. No refunds may be granted for any unused credits.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The maximum credit that may be earned for each calendar year under this section for a person is limited to the lesser of $1,000,000 or an amount equal to 100 percent of the contributions made by the person to a program during the calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Except as provided under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section, a tax credit claimed under this section may not be carried over to another year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any amount of tax credit otherwise allowable under this section not claimed by the person in any calendar year may be carried over and claimed against the person's tax liability for the next succeeding calendar year. Any credit remaining unused in the next succeeding calendar year may be carried forward and claimed against the person's tax liability for the second succeeding calendar year; and any credit not used in that second succeeding calendar year may be carried over and claimed against the person's tax liability for the third succeeding calendar year, but may not be carried over for any calendar year thereafter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Credits are available on a first-in-time basis. The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed under this section during any calendar year to exceed $15,000,000. If this limitation is reached, the department must notify all Washington motion picture competitiveness programs that the annual statewide limit has been met. In addition, the department must provide written notice to any person who has claimed tax credits in excess of the limitation in this subsection. The notice must indicate the amount of tax due and provide that the tax be paid within 30 days from the date of the notice. The department may not assess penalties and interest as provided in chapter
+82.32
+RCW on the amount due in the initial notice if the amount due is paid by the due date specified in the notice, or any extension thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>To claim a credit under this section, a person must electronically file with the department all returns, forms, and any other information required by the department, in an electronic format as provided or approved by the department. Any return, form, or information required to be filed in an electronic format under this section is not filed until received by the department in an electronic format. As used in this subsection, &quot;returns&quot; has the same meaning as &quot;return&quot; in RCW
+82.32.050
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>No application is necessary for the tax credit. The person must keep records necessary for the department to verify eligibility under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>A Washington motion picture competitiveness program must provide to the department, upon request, such information needed to verify eligibility for credit under this section, including information regarding contributions received by the program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The department may not allow any credit under this section before July 1, 2006.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>For the purposes of this section, &quot;Washington motion picture competitiveness program&quot; or &quot;program&quot; means an organization established pursuant to chapter
+43.365
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Persons claiming a credit against the tax imposed under this chapter for contributions made to a Washington motion picture competitiveness program are exempt from the annual reporting requirements in RCW
+82.32.534
+and
+43.365.040
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4489__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>No credit may be earned for contributions made on or after July 1, 2030.
+[
+2023 c 374 s 9
+;
+2022 c 270 s 5
+;
+2017 3rd sp.s. c 37 s 1102
+;
+2012 c 189 s 4
+;
+2008 c 85 s 3
+;
+2006 c 247 s 5
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

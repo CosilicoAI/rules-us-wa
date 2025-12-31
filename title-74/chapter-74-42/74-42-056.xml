@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.056"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.056"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.056/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.056/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.056/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.056/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_056">
+        <num>RCW 74.42.056</num>
+        <heading>Department assessment of medicaid eligible individuals—Requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.42
+&gt;
+Section 74.42.056
+74.42.055
+&lt;&lt; 
+        74.42.056 &gt;&gt;
+74.42.057
+PDF
+RCW
+74.42.056
+Department assessment of medicaid eligible individuals
+—
+Requirements.
+A nursing facility shall not admit any individual who is medicaid eligible unless that individual has been assessed by the department. Appropriate hospital discharge shall not be delayed pending the assessment.
+To ensure timely hospital discharge of medicaid eligible persons, the date of the request for a department long-term care assessment, or the date that nursing home care actually begins, whichever is later, shall be deemed the effective date of the initial service and payment authorization. The department shall respond promptly to such requests.
+A nursing facility admitting an individual without a request for a department assessment shall not be reimbursed by the department and shall not be allowed to collect payment from a medicaid eligible individual for any care rendered before the date the facility makes a request to the department for an assessment. The date on which a nursing facility makes a request for a department long-term care assessment, or the date that nursing home care actually begins, whichever is later, shall be deemed the effective date of initial service and payment authorization for admissions regardless of the source of referral.
+A medicaid eligible individual residing in a nursing facility who is transferred to an acute care hospital shall not be required to have a department assessment under this section prior to returning to the same or another nursing facility.
+[
+1995 1st sp.s. c 18 s 7
+.]
+NOTES:
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

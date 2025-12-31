@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.400"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.400"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.400/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.400/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.400/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.400/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_400">
+        <num>RCW 74.12.400</num>
+        <heading>Reduce reliance on aid—Work and job training—Family planning—Staff training</heading>
+        <subsection eId="sec_74_12_400__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Effectively communicate the transitional nature of temporary assistance for needy families and the expectation that recipients will enter employment;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Actively refer clients to the job opportunities and basic skills program;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Provide social services needed to overcome obstacles to employability; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Provide family planning information and assistance, including alternatives to abortion, which shall be conducted in consultation with the department of health.
+[
+1997 c 59 s 24
+;
+1994 c 299 s 2
+.]
+NOTES:
+Intent
+—
+1994 c 299:
+&quot;The legislature finds that lengthy stays on welfare, lack of access to vocational education and training, the inadequate emphasis on employment by the social welfare system, and teen pregnancy are obstacles to achieving economic independence. Therefore, the legislature intends that:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Income and employment assistance programs emphasize the temporary nature of welfare and set goals of responsibility, work, and independence;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>State institutions take an active role in preventing pregnancy in young teens;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Family planning assistance be readily available to welfare recipients;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Support enforcement be more effective and the level of responsibility of noncustodial parents be significantly increased; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_12_400__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Job search, job skills training, and vocational education resources are to be used in the most cost-effective manner possible.&quot; [
+1994 c 299 s 1
+.]
+Finding
+—
+1994 c 299:
+&quot;The legislature finds that the reliable receipt of child support payments by custodial parents is essential to maintaining economic self-sufficiency. It is the intent of the legislature to ensure that child support payments received by custodial parents when such support is owed are retained by those parents regardless of future claims made against such payments.&quot; [
+1994 c 299 s 17
+.]
+Severability
+—
+1994 c 299:
+&quot;If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.&quot; [
+1994 c 299 s 40
+.]
+Conflict with federal requirements
+—
+1994 c 299:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. The rules under this act shall meet federal requirements that are a necessary condition to the receipt of federal funds by the state.&quot; [
+1994 c 299 s 41
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

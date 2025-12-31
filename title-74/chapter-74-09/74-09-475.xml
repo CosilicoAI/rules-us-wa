@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.475"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.475"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.475/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.475/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.475/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.475/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_475">
+        <num>RCW 74.09.475</num>
+        <heading>Newborn delivery services to medical assistance clients—Policies and procedures—Reporting</heading>
+        <subsection eId="sec_74_09_475__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Effective January 1, 2018, the authority shall require that all health care facilities that provide newborn delivery services to medical assistance clients establish policies and procedures to provide:</p>
+          </content>
+          <subsection eId="sec_74_09_475__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Skin-to-skin placement of the newborn on the mother's chest immediately following birth to promote the initiation of breastfeeding, except as otherwise indicated by authority guidelines; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_475__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Room-in practices in which a newborn and a mother share the same room for the duration of their postdelivery stay at the facility, except as otherwise indicated by authority guidelines.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_475__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority shall provide guidelines for hospitals to use when establishing policies and procedures for services under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_475__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, including circumstances in which providing the services is not appropriate.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_475__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The authority shall require managed care organizations to report on the frequency with which each facility they contract with is able to adhere to the policies and procedures and the most common reasons for nonadherence. The authority shall include a summary of this information in the biennial report required under RCW
+74.09.480</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_475__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the state has an interest in assuring that children are given the opportunity to have a healthy start in life. Because approximately half of all births in Washington state are funded by state resources, and over eight hundred thousand children in Washington state are enrolled in the apple health program, the state is in a unique position to make a difference in the health of children in Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_475__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature also finds that there may be gaps in programs that could greatly benefit children. Where programs may benefit children in their early stages of development, the state must assure they receive these benefits. Where children are not receiving services because the public is unaware of the services, opportunities for outreach must be explored.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_475__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature additionally finds that several hospitals have begun adopting the best practices of the baby-friendly hospital initiative. The state can use its resources to encourage hospitals to adopt some of the most critical components by incorporating the standards into medicaid contracts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_475__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature further finds that providing children with a healthy start also requires promoting healthy pregnancies. In one national survey, pregnant workers said they needed more frequent breaks while pregnant. Prenatal care is also critical for positive birth outcomes, and pregnant women have cited the need for flexibility in their work schedule for the purposes of attending doctor visits. Reasonable accommodations for pregnant women in the workplace can go a long way to promoting healthy pregnancies without producing an undue hardship on employers.&quot; [
+2017 c 294 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

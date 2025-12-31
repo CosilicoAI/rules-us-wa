@@ -1,0 +1,439 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0531"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0531"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0531/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0531/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0531/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0531/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0531">
+        <num>RCW 82.08.0531</num>
+        <heading>Marketplace facilitators—When deemed seller agents—Recordkeeping—Liability</heading>
+        <subsection eId="sec_82_08_0531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For purposes of this chapter and chapters
+82.04
+and
+82.12
+RCW, a marketplace facilitator is deemed to be an agent of any marketplace seller making retail sales through the marketplace facilitator's marketplace.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Beginning October 1, 2018, marketplace facilitators subject to a tax collection obligation under RCW
+82.08.052</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must collect and remit to the department retail sales tax on all taxable retail sales made or facilitated by the marketplace facilitator, whether in its own right or as an agent of a marketplace seller, regardless of whether the marketplace seller is subject to a tax collection obligation under RCW
+82.08.052</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In addition to other applicable recordkeeping requirements, the department may require a marketplace facilitator to provide or make available to the department any information the department determines is reasonably necessary to enforce the provisions of this chapter and *chapter
+82.13
+RCW. Such information may include documentation of sales made by marketplace sellers through the marketplace facilitator's marketplace. The department may prescribe by rule the form and manner for providing this information.</p>
+          </content>
+          <subsection eId="sec_82_08_0531__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning July 1, 2019, to ensure that marketplace sellers have the necessary information to timely and accurately file their excise tax returns with the department pursuant to RCW
+82.32.045
+, a marketplace facilitator must, at a minimum, provide each of its marketplace sellers with access, through a written report or other means, to gross sales information for all Washington sales made as an agent of the marketplace seller under this section during the immediately preceding month. Marketplace facilitators must provide such access within fifteen calendar days following the end of each month.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If a marketplace seller does not receive the gross sales information for all Washington sales through a marketplace facilitator, as required under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection, &quot;Washington sales&quot; means any sale sourced to this state under RCW
+82.32.730
+, regardless of whether the sale is a retail sale.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If a marketplace facilitator has fully complied with the requirements of subsection</p>
+          </content>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the marketplace facilitator is relieved of liability under this chapter and chapter
+82.12
+RCW for failure to collect the correct amount of tax to the extent that the marketplace facilitator can show to the department's satisfaction that the error was due to incorrect information given to the marketplace facilitator by the marketplace seller, unless the marketplace facilitator and marketplace seller are affiliated persons. Where the marketplace facilitator is relieved of liability under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Subject to the limits in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section is relieved of liability under this chapter and chapter
+82.12
+RCW for the failure to collect tax on taxable retail sales to the extent that the marketplace facilitator can show to the department's satisfaction that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The taxable retail sale was made through the marketplace facilitator's marketplace;</p>
+            </content>
+            <subsection eId="sec_82_08_0531__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The taxable retail sale was made solely as the agent of a marketplace seller, and the marketplace facilitator and marketplace seller are not affiliated persons; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0531__subsec_5__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The failure to collect sales tax was not due to an error in sourcing the sale under RCW
+82.32.730
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Liability relief for a marketplace facilitator under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>for a calendar year is limited as follows:</p>
+          </content>
+          <subsection eId="sec_82_08_0531__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For calendar year 2018, the liability relief may not exceed ten percent of the total tax due under this chapter and chapter
+82.12
+RCW on taxable retail sales facilitated by the marketplace facilitator as agent of a marketplace seller and sourced to this state under RCW
+82.32.730
+during the same calendar year.</p>
+            </content>
+            <subsection eId="sec_82_08_0531__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For calendar year 2019, the liability relief may not exceed five percent of the total tax due under this chapter and chapter
+82.12
+RCW on taxable retail sales by the marketplace facilitator as agent of a marketplace seller and sourced to this state under RCW
+82.32.730
+during the same calendar year.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0531__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The provisions of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>do not apply to retail sales made after December 31, 2019.</p>
+          </content>
+          <subsection eId="sec_82_08_0531__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Accepts the order for the product;</p>
+            </content>
+            <subsection eId="sec_82_08_0531__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Communicates to the marketplace seller the buyer's offer to purchase the product;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0531__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Accepts the buyer's payment for the product; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0531__subsec_6__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Delivers or arranges for delivery of the product.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0531__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Where the marketplace facilitator is relieved of liability under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_08_0531__subsec_7__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department may by rule determine the manner in which a taxpayer may claim the liability relief provided under this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Except as otherwise provided in this section, a marketplace seller obligated to collect the taxes imposed under this chapter and chapter
+82.12
+RCW is not required to collect such taxes on all taxable retail sales through a marketplace operated by a marketplace facilitator if the marketplace seller has obtained documentation from the marketplace facilitator indicating that the marketplace facilitator is registered with the department and will collect all applicable taxes due under this chapter and chapter
+82.12
+RCW on all taxable retail sales made on behalf of the marketplace seller through the marketplace operated by the marketplace facilitator. The documentation required by this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>must be provided in a form and manner prescribed by or acceptable to the department. This subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>does not relieve a marketplace seller from liability for uncollected taxes due under this chapter or chapter
+82.12
+RCW resulting from a marketplace facilitator's failure to collect the proper amount of tax due when the error was due to incorrect information given to the marketplace facilitator by the marketplace seller.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>No class action may be brought against a marketplace facilitator in any court of this state on behalf of purchasers arising from or in any way related to an overpayment of sales or use tax collected by the marketplace facilitator, regardless of whether that claim is characterized as a tax refund claim. Nothing in this subsection affects a purchaser's right to seek a refund from the department as provided under chapter
+82.32
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Nothing in this section affects the obligation of any purchaser to remit sales or use tax and any other applicable taxes and fees, as to any applicable taxable transaction in which the seller or the seller's agent does not collect and remit sales tax.
+[
+2021 c 145 s 10
+;
+2019 c 8 s 201
+;
+2017 3rd sp.s. c 28 s 203
+.]
+NOTES:
+*Reviser's note:
+Chapter
+82.13
+RCW was repealed by
+2019 c 8 s 301
+.
+Effective date
+—
+2019 c 8 ss 101, 104, 106, 201, 402-405, and 501:
+See note following RCW
+82.02.250
+.
+Existing rights and liability
+—
+Retroactive application
+—
+2019 c 8:
+See notes following RCW
+82.02.250
+.
+Findings
+—
+Intent
+—
+2017 3rd sp.s. c 28 ss 201-214:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that states fail to collect more than twenty-three billion dollars annually in sales taxes from remote sales over the internet and through catalogs. The legislature further finds that Washington and its local governments will lose out on an estimated three hundred fifty-three million dollars in sales and use taxes in fiscal year 2018 from remote sales, reducing funds that would otherwise be available for the public education system, health care services, infrastructure, and other vital public services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that Colorado adopted a law requiring out-of-state retailers that do not collect Colorado's sales tax to report tax-related information to their Colorado customers and the Colorado department of revenue. The legislature further finds that in 2016 the United States court of appeals for the tenth circuit upheld that law.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature intends by this act to address the significant harm and unfairness brought about by the physical presence nexus rule. To achieve this objective, this act adopts a new program. Under the new program, remote sellers meeting a specified threshold of gross receipts from retail sales into this state would have the option to either collect retail sales or use tax on taxable retail sales into this state or comply with certain sales and use tax notice and reporting provisions. This option is also available to other persons such as marketplace facilitators for facilitated sales on behalf of third-party remote sellers. The sales and use tax notice and reporting provisions in this act are similar to the multistate tax commission's draft model sales and use tax notice and reporting statute and Colorado's sales and use tax notice and reporting law.&quot; [
+2017 3rd sp.s. c 28 s 201
+.]
+Existing rights and liability
+—
+2017 3rd sp.s. c 28:
+&quot;This act does not affect any existing right acquired or liability or obligation incurred under the sections amended or repealed or under any rule or order adopted under those sections, nor does it affect any proceeding instituted under those sections.&quot; [
+2017 3rd sp.s. c 28 s 602
+.]
+Severability
+—
+2017 3rd sp.s. c 28:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the department of revenue is prevented from enforcing chapter
+82.08
+or
+82.12
+RCW against persons without a physical presence in this state because any provision of this act or its application to any person or circumstance is held invalid, the department of revenue must impose such provisions to the fullest extent allowed under the Constitution and laws of the United States.&quot; [
+2017 3rd sp.s. c 28 s 603
+.]
+Application
+—
+2017 3rd sp.s. c 28:
+&quot;The tax collection, reporting, and payment obligations imposed by this act apply prospectively only.&quot; [
+2017 3rd sp.s. c 28 s 604
+.]
+Effective dates
+—
+2018 c 92; 2017 3rd sp.s. c 28:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this section, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sections 101 through 106 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect August 1, 2017.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Section 213 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 23, 2017.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Part III of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2017.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0531__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Sections 107 through 109 and 502 of this act take effect January 1, 2018.&quot; [
+2018 c 92 s 2
+;
+2017 3rd sp.s. c 28 s 605
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

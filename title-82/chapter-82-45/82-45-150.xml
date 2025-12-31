@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.150"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_150">
+        <num>RCW 82.45.150</num>
+        <heading>Applicability of general administrative provisions—Departmental rules, scope—Real estate excise tax affidavit form—Departmental audit</heading>
+        <subsection eId="sec_82_45_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_150__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+82.32.090
+was amended by 2025 c 409 s 14, changing subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_150__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_45_150__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section was amended by 2014 c 58 s 26 and by 2014 c 97 s 307, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

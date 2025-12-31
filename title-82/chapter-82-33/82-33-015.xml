@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.33.015"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.33.015/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.33.015/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.33.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_33_015">
+        <num>RCW 82.33.015</num>
+        <heading>Transportation economic and revenue forecast council—Oversight and approval of transportation economic and revenue forecasts</heading>
+        <subsection eId="sec_82_33_015__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The council shall work with the economic, revenue, and transportation revenue forecast supervisor identified under RCW
+82.33.010
+to supervise the preparation of all transportation economic and revenue forecasts. The supervisor shall employ staff sufficient to accomplish the purposes of this section.</p>
+          </content>
+          <subsection eId="sec_82_33_015__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The transportation economic and revenue forecast council shall oversee the preparation of and approve, by an affirmative vote of at least five members, the official, optimistic, and pessimistic transportation economic and revenue forecasts prepared under RCW
+82.33.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_33_015__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the council is unable to approve a forecast before a date required in RCW
+82.33.020
+, the supervisor shall submit the forecast without approval and the forecast shall have the same effect as if approved by the council.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_33_015__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A councilmember who does not cast an affirmative vote for approval of the official transportation economic and revenue forecast may request, and the supervisor shall provide, an alternative economic and revenue forecast based on assumptions specified by the member.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_33_015__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Members of the transportation economic and revenue forecast council shall serve without additional compensation but shall be reimbursed for travel expenses in accordance with RCW
+44.04.120
+while attending sessions of the council or on official business authorized by the council. Nonlegislative members of the council shall be reimbursed for travel expenses in accordance with RCW
+43.03.050
+and
+43.03.060
+.
+[
+2023 c 390 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

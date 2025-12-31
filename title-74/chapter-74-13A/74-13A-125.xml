@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.125"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.125"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.125/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.125/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.125/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.125/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_125">
+        <num>RCW 74.13A.125</num>
+        <heading>Interstate agreements for adoption of children with special needs—Adoption assistance and medical assistance in state plan</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13A
+&gt;
+Section 74.13A.125
+74.13A.120
+&lt;&lt; 
+        74.13A.125 &gt;&gt;
+End of Chapter
+PDF
+RCW
+74.13A.125
+Interstate agreements for adoption of children with special needs
+—
+Adoption assistance and medical assistance in state plan.
+Consistent with federal law, the department, in connection with the administration of *RCW
+74.13.152
+through
+74.13.158
+and any pursuant compact shall include in any state plan made pursuant to the adoption assistance and child welfare act of 1980 (P.L. 96-272), Titles IV(e) and XIX of the social security act, and any other applicable federal laws, the provision of adoption assistance and medical assistance for which the federal government pays some or all of the cost. The department shall apply for and administer all relevant federal aid in accordance with law.
+[
+1997 c 31 s 8
+. Formerly RCW
+74.13.159
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.13.152
+through
+74.13.158
+were recodified as RCW
+74.13A.090
+through
+74.13A.120
+pursuant to
+2009 c 520 s 95
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

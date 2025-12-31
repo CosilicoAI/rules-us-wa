@@ -1,0 +1,335 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.806"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.806"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.806/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.806/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.806/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.806/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_806">
+        <num>RCW 82.08.806</num>
+        <heading>Exemptions—Sale of computer equipment parts and services to printer or publisher. (&lt;i&gt;Effective until January 1, 2034.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_08_806__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales, to a printer or publisher, of computer equipment, including repair parts and replacement parts for such equipment, when the computer equipment is used primarily in the printing or publishing of any printed material, or to sales of or charges made for labor and services rendered in respect to installing, repairing, cleaning, altering, or improving the computer equipment. This exemption applies only to computer equipment not otherwise exempt under RCW
+82.08.02565
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person taking the exemption under this section must keep records necessary for the department to verify eligibility under this section. This exemption is available only when the purchaser provides the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>apply throughout this section, unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Computer&quot; has the same meaning as in RCW
+82.04.215
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Computer equipment&quot; means a computer and the associated physical components that constitute a computer system, including monitors, keyboards, printers, modems, scanners, pointing devices, and other computer peripheral equipment, cables, servers, and routers. &quot;Computer equipment&quot; also includes digital cameras and computer software.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Computer software&quot; has the same meaning as in RCW
+82.04.215
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Primarily&quot; means greater than fifty percent as measured by time.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Printer or publisher&quot; means a person, as defined in RCW
+82.04.030
+, who is subject to tax under RCW
+82.04.280</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or is eligible for the exemption under RCW
+82.04.759
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Computer equipment&quot; does not include computer equipment that is used primarily for administrative purposes including but not limited to payroll processing, accounting, customer service, telemarketing, and collection. If computer equipment is used simultaneously for administrative and nonadministrative purposes, the administrative use must be disregarded during the period of simultaneous use for purposes of determining whether the computer equipment is used primarily for administrative purposes.
+[
+2023 c 286 s 6
+;
+2020 c 139 s 16
+;
+2011 c 174 s 204
+;
+2010 1st sp.s. c 23 s 516
+;
+2009 c 461 s 5
+;
+2004 c 8 s 2
+.]
+NOTES:
+Findings
+—
+Effective date
+—
+Expiration date
+—
+2023 c 286:
+See notes following RCW
+82.04.759
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+Contingent effective date
+—
+2009 c 461:
+See note following RCW
+82.04.280
+.
+Findings
+—
+Intent
+—
+2004 c 8:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the manufacturer's machinery and equipment sales and use tax exemption is vital to the continued development of economic opportunity in this state, including the development of new businesses and the expansion or modernization of existing businesses.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that the printing and publishing industries have not been able to realize the benefits of the manufacturer's machinery and equipment sales and use tax exemption to the same extent as other manufacturing industries due to dramatic changes in business methods caused by computer technology not contemplated when the manufacturer's machinery and equipment sales and use tax exemption was adopted. As a result of these changes in business methods, a substantial amount of computer equipment used by printers and publishers is not eligible for the manufacturer's machinery and equipment sales and use tax exemption because the computer equipment is not used within the manufacturing site.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature further finds that additional incentives for printers and publishers need to be adopted to provide these industries with similar benefits as the manufacturer's machinery and equipment sales and use tax exemption provides for other manufacturing industries, and in recognition of the rapid rate of technological advancement in business methods undergone by the printing and publishing industries. The legislature intends to accomplish this by providing a sales and use tax exemption to printers and publishers for computer equipment, not otherwise eligible for the manufacturer's machinery and equipment sales and use tax exemption, used primarily in the printing or publishing of printed material, and for labor and services rendered in respect to installing, repairing, cleaning, altering, or improving such computer equipment.&quot; [
+2004 c 8 s 1
+.]
+PDF
+RCW
+82.08.806
+Exemptions
+—
+Sale of computer equipment parts and services to printer or publisher.
+(Effective January 1, 2034.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales, to a printer or publisher, of computer equipment, including repair parts and replacement parts for such equipment, when the computer equipment is used primarily in the printing or publishing of any printed material, or to sales of or charges made for labor and services rendered in respect to installing, repairing, cleaning, altering, or improving the computer equipment. This exemption applies only to computer equipment not otherwise exempt under RCW
+82.08.02565
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person taking the exemption under this section must keep records necessary for the department to verify eligibility under this section. This exemption is available only when the purchaser provides the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>apply throughout this section, unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Computer&quot; has the same meaning as in RCW
+82.04.215
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Computer equipment&quot; means a computer and the associated physical components that constitute a computer system, including monitors, keyboards, printers, modems, scanners, pointing devices, and other computer peripheral equipment, cables, servers, and routers. &quot;Computer equipment&quot; also includes digital cameras and computer software.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Computer software&quot; has the same meaning as in RCW
+82.04.215
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Primarily&quot; means greater than fifty percent as measured by time.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_806__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Printer or publisher&quot; means a person, as defined in RCW
+82.04.030
+, who is subject to tax under RCW
+82.04.260</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>or
+82.04.280</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Computer equipment&quot; does not include computer equipment that is used primarily for administrative purposes including but not limited to payroll processing, accounting, customer service, telemarketing, and collection. If computer equipment is used simultaneously for administrative and nonadministrative purposes, the administrative use must be disregarded during the period of simultaneous use for purposes of determining whether the computer equipment is used primarily for administrative purposes.
+[
+2020 c 139 s 16
+;
+2011 c 174 s 204
+;
+2010 1st sp.s. c 23 s 516
+;
+2009 c 461 s 5
+;
+2004 c 8 s 2
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+Contingent effective date
+—
+2009 c 461:
+See note following RCW
+82.04.280
+.
+Findings
+—
+Intent
+—
+2004 c 8:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the manufacturer's machinery and equipment sales and use tax exemption is vital to the continued development of economic opportunity in this state, including the development of new businesses and the expansion or modernization of existing businesses.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that the printing and publishing industries have not been able to realize the benefits of the manufacturer's machinery and equipment sales and use tax exemption to the same extent as other manufacturing industries due to dramatic changes in business methods caused by computer technology not contemplated when the manufacturer's machinery and equipment sales and use tax exemption was adopted. As a result of these changes in business methods, a substantial amount of computer equipment used by printers and publishers is not eligible for the manufacturer's machinery and equipment sales and use tax exemption because the computer equipment is not used within the manufacturing site.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_806__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature further finds that additional incentives for printers and publishers need to be adopted to provide these industries with similar benefits as the manufacturer's machinery and equipment sales and use tax exemption provides for other manufacturing industries, and in recognition of the rapid rate of technological advancement in business methods undergone by the printing and publishing industries. The legislature intends to accomplish this by providing a sales and use tax exemption to printers and publishers for computer equipment, not otherwise eligible for the manufacturer's machinery and equipment sales and use tax exemption, used primarily in the printing or publishing of printed material, and for labor and services rendered in respect to installing, repairing, cleaning, altering, or improving such computer equipment.&quot; [
+2004 c 8 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

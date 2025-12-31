@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.532"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.532"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.532/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.532/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.532/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.532/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_532">
+        <num>RCW 82.14.532</num>
+        <heading>Sales and use tax remittance—Qualifying projects—Requirements—Department to determine eligibility</heading>
+        <subsection eId="sec_82_14_532__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the requirements of chapter
+35.107
+RCW and RCW
+81.104.170
+, a project is eligible for a sales and use tax remittance under the authority of this chapter on:</p>
+          </content>
+          <subsection eId="sec_82_14_532__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The sale of or charge made for labor and services rendered in respect to construction or rehabilitation of a qualifying project located in a city; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_532__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The sales or use of tangible personal property that will be incorporated as an ingredient or component of a qualifying project located in a city during the course of the constructing or rehabilitating.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_532__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A qualifying project owner claiming a remittance under this section must pay all applicable state and local sales and use taxes imposed or authorized under RCW
+82.08.020
+,
+82.12.020
+, and this chapter on all purchases and uses qualifying for the remittance.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_532__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount of the remittance is one hundred percent of the local sales and use taxes paid on purchases and uses qualifying under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, with respect to taxes imposed by the city and any other taxing authorities that have authorized the use of the remittance as provided under RCW
+35.107.040
+. A city authorizing a remittance under this subsection must notify the department of an approved qualifying project within 60 days of the city's approval of the project. Such notice must include the information required under RCW
+35.107.040</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_14_532__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through (c).</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>After the qualifying project has been operationally complete for eighteen months, but not more than thirty-six months, and after all state and local sales and use taxes for purchases and uses qualifying under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section have been paid, a qualifying project owner who submits an application for a building permit for that qualifying project prior to July 1, 2027, may apply to the department for a remittance of local sales and use taxes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A qualifying project owner requesting a remittance under this section must obtain certification from the governing authority of a city verifying that the qualifying project has satisfied the criteria in RCW
+35.107.050
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A qualifying project owner must specify the amount of exempted tax claimed and the qualifying purchases or uses for which the exemption is claimed. The qualifying project owner must retain, in adequate detail, records to enable the department to determine whether the qualifying project owner is entitled to an exemption under this section, including invoices, proof of tax paid, and construction contracts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must determine eligibility under this section based on information provided by the qualifying project owner, which is subject to audit verification by the department.</p>
+          </content>
+          <subsection eId="sec_82_14_532__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A person otherwise eligible for a remittance under this section that transfers the ownership of the qualifying project before the requirements in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section are met may assign the right to the remittance under this section to the subsequent owner of the qualifying project.</p>
+          </content>
+          <subsection eId="sec_82_14_532__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Persons applying for the remittance as an assignee must provide the department the following documentation in a form and manner as provided by the department:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_532__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The agreement that transfers the right to the remittance to the assignee;</p>
+            </content>
+            <subsection eId="sec_82_14_532__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Proof of payment of sales and use tax on the qualifying project; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_532__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Any other documentation the department requires.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_532__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The definitions in RCW
+35.107.020
+apply to this section.
+[
+2021 c 145 s 16
+;
+2019 c 273 s 11
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

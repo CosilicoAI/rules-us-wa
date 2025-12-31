@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.035"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.035"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.035/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.035/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.035/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.035/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_035">
+        <num>RCW 74.08A.035</num>
+        <heading>Income eligibility—Child support. (&lt;i&gt;Effective July 1, 2029.&lt;/i&gt;)</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.035
+74.08A.030
+&lt;&lt; 
+        74.08A.035 &gt;&gt;
+74.08A.039
+PDF
+RCW
+74.08A.035
+Income eligibility
+—
+Child support.
+(Effective July 1, 2029.)
+The department shall disregard and not count as income any amount of current child support passed through to applicants or recipients pursuant to RCW
+26.23.035
+in determining eligibility for and the amount of temporary assistance for needy families or WorkFirst.
+[
+2024 c 174 s 2
+.]
+NOTES:
+Effective date
+—
+2024 c 174:
+See note following RCW
+26.23.035
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

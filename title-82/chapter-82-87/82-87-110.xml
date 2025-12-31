@@ -1,0 +1,321 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.110"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_110">
+        <num>RCW 82.87.110</num>
+        <heading>Filing of returns—Additional documentation—Penalties—Amendment of taxpayer's return</heading>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section a copy of the taxpayer's federal income tax return filed with the internal revenue service of the United States, including:</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>All federal income tax forms, schedules, and other attachments that directly relate to the taxpayer's net long-term capital gain; and</p>
+            </content>
+            <subsection eId="sec_82_87_110__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Any information, returns, and federal tax documents received by the taxpayer that directly relate to the taxpayer's net long-term capital gain including, but not limited to, form 1099-B, schedule K-1 (form 1065), and schedule K-1 (form 1120-S).</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A taxpayer must provide to the department, upon request, other federal tax return information needed to verify the tax owed under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department may prescribe by rule additional reporting or verification requirements under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to substantiate an individual's federal net long-term capital gain.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Each taxpayer required to file a return under this section must, without assessment, notice, or demand, pay any tax due thereon to the department on or before the date fixed for the filing of the return, regardless of any filing extension. The tax must be paid by electronic funds transfer as defined in RCW
+82.32.085
+or by other forms of electronic payment as may be authorized by the department. The department may waive the electronic payment requirement for good cause as provided in RCW
+82.32.080
+. If any tax due under this chapter is not paid by the due date, interest and penalties as provided in chapter
+82.32
+RCW apply to the deficiency.</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In addition to the Washington return required to be filed under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, an individual claiming an exemption under RCW
+82.87.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>must file documentation substantiating the following:</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The fair market value and basis of the real estate held directly by the entity in which the interest was sold or exchanged;</p>
+            </content>
+            <subsection eId="sec_82_87_110__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The percentage of the ownership interest sold or exchanged in the entity owning real estate; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_87_110__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The methodology, if any, established by the entity in which the interest was sold or exchanged, for allocating gains or losses to the owners, partners, or shareholders of the entity from the sale of real estate.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may by rule prescribe additional filing requirements to substantiate an individual's claim for an exemption under RCW
+82.87.050</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If a taxpayer has obtained an extension of time for filing the federal income tax return for the taxable year and the taxpayer provides the department, on or before the date fixed for the filing of the return, regardless of any filing extension, evidence satisfactory to the department confirming the federal extension, the taxpayer is entitled to the same extension of time for filing the return required under this section. An extension under this subsection for the filing of a return under this chapter is not an extension of time to pay the tax due under this chapter.</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If any return due under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, along with a copy of the federal income tax return, is not filed with the department by the due date or any extension granted by the department, the department must assess a penalty in the amount of five percent of the tax due for the taxable year covered by the return for each month or portion of a month that the return remains unfiled. The total penalty assessed under this subsection may not exceed 25 percent of the tax due for the taxable year covered by the delinquent return. The penalty under this subsection is in addition to any penalties assessed for the late payment of any tax due on the return.</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department must waive or cancel the penalty imposed under this subsection if:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The department is persuaded that the taxpayer's failure to file the return by the due date was due to circumstances beyond the taxpayer's control; or</p>
+            </content>
+            <subsection eId="sec_82_87_110__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The taxpayer has not been delinquent in filing any return due under this section during the preceding five calendar years and the taxpayer has not been contacted by the department for enforcement purposes regarding the reporting period covered by the waiver request.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department must waive or cancel the penalty imposed under RCW
+82.32.090</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>on a payment required under this section when the circumstances under which the delinquency occurred do not qualify for waiver or cancellation under RCW
+82.32.105</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>if all [of] the following apply:</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A taxpayer requests a waiver of penalty for a payment required under this section;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The taxpayer has not been contacted by the department for enforcement purposes regarding the reporting period covered by the waiver request; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The taxpayer has timely remitted payment on all tax returns due under this section during the preceding five calendar years.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In the event a taxpayer's federal income tax return is changed in a manner that is final after their return required under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section is filed with the department and the taypayer's federal income tax return is changed in a manner that impacts either the calculation of their Washington capital gains or their tax liability under this chapter, or both, the taxpayer must amend the taypayer's return due under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section for the same tax year in which their federal income tax return is changed. For the purposes of this subsection</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The taxpayer has received audit findings from the internal revenue service for the tax period and the taxpayer does not timely file an administrative appeal with the internal revenue service.</p>
+            </content>
+            <subsection eId="sec_82_87_110__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The taxpayer consented to any of the audit findings for the tax period through a form or other written agreement with the United States internal revenue service.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the return is not amended, as required under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>is in addition to any penalties assessed under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>No assessment or correction of an assessment for additional taxes, penalties, or interest due may be made by the department more than four years after the year in which a return is filed under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section except:</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>When the taxpayer's federal income tax return is changed in a manner that requires an amended return under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this section; or
+(ii) As provided in RCW
+82.32.050</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the event the statute of limitations is extended under (a)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_87_110__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection, no assessment or correction of an assessment for additional taxes, penalties, or interest due may be made by the department more than four years after the year in which an amended return is filed with the department as required under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this section. Any assessment or correction of an assessment for additional taxes, penalties, or interest due under this subsection</p>
+          </content>
+          <subsection eId="sec_82_87_110__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>but made by the department more than four years after the year in which a return is filed under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section must be directly related to the federal income tax return change described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_87_110__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this section.
+[
+2025 c 409 s 9
+;
+2021 c 196 s 12
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+See note following RCW
+82.87.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

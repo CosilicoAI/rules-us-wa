@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.418"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.418"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.418/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.418/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.418/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.418/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_418">
+        <num>RCW 82.04.418</num>
+        <heading>Exemptions—Grants by United States government to municipal corporations or political subdivisions</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.418
+82.04.416
+&lt;&lt; 
+        82.04.418 &gt;&gt;
+82.04.419
+PDF
+RCW
+82.04.418
+Exemptions
+—
+Grants by United States government to municipal corporations or political subdivisions.
+The provisions of this chapter shall not apply to grants received from the state or the United States government by municipal corporations or political subdivisions of the state of Washington.
+[
+1983 1st ex.s. c 66 s 2
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

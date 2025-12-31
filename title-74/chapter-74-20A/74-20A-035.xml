@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.035"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.035"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.035/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.035/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.035/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.035/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_035">
+        <num>RCW 74.20A.035</num>
+        <heading>Augmentation of paternity establishment services</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.035
+74.20A.030
+&lt;&lt; 
+        74.20A.035 &gt;&gt;
+74.20A.040
+PDF
+RCW
+74.20A.035
+Augmentation of paternity establishment services.
+The department of social and health services shall augment its present paternity establishment services through the hiring of additional assistant attorneys general, or contracting with prosecutors or private attorneys licensed in the state of Washington in those judicial districts experiencing delay or an accumulation of unserved paternity cases. The employment of private attorneys shall be limited in scope to renewable six-month periods in judicial districts where the prosecutor or the attorney general cannot provide adequate, cost-effective service. The department of social and health services shall provide a written report of the circumstances requiring employment of private attorneys to the judiciary committees of the senate and house of representatives and provide copies of such reports to the office of the attorney general and to the Washington association of prosecuting attorneys.
+[
+1987 c 441 s 3
+.]
+NOTES:
+Legislative findings
+—
+1987 c 441:
+&quot;The state of Washington through the department of social and health services is required by state and federal statutes to provide paternity establishment services. These statutes require that reasonable efforts to establish paternity be made, if paternity of the child is in question, in all public assistance cases and whenever such services are requested in nonassistance cases.
+The increasing number of children being born out of wedlock together with improved awareness of the benefits to the child and society of having paternity established have resulted in a greater demand on the existing judicial paternity establishment system.&quot; [
+1987 c 441 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

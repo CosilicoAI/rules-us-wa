@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.440"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.440"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.440/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.440/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.440/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.440/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_440">
+        <num>RCW 82.32.440</num>
+        <heading>Project on sales and use tax exemption requirements</heading>
+        <subsection eId="sec_82_32_440__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department is authorized to enter into agreements with sellers who meet the criteria in this section for a project on sales and use tax exemption requirements. This project will allow the use of electronic data collection in lieu of paper certificates otherwise required by law, including the use of electronic signatures.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_440__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The object of the project is to determine whether using an electronic system and reviewing the data regarding the exempt transactions provides the same level of reliability as the current system while lessening the burden on the seller.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_440__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A business making both sales taxable and exempt under chapter
+82.08
+or
+82.12
+RCW, that has electronic data-collecting capabilities, and that wishes to participate in the project may make application to the department in such form and manner as the department may require. To be eligible for such participation, a seller must demonstrate its capability to take part in the project and to provide data to the department in a form in which the data can be used by the department. The department is not required to accept all applicants in this project and is not required to provide any reason for not selecting a participant. A seller selected as a participant may be relieved of other sales and use tax exemption documentation requirements provided by law as covered by the project.
+[
+2010 c 106 s 227
+;
+2001 c 116 s 2
+.]
+NOTES:
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Findings
+—
+2001 c 116:
+&quot;The legislature finds that current sales and use tax exemption documentation requirements are often confusing and burdensome for retailers, taxpayers, and the state. Additionally, the legislature notes the national efforts under way to simplify and streamline the sales and use tax, and that those efforts include a new system for retailers to use in processing sales and use tax exemptions. The legislature further finds that it would be beneficial to the state and its residents to allow for the simplification of sales and use tax exemption requirements.&quot; [
+2001 c 116 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

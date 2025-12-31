@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.60.063"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.063"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.60.063/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.063/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.60.063/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.60.063/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_60_063">
+        <num>RCW 82.60.063</num>
+        <heading>Repayment of deferred taxes—Relief</heading>
+        <subsection eId="sec_82_60_063__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the conditions in this section, a person is not liable for the amount of deferred taxes outstanding for an investment project when the person temporarily ceases to use its qualified buildings and qualified machinery and equipment for manufacturing or research and development activities in a county with a population of less than twenty thousand persons for a period not to exceed twenty-four months from the date that the department sent its assessment for the amount of outstanding deferred taxes to the taxpayer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_063__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The relief from repayment of deferred taxes under this section does not apply unless the number of qualified employment positions maintained at the investment project after manufacturing or research and development activities are temporarily ceased is at least ten percent of the number of qualified employment positions employed at the investment project at the time the deferral was approved by the department. If a person has been approved for more than one deferral under this chapter, relief from repayment of deferred taxes under this section does not apply unless the number of qualified employment positions maintained at the investment project after manufacturing or research and development activities are temporarily ceased is at least ten percent of the highest number of qualified employment positions at the investment project at the time any of the deferrals were approved by the department. If, at any time during the twenty-four month period after the department has sent the taxpayer an assessment for outstanding deferred taxes resulting from the person temporarily ceasing to use its qualified buildings and qualified machinery and equipment for manufacturing or research and development activities, the number of qualified employment positions falls below the ten percent threshold in this subsection, the amount of deferred taxes outstanding for the project is immediately due.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_063__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The lessor of an investment project for which a deferral has been granted under this chapter who has passed the economic benefits of the deferral to the lessee is not eligible for relief from the payment of deferred taxes under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_063__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A person seeking relief from the payment of deferred taxes under this section must apply to the department in a form and manner prescribed by the department. The application required under this subsection must be received by the department within thirty days of the date that the department sent its assessment for outstanding deferred taxes resulting from the person temporarily ceasing to use its qualified buildings and qualified machinery and equipment for manufacturing or research and development activities. The department must approve applications that meet the requirements in this section for relief from the payment of deferred taxes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_063__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A person is entitled to relief under this section only once.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_063__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A person whose application for relief from the payment of deferred taxes has been approved under this section must continue to file an annual tax performance report as required under RCW
+82.60.070</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_60_063__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or any successor statute. In addition, the person must file, in a form and manner prescribed by the department, a report on the status of the business and the outlook for commencing manufacturing or research and development activities.
+[
+2020 c 139 s 42
+;
+2010 1st sp.s. c 16 s 10
+.]
+NOTES:
+Effective date
+—
+2010 1st sp.s. c 16:
+See note following RCW
+82.60.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

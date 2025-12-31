@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.42.100"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.42.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.42.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_42_100">
+        <num>RCW 82.42.100</num>
+        <heading>Enforcement</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.42
+&gt;
+Section 82.42.100
+82.42.095
+&lt;&lt; 
+        82.42.100 &gt;&gt;
+82.42.110
+PDF
+RCW
+82.42.100
+Enforcement.
+The director is charged with the enforcement of the provisions of this chapter and rules and regulations promulgated hereunder. The director may, in his or her discretion, call on the state patrol or any peace officer in the state, who shall then aid in the enforcement of this chapter or any rules or regulations promulgated hereunder.
+[
+2013 c 23 s 336
+;
+1967 ex.s. c 10 s 10
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

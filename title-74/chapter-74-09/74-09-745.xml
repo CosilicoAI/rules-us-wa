@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.745"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.745"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.745/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.745/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.745/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.745/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_745">
+        <num>RCW 74.09.745</num>
+        <heading>Medicaid funding for home visiting services—Recommendations to legislature</heading>
+        <subsection eId="sec_74_09_745__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The authority shall collaborate with the department of children, youth, and families to identify opportunities to leverage medicaid funding for home visiting services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_745__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority must provide a set of recommendations relevant to subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_745__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section to the legislature by December 1, 2018, that builds upon the research and strategies developed in the Washington state home visiting and medicaid financing strategies report submitted by the authority to the department of early learning in August 2017.
+[
+2018 c 175 s 4
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 175:
+See note following RCW
+74.09.495
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

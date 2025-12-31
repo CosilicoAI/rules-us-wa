@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.485"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.485"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.485/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.485/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.485/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.485/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_485">
+        <num>RCW 74.46.485</num>
+        <heading>Case mix method implementation</heading>
+        <subsection eId="sec_74_46_485__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature recognizes that staff and resources needed to adequately care for individuals with cognitive or behavioral impairments is not limited to support for activities of daily living. Therefore, the department shall:</p>
+          </content>
+          <subsection eId="sec_74_46_485__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Beginning July 1, 2024, implement a method for applying case mix to the rate. This method should be informed by the minimum data set collected by the centers for medicare and medicaid services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_485__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Subject to the availability of amounts appropriated for this specific purpose, employ the case mix adjustment method to adjust rates of individual facilities for case mix changes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_485__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Upon the discontinuation of resource utilization group's scores, and in collaboration with appropriate stakeholders, create a new case mix adjustment method for adjusting direct care rates based on changes in case mix using the patient-driven payment method;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_485__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>By December 1, 2024, provide an initial report to the governor and appropriate legislative committees outlining a phased implementation plan; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_485__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>By December 1, 2026, provide a final report to the appropriate legislative committees. These reports must include the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_46_485__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An analysis of the potential impact of the new case mix classification methodology on nursing facility payment rates;</p>
+            </content>
+            <subsection eId="sec_74_46_485__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Proposed payment adjustments for capturing specific client needs that may not be clearly captured in the data available from the centers for medicare and medicaid services; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_46_485__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>A plan to continuously monitor the effects of the new methodologies on each facility to ensure certain client populations or needs are not unintentionally negatively impacted.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_46_485__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A default case mix group shall be established for cases in which the resident dies or is discharged for any purpose prior to completion of the resident's initial assessment. The default case mix group and case mix weight for these cases shall be designated by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_485__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A default case mix group may also be established for cases in which there is an untimely assessment for the resident. The default case mix group and case mix weight for these cases shall be designated by the department.
+[
+2024 c 246 s 2
+;
+2021 c 334 s 991
+;
+2017 c 286 s 1
+;
+2011 1st sp.s. c 7 s 4
+;
+2010 1st sp.s. c 34 s 9
+;
+2009 c 570 s 2
+;
+1998 c 322 s 22
+.]
+NOTES:
+Conflict with federal requirements
+—
+Effective date
+—
+2021 c 334:
+See notes following RCW
+43.79.555
+.
+Purpose
+—
+Findings
+—
+Intent
+—
+Severability
+—
+Effective date
+—
+2011 1st sp.s. c 7:
+See RCW
+74.48.005
+,
+74.48.900
+, and
+74.48.901
+.
+Analysis
+—
+2011 1st sp.s. c 7:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_485__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For fiscal years 2012 and 2013 and subject to appropriation, the department of social and health services shall do a comparative analysis of the facility-based payment rates calculated on July 1, 2011, using the payment methodology defined in chapter
+74.46
+RCW as modified by RCW
+74.46.431
+,
+74.46.435
+,
+74.46.437
+,
+74.46.485
+,
+74.46.496
+,
+74.46.501
+,
+74.46.506
+,
+74.46.515
+, and
+74.46.521
+, to the facility-based payment rates in effect June 30, 2010. If the facility-based payment rate calculated on July 1, 2011, is smaller than the facility-based payment rate on June 30, 2011, the difference shall be provided to the individual nursing facilities as an add-on payment per medicaid resident day.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_485__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>During the comparative analysis performed in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_485__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, if it is found that the direct care rate for any facility calculated under RCW
+74.46.431
+,
+74.46.435
+,
+74.46.437
+,
+74.46.485
+,
+74.46.496
+,
+74.46.501
+,
+74.46.506
+,
+74.46.515
+, and
+74.46.521
+is greater than the direct care rate in effect on June 30, 2010, then the facility shall receive a ten percent direct care rate add-on to compensate that facility for taking on more acute clients than they have in the past.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_485__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The rate add-ons provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_485__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section are subject to the reconciliation and settlement process provided in RCW
+74.46.022</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

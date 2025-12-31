@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.87.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.87.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.87.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.87.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_87_010">
+        <num>RCW 82.87.010</num>
+        <heading>Findings—Intent—2021 c 196</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.87
+&gt;
+Section 82.87.010
+Beginning of Chapter
+&lt;&lt; 
+        82.87.010 &gt;&gt;
+82.87.020
+PDF
+RCW
+82.87.010
+Findings
+—
+Intent
+—
+2021 c 196.
+The legislature finds that it is the paramount duty of the state to amply provide every child in the state with an education, creating the opportunity for the child to succeed in school and thrive in life. The legislature further finds that high quality early learning and child care is critical to a child's success in school and life, as it supports the development of the child's social-emotional, physical, cognitive, and language skills. Therefore, the legislature will invest in the ongoing support of K-12 education and early learning and child care by dedicating revenues from chapter 196, Laws of 2021 to the education legacy trust account and the common school construction account [fund].
+The legislature further recognizes that a tax system that is fair, balanced, and works for everyone is essential to help all Washingtonians grow and thrive. But Washington's tax system today is the most regressive in the nation because it asks those making the least to pay the most as a percentage of their income. Middle-income families in Washington pay two to four times more in taxes, as a percentage of household income, as compared to top earners in the state. Low-income Washingtonians pay at least six times more than do our wealthiest residents.
+To help meet the state's paramount duty, the legislature intends to levy a seven percent tax on the voluntary sale or exchange of stocks, bonds, and other capital assets where the profit is in excess of $250,000 annually to fund K-12 education, early learning, and child care, and advance our paramount duty to amply provide an education to every child in the state. The legislature recognizes that levying this tax will have the additional effect of making material progress toward rebalancing the state's tax code.
+The legislature further intends to exempt certain assets from the tax including, but not limited to, qualified family-owned small businesses, all residential and other real property, and retirement accounts.
+[
+2021 c 196 s 1
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 196:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2021 c 196 s 18
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

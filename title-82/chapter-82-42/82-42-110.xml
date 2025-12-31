@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.42.110"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.42.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.42.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_42_110">
+        <num>RCW 82.42.110</num>
+        <heading>Tax upon persons other than distributors—Imposition—Collection—Distribution—Enforcement</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.42
+&gt;
+Section 82.42.110
+82.42.100
+&lt;&lt; 
+        82.42.110 &gt;&gt;
+82.42.115
+PDF
+RCW
+82.42.110
+Tax upon persons other than distributors
+—
+Imposition
+—
+Collection
+—
+Distribution
+—
+Enforcement.
+Every person other than a distributor who acquires any aircraft fuel within this state upon which payment of tax is required under the provisions of this chapter, or imports such aircraft fuel into this state and sells, delivers, or in any manner uses it in this state, if the tax has not been paid, is subject to the provisions of this chapter provided for aircraft fuel distributors and must pay a tax at the rate computed under RCW
+82.42.020
+for each gallon thereof so sold, delivered, or used in the manner provided for distributors. The proceeds of the tax imposed by this section must be distributed in the manner provided for the distribution of the aircraft fuel tax in RCW
+82.42.090
+. For failure to comply with the terms of this chapter, such person is subject to the same penalties imposed upon distributors. The director must pursue against such persons the same procedure and remedies for audits, adjustments, collection, and enforcement of this chapter as is provided with respect to distributors. Nothing herein must be construed as classifying such persons as distributors.
+[
+2013 c 225 s 306
+;
+1982 1st ex.s. c 25 s 9
+;
+1971 ex.s. c 156 s 5
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Severability
+—
+Effective date
+—
+1982 1st ex.s. c 25:
+See notes following RCW
+82.42.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

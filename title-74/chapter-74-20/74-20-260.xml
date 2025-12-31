@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.260"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.260"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.260/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.260/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.260/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.260/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_260">
+        <num>RCW 74.20.260</num>
+        <heading>Financial statements by parent whose absence is basis of application for public assistance</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.260
+74.20.250
+&lt;&lt; 
+        74.20.260 &gt;&gt;
+74.20.280
+PDF
+RCW
+74.20.260
+Financial statements by parent whose absence is basis of application for public assistance.
+Any parent in the state whose absence is the basis upon which an application is filed for public assistance on behalf of a child shall be required to complete a statement, under oath, of his or her current monthly income, his or her total income over the past twelve months, the number of dependents for whom he or she is providing support, the amount he or she is contributing regularly toward the support of all children for whom application for such assistance is made, his or her current monthly living expenses, and such other information as is pertinent to determining his or her ability to support his or her children. Such statement shall be provided upon demand made by the state department of social and health services or attorney general, and if assistance based upon such application is granted on behalf of such child, additional statements shall be filed annually thereafter with the state department of social and health services until such time as the child is no longer receiving such assistance. Failure to comply with this section shall constitute a misdemeanor.
+[
+2013 c 23 s 214
+;
+1979 c 141 s 368
+;
+1963 c 206 s 11
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

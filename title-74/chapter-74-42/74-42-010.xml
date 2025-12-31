@@ -1,0 +1,528 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_010">
+        <num>RCW 74.42.010</num>
+        <heading>Definitions. (&lt;i&gt;Effective until June 30, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_74_42_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services and the department's employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Direct care staff&quot; means the staffing domain identified and defined in the center[s] for medicare and medicaid services' five-star quality rating system and as reported through the center[s] for medicare and medicaid services' payroll-based journal. For purposes of calculating hours per resident day minimum staffing standards for facilities with sixty-one or more licensed beds, the director of nursing services classification (job title code five), as identified in the centers for medicare and medicaid services' payroll-based journal, shall not be used. For facilities with sixty or fewer beds the director of nursing services classification (job title code five) shall be included in calculating hours per resident day minimum staffing standards.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Facility&quot; refers to a nursing home as defined in RCW
+18.51.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Geriatric behavioral health worker&quot; means a person with a bachelor's or master's degree in social work, behavioral health, or other related areas, or a person who has received specialized training devoted to mental illness and treatment of older adults.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Licensed practical nurse&quot; means a person licensed to practice practical nursing under chapter
+18.79
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Medicaid&quot; means Title XIX of the Social Security Act enacted by the social security amendments of 1965 (42 U.S.C. Sec. 1396; 79 Stat. 343), as amended.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Nurse practitioner&quot; means a person licensed to practice *advanced registered nursing under chapter
+18.79
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Nursing care&quot; means that care provided by a registered nurse, an **advanced registered nurse practitioner, a licensed practical nurse, or a nursing assistant in the regular performance of their duties.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Physician&quot; means a person practicing pursuant to chapter
+18.57
+or
+18.71
+RCW, including, but not limited to, a physician employed by the facility as provided in chapter
+18.51
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Physician assistant&quot; means a person practicing pursuant to chapter
+18.71A
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Qualified therapist&quot; means:</p>
+          </content>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An activities specialist who has specialized education, training, or experience specified by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An audiologist who is eligible for a certificate of clinical competence in audiology or who has the equivalent education and clinical experience.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A mental health professional as defined in chapter
+71.05
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>An intellectual disabilities professional who is a qualified therapist or a therapist approved by the department and has specialized training or one year experience in treating or working with persons with intellectual or developmental disabilities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>An occupational therapist who is a graduate of a program in occupational therapy or who has equivalent education or training.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A physical therapist as defined in chapter
+18.74
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A social worker as defined in RCW
+18.320.010</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>A speech pathologist who is eligible for a certificate of clinical competence in speech pathology or who has equivalent education and clinical experience.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Registered nurse&quot; means a person licensed to practice registered nursing under chapter
+18.79
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Resident&quot; means an individual residing in a nursing home, as defined in RCW
+18.51.010
+.
+[
+2020 c 80 s 56
+. Prior:
+2019 c 301 s 3
+;
+2019 c 12 s 1
+;
+2017 c 200 s 2
+; prior:
+2016 c 131 s 3
+; prior:
+2011 c 228 s 2
+;
+2011 c 89 s 19
+; prior:
+2010 c 94 s 27
+;
+1994 sp.s. c 9 s 750
+;
+1993 c 508 s 4
+;
+1979 ex.s. c 211 s 1
+.]
+NOTES:
+Reviser's note:
+*</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The term &quot;advanced registered nursing practice&quot; was changed to &quot;advanced practice registered nursing&quot; by 2024 c 239 s 3, effective June 30, 2027.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The term &quot;advanced registered nurse practitioner&quot; was changed to &quot;advanced practice registered nurse&quot; by 2024 c 239 s 1, effective June 30, 2027.
+Effective date
+—
+2020 c 80 ss 12-59:
+See note following RCW
+7.68.030
+.
+Intent
+—
+2020 c 80:
+See note following RCW
+18.71A.010
+.
+Effective date
+—
+2011 c 89:
+See note following RCW
+18.320.005
+.
+Findings
+—
+2011 c 89:
+See RCW
+18.320.005
+.
+Purpose
+—
+2010 c 94:
+See note following RCW
+44.04.280
+.
+Severability
+—
+Headings and captions not law
+—
+Effective date
+—
+1994 sp.s. c 9:
+See RCW
+18.79.900
+through
+18.79.902
+.
+Section captions
+—
+Severability
+—
+Effective date
+—
+1993 c 508:
+See RCW
+74.39A.900
+through
+74.39A.903
+.
+PDF
+RCW
+74.42.010
+Definitions.
+(Effective June 30, 2027.)
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services and the department's employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Direct care staff&quot; means the staffing domain identified and defined in the centers for medicare and medicaid services' five-star quality rating system and as reported through the centers for medicare and medicaid services' payroll-based journal. For purposes of calculating hours per resident day minimum staffing standards for facilities with sixty-one or more licensed beds, the director of nursing services classification (job title code five), as identified in the centers for medicare and medicaid services' payroll-based journal, shall not be used. For facilities with sixty or fewer beds the director of nursing services classification (job title code five) shall be included in calculating hours per resident day minimum staffing standards.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Facility&quot; refers to a nursing home as defined in RCW
+18.51.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Geriatric behavioral health worker&quot; means a person with a bachelor's or master's degree in social work, behavioral health, or other related areas, or a person who has received specialized training devoted to mental illness and treatment of older adults.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Licensed practical nurse&quot; means a person licensed to practice practical nursing under chapter
+18.79
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Medicaid&quot; means Title XIX of the Social Security Act enacted by the social security amendments of 1965 (42 U.S.C. Sec. 1396; 79 Stat. 343), as amended.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Nurse practitioner&quot; means a person licensed to practice advanced practice registered nursing under chapter
+18.79
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Nursing care&quot; means that care provided by a registered nurse, an advanced practice registered nurse, a licensed practical nurse, or a nursing assistant in the regular performance of their duties.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Physician&quot; means a person practicing pursuant to chapter
+18.57
+or
+18.71
+RCW, including, but not limited to, a physician employed by the facility as provided in chapter
+18.51
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Physician assistant&quot; means a person practicing pursuant to chapter
+18.71A
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Qualified therapist&quot; means:</p>
+          </content>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An activities specialist who has specialized education, training, or experience specified by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An audiologist who is eligible for a certificate of clinical competence in audiology or who has the equivalent education and clinical experience.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A mental health professional as defined in chapter
+71.05
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>An intellectual disabilities professional who is a qualified therapist or a therapist approved by the department and has specialized training or one year experience in treating or working with persons with intellectual or developmental disabilities.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>An occupational therapist who is a graduate of a program in occupational therapy or who has equivalent education or training.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A physical therapist as defined in chapter
+18.74
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A social worker as defined in RCW
+18.320.010</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_010__subsec_11__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>A speech pathologist who is eligible for a certificate of clinical competence in speech pathology or who has equivalent education and clinical experience.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Registered nurse&quot; means a person licensed to practice registered nursing under chapter
+18.79
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Resident&quot; means an individual residing in a nursing home, as defined in RCW
+18.51.010
+.
+[
+2025 c 58 s 5169
+;
+2020 c 80 s 56
+. Prior:
+2019 c 301 s 3
+;
+2019 c 12 s 1
+;
+2017 c 200 s 2
+; prior:
+2016 c 131 s 3
+; prior:
+2011 c 228 s 2
+;
+2011 c 89 s 19
+; prior:
+2010 c 94 s 27
+;
+1994 sp.s. c 9 s 750
+;
+1993 c 508 s 4
+;
+1979 ex.s. c 211 s 1
+.]
+NOTES:
+Effective date
+—
+2025 c 58 ss 5058-5170:
+See note following RCW
+7.68.030
+.
+Explanatory note
+—
+2025 c 58:
+See note following RCW
+1.16.050
+.
+Effective date
+—
+2020 c 80 ss 12-59:
+See note following RCW
+7.68.030
+.
+Intent
+—
+2020 c 80:
+See note following RCW
+18.71A.010
+.
+Effective date
+—
+2011 c 89:
+See note following RCW
+18.320.005
+.
+Findings
+—
+2011 c 89:
+See RCW
+18.320.005
+.
+Purpose
+—
+2010 c 94:
+See note following RCW
+44.04.280
+.
+Severability
+—
+Headings and captions not law
+—
+Effective date
+—
+1994 sp.s. c 9:
+See RCW
+18.79.900
+through
+18.79.902
+.
+Section captions
+—
+Severability
+—
+Effective date
+—
+1993 c 508:
+See RCW
+74.39A.900
+through
+74.39A.903
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

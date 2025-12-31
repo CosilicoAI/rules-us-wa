@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_040">
+        <num>RCW 74.13A.040</num>
+        <heading>Review of support payments</heading>
+        <subsection eId="sec_74_13A_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any parent who is a party to an agreement under RCW
+74.13A.005
+through
+74.13A.080
+may at any time, in writing, request, for reasons set forth in such request, a review of the amount of any payment or the level of continuing payments. The review shall begin not later than thirty days from the receipt of such request. Any adjustment may be made retroactive to the date such request was received by the secretary. If such request is not acted on within thirty days after it has been received by the secretary, such parent may invoke his or her rights under the hearing provisions set forth in RCW
+74.13A.055
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The secretary may make adjustments in payments at the time of the review, or at other times, if the secretary finds that circumstances have changed and warrant an adjustment in payments. Changes in circumstances may include, but are not limited to, variations in medical opinions, prognosis, and costs. Appropriate adjustments in payments shall be made based upon changes in the needs of the child and/or changes in the adoptive parents' income, resources, and expenses for the care of such child or other members of the family, including medical and/or hospitalization expense not otherwise covered by or subject to reimbursement from insurance or other sources of financial assistance.
+[
+2013 c 23 s 211
+;
+2009 c 527 s 1
+;
+1995 c 270 s 2
+;
+1985 c 7 s 138
+;
+1971 ex.s. c 63 s 7
+. Formerly RCW
+74.13.118
+.]
+NOTES:
+Finding
+—
+1995 c 270:
+&quot;The legislature finds that it is in the best interest of the people of the state of Washington to support the adoption process in a variety of ways, including easing administrative burdens on adoptive parents receiving financial support, providing finality for adoptive placements and stable homes for children, and not delaying adoptions.&quot; [
+1995 c 270 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

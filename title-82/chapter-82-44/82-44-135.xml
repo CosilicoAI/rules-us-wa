@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.135"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.135"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.135/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.135/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.135/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.135/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_135">
+        <num>RCW 82.44.135</num>
+        <heading>Local government must contract with department of licensing</heading>
+        <subsection eId="sec_82_44_135__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Before a local government subject to this chapter may impose a motor vehicle excise tax, the local government must contract with the department for the collection of the tax. The department may charge a reasonable amount, not to exceed one percent of tax collections, or two and one-half percent during the 2019-2021 biennium, for the administration and collection of the tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_44_135__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For fiscal year 2021, the department shall charge a minimum of seven million eight hundred two thousand dollars, which is the reasonable amount aimed at achieving full cost recovery for the administration and collection of a motor vehicle excise tax. The amount of the full reimbursement for the administration and collection of the motor vehicle excise tax must be deducted before distributing any revenues to a regional transit authority. Any reimbursement to ensure full cost recovery beyond the amount specified in this subsection may be negotiated between the department and the regional transit authority if full cost recovery has not been achieved, or if based on emergent issues.
+[
+2020 c 219 s 706
+;
+2006 c 318 s 9
+.]
+NOTES:
+Effective date
+—
+2020 c 219:
+See note following RCW
+46.68.310
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

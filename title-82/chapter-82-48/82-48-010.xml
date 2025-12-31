@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.48.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.48.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.48.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.48.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_48_010">
+        <num>RCW 82.48.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_48_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Aircraft&quot; means any weight-carrying device or structure for navigation of the air which is designed to be supported by the air.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_48_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Commuter air carrier&quot; means an air carrier holding authority under Title 14, Part 298 of the Code of Federal Regulations that carries passengers on at least five round trips per week on at least one route between two or more points according to its published flight schedules that specify the times, days of the week, and places between which those flights are performed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_48_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Large multi-engine fixed wing&quot; means any piston-driven multi-engine fixed wing aircraft with a maximum gross weight as listed by the manufacturer of seventy-five hundred pounds or more.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_48_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Person&quot; includes a firm, partnership, limited liability company, or corporation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_48_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Secretary&quot; means the secretary of transportation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_48_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Small multi-engine fixed wing&quot; means any piston-driven multi-engine fixed wing aircraft with a maximum gross weight as listed by the manufacturer of less than seventy-five hundred pounds.
+[
+2013 c 56 s 2
+;
+1995 c 318 s 4
+;
+1987 c 220 s 5
+;
+1983 2nd ex.s. c 3 s 21
+;
+1979 c 158 s 239
+;
+1967 ex.s. c 9 s 1
+;
+1961 c 15 s 82.48.010
+. Prior:
+1949 c 49 s 1
+; Rem. Supp. 1949 s 11219-33.]
+NOTES:
+Reviser's note:
+The definitions in this section have been alphabetized pursuant to RCW
+1.08.015</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.080"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.080"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.080/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.080/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.080/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.080/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_080">
+        <num>RCW 74.08.080</num>
+        <heading>Grievances—Departmental and judicial review</heading>
+        <subsection eId="sec_74_08_080__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The adjudicative proceeding is governed by the Administrative Procedure Act, chapter
+34.05
+RCW, and this subsection.</p>
+          </content>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The applicant or recipient must file the application for an adjudicative proceeding with the secretary within 90 days after receiving notice of the aggrieving decision unless good cause is shown, to the extent allowable under federal law.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For the purpose of this subsection, good cause is defined as a substantive reason or legal justification for failing to meet a hearing deadline. Good cause to fail to meet a hearing deadline may include, but is not limited to: Military deployment, medical reasons, housing instability, language barriers, or domestic violence.</p>
+            </content>
+            <subsection eId="sec_74_08_080__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The department shall not grant a request for a hearing for good cause if the request is filed more than one year after the aggrieving decision.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The hearing shall be conducted at the local community services office or other location in Washington convenient to the appellant.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The appellant or his or her representative has the right to inspect his or her department file and, upon request, to receive copies of department documents relevant to the proceedings free of charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The appellant has the right to a copy of the tape recording of the hearing free of charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The department is limited to recovering an overpayment arising from assistance being continued pending the adjudicative proceeding to the amount recoverable up to the 60th day after the secretary's receipt of the application for an adjudicative proceeding.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>If the final adjudicative order is made in favor of the appellant, assistance shall be paid from the date of denial of the application for assistance or 30 days following the date of application for temporary assistance for needy families or 45 days after date of application for all other programs, whichever is sooner; or in the case of a recipient, from the effective date of the local community services office decision.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_080__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>This subsection applies only to an adjudicative proceeding in which the appellant is an applicant for or recipient of medical assistance or the limited casualty program for the medically needy and the issue is his or her eligibility or ineligibility due to the assignment or transfer of a resource. The burden is on the department to prove by a preponderance of the evidence that the person knowingly and willingly assigned or transferred the resource at less than market value for the purpose of qualifying or continuing to qualify for medical assistance or the limited casualty program for the medically needy. If the prevailing party in the adjudicative proceeding is the applicant or recipient, he or she is entitled to reasonable attorney's fees.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08_080__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When a person files a petition for judicial review as provided in RCW
+34.05.514
+of an adjudicative order entered in a public assistance program, no filing fee shall be collected from the person and no bond shall be required on any appeal. In the event that the superior court, the court of appeals, or the supreme court renders a decision in favor of the appellant, said appellant shall be entitled to reasonable attorneys' fees and costs. If a decision of the court is made in favor of the appellant, assistance shall be paid from date of the denial of the application for assistance or 30 days after the application for temporary assistance for needy families or 45 days following the date of application, whichever is sooner; or in the case of a recipient, from the effective date of the local community services office decision.
+[
+2022 c 163 s 1
+;
+1998 c 79 s 15
+;
+1997 c 59 s 12
+;
+1989 c 175 s 145
+;
+1988 c 202 s 58
+;
+1971 c 81 s 136
+;
+1969 ex.s. c 172 s 2
+;
+1959 c 26 s 74.08.080
+. Prior:
+1953 c 174 s 31
+;
+1949 c 6 s 9
+; Rem. Supp. 1949 s 9998-33i.]
+NOTES:
+Conflict with federal requirements
+—
+2022 c 163:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.&quot; [
+2022 c 163 s 3
+.]
+Effective date
+—
+2022 c 163:
+&quot;This act takes effect July 1, 2023.&quot; [
+2022 c 163 s 4
+.]
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.
+Severability
+—
+1988 c 202:
+See note following RCW
+2.24.050
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

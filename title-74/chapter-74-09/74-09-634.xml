@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.634"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.634"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.634/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.634/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.634/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.634/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_634">
+        <num>RCW 74.09.634</num>
+        <heading>Opioid overdose reversal medications—Bulk purchasing and distribution program</heading>
+        <subsection eId="sec_74_09_634__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>All medicaid contracted managed health care organizations must participate in the opioid overdose reversal medication bulk purchasing and distribution program established in RCW
+70.14.170
+once the program is operational.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_634__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The health care authority must participate in the opioid overdose reversal medication bulk purchasing and distribution program established in RCW
+70.14.170
+once the program is operational for purposes of individuals enrolled in medical assistance under this chapter that are not enrolled in a managed care organization and are uninsured individuals.
+[
+2023 c 51 s 45
+;
+2021 c 273 s 12
+.]
+NOTES:
+Rules
+—
+2021 c 273 ss 7-12:
+See note following RCW
+70.14.170
+.
+Findings
+—
+Intent
+—
+2021 c 273:
+See note following RCW
+70.41.480
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

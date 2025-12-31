@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.150"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.150"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.150/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.150/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.150/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.150/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_150">
+        <num>RCW 74.15.150</num>
+        <heading>Penalty for operating without license</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.150
+74.15.140
+&lt;&lt; 
+        74.15.150 &gt;&gt;
+74.15.160
+PDF
+RCW
+74.15.150
+Penalty for operating without license.
+Any agency operating without a license shall be guilty of a misdemeanor. This section shall not be enforceable against an agency until sixty days after the effective date of new rules, applicable to such agency, have been adopted under chapter
+74.15
+RCW and RCW
+74.13.031
+.
+[
+1982 c 118 s 13
+;
+1967 c 172 s 15
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

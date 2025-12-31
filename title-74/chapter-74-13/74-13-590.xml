@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.590"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.590"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.590/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.590/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.590/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.590/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_590">
+        <num>RCW 74.13.590</num>
+        <heading>Tasks to be performed based on available resources</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13
+&gt;
+Section 74.13.590
+74.13.580
+&lt;&lt; 
+        74.13.590 &gt;&gt;
+74.13.600
+PDF
+RCW
+74.13.590
+Tasks to be performed based on available resources.
+The department shall perform the tasks provided in RCW
+74.13.550
+through
+74.13.580
+based on available resources.
+[
+2018 c 284 s 60
+;
+2009 c 520 s 89
+;
+2003 c 112 s 6
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2003 c 112:
+See note following RCW
+74.13.550
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

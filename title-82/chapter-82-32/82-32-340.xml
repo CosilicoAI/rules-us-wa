@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.340"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.340"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.340/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.340/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.340/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.340/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_340">
+        <num>RCW 82.32.340</num>
+        <heading>Chargeoff of uncollectible taxes—Destruction of files and records</heading>
+        <subsection eId="sec_82_32_340__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any tax or penalty which the department of revenue deems to be uncollectible may be transferred from accounts receivable to a suspense account and cease to be accounted an asset. Any item transferred shall continue to be a debt due the state from the taxpayer and may at any time within twelve years from the filing of a warrant covering such amount with the clerk of the superior court be transferred back to accounts receivable for the purpose of collection. The department of revenue may charge off as finally uncollectible any tax or penalty which it deems uncollectible at any time after twelve years from the date that the last tax return for the delinquent taxpayer was or should have been filed if the department of revenue is satisfied that there are no cost-effective means of collecting the tax or penalty.
+After any tax or penalty has been charged off as finally uncollectible under the provisions of this section, the department of revenue may destroy any or all files and records pertaining to the liability of any taxpayer for such tax or penalty.
+The department of revenue, subject to the approval of the state records committee, may at the expiration of five years after the close of any taxable year, destroy any or all files and records pertaining to the tax liability of any taxpayer for such taxable year, who has fully paid all taxes, penalties and interest for such taxable year, or any preceding taxable year for which such taxes, penalties and interest have been fully paid. In the event that such files and records are reproduced on film pursuant to RCW
+40.20.020
+for use in accordance with RCW
+40.20.030
+, the original files and records may be destroyed immediately after reproduction and such reproductions may be destroyed at the expiration of the above five-year period, subject to the approval of the state records committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_340__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_340__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the department may charge off any tax within its jurisdiction to collect that is owed by a taxpayer, including any penalty or interest thereon, if the department ascertains that the cost of collecting that tax would be greater than the total amount which is owed or likely in the near future to be owed by, and collectible from, the taxpayer.
+[
+1989 c 78 s 3
+;
+1985 c 414 s 1
+;
+1979 ex.s. c 95 s 3
+;
+1979 c 151 s 184
+;
+1967 ex.s. c 89 s 4
+;
+1965 ex.s. c 141 s 7
+;
+1961 c 15 s 82.32.340
+. Prior:
+1955 c 389 s 40
+;
+1939 c 225 s 30
+;
+1937 c 227 s 21
+; 1935 c 180 s 210(a); RRS s 8370-210a.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

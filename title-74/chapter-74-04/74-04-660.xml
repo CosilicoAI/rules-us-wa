@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.660"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.660"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.660/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.660/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.660/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.660/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_660">
+        <num>RCW 74.04.660</num>
+        <heading>Family emergency assistance program—Extension of benefits during state of emergency</heading>
+        <subsection eId="sec_74_04_660__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Benefits provided under this program shall be limited to one period of time, as determined by the department, within any consecutive twelve-month period.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_660__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Benefits under this program shall be provided to alleviate emergent conditions resulting from insufficient income and resources to provide for: Food, shelter, clothing, medical care, or other necessary items, as defined by the department. Benefits may also be provided for family reconciliation services, family preservation services, home-based services, short-term substitute care in a licensed agency as defined in RCW
+74.15.020
+, crisis nurseries, therapeutic child care, or other necessary services as defined by the department. Benefits shall be provided only in an amount sufficient to cover the cost of the specific need, subject to the limitations established in this section.</p>
+          </content>
+          <subsection eId="sec_74_04_660__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall, by rule, establish assistance standards and eligibility criteria for this program in accordance with this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_660__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Eligibility for benefits or services under this section does not automatically entitle a recipient to medical assistance.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_660__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall seek federal emergency assistance funds to supplement the state funds appropriated for the operation of this program as long as other departmental programs are not adversely affected by the receipt of federal funds.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_660__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If state funds appropriated for the consolidated emergency assistance program are exhausted, the department may discontinue the program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_660__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>During a state of emergency and pursuant to an order from the governor under this subsection, benefits under this program may be extended to individuals and families without children and may be provided for more than one period of time within any consecutive 12-month period, as established in an order from the governor. Adjustments to the program under this subsection remain in effect until either the state of emergency ceases, the order expires, or the governor issues an order terminating these adjustments, whichever occurs first.
+[
+2021 c 9 s 1
+;
+2008 c 181 s 301
+;
+1994 c 296 s 1
+;
+1993 c 63 s 1
+;
+1989 c 11 s 26
+;
+1985 c 335 s 3
+;
+1981 1st ex.s. c 6 s 6
+.]
+NOTES:
+Effective date
+—
+2021 c 9 s 1:
+&quot;Section 1 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 31, 2021].&quot; [
+2021 c 9 s 4
+.]
+Part headings not law
+—
+2008 c 181:
+See note following RCW
+43.06.220
+.
+Severability
+—
+1989 c 11:
+See note following RCW
+9A.56.220
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

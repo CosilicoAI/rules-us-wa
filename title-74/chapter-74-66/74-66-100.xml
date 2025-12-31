@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.66.100"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.66.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.66.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_66_100">
+        <num>RCW 74.66.100</num>
+        <heading>Procedure for civil actions</heading>
+        <subsection eId="sec_74_66_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A subpoena requiring the attendance of a witness at a trial or hearing conducted under RCW
+74.66.040
+or
+74.66.050
+may be served at any place in the state of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A civil action under RCW
+74.66.040
+or
+74.66.050
+may be brought at any time, without limitation after the date on which the violation of RCW
+74.66.020
+is committed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_100__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the attorney general elects to intervene and proceed with a qui tam action, the attorney general may file its own complaint or amend the complaint of a relator to clarify or add detail to the claims in which the attorney general is intervening and to add any additional claims with respect to which the attorney general contends it is entitled to relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_100__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In any action brought under RCW
+74.66.040
+or
+74.66.050
+, the attorney general is required to prove all essential elements of the cause of action, including damages, by a preponderance of the evidence.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_100__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Notwithstanding any other provision of law or the rules for superior court, a final judgment rendered in favor of the government entity in any criminal proceeding charging fraud or false statements, whether upon a verdict after trial or upon a plea of guilty or nolo contendere, estops the defendant from denying the essential elements of the offense in any action which involves the same transaction as in the criminal proceeding and which is brought under RCW
+74.66.040
+or
+74.66.050
+.
+[
+2012 c 241 s 210
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2012 c 241:
+See note following RCW
+74.66.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

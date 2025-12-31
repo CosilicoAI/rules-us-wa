@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.901"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.901"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.901/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.901/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.901/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.901/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_901">
+        <num>RCW 74.08A.901</num>
+        <heading>Part headings, captions, table of contents not law—1997 c 58</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08A
+&gt;
+Section 74.08A.901
+74.08A.900
+&lt;&lt; 
+        74.08A.901 &gt;&gt;
+74.08A.902
+PDF
+RCW
+74.08A.901
+Part headings, captions, table of contents not law
+—
+1997 c 58.
+Part headings, captions, and the table of contents used in this act are not any part of the law.
+[
+1997 c 58 s 1008
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

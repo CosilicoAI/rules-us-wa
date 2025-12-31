@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0421"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0421"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0421/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0421/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0421/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0421/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_0421">
+        <num>RCW 82.16.0421</num>
+        <heading>Exemptions—Sales to electrolytic processing businesses. (Expires July 1, 2029.)</heading>
+        <subsection eId="sec_82_16_0421__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_16_0421__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Chlor-alkali electrolytic processing business&quot; means a person who is engaged in a business that uses more than ten average megawatts of electricity per month in a chlor-alkali electrolytic process to split the electrochemical bonds of sodium chloride and water to make chlorine and sodium hydroxide. A &quot;chlor-alkali electrolytic processing business&quot; does not include direct service industrial customers or their subsidiaries that contract for the purchase of power from the Bonneville power administration as of June 10, 2004.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0421__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Sodium chlorate electrolytic processing business&quot; means a person who is engaged in a business that uses more than ten average megawatts of electricity per month in a sodium chlorate electrolytic process to split the electrochemical bonds of sodium chloride and water to make sodium chlorate and hydrogen. A &quot;sodium chlorate electrolytic processing business&quot; does not include direct service industrial customers or their subsidiaries that contract for the purchase of power from the Bonneville power administration as of June 10, 2004.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Effective July 1, 2004, the tax levied under this chapter does not apply to sales of electricity made by a light and power business to a chlor-alkali electrolytic processing business or a sodium chlorate electrolytic processing business for the electrolytic process if the contract for sale of electricity to the business contains the following terms:</p>
+          </content>
+          <subsection eId="sec_82_16_0421__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The electricity to be used in the electrolytic process is separately metered from the electricity used for general operations of the business;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0421__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The price charged for the electricity used in the electrolytic process will be reduced by an amount equal to the tax exemption available to the light and power business under this section; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0421__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Disallowance of all or part of the exemption under this section is a breach of contract and the damages to be paid by the chlor-alkali electrolytic processing business or the sodium chlorate electrolytic processing business are the amount of the tax exemption disallowed.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The exemption provided for in this section does not apply to amounts received from the remarketing or resale of electricity originally obtained by contract for the electrolytic process.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In order to claim an exemption under this section, the chlor-alkali electrolytic processing business or the sodium chlorate electrolytic processing business must provide the light and power business with an exemption certificate in a form and manner prescribed by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A person receiving the benefit of the exemption provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+          <subsection eId="sec_82_16_0421__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This section does not apply to sales of electricity made after December 31, 2028.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0421__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This section expires July 1, 2029.
+[
+2018 c 146 s 2
+;
+2017 c 135 s 34
+;
+2010 c 114 s 133
+;
+2009 c 434 s 1
+;
+2004 c 240 s 1
+.]
+NOTES:
+Tax preference performance statement
+—
+2018 c 146:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 2, chapter 146, Laws of 2018. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to create or retain jobs and improve industry competitiveness as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_16_0421__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and (c).</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to maintain the industry competitiveness of electrolytic processing businesses in Washington created under the existing tax exemption in RCW
+82.16.0421
+and thereby enable such businesses to continue to provide family-wage jobs in our state. The legislature recognizes that since 2004 when the public utility tax exemption in RCW
+82.16.0421
+was initially enacted, electrolytic processing businesses receiving the exemption have demonstrated the ability to successfully apply their tax savings towards maintaining competitiveness, while still providing family-wage jobs. It is the legislature's intent to extend the expiration date of the existing public utility tax exemption under RCW
+82.16.0421
+for chlor-alkali electrolytic processing businesses and sodium chlorate electrolytic processing businesses in order to:</p>
+          </content>
+          <subsection eId="sec_82_16_0421__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Maintain industry competitiveness for such electrolytic processing businesses, who rely on electricity as a primary manufacturing input. The legislature recognizes that these businesses face uncertain electric energy costs and that offsetting tax advantages are available to competing firms outside of Washington; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0421__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Support manufacturing and a skilled workforce by retaining existing family-wage jobs and creating new family-wage jobs in Washington by enabling electrolytic processing businesses to maintain production of chlor-alkali and sodium chlorate at a level that preserves the jobs that were on the payroll of electrolytic processing businesses as of June 7, 2018.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To measure the effectiveness of the tax preference provided in section 2, chapter 146, Laws of 2018 in achieving the specific public policy objective described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee must review the impact of the preference on electricity costs and whether electrolytic processing businesses in the state receive tax treatment similar to the treatment of competing firms in other states. The review must also include an analysis of the number of employees in family-wage jobs employed in electrolytic processing in the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The legislature intends to extend the expiration date of the tax exemption in RCW
+82.16.0421
+, if the joint legislative audit and review committee finds that:</p>
+          </content>
+          <subsection eId="sec_82_16_0421__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Electricity costs are reduced and that Washington electrolytic processing businesses receive similar tax treatment as provided in other states; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0421__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Family-wage jobs in electrolytic processing businesses have been preserved compared to the levels for such jobs as of June 7, 2018.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The joint legislative audit and review committee must make recommendations on how the tax preference can be improved to accomplish the legislative objectives, if the joint legislative audit and review committee finds that:</p>
+          </content>
+          <subsection eId="sec_82_16_0421__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Electricity costs have not been reduced or that similar tax treatment as provided in other states has not been maintained; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0421__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The number of electrolytic processing business family-wage jobs in Washington has been maintained at less than the levels as of June 7, 2018.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For the purposes of measuring the performance of the tax preference in section 2, chapter 146, Laws of 2018, &quot;family-wage jobs&quot; means jobs paying a wage equal to at least the average manufacturing wage in the county in which the jobs are located.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0421__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to data provided to the department of revenue and the employment security department.&quot; [
+2018 c 146 s 1
+.]
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

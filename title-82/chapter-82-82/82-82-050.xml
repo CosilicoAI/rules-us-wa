@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.82.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.82.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.82.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.82.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.82.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.82.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_82_050">
+        <num>RCW 82.82.050</num>
+        <heading>Qualified employment positions—Requirements</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.82
+&gt;
+Section 82.82.050
+82.82.040
+&lt;&lt; 
+        82.82.050 &gt;&gt;
+End of Chapter
+PDF
+RCW
+82.82.050
+Qualified employment positions
+—
+Requirements.
+The qualified employment positions must be filled by the end of the calendar year following the year in which the project is certified as operationally complete. If a recipient does not meet the requirements for qualified employment positions by the end of the second calendar year following the year in which the project is certified as operationally complete, all deferred taxes are immediately due.
+[
+2008 c 15 s 6
+.]
+NOTES:
+Effective date
+—
+2008 c 15:
+See note following RCW
+82.82.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

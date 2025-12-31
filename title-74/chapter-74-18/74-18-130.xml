@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.130"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.130"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.130/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.130/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.130/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.130/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_130">
+        <num>RCW 74.18.130</num>
+        <heading>Vocational rehabilitation—Eligibility</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.18
+&gt;
+Section 74.18.130
+74.18.127
+&lt;&lt; 
+        74.18.130 &gt;&gt;
+74.18.140
+PDF
+RCW
+74.18.130
+Vocational rehabilitation
+—
+Eligibility.
+The department shall provide a program of vocational rehabilitation to assist blind persons to overcome barriers to employment and to develop skills necessary for employment and independence. Applicants eligible for vocational rehabilitation services shall be blind persons who also meet eligibility requirements as specified in the federal rehabilitation act of 1973.
+[
+2003 c 409 s 13
+;
+1983 c 194 s 13
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

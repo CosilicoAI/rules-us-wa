@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.090"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_090">
+        <num>RCW 74.39A.090</num>
+        <heading>Discharge planning—Contracts for case management services and reassessment and reauthorization—Assessment of case management roles and quality of in-home care services—Plan of care model language</heading>
+        <subsection eId="sec_74_39A_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Discharge planning, as directed in this section, is intended for residents and patients identified for discharge to long-term services under RCW
+70.41.320
+,
+74.39A.040
+, or
+74.42.058
+. The purpose of discharge planning is to protect residents and patients from the financial incentives inherent in keeping residents or patients in a more expensive higher level of care and shall focus on care options that are in the best interest of the patient or resident.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the department shall, consistent with the intent of this section, contract with area agencies on aging:</p>
+          </content>
+          <subsection eId="sec_74_39A_090__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To provide case management services to consumers receiving home and community services in their own home; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_090__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To reassess and reauthorize home and community services in home or in other settings for consumers:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_090__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Who have been initially authorized by the department to receive home and community services; and</p>
+            </content>
+            <subsection eId="sec_74_39A_090__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Who, at the time of reassessment and reauthorization, are receiving home and community services in their own home.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may contract with a federally recognized Indian tribe to determine eligibility, including assessments and reassessments, authorize and reauthorize services, and perform case management functions within its regional authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>In the event that an area agency on aging is unwilling to enter into or satisfactorily fulfill a contract or an individual consumer's need for case management services will be met through an alternative delivery system, the department is authorized to:</p>
+          </content>
+          <subsection eId="sec_74_39A_090__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Obtain the services through competitive bid; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_090__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide the services directly until a qualified contractor can be found.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_090__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department shall assess the degree and quality of the case management performed by the contracted area agency on aging staff or federally recognized Indian tribe for elderly and persons with disabilities in the community.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_090__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall incorporate the expected outcomes and criteria to measure the performance of service coordination organizations into contracts with area agencies on aging as provided in chapter
+70.320
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The contracts must require area agencies on aging and federally recognized Indian tribes to assess the quality of the in-home care services provided to consumers who are receiving services under programs authorized through the medicaid state plan, medicaid waiver authorities, or similar state-funded in-home care programs through an individual provider or home care agency. Quality indicators may include, but are not limited to, home care consumers satisfaction surveys, how quickly home care consumers are linked with home care workers, and whether the plan of care under RCW
+74.39A.095
+has been honored by the agency or the individual provider.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department shall develop model language for the plan of care established in RCW
+74.39A.095
+. The plan of care shall be in clear language, and written at a reading level that will ensure the ability of consumers to understand the rights and responsibilities expressed in the plan of care.
+[
+2022 c 255 s 1
+;
+2018 c 278 s 11
+;
+2013 c 320 s 10
+;
+2004 c 141 s 3
+;
+1999 c 175 s 2
+;
+1995 1st sp.s. c 18 s 38
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.
+Findings
+—
+1999 c 175:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the quality of long-term care services provided to, and protection of, Washington's low-income elderly and disabled residents is of great importance to the state. The legislature further finds that revised in-home care policies are needed to more effectively address concerns about the quality of these services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that consumers of in-home care services frequently are in contact with multiple health and long-term care providers in the public and private sector. The legislature further finds that better coordination between these health and long-term care providers, and case managers, can increase the consumer's understanding of their plan of care, maximize the health benefits of coordinated care, and facilitate cost efficiencies across health and long-term care systems.&quot; [
+1999 c 175 s 1
+.]
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

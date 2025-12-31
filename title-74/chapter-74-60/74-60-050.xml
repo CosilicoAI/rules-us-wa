@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_050">
+        <num>RCW 74.60.050</num>
+        <heading>Notices of assessment—Administration and collection</heading>
+        <subsection eId="sec_74_60_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The authority, in cooperation with the office of financial management, shall develop rules for determining the amount to be assessed to individual hospitals, notifying individual hospitals of the assessed amount, and collecting the amounts due. Such rule making shall specifically include provision for:</p>
+          </content>
+          <subsection eId="sec_74_60_050__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Transmittal of notices of assessment by the authority to each hospital informing the hospital of its inpatient and outpatient nonmedicare net patient revenue and the assessment amount due and payable;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Interest on delinquent assessments at the rate specified in RCW
+82.32.050
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Adjustment of the assessment amounts in accordance with subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For any hospital failing to make an assessment payment within 60 calendar days of its due date, the authority shall offset an amount from payments scheduled to be made by the authority to the hospital, reflecting the assessment payments owed by the hospital plus any interest. The authority shall deposit these offset funds into the dedicated hospital safety net assessment fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For each state calendar year, the assessment amounts established under RCW
+74.60.030
+must be adjusted as follows:</p>
+          </content>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If sufficient other funds, including federal funds, are available to make the payments required under this chapter and fund the state portion of the quality incentive payments under RCW
+74.09.611
+and
+74.60.020</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>without utilizing the full assessment under RCW
+74.60.030
+, the authority shall reduce the amount of the assessment to the minimum levels necessary to support those payments;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the total amount of inpatient and outpatient supplemental payments under RCW
+74.60.120
+is in excess of the federal limitations to aggregate maximum payment amounts and the entire excess amount cannot be disbursed by additional payments to managed care organizations under RCW
+74.60.130
+, the authority shall proportionately reduce future assessments on medicaid prospective payment hospitals to the level necessary to generate additional payments to hospitals that are consistent with the upper payment limit plus the maximum permissible amount of additional payments to managed care organizations under RCW
+74.60.130
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the amount of payments to managed care organizations under RCW
+74.60.130
+cannot be distributed because of failure to meet federal actuarial soundness or utilization requirements or other federal requirements, the authority shall apply the amount that cannot be distributed to reduce assessments beginning from the time when that determination is made, to the level necessary to generate additional payments to managed care organizations that are consistent with federal actuarial soundness or utilization requirements or other federal requirements; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>After sharing information about the amount in the fund with the Washington state hospital association, any actual or estimated surplus remaining in the fund at the end of the fiscal year may be applied by the authority to reduce the assessment amount for the subsequent calendar year or that calendar year and the following calendar years prior to and including calendar year 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any adjustment to the assessment amounts pursuant to this section, and the data supporting such adjustment, including, but not limited to, relevant data listed in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, must be submitted to the Washington state hospital association for review and comment at least 60 calendar days prior to implementation of such adjusted assessment amounts. Any review and comment provided by the Washington state hospital association does not limit the ability of the Washington state hospital association or its members to challenge an adjustment or other action by the authority that is not made in accordance with this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The authority shall provide the following data to the Washington state hospital association annually and also 60 calendar days before implementing any revised assessment levels, detailed by calendar year:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The fund balance and the balances remaining for distressed hospitals and designated public hospitals;</p>
+            </content>
+            <subsection eId="sec_74_60_050__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The amount of assessment paid by each hospital and the amount transferred by each designated public hospital;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_60_050__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The state share, federal share, and total annual medicaid fee-for-service payments for inpatient hospital services made to each hospital under RCW
+74.60.120
+, and the data used to calculate the payments to individual hospitals under that section;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_60_050__subsec_3__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The state share, federal share, and total annual medicaid fee-for-service payments for outpatient hospital services made to each hospital under RCW
+74.60.120
+, and the data used to calculate annual payments to individual hospitals under that section; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>The annual state share, federal share, and total payments made to each hospital under grants to distressed hospitals under RCW
+74.60.100
+and disproportionate share programs under RCW
+74.60.110
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_050__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>On a quarterly basis, and for the full calendar year, the authority shall provide the Washington state hospital association the amount of payments made to managed care organizations and directed distribution to hospitals under RCW
+74.60.130
+, including the amount representing additional premium tax, and the data used to calculate those payments.
+[
+2023 c 430 s 6
+;
+2019 c 318 s 5
+;
+2017 c 228 s 5
+;
+2015 2nd sp.s. c 5 s 4
+;
+2013 2nd sp.s. c 17 s 5
+;
+2010 1st sp.s. c 30 s 6
+.]
+NOTES:
+Contingent effective date
+—
+2023 c 430:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2019 c 318:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2017 c 228:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2015 2nd sp.s. c 5:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

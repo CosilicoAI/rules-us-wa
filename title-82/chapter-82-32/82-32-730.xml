@@ -1,0 +1,594 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.730"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.730"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.730/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.730/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.730/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.730/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_730">
+        <num>RCW 82.32.730</num>
+        <heading>Sourcing—Streamlined sales and use tax agreement</heading>
+        <subsection eId="sec_82_32_730__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this section, for purposes of collecting or paying sales or use taxes to the appropriate jurisdictions, all sales at retail shall be sourced in accordance with this subsection and subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>When tangible personal property, an extended warranty, a digital good, digital code, digital automated service, or other service defined as a retail sale under RCW
+82.04.050
+is received by the purchaser at a business location of the seller, the sale is sourced to that business location.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>When the tangible personal property, extended warranty, digital good, digital code, digital automated service, or other service defined as a retail sale under RCW
+82.04.050
+is not received by the purchaser at a business location of the seller, the sale is sourced to the location where receipt by the purchaser or the purchaser's donee, designated as such by the purchaser, occurs, including the location indicated by instructions for delivery to the purchaser or donee, known to the seller.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection do not apply, the sale is sourced to the location indicated by an address for the purchaser that is available from the business records of the seller that are maintained in the ordinary course of the seller's business when use of this address does not constitute bad faith.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>When (a), (b), and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection do not apply, the sale is sourced to the location indicated by an address for the purchaser obtained during the consummation of the sale, including the address of a purchaser's payment instrument, if no other address is available, when use of this address does not constitute bad faith.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>When (a), (b), (c), or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection do not apply, including the circumstance where the seller is without sufficient information to apply those provisions, then the location shall be determined by the address from which tangible personal property was shipped, from which the digital good or digital code or the computer software delivered electronically was first available for transmission by the seller, or from which the extended warranty or digital automated service or other service defined as a retail sale under RCW
+82.04.050
+was provided, disregarding for these purposes any location that merely provided the digital transfer of the product sold.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The lease or rental of tangible personal property, other than property identified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, shall be sourced as provided in this subsection.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For a lease or rental that requires recurring periodic payments, the first periodic payment is sourced the same as a retail sale in accordance with subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section. Periodic payments made subsequent to the first payment are sourced to the primary property location for each period covered by the payment. The primary property location shall be as indicated by an address for the property provided by the lessee that is available to the lessor from its records maintained in the ordinary course of business, when use of this address does not constitute bad faith. The property location is not altered by intermittent use at different locations, such as use of business property that accompanies employees on business trips and service calls.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For a lease or rental that does not require recurring periodic payments, the payment is sourced the same as a retail sale in accordance with subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>does not affect the imposition or computation of sales or use tax on leases or rentals based on a lump sum or accelerated basis, or on the acquisition of property for lease.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The lease or rental of motor vehicles, trailers, semitrailers, or aircraft that do not qualify as transportation equipment shall be sourced as provided in this subsection.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For a lease or rental that requires recurring periodic payments, each periodic payment is sourced to the primary property location. The primary property location is as indicated by an address for the property provided by the lessee that is available to the lessor from its records maintained in the ordinary course of business, when use of this address does not constitute bad faith. This location is not altered by intermittent use at different locations.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For a lease or rental that does not require recurring periodic payments, the payment is sourced the same as a retail sale in accordance with subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>This subsection does not affect the imposition or computation of sales or use tax on leases or rentals based on a lump sum or accelerated basis, or on the acquisition of property for lease.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The retail sale, including lease or rental, of transportation equipment shall be sourced the same as a retail sale in accordance with subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This subsection applies to direct mail transactions not governed by subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>applies to sales of advertising and promotional direct mail.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A purchaser of advertising and promotional direct mail may provide the seller with either:
+(A) A direct pay permit;
+(B) A streamlined sales and use tax agreement certificate of exemption claiming direct mail (or other written statement approved, authorized, or accepted by the department); or
+(C) Information showing the jurisdictions to which the advertising and promotional direct mail is to be delivered to recipients.</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the purchaser provides the permit, certificate, or statement referred to in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_730__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>If the purchaser provides the seller information showing the jurisdictions to which the advertising and promotional direct mail is to be delivered to recipients, the seller must source the sale to the jurisdictions to which the advertising and promotional direct mail is to be delivered and must collect and remit the applicable tax. In the absence of bad faith, the seller is relieved of any further obligation to collect any additional tax on the sale of advertising and promotional direct mail where the seller has sourced the sale according to the delivery information provided by the purchaser.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_730__subsec_6__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>If the purchaser does not provide the seller with any of the items listed in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>This subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>applies to sales of other direct mail.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Except as otherwise provided in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_6__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A purchaser of other direct mail may provide the seller with either:
+(A) A direct pay permit; or
+(B) A streamlined sales and use tax agreement certificate of exemption claiming direct mail (or other written statement approved, authorized, or accepted by the department).</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_730__subsec_6__subsec_c__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>If the purchaser provides the permit, certificate, or statement referred to in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This subsection applies only with respect to transactions in which direct mail is delivered or distributed from a location within this state to a location within this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If the purchaser of direct mail provides the seller with a direct pay permit or a streamlined sales and use tax agreement certificate of exemption claiming direct mail (or other written statement approved, authorized, or accepted by the department), the seller, in the absence of bad faith, is relieved of all obligations to collect, pay, or remit the applicable tax on any transaction involving direct mail to which the permit, certificate, or statement applies. The purchaser must report and pay any applicable tax due. A streamlined sales and use tax agreement certificate of exemption claiming direct mail will remain in effect for all future sales of direct mail by the seller to the purchaser until it is revoked in writing.
+(c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Except as provided in (b), (c)</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section.</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_6__subsec_e__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>To the extent the seller knows that a portion of the sale of direct mail will be delivered or distributed to locations in another state, the seller must collect the tax on that portion according to subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section.
+(iii) Notwithstanding</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section to source all sales of advertising and promotional direct mail.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The following are sourced to the location at or from which delivery is made to the consumer:</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A retail sale of watercraft;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A retail sale of a modular home, manufactured home, or mobile home;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A retail sale, excluding the lease and rental, of a motor vehicle, trailer, semitrailer, or aircraft, that do not qualify as transportation equipment; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_7__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Florist sales. In the case of a sale in which one florist takes an order from a customer and then communicates that order to another florist who delivers the items purchased to the place designated by the customer, the location at or from which the delivery is made to the consumer is deemed to be the location of the florist originally taking the order.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A retail sale of the providing of telecommunications services, as that term is defined in RCW
+82.04.065
+, is sourced in accordance with RCW
+82.32.520
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A retail sale of the providing of ancillary services, as that term is defined in RCW
+82.04.065
+, is sourced to the customer's place of primary use of the telecommunications services in respect to which the ancillary services are associated with or incidental to. The definitions of &quot;customer&quot; and &quot;place of primary use&quot; in RCW
+82.32.520
+apply to this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section.</p>
+          </content>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Advertising and promotional direct mail&quot; means printed material that meets the definition of direct mail, the primary purpose of which is to attract public attention to a product, person, business, or organization, or to attempt to sell, popularize, or secure financial support for a product, person, business, or organization. As used in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Delivered electronically&quot; means delivered to the purchaser by means other than tangible storage media.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Direct mail&quot; means printed material delivered or distributed by United States mail or other delivery service to a mass audience or to addressees on a mailing list provided by the purchaser or at the direction of the purchaser when the cost of the items are not billed directly to the recipients. &quot;Direct mail&quot; includes tangible personal property supplied directly or indirectly by the purchaser to the direct mail seller for inclusion in the package containing the printed material. &quot;Direct mail&quot; does not include multiple items of printed material delivered to a single address.
+(d)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Other direct mail&quot; means any direct mail that is not advertising and promotional direct mail, regardless of whether advertising and promotional direct mail is included in the same mailing. The term includes, but is not limited to:
+(A) Transactional direct mail that contains personal information specific to the addressee including, but not limited to, invoices, bills, statements of account, and payroll advices;
+(B) Any legally required mailings including, but not limited to, privacy notices, tax reports, and stockholder reports; and
+(C) Other nonpromotional direct mail delivered to existing or former shareholders, customers, employees, or agents including, but not limited to, newsletters and informational pieces.</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Other direct mail does not include the development of billing information or the provision of any data processing service that is more than incidental.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Florist sales&quot; means the retail sale of tangible personal property by a florist. For purposes of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Receive&quot; and &quot;receipt&quot; mean taking possession of tangible personal property, making first use of digital automated services or other services, or taking possession or making first use of digital goods or digital codes, whichever comes first. &quot;Receive&quot; and &quot;receipt&quot; do not include possession by a shipping company on behalf of the purchaser.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Transportation equipment&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Locomotives and railcars that are used for the carriage of persons or property in interstate commerce;</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_9__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Trucks and truck tractors with a gross vehicle weight rating of ten thousand one pounds or greater, trailers, semitrailers, or passenger buses that are:
+(A) Registered through the international registration plan; and
+(B) Operated under authority of a carrier authorized and certificated by the United States department of transportation or another federal authority to engage in the carriage of persons or property in interstate commerce;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_730__subsec_9__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Aircraft that are operated by air carriers authorized and certificated by the United States department of transportation or another federal or foreign authority to engage in the carriage of persons or property in interstate or foreign commerce; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_730__subsec_9__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Containers designed for use on and component parts attached or secured on the items described in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_730__subsec_9__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>through</p>
+            </content>
+            <subsection eId="sec_82_32_730__subsec_9__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>of this subsection.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_730__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>In those instances where there is no obligation on the part of a seller to collect or remit this state's sales or use tax, the use of tangible personal property, digital good, digital code, or of a digital automated service or other service, subject to use tax, is sourced to the place of first use in this state. The definition of use in RCW
+82.12.010
+applies to this subsection.
+[
+2010 c 106 s 229
+. Prior:
+2009 c 535 s 704
+;
+2009 c 289 s 1
+;
+2008 c 324 s 1
+;
+2007 c 6 s 501
+.]
+NOTES:
+Effective date
+—
+2010 c 106:
+See note following RCW
+35.102.145
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Effective date
+—
+2008 c 324:
+&quot;This act takes effect July 1, 2008.&quot; [
+2008 c 324 s 2
+.]
+Part headings not law
+—
+Savings
+—
+Effective date
+—
+Severability
+—
+2007 c 6:
+See notes following RCW
+82.32.020
+.
+Findings
+—
+Intent
+—
+2007 c 6:
+See note following RCW
+82.14.390
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.49.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.49.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.49.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.49.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_49_050">
+        <num>RCW 82.49.050</num>
+        <heading>Appraisal of vessel by department of revenue</heading>
+        <subsection eId="sec_82_49_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If a vessel has been acquired by lease or gift, or the most recent purchase price of a vessel is not known to the owner, the department of revenue shall appraise the vessel before registration.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If after registration the department of revenue determines that the purchase price stated by the owner is not a reasonable representation of the true fair market value of a vessel at the time of purchase, the department of revenue shall appraise the vessel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If a vessel is homemade, the owner shall make a notarized declaration of fair market value. The fair market value of the vessel for the purposes of this chapter shall be the declared value, unless after registration the department of revenue determines that the declared value is not a reasonable representation of the true fair market value of the vessel in which case the department of revenue shall appraise the vessel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_49_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If the department of revenue appraises a vessel, the fair market value of the vessel for the purposes of this chapter shall be the appraised value. If the vessel has been registered before appraisal, the department of revenue shall refund any overpayment of tax to the owner or notify the owner of any additional tax due. The owner shall pay any additional tax due within thirty days after notification by the department.
+[
+1983 c 7 s 12
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

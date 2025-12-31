@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.120"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_120">
+        <num>RCW 74.15.120</num>
+        <heading>Initial licenses</heading>
+        <subsection eId="sec_74_15_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The license is limited so that the licensee is authorized to provide care only to a specific child or specific children;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the department has determined that the licensee has a relationship with the child, and the child is comfortable with the licensee, or that it would otherwise be in the child's best interest to remain or be placed in the licensee's home; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_15_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>the initial license is issued for a period not to exceed ninety days.
+[
+2017 3rd sp.s. c 6 s 413
+;
+1995 c 311 s 22
+;
+1979 c 141 s 361
+;
+1967 c 172 s 12
+.]
+NOTES:
+Effective date
+—
+2017 3rd sp.s. c 6 ss 102, 104-115, 201-227, 301-337, 401-419, 501-513, 801-803, and 805-822:
+See note following RCW
+43.216.025
+.
+Conflict with federal requirements
+—
+2017 3rd sp.s. c 6:
+See RCW
+43.216.908
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

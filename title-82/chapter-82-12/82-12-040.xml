@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_040">
+        <num>RCW 82.12.040</num>
+        <heading>Retailers to collect tax—Penalty</heading>
+        <subsection eId="sec_82_12_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every person who is subject to a collection obligation under chapter
+82.08
+RCW must obtain from the department a certificate of registration. Such persons must, at the time of making sales of tangible personal property, digital goods, digital codes, digital automated services, extended warranties, or sales of any service defined as a retail sale in *RCW
+82.04.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_040__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_040__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Every person who engages in this state in the business of acting as an independent selling agent for persons who do not hold a valid certificate of registration, and who receives compensation by reason of sales of tangible personal property, digital goods, digital codes, digital automated services, extended warranties, or sales of any service defined as a retail sale in *RCW
+82.04.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_12_040__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_040__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The tax required to be collected by this chapter is deemed to be held in trust by the retailer until paid to the department, and any retailer who appropriates or converts the tax collected to the retailer's own use or to any use other than the payment of the tax provided herein to the extent that the money required to be collected is not available for payment on the due date as prescribed is guilty of a misdemeanor. In case any seller fails to collect the tax herein imposed or having collected the tax, fails to pay the same to the department in the manner prescribed, whether such failure is the result of the seller's own acts or the result of acts or conditions beyond the seller's control, the seller is nevertheless personally liable to the state for the amount of such tax, unless the seller has taken from the buyer a copy of a direct pay permit issued under RCW
+82.32.087
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any retailer who refunds, remits, or rebates to a purchaser, or transferee, either directly or indirectly, and by whatever means, all or any part of the tax levied by this chapter is guilty of a misdemeanor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Notwithstanding subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, any person making sales is not obligated to collect the tax imposed by this chapter if the person would have been obligated to collect retail sales tax on the sale absent a specific exemption provided in chapter
+82.08
+RCW, and there is no corresponding use tax exemption in this chapter. Nothing in this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>may be construed as relieving purchasers from liability for reporting and remitting the tax due under this chapter directly to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Notwithstanding subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, any person making sales is not obligated to collect the tax imposed by this chapter if the state is prohibited under the Constitution or laws of the United States from requiring the person to collect the tax imposed by this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Notwithstanding subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, any licensed dealer facilitating a firearm sale or transfer between two unlicensed persons by conducting background checks under chapter
+9.41
+RCW is not obligated to collect the tax imposed by this chapter.
+[
+2019 c 8 s 704
+;
+2017 3rd sp.s. c 28 s 213
+; (2017 3rd sp.s. c 28 s 212 expired July 23, 2017);
+2017 c 323 s 525
+;
+2015 c 169 s 9
+;
+2015 c 1 s 11
+(Initiative Measure No. 594, approved November 4, 2014);
+2011 1st sp.s. c 20 s 103
+;
+2010 c 106 s 221
+;
+2009 c 535 s 1108
+;
+2005 c 514 s 109
+. Prior:
+2003 c 168 s 215
+;
+2003 c 76 s 4
+;
+2001 c 188 s 5
+;
+1986 c 48 s 1
+;
+1971 ex.s. c 299 s 11
+;
+1961 c 293 s 11
+;
+1961 c 15 s 82.12.040
+; prior:
+1955 c 389 s 27
+;
+1945 c 249 s 7
+;
+1941 c 178 s 10
+;
+1939 c 225 s 16
+; Rem. Supp. 1945 s 8370-33; prior:
+1935 c 180 s 33
+.]
+NOTES:
+*
+Reviser's note:
+RCW
+82.04.050
+was amended by 2025 c 422 s 101, changing subsection</p>
+          </content>
+          <subsection eId="sec_82_12_040__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

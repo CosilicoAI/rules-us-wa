@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.105"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.105"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.105/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.105/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.105/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.105/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_105">
+        <num>RCW 82.45.105</num>
+        <heading>Single-family residential property, tax credit when subsequent transfer of within nine months for like property</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.45
+&gt;
+Section 82.45.105
+82.45.100
+&lt;&lt; 
+        82.45.105 &gt;&gt;
+82.45.150
+PDF
+RCW
+82.45.105
+Single-family residential property, tax credit when subsequent transfer of within nine months for like property.
+Where single-family residential property is being transferred as the entire or part consideration for the purchase of other single-family residential property and a licensed real estate broker or one of the parties to the transaction accepts transfer of said property, a credit for the amount of the tax paid at the time of the transfer to the broker or party shall be allowed toward the amount of the tax due upon a subsequent transfer of the property by the broker or party if said transfer is made within nine months of the transfer to the broker or party: PROVIDED, That if the tax which would be due on the subsequent transfer from the broker or party is greater than the tax paid for the prior transfer to said broker or party the difference shall be paid, but if the tax initially paid is greater than the amount of the tax which would be due on the subsequent transfer no refund shall be allowed.
+[
+1969 ex.s. c 223 s 28A.45.105
+. Prior:
+1967 ex.s. c 149 s 61
+. Formerly RCW
+28A.45.105
+,
+28.45.105
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

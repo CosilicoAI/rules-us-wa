@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.171"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.171"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.171/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.171/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.171/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.171/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_171">
+        <num>RCW 74.09.171</num>
+        <heading>Contracts for medicaid services—Border communities</heading>
+        <subsection eId="sec_74_09_171__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the authority and the department purchase or contract for the delivery of medicaid programs through contracts with providers and managed care organizations under this chapter, contractors providing behavioral health services under chapters
+71.24
+and
+71.34
+RCW, and contractors providing long-term care services under chapter
+74.39A
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_171__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority and department must collaborate and seek opportunities to expand access to care for enrollees in the medicaid programs identified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_171__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section living in border communities that may require contractual agreements with providers across the state border when care is appropriate, available, and cost-effective.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_171__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>All authority and department contracts for medicaid services issued or renewed after July 1, 2014, must include provisions that allow for care to be accessed cross-border ensuring timely access to necessary care, including inpatient and outpatient services. The contracts must include reciprocal arrangements that allow Washington, Oregon, and Idaho border residents to access care when care is appropriate, available, and cost-effective.
+[
+2023 c 51 s 35
+;
+2014 c 39 s 1
+.]
+NOTES:</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

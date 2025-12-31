@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.085"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.085"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.085/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.085/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.085/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.085/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_085">
+        <num>RCW 74.13A.085</num>
+        <heading>Adoption support reconsideration program</heading>
+        <subsection eId="sec_74_13A_085__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall establish, within funds appropriated for the purpose, a reconsideration program to provide medical and counseling services through the adoption support program for children of families who apply for services after the adoption is final. Families requesting services through the program shall provide any information requested by the department for the purpose of processing the family's application for services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_085__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A child meeting the eligibility criteria for registration with the program is one who:</p>
+          </content>
+          <subsection eId="sec_74_13A_085__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Was residing in a preadoptive placement funded by the department or in foster care funded by the department immediately prior to the adoptive placement;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_085__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Had a disability or behavioral health condition that existed and was documented prior to the adoption or was at high risk of future disability or behavioral health condition as a result of conditions exposed to prior to the adoption; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_085__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Resides in the state of Washington with an adoptive parent who lacks the necessary financial means to care for the child's special need.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13A_085__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If a family is accepted for registration and meets the criteria in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_085__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the department may enter into an agreement for services. Prior to entering into an agreement for services through the program, the medical needs of the child must be reviewed and approved by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_085__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any services provided pursuant to an agreement between a family and the department shall be met from the department's medical program. Such services shall be limited to:</p>
+          </content>
+          <subsection eId="sec_74_13A_085__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Services provided after finalization of an agreement between a family and the department pursuant to this section;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_085__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Services not covered by the family's insurance or other available assistance; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_085__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Services related to the eligible child's identified disability or behavioral health condition that existed prior to the adoption.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13A_085__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any payment by the department for services provided pursuant to an agreement shall be made directly to the physician or provider of services according to the department's established procedures.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_085__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The total costs payable by the department for services provided pursuant to an agreement shall not exceed twenty thousand dollars per child.
+[
+2020 c 274 s 64
+;
+2017 3rd sp.s. c 6 s 503
+;
+1997 c 131 s 1
+;
+1990 c 285 s 5
+. Formerly RCW
+74.13.150
+.]
+NOTES:
+Effective date
+—
+2017 3rd sp.s. c 6 ss 102, 104-115, 201-227, 301-337, 401-419, 501-513, 801-803, and 805-822:
+See note following RCW
+43.216.025
+.
+Conflict with federal requirements
+—
+2017 3rd sp.s. c 6:
+See RCW
+43.216.908
+.
+Findings
+—
+Purpose
+—
+Severability
+—
+1990 c 285:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

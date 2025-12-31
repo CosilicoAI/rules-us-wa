@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.180"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_180">
+        <num>RCW 74.39A.180</num>
+        <heading>Authority to pay for probate actions and collection of bad debts</heading>
+        <subsection eId="sec_74_39A_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In order to facilitate and ensure compliance with the federal social security act, Title XIX, as now existing or hereafter amended, later enactment to be adopted by reference by the director by rule, and other state laws mandating recovery of assets from estates of persons receiving long-term care services, the secretary of the department, with the approval of the office of the attorney general, may pay the reasonable and proper fees of attorneys admitted to practice before courts of this state, and associated professionals such as guardians, who are engaged in probate practice for the purpose of maintaining actions under Title
+11
+RCW, to the end that assets are not wasted, but are rather collected and preserved, and used for the care of the client or the reimbursement of the department pursuant to this chapter or chapter
+43.20B
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may hire such other agencies and professionals on a contingency basis or otherwise as are necessary and cost-effective to collect bad debts owed to the department for long-term care services.
+[
+1995 1st sp.s. c 18 s 57
+.]
+NOTES:
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

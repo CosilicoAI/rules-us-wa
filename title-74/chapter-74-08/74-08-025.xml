@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.025"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.025"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.025/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.025/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.025/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.025/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_025">
+        <num>RCW 74.08.025</num>
+        <heading>Eligibility for public assistance—Temporary assistance for needy families—Limitations for drug or alcohol-dependent persons</heading>
+        <subsection eId="sec_74_08_025__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Public assistance may be awarded to any applicant:</p>
+          </content>
+          <subsection eId="sec_74_08_025__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Who is in need and otherwise meets the eligibility requirements of department assistance programs; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_025__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Who has not made a voluntary assignment of property or cash for the purpose of qualifying for an assistance grant; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_025__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Who is not an inmate of a public institution except as a patient in a medical institution or except as an inmate in a public institution who could qualify for federal aid assistance: PROVIDED, That the assistance paid by the department to recipients in nursing homes, or receiving nursing home care, may cover the cost of clothing and incidentals and general maintenance exclusive of medical care and health services. The department may pay a grant to cover the cost of clothing and personal incidentals in public or private medical institutions and institutions for tuberculosis. The department shall allow recipients in nursing homes to retain, in addition to the grant to cover the cost of clothing and incidentals, wages received for work as a part of a training or rehabilitative program designed to prepare the recipient for less restrictive placement to the extent permitted under Title XIX of the federal social security act.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any person otherwise qualified for temporary assistance for needy families who is assessed through the state alcohol and substance abuse program as drug or alcohol-dependent and requiring treatment to become employable shall be required by the department to participate in a drug or alcohol treatment program as a condition of benefit receipt.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Pursuant to 21 U.S.C. 862a(d)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>to ensure eligibility for temporary assistance for needy families benefits and federal food assistance.
+[
+2019 c 343 s 1
+;
+2011 1st sp.s. c 42 s 7
+;
+2005 c 174 s 2
+;
+2004 c 54 s 5
+;
+1997 c 58 s 101
+;
+1981 1st ex.s. c 6 s 9
+;
+1981 c 8 s 8
+;
+1980 c 79 s 1
+;
+1971 ex.s. c 169 s 1
+;
+1967 ex.s. c 31 s 1
+;
+1959 c 26 s 74.08.025
+. Prior:
+1953 c 174 s 19
+.]
+NOTES:
+Prospective application
+—
+2019 c 343:
+&quot;This act applies prospectively only and not retroactively. Prospective application of this act allows families who have been previously permanently disqualified under prior policies to receive benefits prospectively only, if otherwise eligible.&quot; [
+2019 c 343 s 6
+.]
+Findings
+—
+Intent
+—
+Effective date
+—
+2011 1st sp.s. c 42:
+See notes following RCW
+74.08A.260
+.
+Finding
+—
+2011 1st sp.s. c 42:
+See note following RCW
+74.04.004
+.
+Findings
+—
+2005 c 174:
+&quot;The legislature finds that:</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Too many families with children in Washington are unable to afford shelter, clothing, and other necessities of life; basic necessities that are at the core of economic security and family stability.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Parents who lack resources for shelter, clothing, and transportation are less likely to obtain employment or have the ability to adequately provide for their children's physical and emotional well-being and educational success.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Washington's temporary assistance for needy families helps financially struggling families find jobs, keep their jobs, get better jobs, and build a better life for their children through the WorkFirst program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Participation in the WorkFirst program through temporary assistance for needy families is an important step towards self-sufficiency and decreased long-term reliance on governmental assistance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Removing this barrier to participation in temporary assistance for needy families and WorkFirst will serve to strengthen families and communities throughout the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_025__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Preventing even one percent of these individuals from reoffending by extending economic and employment opportunities will result in law enforcement and correctional savings that substantially exceed the cost of temporary assistance for needy families and WorkFirst services.&quot; [
+2005 c 174 s 1
+.]
+Effective date
+—
+2005 c 174:
+&quot;This act takes effect September 1, 2005.&quot; [
+2005 c 174 s 3
+.]
+Findings
+—
+Conflict with federal requirements
+—
+2004 c 54:
+See notes following RCW
+28A.235.160
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

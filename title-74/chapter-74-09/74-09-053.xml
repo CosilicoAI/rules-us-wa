@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.053"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.053"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.053/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.053/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.053/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.053/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_053">
+        <num>RCW 74.09.053</num>
+        <heading>Annual reporting requirement</heading>
+        <subsection eId="sec_74_09_053__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning in November 2012, the department of social and health services, in coordination with the health care authority, shall by November 15th of each year report to the legislature:</p>
+          </content>
+          <subsection eId="sec_74_09_053__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The number of medical assistance recipients who:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_053__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Upon enrollment or recertification had reported being employed, and beginning with the 2008 report, the month and year they reported being hired; or</p>
+            </content>
+            <subsection eId="sec_74_09_053__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>upon enrollment or recertification had reported being the dependent of someone who was employed, and beginning with the 2008 report, the month and year they reported the employed person was hired. For recipients identified under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_053__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>and</p>
+            </content>
+            <subsection eId="sec_74_09_053__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection, the department shall report the basis for their medical assistance eligibility, including but not limited to family medical coverage, transitional medical assistance, children's medical coverage, aged coverage, or coverage for individuals with disabilities; member months; and the total cost to the state for these recipients, expressed as general fund-state and general fund-federal dollars. The information shall be reported by employer size for employers having more than fifty employees as recipients or with dependents as recipients. This information shall be provided for the preceding January and June of that year.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_053__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The following aggregated information:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_053__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The number of employees who are recipients or with dependents as recipients by private and governmental employers;</p>
+            </content>
+            <subsection eId="sec_74_09_053__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the number of employees who are recipients or with dependents as recipients by employer size for employers with fifty or fewer employees, fifty-one to one hundred employees, one hundred one to one thousand employees, one thousand one to five thousand employees and more than five thousand employees; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_053__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the number of employees who are recipients or with dependents as recipients by industry type.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_053__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For each aggregated classification, the report will include the number of hours worked, the number of department of social and health services covered lives, and the total cost to the state for these recipients. This information shall be for each quarter of the preceding year.
+[
+2023 c 51 s 34
+. Prior:
+2009 c 568 s 6
+;
+2009 c 479 s 62
+;
+2006 c 264 s 2
+.]
+NOTES:
+Effective date
+—
+2009 c 479:
+See note following RCW
+2.56.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.670"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.670"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.670/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.670/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.670/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.670/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_670">
+        <num>RCW 74.09.670</num>
+        <heading>Medical assistance benefits—Incarcerated or committed persons—Suspension</heading>
+        <subsection eId="sec_74_09_670__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_670__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, when the authority receives information that a person enrolled in medical assistance is confined in a setting in which federal financial participation is disallowed by the state's agreements with the federal government, the authority shall suspend, rather than terminate, medical assistance benefits for these persons, including those who are: Incarcerated in a correctional facility as defined in RCW
+72.09.015
+and
+70.48.020
+, confined in an institution or facility operated by the department of children, youth, and families, or committed to a state hospital or other treatment facility. A person who is not currently enrolled in medical assistance must be allowed to apply for medical assistance in suspense status during confinement, and the ability to apply may not depend upon knowledge of the release or discharge date of the person.</p>
+          </content>
+          <subsection eId="sec_74_09_670__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>During the first 29 days of a person's incarceration or confinement in a correctional facility, as defined in RCW
+72.09.015
+and
+70.48.020
+, or in an institution or facility operated by the department of children, youth, and families:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_670__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A person's incarceration or confinement status may not affect the person's enrollment in medical assistance if the person was enrolled in medical assistance at the time of incarceration or confinement; and</p>
+            </content>
+            <subsection eId="sec_74_09_670__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A person not enrolled in medical assistance at the time of incarceration or confinement must have the ability to apply for medical assistance during incarceration or confinement, which may not depend on knowledge of the release date of the person. If the person is enrolled in medical assistance during the first 29 days of the person's incarceration or confinement, the person's incarceration or confinement status may not affect the person's enrollment in medical assistance.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_670__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>After the first 29 days of the person's incarceration or confinement, the person's medical assistance status is subject to suspension or application in suspense status under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_670__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.
+[
+2025 c 12 s 2
+. Prior:
+2021 c 243 s 2
+;
+2021 c 166 s 2
+;
+2016 c 154 s 2
+.]
+NOTES:
+Finding
+—
+2025 c 12:
+&quot;The legislature recognizes that in 2021, Engrossed Second Substitute Senate Bill 5304 was signed into law to better ensure continuity of coverage for medicaid enrollment of incarcerated youth. The legislature finds that further clarification is required to ensure local and state juvenile facilities are made aware of opportunities for continuity of coverage. The legislature therefore resolves to remove ambiguity in state statute and to direct the health care authority to document its efforts working with local providers to ensure a warm handoff upon release from detention facilities.&quot; [
+2025 c 12 s 1
+.]
+Conflict with federal requirements
+—
+2025 c 12:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned.&quot; [
+2025 c 12 s 8
+.]
+Findings
+—
+2021 c 243:
+&quot;The legislature finds that when considering releasing persons from state and local institutions, realizing the safety of the public is the primary concern. The legislature also finds that the success of persons with behavioral health needs being released from confinement in a prison, jail, juvenile rehabilitation facility, state hospital, and other state and local institutions can be increased with access to continuity of medical assistance, supportive services, and other targeted assistance. The legislature finds that this act provides strategies to prevent interruption of medical assistance benefits and to allow for a seamless transfer between systems of care. The legislature further finds that this act removes stigmatizing language from the pro</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_670__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that:</p>
+          </content>
+          <subsection eId="sec_74_09_670__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Having access to same day and next day physical and behavioral health services is imperative to facilitate successful reentry for individuals releasing from jails;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_670__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The overwhelming majority of individuals in jails are incarcerated for less than 30 days;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_670__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Suspending medicaid for individuals on short-term jail stays causes significant delays in medicaid reinstatement upon release; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_670__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Delays in medicaid reinstatement impede access to physical and behavioral health appointments and prescription medications upon release.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_670__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature intends to facilitate successful jail reentry by not suspending medicaid for individuals who are incarcerated for less than 30 days.&quot; [
+2021 c 166 s 1
+.]
+Conflict with federal requirements
+—
+2021 c 166:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.&quot; [
+2021 c 166 s 5
+.]
+Intent
+—
+2016 c 154:
+&quot;Persons with mental illness and persons with substance use disorders in the custody of the criminal justice system need seamless access to community treatment networks and medical assistance upon release from custody to prevent gaps in treatment and reduce barriers to accessing care. Access to care is critical to reduce recidivism and reduce costs associated with relapse, decompensation, and crisis care. In accord with the recommendations of the adult behavioral health system task force, persons should be allowed to apply or retain their enrollment in medical assistance during periods of incarceration. The legislature intends for the Washington state health care authority and the department of social and health services to raise awareness of best clinical practices to engage persons with behavioral health disorders and other chronic conditions during periods of incarceration and confinement to highlight opportunities for good preventive care and standardize reporting and payment practices for services reimbursable by federal law that support the safe transition of the person back into the community.&quot; [
+2016 c 154 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

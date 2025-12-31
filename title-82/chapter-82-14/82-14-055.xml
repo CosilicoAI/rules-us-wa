@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.055"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_055">
+        <num>RCW 82.14.055</num>
+        <heading>Tax changes</heading>
+        <subsection eId="sec_82_14_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_055__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section, a local sales and use tax change may take effect</p>
+          </content>
+          <subsection eId="sec_82_14_055__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>no sooner than 75 days after the department is notified in writing of the change and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_055__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>only on the first day of January, April, or July.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In the case of a local sales and use tax that is a credit against the state sales tax or use tax, a local sales and use tax change may take effect</p>
+          </content>
+          <subsection eId="sec_82_14_055__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>no sooner than 30 days after the department is notified in writing of the change and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_055__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>only on the first day of a month.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_055__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A local sales and use tax rate increase imposed on services applies to the first billing period starting on or after the effective date of the increase.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_055__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A local sales and use tax rate decrease imposed on services applies to bills rendered on or after the effective date of the decrease.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_055__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_055__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Authorized authorities contracting with the department under RCW
+82.14.050</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>that make a local sales and use tax change must notify the department in writing of the change and provide a copy of the signed ordinance or resolution. If the local sales and use tax change results from an annexation, the written notification must also include a copy of the complete ordinance containing a legal description, a map showing specifically the boundaries of the annexed territory, and a list of all included parcel numbers in the annexed territory.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_055__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For the purposes of this section, &quot;local sales and use tax change&quot; means enactment or revision of local sales and use taxes under this chapter or any other statute, including changes resulting from referendum or annexation.
+[
+2025 c 245 s 1
+;
+2016 c 46 s 1
+;
+2003 c 168 s 206
+;
+2001 c 320 s 7
+;
+2000 c 104 s 2
+.]
+NOTES:
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Effective date
+—
+2001 c 320:
+See note following RCW
+11.02.005
+.
+Findings
+—
+Intent
+—
+2000 c 104:
+&quot;The legislature finds that retailers have an important role in the state's tax system by collecting sales or use tax from consumers and remitting it to the state. Frequent changes to the tax system place a burden on these businesses. To alleviate that burden and to improve the accuracy of tax collection, it is the intent of the legislature to provide that changes to sales and use tax may be made four times a year and that the department of revenue be provided adequate time to give advance notice to retailers of any such change. Changes in sales and use tax rates that are the result of annexation are also restricted to this time period, for uniformity and simplification. Additionally, retailers who rely on technology developed and provided by the department of revenue, such as the department's geographic information system, to calculate tax rates shall be held harmless from errors resulting from such use.&quot; [
+2000 c 104 s 1
+.]
+Effective date
+—
+2000 c 104:
+&quot;This act takes effect July 1, 2000.&quot; [
+2000 c 104 s 7
+.]
+Statewide sales and use tax changes: RCW
+82.08.064
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

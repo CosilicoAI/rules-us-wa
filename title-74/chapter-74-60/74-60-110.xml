@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.110"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_110">
+        <num>RCW 74.60.110</num>
+        <heading>Small rural disproportionate share hospital payments</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.60
+&gt;
+Section 74.60.110
+74.60.100
+&lt;&lt; 
+        74.60.110 &gt;&gt;
+74.60.120
+PDF
+RCW
+74.60.110
+Small rural disproportionate share hospital payments.
+In each fiscal year commencing upon satisfaction of the applicable conditions in RCW
+74.60.150
+(1), $2,040,000 must be distributed from the fund and, with available federal matching funds, paid to hospitals eligible for small rural disproportionate share payments under WAC 182-550-4900 or successor rule. Payments must be made directly to hospitals by the authority in accordance with that regulation. The authority shall provide a report of such payments to the Washington state hospital association within 30 calendar days after payments are made. Any unused funds remaining under this section shall be retained in the fund described under RCW
+74.60.020
+and used to reduce future assessments.
+[
+2023 c 430 s 10
+;
+2013 2nd sp.s. c 17 s 10
+;
+2010 1st sp.s. c 30 s 12
+.]
+NOTES:
+Contingent effective date
+—
+2023 c 430:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

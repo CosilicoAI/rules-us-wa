@@ -1,0 +1,501 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02565"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02565"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02565/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02565/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02565/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02565/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_02565">
+        <num>RCW 82.08.02565</num>
+        <heading>Exemptions—Sales of machinery and equipment for manufacturing, research and development, or a testing operation—Labor and services for installation—Exemption certificate—Rules</heading>
+        <subsection eId="sec_82_08_02565__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section and RCW
+82.12.02565
+:</p>
+          </content>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Machinery and equipment&quot; means industrial fixtures, devices, and support facilities, and tangible personal property that becomes an ingredient or component thereof, including repair parts and replacement parts. &quot;Machinery and equipment&quot; includes pollution control equipment installed and used in a manufacturing operation, testing operation, or research and development operation to prevent air pollution, water pollution, or contamination that might otherwise result from the manufacturing operation, testing operation, or research and development operation. &quot;Machinery and equipment&quot; also includes digital goods.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Machinery and equipment&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Hand-powered tools;</p>
+            </content>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Property with a useful life of less than one year;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Buildings, other than machinery and equipment that is permanently affixed to or becomes a physical part of a building; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Building fixtures that are not integral to the manufacturing operation, testing operation, or research and development operation that are permanently affixed to and become a physical part of a building, such as utility systems for heating, ventilation, air conditioning, communications, plumbing, or electrical.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Machinery and equipment is &quot;used directly&quot; in a manufacturing operation, testing operation, or research and development operation if the machinery and equipment:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Acts upon or interacts with an item of tangible personal property;</p>
+            </content>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Conveys, transports, handles, or temporarily stores an item of tangible personal property at the manufacturing site or testing site;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Controls, guides, measures, verifies, aligns, regulates, or tests tangible personal property at the site or away from the site;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Provides physical support for or access to tangible personal property;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Produces power for, or lubricates machinery and equipment;
+(vi) Produces another item of tangible personal property for use in the manufacturing operation, testing operation, or research and development operation;
+(vii) Places tangible personal property in the container, package, or wrapping in which the tangible personal property is normally sold or transported; or
+(viii) Is integral to research and development as defined in RCW
+82.63.010
+.</p>
+            </content>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Produces another item of tangible personal property for use in the manufacturing operation, testing operation, or research and development operation;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>Places tangible personal property in the container, package, or wrapping in which the tangible personal property is normally sold or transported; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>Is integral to research and development as defined in RCW
+82.63.010
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Manufacturer&quot; means a person that qualifies as a manufacturer under RCW
+82.04.110
+. &quot;Manufacturer&quot; also includes a person that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Prints newspapers or other materials; or</p>
+            </content>
+            <subsection eId="sec_82_08_02565__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Is engaged in the development of prewritten computer software that is not transferred to purchasers by means of tangible storage media.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Manufacturing&quot; means only those activities that come within the definition of &quot;to manufacture&quot; in RCW
+82.04.120
+and are taxed as manufacturing or processing for hire under chapter
+82.04
+RCW, or would be taxed as such if such activity were conducted in this state or if not for an exemption or deduction. &quot;Manufacturing&quot; also includes printing newspapers or other materials. An activity is not taxed as manufacturing or processing for hire under chapter
+82.04
+RCW if the activity is within the purview of chapter
+82.16
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Manufacturing operation&quot; means the manufacturing of articles, substances, or commodities for sale as tangible personal property. A manufacturing operation begins at the point where the raw materials enter the manufacturing site and ends at the point where the processed material leaves the manufacturing site. With respect to the production of class A or exceptional quality biosolids by a wastewater treatment facility, the manufacturing operation begins at the point where class B biosolids undergo additional processing to achieve class A or exceptional quality standards. Notwithstanding anything to the contrary in this section, the term also includes that portion of a cogeneration project that is used to generate power for consumption within the manufacturing site of which the cogeneration project is an integral part. The term does not include the preparation of food products on the premises of a person selling food products at retail.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Cogeneration&quot; means the simultaneous generation of electrical energy and low-grade heat from the same fuel.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>&quot;Research and development operation&quot; means engaging in research and development as defined in RCW
+82.63.010
+by a manufacturer or processor for hire.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Testing&quot; means activities performed to establish or determine the properties, qualities, and limitations of tangible personal property.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_2__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>&quot;Testing operation&quot; means the testing of tangible personal property for a manufacturer or processor for hire. A testing operation begins at the point where the tangible personal property enters the testing site and ends at the point where the tangible personal property leaves the testing site. The term also includes the testing of tangible personal property for use in that portion of a cogeneration project that is used to generate power for consumption within the manufacturing site of which the cogeneration project is an integral part. The term does not include the testing of tangible personal property for use in the production of electricity by a light and power business as defined in RCW
+82.16.010
+or the preparation of food products on the premises of a person selling food products at retail.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section does not apply</p>
+          </content>
+          <subsection eId="sec_82_08_02565__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>to sales of machinery and equipment used directly in the manufacturing, research and development, or testing of cannabis, useable cannabis, or cannabis-infused products, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>to sales of or charges made for labor and services rendered in respect to installing, repairing, cleaning, altering, or improving such machinery and equipment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The exemptions in this section do not apply to an ineligible person. For purposes of this subsection, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_08_02565__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Affiliated group&quot; means a group of two or more entities that are either:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Affiliated as defined in RCW
+82.32.655
+; or</p>
+            </content>
+            <subsection eId="sec_82_08_02565__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Permitted to file a consolidated return for federal income tax purposes.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Ineligible person&quot; means all members of an affiliated group if all of the following apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02565__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>At least one member of the affiliated group was registered with the department to do business in Washington state on or before July 1, 1981;</p>
+            </content>
+            <subsection eId="sec_82_08_02565__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>As of August 1, 2015, the combined employment in this state of the affiliated group exceeds forty thousand full-time and part-time employees, based on data reported to the employment security department by the affiliated group; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02565__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The business activities of the affiliated group primarily include development, sales, and licensing of computer software and services.
+[
+2022 c 16 s 146
+;
+2015 3rd sp.s. c 5 s 301
+. Prior:
+2014 c 216 s 401
+;
+2014 c 140 s 13
+;
+2011 c 23 s 2
+;
+2009 c 535 s 510
+;
+1999 c 211 s 5
+;
+1999 c 211 s 3
+;
+1998 c 330 s 1
+; prior:
+1996 c 247 s 2
+;
+1996 c 173 s 3
+;
+1995 1st sp.s. c 3 s 2
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Construction
+—
+2017 c 323:
+See note following RCW
+82.08.052
+.
+Application
+—
+2015 3rd sp.s. c 5:
+&quot;Sections 301 and 302 of this act do not apply with respect to machinery and equipment, as defined in RCW
+82.08.02565
+, first used by the taxpayer in this state before August 1, 2015.&quot; [
+2015 3rd sp.s. c 5 s 306
+.]
+Conflicting laws
+—
+2015 3rd sp.s. c 5:
+&quot;If RCW
+82.08.02565
+,
+82.12.02565
+, or
+82.63.010
+are amended by any other act enacted during the regular or any special session of the 2015 legislature, each amendment without reference to the other amendment or amendments of the same statute, the legislature intends for the amendments in this act to be deemed to not conflict in purpose with the amendments in any other such act for the purposes of RCW
+1.12.025
+and that the amendments in this act be given effect.&quot; [
+2015 3rd sp.s. c 5 s 305
+.]
+Effective dates
+—
+2015 3rd sp.s. c 5:
+See note following RCW
+82.08.052
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Findings
+—
+2011 c 23:
+&quot;</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In 1995, the legislature enacted a sales and use tax exemption for manufacturing machinery and equipment, commonly referred to as the &quot;M&amp;E exemption.&quot; The legislature finds that the purposes of this exemption were to encourage the growth and development of the state's private sector manufacturing industry and improve this state's ability to compete with other states for manufacturing investment. The legislature further finds that it was not the purpose of the M&amp;E exemption to provide tax breaks to state agencies and institutions, nor to public utilities and other businesses with respect to machinery and equipment primarily used for activities that are taxable under the state public utility tax or are otherwise not considered to be manufacturing for business and occupation tax purposes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature further finds that despite previous attempts at clarifying the M&amp;E exemption, significant ambiguity persists, particularly with respect to the scope of the exemption. Such ambiguity results in costly appeals and litigation and may result in significant unanticipated revenue losses for the state and local governments.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Therefore, the legislature finds it necessary to reaffirm its original intent in establishing the M&amp;E exemption. The legislature declares that the amendments to the existing M&amp;E exemption and to RCW
+82.04.120
+in this act are clarifying and, as such, apply retroactively as well as prospectively.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature finds that Washington is home to premier public research institutions. The legislature recognizes that the state's public universities provide cutting-edge research and development, which helps stimulate growth in the private sector and is vital to the economic well-being of our state. University research leads directly to new products, companies, production methods, and ways of organizing work. The legislature further recognizes that our public universities will play an important role in shaping the next generation of Washington industries, including biofuels and other renewable energy, global health, and advanced manufacturing. Therefore, because the amendments to the existing M&amp;E exemption in this act clarify that state agencies and institutions are not eligible for the M&amp;E exemption, this act provides a new, stand-alone sales and use tax exemption for machinery and equipment used primarily in technological research and development operations by the state's four-year institutions of higher education.&quot; [
+2011 c 23 s 1
+.]
+Intent
+—
+2011 c 23:
+&quot;The legislature declares that the only reason why the phrase &quot;the production of electricity by a light and power business as defined in RCW
+82.16.010
+&quot; was deleted from the definition of &quot;manufacturing operation&quot; in RCW
+82.08.02565</p>
+          </content>
+          <subsection eId="sec_82_08_02565__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>in section 2 of this act is because that language is superfluous.&quot; [
+2011 c 23 s 7
+.]
+Application
+—
+2011 c 23:
+&quot;Sections 2 and 3 of this act apply both prospectively and retroactively to any tax period open for assessment or refund of taxes.&quot; [
+2011 c 23 s 9
+.]
+Effective date
+—
+Construction
+—
+2011 c 23:
+See notes following RCW
+82.08.025651
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Finding
+—
+Intent
+—
+1999 c 211:
+&quot;The legislature finds that the application of the manufacturer's machinery and equipment sales and use tax exemption has, in some instances, been difficult and confusing for taxpayers, and included difficult reporting and recordkeeping requirements. In this act, it is the intent of the legislature to make clear its intent for the application of the exemption, and to extend the exemption to the purchase and use of machinery and equipment for businesses that perform testing of manufactured goods for manufacturers or processors for hire.&quot; [
+1999 c 211 s 1
+.]
+Intent
+—
+1999 c 211 ss 2 and 3:
+See note following RCW
+82.04.120
+.
+Effective date
+—
+1999 c 211 ss 1-4:
+See note following RCW
+82.04.120
+.
+Findings
+—
+Intent
+—
+1996 c 247:
+See note following RCW
+82.08.02566
+.
+Findings
+—
+Intent
+—
+1996 c 173:
+&quot;The legislature finds that the health, safety, and welfare of the people of the state of Washington are heavily dependent upon the continued encouragement, development, and expansion of opportunities for family wage employment in the state's manufacturing industries.
+The legislature also finds that sales and use tax exemptions for manufacturing machinery and equipment enacted by the 1995 legislature have improved Washington's ability to compete with other states for manufacturing investment, but that additional incentives for manufacturers need to be adopted to solidify and enhance the state's competitive position.
+The legislature intends to accomplish this by extending the current manufacturing machinery and equipment exemptions to allow a</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The health, safety, and welfare of the people of the state of Washington are heavily dependent upon the continued encouragement, development, and expansion of opportunities for family wage employment in our state's private sector;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The state's private sector must be encouraged to commit to continuous improvement of process, products, and services and to deliver high quality, high value products through technological innovations and high-performance work organizations;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The state's opportunities for increased economic dealings with other states and nations of the world are dependent on supporting and attracting a diverse, stable, and competitive economic base of private sector employers;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The state's current policy of applying its sales and use taxes to machinery, equipment, and installation labor used in manufacturing, research and development, and other activities has placed our state's private sector at a competitive disadvantage with other states and serves as a significant disincentive to the continuous improvement of products, technology, and modernization necessary for the preservation, stabilization, and expansion of employment and to ensure a stable economy; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02565__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>It is vital to the continued development of economic opportunity in this state, including the development of new businesses and the expansion or modernization of existing businesses, that the state of Washington provide tax incentives to entities making a commitment to sites and operations in this state.&quot; [
+1995 1st sp.s. c 3 s 1
+.]
+Effective date
+—
+1995 1st sp.s. c 3:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 1st sp.s. c 3 s 16
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

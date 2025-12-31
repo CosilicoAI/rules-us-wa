@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_010">
+        <num>RCW 82.24.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_82_24_010__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Board&quot; means the liquor and cannabis board.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Cigarette&quot; means any roll for smoking made wholly or in part of tobacco, irrespective of size or shape and irrespective of the tobacco being flavored, adulterated, or mixed with any other ingredient, where such roll has a wrapper or cover made of paper or any material, except where such wrapper is wholly or in the greater part made of natural leaf tobacco in its natural state. &quot;Cigarette&quot; includes a roll-your-own cigarette.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Cigarette paper&quot; means any paper or any other material except tobacco, prepared for use as a cigarette wrapper.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Cigarette tube&quot; means cigarette paper made into a hollow cylinder for use in making cigarettes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Commercial cigarette-making machine&quot; means a machine that is operated in a retail establishment and that is capable of being loaded with loose tobacco, cigarette paper or tubes, and any other components related to the production of roll-your-own cigarettes, including filters.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Indian tribal organization&quot; means a federally recognized Indian tribe, or tribal entity, and includes an Indian wholesaler or retailer that is owned by an Indian who is an enrolled tribal member conducting business under tribal license or similar tribal approval within Indian country. For purposes of this chapter &quot;Indian country&quot; is defined in the manner set forth in 18 U.S.C. Sec. 1151.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Precollection obligation&quot; means the obligation of a seller otherwise exempt from the tax imposed by this chapter to collect the tax from that seller's buyer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Retailer&quot; means every person, other than a wholesaler, who purchases, sells, offers for sale or distributes any one or more of the articles taxed herein, irrespective of quantity or amount, or the number of sales, and all persons operating under a retailer's registration certificate.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Retail selling price&quot; means the ordinary, customary or usual price paid by the consumer for each package of cigarettes, less the tax levied by this chapter and less any similar tax levied by this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Roll-your-own cigarettes&quot; means cigarettes produced by a commercial cigarette-making machine.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Stamp&quot; means the stamp or stamps by use of which the tax levy under this chapter is paid or identification is made of those cigarettes with respect to which no tax is imposed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Wholesaler&quot; means every person who purchases, sells, or distributes any one or more of the articles taxed herein to retailers for the purpose of resale only.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>The meaning attributed, in chapter
+82.04
+RCW, to the words &quot;person,&quot; &quot;sale,&quot; &quot;business&quot; and &quot;successor&quot; applies equally in this chapter.
+[
+2020 c 139 s 29
+;
+2012 2nd sp.s. c 4 s 1
+;
+1997 c 420 s 3
+;
+1995 c 278 s 1
+;
+1961 c 15 s 82.24.010
+. Prior:
+1959 c 270 s 9
+;
+1949 c 228 s 14
+;
+1935 c 180 s 83
+; Rem. Supp. 1949 s 8370-83.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Effective date
+—
+1995 c 278:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.&quot; [
+1995 c 278 s 17
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

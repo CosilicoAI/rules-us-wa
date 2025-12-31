@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.338"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.338"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.338/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.338/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.338/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.338/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_338">
+        <num>RCW 82.04.338</num>
+        <heading>Exemptions—Hop commodity commission or hop commodity board business</heading>
+        <subsection eId="sec_82_04_338__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The activity is approved by a referendum conducted by the commission or board;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_338__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the person is specified in information distributed by the commission or board for the referendum as a person who is to conduct the activity; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_338__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>the referendum is conducted in the manner prescribed by the statutes governing the commission or board for approving assessments or expenditures, or otherwise authorizing or approving activities of the commission or board. As used in this section, &quot;nonprofit organization&quot; means an organization that is exempt from federal income tax under 26 U.S.C. [Sec.] 501(c)</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

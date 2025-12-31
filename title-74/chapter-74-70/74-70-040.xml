@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.70.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.70.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.70.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.70.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_70_040">
+        <num>RCW 74.70.040</num>
+        <heading>Report to authority. (Contingent expiration date.)</heading>
+        <subsection eId="sec_74_70_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each ambulance transport provider must report to the authority the number of emergency ambulance transports by payer type and the annual gross receipts for the state fiscal year ending June 30, 2020, pursuant to form and timing required by the authority. The authority shall establish the timing for such reporting to occur on or after August 15, 2020.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_70_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Each ambulance transport provider must report to the authority the number of emergency ambulance transports by payer type for each state fiscal quarter commencing with the state fiscal quarter ending September 30, 2020, pursuant to form and timing required by the authority. The authority shall establish the timing for such reporting to occur on or after the forty-fifth day after the end of each applicable state fiscal quarter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_70_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Each ambulance transport provider must report to the authority the annual gross receipts for each state fiscal year commencing with the state fiscal year ending June 30, 2021, pursuant to form and timing required by the authority. The authority shall establish the timing for such reporting to occur on or after the forty-fifth day after the end of each applicable state fiscal year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_70_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The authority may require a certification by each ambulance transport provider under penalty of perjury of the truth of the reports required under this section. Upon written notice to an ambulance transport provider, the authority may impose a civil penalty of one hundred dollars per day against an ambulance transport provider for every day that an ambulance transport provider fails to make a report required by this section within five days of the date upon which the report was due. Any funds resulting from a penalty imposed pursuant to this subsection shall be deposited in the ambulance transport fund established in RCW
+74.70.030
+.
+[
+2020 c 354 s 4
+.]
+NOTES:
+Contingent expiration date
+—
+2020 c 354:
+See RCW
+74.70.100</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

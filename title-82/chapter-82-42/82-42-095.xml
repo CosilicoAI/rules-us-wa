@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.42.095"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.095"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.42.095/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.095/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.42.095/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.42.095/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_42_095">
+        <num>RCW 82.42.095</num>
+        <heading>Date of mailing deemed date of filing or receipt—Timely mailing bars penalties and tolls statutory time limitations</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.42
+&gt;
+Section 82.42.095
+82.42.090
+&lt;&lt; 
+        82.42.095 &gt;&gt;
+82.42.100
+PDF
+RCW
+82.42.095
+Date of mailing deemed date of filing or receipt
+—
+Timely mailing bars penalties and tolls statutory time limitations.
+An application, report, notice, payment, or claim for credit or refund properly addressed and deposited in the United States mail is deemed filed or received on the date shown by the post office cancellation mark on the envelope. No penalty for delinquency attaches, nor is the statutory period deemed to have elapsed in the case of credit or refund claims, if it is established by competent evidence that the application, report, notice, payment, or claim for credit or refund was properly addressed and timely deposited in the United States mail, if a duplicate of the document or payment is filed.
+[
+2013 c 225 s 406
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

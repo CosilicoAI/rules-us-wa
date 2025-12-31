@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.038"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.038"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.038/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.038/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.038/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.038/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_038">
+        <num>RCW 74.15.038</num>
+        <heading>Harm to child or client by individual hired by contracted agency—Department not liable</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.038
+74.15.030
+&lt;&lt; 
+        74.15.038 &gt;&gt;
+74.15.040
+PDF
+RCW
+74.15.038
+Harm to child or client by individual hired by contracted agency
+—
+Department not liable.
+If an agency operating under contract with the department chooses to hire an individual that would be precluded from employment with the department based on a disqualifying crime or negative action, the department and its officers and employees have no liability arising from any injury or harm to a child or other department client that is attributable to such individual.
+[
+2018 c 58 s 56
+;
+2014 c 88 s 3
+.]
+NOTES:
+Effective date
+—
+2018 c 58:
+See note following RCW
+28A.655.080
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

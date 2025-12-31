@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.115"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.115"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.115/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.115/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.115/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.115/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_115">
+        <num>RCW 74.13A.115</num>
+        <heading>Interstate agreements for adoption of children with special needs—Additional provisions</heading>
+        <subsection eId="sec_74_13A_115__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Provisions establishing procedures and entitlement to medical and other necessary social services for the child in accordance with applicable laws, even though the child and the adoptive parents are in a state other than the one responsible for or providing the services or the funds to defray part or all of the costs of the services; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_115__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Such other provisions as are appropriate or incidental to the proper administration of the compact.
+[
+1997 c 31 s 6
+. Formerly RCW
+74.13.157
+.]
+NOTES:
+Reviser's note:
+*</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_115__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+74.13.152
+through
+74.13.159
+were recodified as RCW
+74.13A.090
+through
+74.13A.125
+pursuant to
+2009 c 520 s 95
+.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_115__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>RCW
+74.13.156
+was recodified as RCW
+74.13A.110
+pursuant to
+2009 c 520 s 95
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.99941"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.99941"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.99941/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.99941/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.99941/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.99941/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_99941">
+        <num>RCW 82.08.99941</num>
+        <heading>Exemptions—Bottled water—Primary water source unsafe</heading>
+        <subsection eId="sec_82_08_99941__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except for sales of bottled water delivered to the buyer in a reusable container that is not sold with the water, sellers must collect tax on sales subject to this exemption. Any buyer that has paid at least twenty-five dollars in state and local sales taxes on purchases of bottled water subject to this exemption may apply for a refund of the taxes directly from the department in a form and manner prescribed by the department. The department must deny any refund application if the amount of the refund requested is less than twenty-five dollars. No refund may be made for taxes paid more than four years after the end of the calendar year in which the tax was paid to the seller.</p>
+          </content>
+          <subsection eId="sec_82_08_99941__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>With respect to sales of bottled water delivered to the buyer in a reusable container that is not sold with the water, buyers claiming the exemption provided in this section must provide the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_99941__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department may waive the requirement for an exemption certificate in the event of disaster or similar circumstance.
+[
+2017 3rd sp.s. c 28 s 105
+.]
+NOTES:
+Reviser's note:
+The tax preference enacted in section 105, chapter 28, Laws of 2017 3rd sp. sess. expires January 1, 2028, pursuant to the automatic expiration date in RCW
+82.32.805</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

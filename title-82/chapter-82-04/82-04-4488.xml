@@ -1,0 +1,248 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4488"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4488"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4488/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4488/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4488/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4488/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4488">
+        <num>RCW 82.04.4488</num>
+        <heading>Credit—Conversion to worker-owned cooperative, employee ownership trust, or employee stock ownership plan. (Expires July 1, 2026.)</heading>
+        <subsection eId="sec_82_04_4488__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Beginning July 1, 2024, in computing the tax imposed under this chapter, a credit is allowed for costs related to converting a qualifying business to a worker-owned cooperative, employee ownership trust, or an employee stock ownership plan, as provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credit is equal to:</p>
+          </content>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Up to 50 percent of the conversion costs, not to exceed $25,000, incurred by a qualified business for converting the qualified business to a worker-owned cooperative or an employee ownership trust; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Up to 50 percent of the conversion costs, not to exceed $100,000, incurred by a qualified business for converting the qualified business to an employee stock ownership plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Credit under this section is earned, and claimed against taxes due under this chapter, for the tax reporting period in which the conversion to a worker-owned cooperative, employee ownership trust, or an employee stock ownership plan is complete, or subsequent tax reporting periods as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The credit must not exceed the tax otherwise due under this chapter for the tax reporting period.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Unused credit may be carried over and used in subsequent tax reporting periods, except that no credit may be claimed more than 12 months from the end of the tax reporting period in which the credit was earned.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>No refunds may be granted for credits under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The total amount of credits authorized under this section may not exceed an annual statewide limit of $2,000,000.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Credits must be authorized on a first-in-time basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>No credit may be earned, during any calendar year, on or after the last day of the calendar month immediately following the month the department has determined that $2,000,000 in credit has been earned.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department may require persons claiming a credit under this section to provide appropriate documentation, in a manner as determined by the department, for the purposes of determining eligibility under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Every person claiming a credit under this section must preserve, for a period of five years, any documentation to substantiate the amount of credit claimed.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_82_04_4488__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Conversion costs&quot; means professional services, including accounting, legal, and business advisory services, as detailed in the guidelines issued by the department, for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A feasibility study or other preliminary assessments regarding a transition of a business to an employee stock ownership plan, a worker-owned cooperative, or an employee ownership trust; or</p>
+            </content>
+            <subsection eId="sec_82_04_4488__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the transition of a business to an employee stock ownership plan, a worker-owned cooperative, or an employee ownership trust.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Employee ownership trust&quot; means an indirect form of employee ownership in which a trust holds a controlling stake in a qualified business and benefits all employees on an equal basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Employee stock ownership plan&quot; has the same meaning as set forth in 26 U.S.C. Sec. 4975(e)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Qualified business&quot; means a person subject to tax under this chapter, including but not limited to a C corporation, S corporation, limited liability company, partnership, limited liability partnership, sole proprietorship, or other similar pass-through entity, that is not owned in whole or in part by an employee ownership trust, that does not have an employee stock ownership plan, or that is not, in whole or in part, a worker-owned cooperative, and that is approved by the department for the tax credit in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4488__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Worker-owned cooperative&quot; has the same meaning as set forth in 26 U.S.C. Sec. 1042(c)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Credits allowed under this section can be earned for tax reporting periods starting on or before June 30, 2025. No credits can be claimed on returns filed for tax periods starting on or after July 1, 2026.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>This section expires July 1, 2026.
+[
+2025 c 366 s 1
+;
+2023 c 392 s 5
+.]
+NOTES:
+Tax preference performance statement
+—
+2023 c 392 s 5:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 5, chapter 392, Laws of 2023. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to encourage business owners to create an employee stock ownership plan or employee ownership trust, or to convert to a worker-owned cooperative, that allows the company to share ownership with their employees without requiring employees to invest their own money.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that the number of businesses in this state offering employee stock ownership plans, employee ownership trusts, or ones that have converted to a worker-owned cooperative, has increased because of the tax credit under this act, then the legislature intends for the legislative auditor to recommend extending the expiration date of the tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4488__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may access and use any relevant data collected by the state.&quot; [
+2023 c 392 s 4
+.]
+Effective date
+—
+2023 c 392 ss 4 and 5:
+&quot;Sections 4 and 5 of this act take effect July 1, 2024.&quot; [
+2023 c 392 s 7
+.]
+Findings
+—
+Intent
+—
+Short title
+—
+2023 c 392:
+See notes following RCW
+43.330.590
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

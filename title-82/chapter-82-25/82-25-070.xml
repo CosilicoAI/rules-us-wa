@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.25.070"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.070"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.25.070/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.070/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.25.070/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.070/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_25_070">
+        <num>RCW 82.25.070</num>
+        <heading>Recordkeeping by the board</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.25
+&gt;
+Section 82.25.070
+82.25.065
+&lt;&lt; 
+        82.25.070 &gt;&gt;
+82.25.075
+PDF
+RCW
+82.25.070
+Recordkeeping by the board.
+The board must compile and maintain a current record of the names of all distributors, retailers, and delivery sales licenses under chapter
+70.345
+RCW and the status of their license or licenses. The information must be updated on a monthly basis and published on the board's official internet website. This information is not subject to the confidentiality provisions of RCW
+82.32.330
+and must be disclosed to manufacturers, distributors, retailers, and the general public upon request.
+[
+2019 c 445 s 114
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

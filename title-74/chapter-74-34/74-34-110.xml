@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.110"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.110/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.110/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_110">
+        <num>RCW 74.34.110</num>
+        <heading>Protection of vulnerable adults—Petition for protective order</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.34
+&gt;
+Section 74.34.110
+74.34.095
+&lt;&lt; 
+        74.34.110 &gt;&gt;
+74.34.165
+PDF
+RCW
+74.34.110
+Protection of vulnerable adults
+—
+Petition for protective order.
+A vulnerable adult, or interested person on behalf of the vulnerable adult, may seek relief from abandonment, abuse, financial exploitation, or neglect, or the threat thereof, by filing a petition for a vulnerable adult protection order under chapter
+7.105
+RCW.
+[
+2021 c 215 s 163
+;
+2007 c 312 s 3
+;
+1999 c 176 s 12
+;
+1986 c 187 s 5
+.]
+NOTES:
+Effective date
+—
+2022 c 268; 2021 c 215:
+See note following RCW
+7.105.900
+.
+Findings
+—
+Purpose
+—
+Severability
+—
+Conflict with federal requirements
+—
+1999 c 176:
+See notes following RCW
+74.34.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

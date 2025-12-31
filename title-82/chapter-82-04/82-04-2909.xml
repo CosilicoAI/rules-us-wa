@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2909"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2909"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2909/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2909/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2909/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2909/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_2909">
+        <num>RCW 82.04.2909</num>
+        <heading>Tax on aluminum smelters. (Expires January 1, 2027.)</heading>
+        <subsection eId="sec_82_04_2909__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon every person who is an aluminum smelter engaging within this state in the business of manufacturing aluminum; as to such persons the amount of tax with respect to such business is, in the case of manufacturers, equal to the value of the product manufactured, or in the case of processors for hire, equal to the gross income of the business, multiplied by the rate of .2904 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2909__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Upon every person who is an aluminum smelter engaging within this state in the business of making sales at wholesale of aluminum manufactured by that person, as to such persons the amount of tax with respect to such business is equal to the gross proceeds of sales of the aluminum multiplied by the rate of .2904 percent.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2909__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A person reporting under the tax rate provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2909__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires January 1, 2027.
+[
+2017 c 135 s 12
+;
+2015 3rd sp.s. c 6 s 502
+;
+2011 c 174 s 301
+. Prior:
+2010 1st sp.s. c 2 s 1
+;
+2010 c 114 s 108
+;
+2006 c 182 s 1
+;
+2004 c 24 s 3
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Findings
+—
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 502-506:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2909__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that the aluminum industry in Washington employs over one thousand people. The legislature further finds that average annual wages and benefits for these employment positions exceed one hundred thousand dollars and that each of these employment positions indirectly generates an additional two to three jobs within the state. The legislature further finds that the aluminum industry generates substantial taxes for local jurisdictions. The legislature further finds that the aluminum industry was severely impacted by the global economic recession. The legislature further finds that the London metal exchange, where aluminum is traded as a commodity, is extremely volatile and substantially impacts the profitability of the aluminum industry. The legislature further finds that for the aforementioned reasons, the industry continues to struggle with profitability, putting the continued employment of its Washington workforce in jeopardy.</p>
+          </content>
+          <subsection eId="sec_82_04_2909__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>This subsection is the tax preference performance statement for the aluminum industry tax preferences in RCW
+82.04.2909
+,
+82.04.4481
+,
+82.08.805
+,
+82.12.805
+, and
+82.12.022
+, as amended in this Part V. The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_2909__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The legislature categorizes this tax preference as one intended to accomplish the general purposes indicated in RCW
+82.32.808</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_2909__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_04_2909__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and (d).</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_2909__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>It is the legislature's specific public policy objective to promote the preservation of employment positions within the Washington aluminum manufacturing industry as the industry continues to grapple with the lingering effects of the economic recession and the volatility of the London metal exchange.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_2909__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>To measure the effectiveness of the exemption provided in this Part V in achieving the specific public policy objective described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_2909__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection, the joint legislative audit and review committee must evaluate the changes in the number of statewide employment positions for the aluminum industry in Washington.&quot; [
+2015 3rd sp.s. c 6 s 501
+.]
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Intent
+—
+2004 c 24:
+&quot;The legislature recognizes that the loss of domestic manufacturing jobs has become a national concern. Washington state has lost one out of every six manufacturing jobs since July 2000. The aluminum industry has long been an important component of Washington state's manufacturing base, providing family-wage jobs often in rural communities where unemployment rates are very high. The aluminum industry is electricity intensive and was greatly affected by the dramatic increase in electricity prices which began in 2000 and which continues to affect the Washington economy. Before the energy crisis, aluminum smelters provided about 5,000 direct jobs. Today they provide fewer than 1,000 direct jobs. For every job lost in that industry, almost three additional jobs are estimated to be lost elsewhere in the state's economy. It is the legislature's intent to preserve and restore family-wage jobs by providing tax relief to the state's aluminum industry.
+The electric loads of aluminum smelters provide a unique benefit to the infrastructure of the electric power system. Under the transmission tariff of the Bonneville Power Administration, aluminum smelter loads, whether served with federal or nonfederal power, are subject to short-term interruptions that allow a higher import capability on the transmission interconnection between the northwest and California. These stability reserves allow more power to be imported in winter months, reducing the need for additional generation in the northwest, and would be used to prevent a widespread transmission collapse and blackout if there were a failure in </p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

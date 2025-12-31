@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.500"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.500"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.500/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.500/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.500/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.500/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_500">
+        <num>RCW 74.13.500</num>
+        <heading>Disclosure of child welfare records—Factors—Exception</heading>
+        <subsection eId="sec_74_13_500__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Consistent with the provisions of chapter
+42.56
+RCW and applicable federal law, the secretary, or the secretary's designee, shall disclose information regarding the abuse or neglect of a child, the investigation of the abuse, neglect, or near fatality of a child, and any services related to the abuse or neglect of a child if any one of the following factors is present:</p>
+          </content>
+          <subsection eId="sec_74_13_500__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The subject of the report has been charged in an accusatory instrument with committing a crime related to a report maintained by the department in its case and management information system;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_500__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The investigation of the abuse or neglect of the child by the department or the provision of services by the department has been publicly disclosed in a report required to be disclosed in the course of their official duties, by a law enforcement agency or official, a prosecuting attorney, any other state or local investigative agency or official, or by a judge of the superior court;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_500__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>There has been a prior knowing, voluntary public disclosure by an individual concerning a report of child abuse or neglect in which such individual is named as the subject of the report; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_500__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The child named in the report has died and the child's death resulted from abuse or neglect or the child was in the care of, or receiving services from the department at the time of death or within twelve months before death.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_500__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The secretary is not required to disclose information if the factors in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_500__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section are present if he or she specifically determines the disclosure is contrary to the best interests of the child, the child's siblings, or other children in the household.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_500__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Except for cases in subsection</p>
+          </content>
+          <subsection eId="sec_74_13_500__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this section, requests for information under this section shall specifically identify the case about which information is sought and the facts that support a determination that one of the factors specified in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_500__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section is present.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_500__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For the purposes of this section, &quot;near fatality&quot; means an act that, as certified by a physician, places the child in serious or critical condition. The secretary is under no obligation to have an act certified by a physician in order to comply with this section.
+[
+2018 c 284 s 55
+;
+2009 c 520 s 84
+;
+2005 c 274 s 351
+;
+1999 c 339 s 1
+;
+1997 c 305 s 2
+.]
+NOTES:
+Effective date
+—
+1999 c 339:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 14, 1999].&quot; [
+1999 c 339 s 2
+.]
+Conflict with federal requirements
+—
+1997 c 305:
+&quot;If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.&quot; [
+1997 c 305 s 8
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

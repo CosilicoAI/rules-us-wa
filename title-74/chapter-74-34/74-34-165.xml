@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.34.165"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.165"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.34.165/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.165/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.34.165/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.34.165/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_34_165">
+        <num>RCW 74.34.165</num>
+        <heading>Rules</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.34
+&gt;
+Section 74.34.165
+74.34.110
+&lt;&lt; 
+        74.34.165 &gt;&gt;
+74.34.170
+PDF
+RCW
+74.34.165
+Rules.
+The department may adopt rules relating to the reporting, investigation, and provision of protective services in in-home settings, consistent with the objectives of this chapter.
+[
+1999 c 176 s 18
+.]
+NOTES:
+Findings
+—
+Purpose
+—
+Severability
+—
+Conflict with federal requirements
+—
+1999 c 176:
+See notes following RCW
+74.34.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

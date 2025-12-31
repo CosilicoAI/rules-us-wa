@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02595"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02595"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02595/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02595/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02595/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02595/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_02595">
+        <num>RCW 82.12.02595</num>
+        <heading>Exemptions—Personal property and certain services donated to nonprofit organization or governmental entity</heading>
+        <subsection eId="sec_82_12_02595__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to the use by a nonprofit charitable organization or state or local governmental entity of personal property that has been donated to the nonprofit charitable organization or state or local governmental entity, or to the subsequent use of the property by a person to whom the property is donated or bailed in furtherance of the purpose for which the property was originally donated.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02595__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This chapter does not apply to the donation of personal property without intervening use to a nonprofit charitable organization, or to the incorporation of tangible personal property without intervening use into real or personal property of or for a nonprofit charitable organization in the course of installing, repairing, cleaning, altering, imprinting, improving, constructing, or decorating the real or personal property for no charge.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02595__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This chapter does not apply to the use by a nonprofit charitable organization of labor and services rendered in respect to installing, repairing, cleaning, altering, imprinting, or improving personal property provided to the charitable organization at no charge, or to the donation of such services.
+[
+2015 c 169 s 7
+;
+2009 c 535 s 615
+;
+2004 c 155 s 1
+;
+2003 c 5 s 11
+;
+1998 c 182 s 1
+;
+1995 c 201 s 1
+.]
+NOTES:
+Effective date
+—
+2015 c 169:
+See note following RCW
+82.04.050
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Effective date
+—
+2004 c 155:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 26, 2004].&quot; [
+2004 c 155 s 2
+.]
+Finding
+—
+Intent
+—
+Retroactive application
+—
+Effective date
+—
+2003 c 5:
+See notes following RCW
+82.12.010
+.
+Effective date
+—
+1995 c 201:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [May 1, 1995].&quot; [
+1995 c 201 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.212"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.212"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.212/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.212/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.212/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.212/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_212">
+        <num>RCW 82.32.212</num>
+        <heading>Tax warrant—Notice of lien</heading>
+        <subsection eId="sec_82_32_212__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To secure payment of a tax warrant issued by the department under RCW
+82.32.210
+, the department may issue a notice of lien against any real property in which the taxpayer against whom the warrant was issued has an ownership interest, if the total amount for which the warrant was issued exceeds twenty-five thousand dollars and the department determines that issuing the notice of lien would best protect the state's interest in collecting the amount due on the warrant. The department must file the notice of lien with the recording officer of the county where the real property is located. The recording officer is entitled to a filing fee as provided under RCW
+36.18.010
+.</p>
+          </content>
+          <subsection eId="sec_82_32_212__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as otherwise provided in this section, recording a notice of lien as authorized in this section is in lieu of filing with the clerk of the superior court a copy of the warrant secured by the notice of lien.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The department determines that filing the warrant is in the best interest of collecting the amount due on the tax warrant; or</p>
+            </content>
+            <subsection eId="sec_82_32_212__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the warrant remains unpaid six months after the notice of lien was issued.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If a warrant has been filed with the clerk of the superior court, the department may issue and record a notice of lien against real property of the taxpayer and file a conditional satisfaction of the warrant with the clerk of the superior court of the county in which the warrant was filed, if the department determines that such actions are in the best interest of collecting the amount due on the warrant.</p>
+          </content>
+          <subsection eId="sec_82_32_212__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A warrant for which a conditional satisfaction is filed will continue to accrue interest on the unpaid balance as provided in RCW
+82.32.210
+.
+(b)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The department may refile a warrant for which a conditional satisfaction has been filed if: (A) The department determines that refiling the warrant is in the best interest of collecting the amount due on the warrant; or (B) the warrant remains unpaid six months after the notice of lien was issued.</p>
+            </content>
+            <subsection eId="sec_82_32_212__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A warrant is refiled in the same manner as it was originally filed.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A warrant that is refiled as provided in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>reinstates the liens provided under RCW
+82.32.210
+as of the date the warrant is refiled.</p>
+          </content>
+          <subsection eId="sec_82_32_212__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For the purposes of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>When a taxpayer has requested the department to use the collection authority under this section, in order to determine if the issuance of a notice of lien would best protect the state's interest in collecting the amount due on the warrant, the department may require the taxpayer to:</p>
+          </content>
+          <subsection eId="sec_82_32_212__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide, at the taxpayer's expense, the department with a current abstract of title as defined by RCW
+48.29.010
+from a title insurer that possesses a certificate of authority issued under Title
+48
+RCW; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Authorize the department to obtain the taxpayer's current credit report.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A notice of lien issued under this section must include the following information:</p>
+          </content>
+          <subsection eId="sec_82_32_212__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The name of the taxpayer who has an interest in the real property against which the notice of lien is filed;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The taxpayer's tax registration number issued as provided in RCW
+82.32.030
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The number of the warrant issued by the department;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The amount for which the warrant was issued;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The legal description, tax parcel number assigned under RCW
+84.40.160
+, and the street address, if available, of the real property against which the notice of lien is issued; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_5__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Any other information the department determines would be useful.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The notice of lien issued under this section is superior to all other liens and encumbrances, except:</p>
+          </content>
+          <subsection eId="sec_82_32_212__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Bona fide interests of third persons that had vested prior to the recording of the notice of lien, if the third persons do not have a beneficial interest, direct or indirect, in the operation of the taxpayer's business, other than the securing of the payment of a debt or the receiving of a regular rental on equipment. For purposes of this subsection, &quot;bona fide interests of third persons&quot; has the same meaning as in RCW
+82.32.210
+; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_212__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Property taxes and special assessments against the property.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department must release a notice of lien issued under this section as soon as practicable after receipt of payment in full of the amount due on the warrant secured by the notice of lien, including interest accrued as provided in RCW
+82.32.210</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and all recording fees claimed by the recording officer for the recording of the notice of lien and the release of the lien.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_212__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The department must release a notice of lien issued under this section within fourteen days if the notice of lien was issued in error.
+[
+2011 c 131 s 2
+.]
+NOTES:
+Effective date
+—
+2011 c 131:
+&quot;This act takes effect January 1, 2012.&quot; [
+2011 c 131 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

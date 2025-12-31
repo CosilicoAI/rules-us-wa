@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.440"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.440"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.440/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.440/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.440/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.440/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_440">
+        <num>RCW 82.50.440</num>
+        <heading>Tax receipt—Records</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.50
+&gt;
+Section 82.50.440
+82.50.435
+&lt;&lt; 
+        82.50.440 &gt;&gt;
+82.50.460
+PDF
+RCW
+82.50.440
+Tax receipt
+—
+Records.
+The county auditor or the department of licensing upon payment of the tax hereunder shall issue a receipt which shall include such information as may be required by the director, including the name of the taxpayer and a description of the travel trailer or camper, which receipt shall be printed by the department of licensing in such form as it deems proper and furnished by the department to the various county auditors of the state. The county auditor shall keep a record of the excise taxes paid hereunder during the calendar year.
+[
+1979 c 158 s 242
+;
+1975 1st ex.s. c 9 s 2
+;
+1971 ex.s. c 299 s 59
+.]
+NOTES:
+Reviser's note:
+See note following RCW
+82.50.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

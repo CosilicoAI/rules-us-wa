@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9651"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9651"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9651/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9651/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9651/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9651/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_9651">
+        <num>RCW 82.08.9651</num>
+        <heading>Exemptions—Gases and chemicals used in production of semiconductor materials. (Expires January 1, 2034.)</heading>
+        <subsection eId="sec_82_08_9651__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales of gases and chemicals used by a manufacturer or processor for hire in the production of semiconductor materials. This exemption is limited to gases and chemicals used in the production process to grow the product, deposit or grow permanent or sacrificial layers on the product, to etch or remove material from the product, to anneal the product, to immerse the product, to clean the product, and other such uses whereby the gases and chemicals come into direct contact with the product during the production process, or uses of gases and chemicals to clean the chambers and other like equipment in which such processing takes place. For the purposes of this section, &quot;semiconductor materials&quot; has the meaning provided in RCW
+82.04.2404
+and
+82.04.294</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person claiming the exemption under this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No application is necessary for the tax exemption. The person is subject to all of the requirements of chapter
+82.32
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any person who has claimed the exemption under this section must reimburse the department for 50 percent of the amount of the tax preference under this section, if the number of persons employed by the person claiming the tax preference is less than 90 percent of the person's three-year employment average for the three years immediately preceding the year in which the exemption is claimed.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section expires January 1, 2034.
+[
+2024 c 261 s 11
+;
+2021 c 145 s 12
+;
+2020 c 139 s 17
+;
+2017 3rd sp.s. c 37 s 506
+; (2017 3rd sp.s. c 37 s 505 expired January 1, 2018);
+2017 c 135 s 23
+;
+2014 c 97 s 405
+;
+2010 c 114 s 124
+;
+2009 c 469 s 502
+;
+2006 c 84 s 3
+.]
+NOTES:
+Tax preference performance statement
+—
+2024 c 261 ss 11 and 12:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for sections 11 and 12, chapter 261, Laws of 2024. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for the preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax preference performance statement in section 2, chapter 139, Laws of 2020 applies to the expansion of the tax preferences in sections 11 and 12, chapter 261, Laws of 2024.&quot; [
+2024 c 261 s 15
+.]
+Effective date
+—
+2024 c 261:
+See note following RCW
+82.04.241
+.
+Tax preference performance statement
+—
+2020 c 139; 2017 3rd sp.s. c 37 ss 505-508:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences contained in sections 505 through 508, chapter 37, Laws of 2017 3rd sp. sess. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, improve industry competitiveness, and create or retain jobs, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_2">
+          <num>(2)</num>
+          <subsection eId="sec_82_08_9651__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through (c).</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to encourage significant construction projects; retain, expand, and attract semiconductor business; and encourage and expand family-wage jobs. It is the legislature's intent to extend by ten years the exemptions for sales and use of gases and chemicals used in the production of semiconductor materials, in order to encourage the growth and retention of the semiconductor business in Washington, thereby strengthening Washington's competitiveness with other states for manufacturing investment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that the number of construction projects in the industry has increased, and that the number of people employed by the solar silicon, silicon manufacturing, and semiconductor fabrication industry in Washington is the same or more than in 2015, and that at least sixty percent of employees earn sixty thousand dollars a year, then the legislature intends to extend the expiration date of the tax preferences.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9651__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to data from the department of revenue's annual survey for tax years ending before January 1, 2020, and annual tax performance report for subsequent tax years.&quot; [
+2020 c 139 s 2
+;
+2017 3rd sp.s. c 37 s 504
+.]
+Effective date
+—
+2017 3rd sp.s. c 37 ss 101-104, 403, 503, 506, 508, 510, 512, 514, 516, 518, 520, 522, 524, 526, 703, 705, 707, and 801-803:
+See note following RCW
+82.04.2404
+.
+Expiration date
+—
+2017 3rd sp.s. c 37 ss 502, 505, 507, 509, 511, 513, 515, 517, 519, 521, 523, and 525:
+See note following RCW
+82.04.2404
+.
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Effective date
+—
+2009 c 469:
+See note following RCW
+82.08.962
+.
+Effective date
+—
+2006 c 84 ss 2-8:
+See note following RCW
+82.04.2404
+.
+Findings
+—
+Intent
+—
+2006 c 84:
+See note following RCW
+82.04.2404
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

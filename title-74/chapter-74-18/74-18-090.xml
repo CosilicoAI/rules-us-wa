@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.090"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_090">
+        <num>RCW 74.18.090</num>
+        <heading>Rehabilitation council for the blind—Powers</heading>
+        <subsection eId="sec_74_18_090__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Provide counsel to the director in developing, reviewing, making recommendations, and agreeing on the department's state plan for vocational rehabilitation, budget requests, permanent rules concerning services to blind persons, and other major policies which impact the quality or quantity of services for blind persons;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_090__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Undertake annual reviews with the director of the needs of blind persons, the effectiveness of the services and priorities of the department to meet those needs, and the measures that could be taken to improve the department's services;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_090__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Annually make recommendations to the governor and the legislature on issues related to the department, other state agencies, or state laws which have a significant effect on the opportunities, services, or rights of blind persons;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_090__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Advise and make recommendations to the governor on the criteria and qualifications pertinent to the selection of the director;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_18_090__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Perform additional functions as required by the federal rehabilitation act of 1973 as now or hereafter amended.
+[
+2003 c 409 s 8
+;
+2000 c 57 s 3
+;
+1983 c 194 s 9
+.]
+NOTES:
+Findings
+—
+2003 c 409:
+See note following RCW
+74.18.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.702"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.702"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.702/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.702/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.702/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.702/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_702">
+        <num>RCW 82.08.702</num>
+        <heading>Exemptions—Sales to a farmer performing custom farming services or farm management services</heading>
+        <subsection eId="sec_82_08_702__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the limitations of this section, the tax levied by RCW
+82.08.020
+does not apply to sales of goods and services purchased by an eligible farmer. The exemption under this section is in the form of a remittance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_702__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An eligible farmer claiming an exemption from state and local tax in the form of the remittance under this section must pay the tax under RCW
+82.08.020
+and all applicable local sales taxes. The eligible farmer must specify the amount of exempted tax claimed and the qualifying purchases for which the exemption is claimed. The eligible farmer must retain, in adequate detail, records to enable the department to determine whether the eligible farmer is entitled to an exemption under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_702__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>An exemption under this section is limited to $10,000 per eligible farmer and must be claimed prior to January 1, 2030.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_702__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>For the purposes of this section, &quot;eligible farmer&quot; means a farmer performing custom farming services or farm management services, as those terms are defined in RCW
+82.04.758
+.
+[
+2024 c 222 s 1
+.]
+NOTES:
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2024 c 222:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2024 c 222 s 3
+.]
+Effective date
+—
+2024 c 222:
+&quot;This act takes effect July 1, 2024.&quot; [
+2024 c 222 s 4
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

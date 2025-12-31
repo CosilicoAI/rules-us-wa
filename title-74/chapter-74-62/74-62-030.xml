@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.62.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.62.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.62.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.62.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_62_030">
+        <num>RCW 74.62.030</num>
+        <heading>Assistance programs—Eligibility criteria</heading>
+        <subsection eId="sec_74_62_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section; and
+(iii) Are aged, blind, or disabled. For purposes of determining eligibility for assistance for the aged, blind, or disabled assistance program, the following definitions apply:
+(A) &quot;Aged&quot; means age 65 or older.
+(B) &quot;Blind&quot; means statutorily blind as defined for the purpose of determining eligibility for the federal supplemental security income program.
+(C) &quot;Disabled&quot; means likely to meet the federal supplemental security income disability standard. In making this determination, the department should give full consideration to the cumulative impact of an applicant's multiple impairments, an applicant's age, and vocational and educational history.
+In determining whether a person is disabled, the department may rely on, but is not limited to, the following:
+(I) A previous disability determination by the social security administration or the disability determination service entity within the department; or
+(II) A determination that an individual is eligible to receive optional categorically needy medicaid as a disabled person under the federal regulations at 42 C.F.R. Parts 435, Secs. 201(a)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and 210.</p>
+          </content>
+          <subsection eId="sec_74_62_030__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The following persons are not eligible for the aged, blind, or disabled assistance program:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Persons who are not able to engage in gainful employment due primarily to a substance use disorder. These persons shall be referred to appropriate assessment, treatment, or shelter services. Referrals shall be made at the time of application or at the time of eligibility review. This subsection may not be construed to prohibit the department from granting aged, blind, or disabled assistance benefits to persons with a substance use disorder who are incapacitated due to other physical or mental conditions that meet the eligibility criteria for the aged, blind, or disabled assistance program; or</p>
+            </content>
+            <subsection eId="sec_74_62_030__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Persons for whom there has been a final determination of ineligibility based on age, blindness, or disability for federal supplemental security income benefits.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Persons may receive aged, blind, or disabled assistance benefits and a referral for essential needs and housing program support under RCW
+43.185C.220
+concurrently while pending application for federal supplemental security income benefits. Effective October 1, 2028, a person's receipt of supplemental security income received for the same period as aged, blind, or disabled program assistance as described in this section shall not be considered a debt due to the state and is not subject to recovery. However, the monetary value of aged, blind, or disabled cash assistance paid prior to October 1, 2028, that is duplicated by the person's receipt of supplemental security income for the same period shall be considered a debt due to the state and shall by operation of law be subject to recovery through all available legal remedies.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The pregnant women assistance program shall provide financial grants to persons who:</p>
+          </content>
+          <subsection eId="sec_74_62_030__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Are pregnant and in need, based upon the current income and resource standards of the federal temporary assistance for needy families program, but are ineligible for federal temporary assistance for needy families or state family assistance benefits for a reason other than failure to cooperate in program requirements; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Meet the eligibility requirements of subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To be eligible for the aged, blind, or disabled assistance program under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section or the pregnant women assistance program under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, a person must:</p>
+          </content>
+          <subsection eId="sec_74_62_030__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Be a citizen or alien lawfully admitted for permanent residence or otherwise residing in the United States under color of law, or be a victim of human trafficking as defined in RCW
+74.04.005
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Meet the income and resource standards described in RCW
+74.04.805</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_1">
+          <num>(1)</num>
+          <subsection eId="sec_74_62_030__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and (c);
+(c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Have furnished the department with their social security number. If the social security number cannot be furnished because it has not been issued or is not known, an application for a number shall be made prior to authorization of benefits, and the social security number shall be provided to the department upon receipt;</p>
+            </content>
+            <subsection eId="sec_74_62_030__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>This requirement does not apply to victims of human trafficking as defined in RCW
+74.04.005
+if they have not been issued a social security number;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Not have refused or failed without good cause to participate in substance use treatment if an assessment by a certified substance use disorder professional indicates a need for such treatment. Good cause must be found to exist when a person's physical or mental condition, as determined by the department, prevents the person from participating in substance use treatment, when needed outpatient treatment is not available to the person in the county of their residence, when needed inpatient treatment is not available in a location that is reasonably accessible for the person, or when the person is a parent or other relative personally providing care for a minor child or an incapacitated individual living in the same home as the person, and child care or day care would be necessary for the person to participate in substance use disorder treatment, and such care is not available; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Not have refused or failed to cooperate in obtaining federal aid assistance, without good cause.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Referrals for essential needs and housing support under RCW
+43.185C.220</p>
+          </content>
+          <subsection eId="sec_74_62_030__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>shall be provided to persons found eligible under RCW
+74.04.805
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>No person may be considered an eligible individual for benefits under this section with respect to any month if during that month the person:</p>
+          </content>
+          <subsection eId="sec_74_62_030__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is fleeing to avoid prosecution of, or to avoid custody or confinement for conviction of, a felony, or an attempt to commit a felony, under the laws of the state of Washington or the place from which the person flees; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_62_030__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is violating a condition of probation, community supervision, or parole imposed under federal or state law for a felony or gross misdemeanor conviction.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_62_030__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department must share client data for individuals eligible for a referral to essential needs and housing support with the department of commerce and designated essential needs and housing support entities as required under RCW
+43.185C.230
+.
+[
+2025 c 408 s 6
+;
+2025 c 403 s 1
+;
+2023 c 289 s 3
+;
+2022 c 208 s 2
+;
+2018 c 48 s 2
+;
+2013 2nd sp.s. c 10 s 2
+;
+2013 2nd sp.s. c 10 s 1
+;
+2011 1st sp.s. c 36 s 3
+.]
+NOTES:
+Reviser's note:
+This section was amended by 2025 c 403 s 1 and by 2025 c 408 s 6, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

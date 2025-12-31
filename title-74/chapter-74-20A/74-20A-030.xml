@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_030">
+        <num>RCW 74.20A.030</num>
+        <heading>Department subrogated to rights for support—Enforcement actions—Certain parents exempt</heading>
+        <subsection eId="sec_74_20A_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall be subrogated to the right of any dependent child or children or person having the care, custody, and control of said child or children, if public assistance money is paid to or for the benefit of the child, or for the care and maintenance of a child, including a child with a developmental disability if the child has been placed into care as a result of an action under chapter
+13.34
+RCW, under a state-funded program, or a program funded under Title IV-A or IV-E of the federal social security act as amended by the personal responsibility and work opportunity reconciliation act of 1996, and the federal deficit reduction act of 2005, to prosecute or maintain any support action or execute any administrative remedy existing under the laws of the state of Washington to obtain reimbursement of moneys expended, based on the support obligation of the responsible parent established by a child support order. Distribution of any support moneys shall be made in accordance with RCW
+26.23.035
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may initiate, continue, maintain, or execute an action to establish, enforce, and collect a support obligation, including establishing parentage and performing related services, under this chapter and chapter
+74.20
+RCW, or through the attorney general or prosecuting attorney under chapter
+26.09
+, 26.18, 26.20, 26.21A, 26.23, 26.26A, or
+26.26B
+RCW or other appropriate statutes or the common law of this state, for so long as and under such conditions as the department may establish by regulation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Public assistance moneys shall be exempt from collection action under this chapter except as provided in RCW
+74.20A.270
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>No collection action shall be taken against parents of children eligible for admission to, or children who have been discharged from, a residential habilitation center as defined by RCW
+71A.10.020
+unless the child with a developmental disability is placed as a result of an action under chapter
+13.34
+RCW. The child support obligation shall be calculated pursuant to chapter
+26.19
+RCW.
+[
+2019 c 46 s 5051
+;
+2007 c 143 s 7
+;
+2004 c 183 s 5
+;
+2000 c 86 s 7
+;
+1997 c 58 s 934
+;
+1993 sp.s. c 24 s 926
+;
+1989 c 360 s 14
+. Prior:
+1988 c 275 s 20
+;
+1988 c 176 s 913
+;
+1987 c 435 s 31
+;
+1985 c 276 s 5
+;
+1984 c 260 s 40
+;
+1979 ex.s. c 171 s 4
+;
+1979 c 141 s 371
+;
+1973 1st ex.s. c 183 s 4
+;
+1971 ex.s. c 164 s 3
+.]
+NOTES:
+Severability
+—
+2007 c 143:
+See note following RCW
+26.18.170
+.
+Effective date
+—
+2004 c 183:
+See note following RCW
+13.34.160
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Severability
+—
+Effective dates
+—
+1993 sp.s. c 24:
+See notes following RCW
+28A.310.020
+.
+Effective dates
+—
+Severability
+—
+1988 c 275:
+See notes following RCW
+26.19.001
+.
+Effective date
+—
+1987 c 435:
+See RCW
+26.23.900
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

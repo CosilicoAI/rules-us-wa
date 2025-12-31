@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.25.060"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.25.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.25.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.25.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_25_060">
+        <num>RCW 82.25.060</num>
+        <heading>Invoice requirements—Rules—Liability</heading>
+        <subsection eId="sec_82_25_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department may by rule establish the invoice detail required under RCW
+82.25.030
+for a distributor and for those invoices required to be provided to retailers under RCW
+82.25.040
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If a retailer fails to keep invoices as required under RCW
+82.25.040
+, the retailer is liable for the tax owed on any uninvoiced vapor products but not penalties and interest, except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_25_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the department finds that the nonpayment of tax by the retailer was willful or if in the case of a second or plural nonpayment of tax by the retailer, penalties and interest must be assessed in accordance with chapter
+82.32
+RCW.
+[
+2019 c 445 s 112
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2019 c 445:
+See note following RCW
+82.08.0318
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

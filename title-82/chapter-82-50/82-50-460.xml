@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.50.460"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.460"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.50.460/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.460/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.50.460/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.50.460/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_50_460">
+        <num>RCW 82.50.460</num>
+        <heading>Notice of amount of tax payable—Contents</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.50
+&gt;
+Section 82.50.460
+82.50.440
+&lt;&lt; 
+        82.50.460 &gt;&gt;
+82.50.520
+PDF
+RCW
+82.50.460
+Notice of amount of tax payable
+—
+Contents.
+Prior to the end of any registration year of a vehicle, the director shall cause to be mailed to the owners of travel trailers or campers, of record, notice of the amount of tax payable during the succeeding registration year. The notice shall contain a legal description of the travel trailer or camper, prominent notice of due dates, and such other information as may be required by the director.
+[
+1979 c 123 s 3
+;
+1975 1st ex.s. c 118 s 17
+;
+1971 ex.s. c 299 s 61
+.]
+NOTES:
+Reviser's note:
+See note following RCW
+82.50.010
+.
+Effective date
+—
+Severability
+—
+1975 1st ex.s. c 118:
+See notes following RCW
+46.16A.020
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

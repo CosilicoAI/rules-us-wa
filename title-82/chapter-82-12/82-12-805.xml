@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.805"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.805"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.805/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.805/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.805/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.805/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_805">
+        <num>RCW 82.12.805</num>
+        <heading>Exemptions—Personal property used at an aluminum smelter</heading>
+        <subsection eId="sec_82_12_805__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who is subject to tax under RCW
+82.12.020
+for personal property used at an aluminum smelter, or for tangible personal property that will be incorporated as an ingredient or component of buildings or other structures at an aluminum smelter, or for labor and services rendered with respect to such buildings, structures, or personal property, is eligible for an exemption from the state share of the tax in the form of a credit, as provided in this section. The amount of the credit equals the state share of use tax computed to be due under RCW
+82.12.020
+. The person must submit information, in a form and manner prescribed by the department, specifying the amount of qualifying purchases or acquisitions for which the exemption is claimed and the amount of exempted tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_805__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;aluminum smelter&quot; has the same meaning as provided in RCW
+82.04.217
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_805__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A person reporting under the tax rate provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_805__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Credits may not be claimed under this section for taxable events occurring on or after January 1, 2027.
+[
+2017 c 135 s 29
+;
+2015 3rd sp.s. c 6 s 505
+;
+2011 c 174 s 305
+. Prior:
+2010 1st sp.s. c 2 s 4
+;
+2010 c 114 s 128
+;
+2009 c 535 s 620
+;
+2006 c 182 s 4
+;
+2004 c 24 s 11
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Findings
+—
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 502-506:
+See note following RCW
+82.04.2909
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

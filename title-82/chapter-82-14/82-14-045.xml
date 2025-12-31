@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.045"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.045"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.045/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.045/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.045/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.045/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_045">
+        <num>RCW 82.14.045</num>
+        <heading>Sales and use taxes for public transportation systems</heading>
+        <subsection eId="sec_82_14_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislative body of any city pursuant to RCW
+35.92.060
+, of any county which has created an unincorporated transportation benefit area pursuant to RCW
+36.57.100
+and
+36.57.110
+, of any public transportation benefit area pursuant to RCW
+36.57A.080
+and
+36.57A.090
+, of any county transportation authority established pursuant to chapter
+36.57
+RCW, and of any metropolitan municipal corporation within a county with a population of one million or more pursuant to chapter
+35.58
+RCW, may, by resolution or ordinance for the sole purpose of providing funds for the operation, maintenance, or capital needs of public transportation systems or public transportation limited to persons with special needs under RCW
+36.57.130
+and
+36.57A.180
+, and in lieu of the excise taxes authorized by RCW
+35.95.040
+, submit an authorizing proposition to the voters or include such authorization in a proposition to perform the function of public transportation or public transportation limited to persons with special needs under RCW
+36.57.130
+and
+36.57A.180
+, and if approved by a majority of persons voting thereon, impose a sales and use tax in accordance with the terms of this chapter. Where an authorizing proposition is submitted by a county on behalf of an unincorporated transportation benefit area, it shall be voted upon by the voters residing within the boundaries of such unincorporated transportation benefit area and, if approved, the sales and use tax shall be imposed only within such area. Notwithstanding any provisions of this section to the contrary, any county in which a county public transportation plan has been adopted pursuant to RCW
+36.57.070
+and the voters of such county have authorized the imposition of a sales and use tax pursuant to the provisions of section 10, chapter 167, Laws of 1974 ex. sess., prior to July 1, 1975, shall be authorized to fix and impose a sales and use tax as provided in this section at not to exceed the rate so authorized without additional approval of the </p>
+          </content>
+          <subsection eId="sec_82_14_045__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In the event a metropolitan municipal corporation imposes a sales and use tax pursuant to this chapter no city, county which has created an unincorporated transportation benefit area, public transportation benefit area authority, or county transportation authority wholly within such metropolitan municipal corporation shall be empowered to impose and/or collect taxes under RCW
+35.95.040
+or this section, but nothing herein shall prevent such city or county from imposing sales and use taxes pursuant to any other authorization.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_045__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In the event a county transportation authority imposes a sales and use tax under this section, no city, county which has created an unincorporated transportation benefit area, public transportation benefit area, or metropolitan municipal corporation, located within the territory of the authority, shall be empowered to impose or collect taxes under RCW
+35.95.040
+or this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_045__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In the event a public transportation benefit area imposes a sales and use tax under this section, no city, county which has created an unincorporated transportation benefit area, or metropolitan municipal corporation, located wholly or partly within the territory of the public transportation benefit area, shall be empowered to impose or collect taxes under RCW
+35.95.040
+or this section.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_045__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislative body of a public transportation benefit area located in a county with a population of seven hundred thousand or more that also contains a city with a population of seventy-five thousand or more operating a transit system pursuant to chapter
+35.95
+RCW or the legislative body of a public transportation benefit area located in a county with a population of more than two hundred fifty thousand but fewer than four hundred thousand that also contains two or more cities with a population of forty thousand or more may submit an authorizing proposition to the voters and, if approved by a majority of persons voting on the proposition, impose a sales and use tax in accordance with the terms of this chapter of one-tenth, two-tenths, or three-tenths of one percent of the selling price, in the case of a sales tax, or value of the article used, in the case of a use tax, in addition to the rate in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.
+[
+2018 c 53 s 1
+;
+2015 3rd sp.s. c 44 s 312
+;
+2008 c 86 s 102
+;
+2001 c 89 s 3
+;
+2000 2nd sp.s. c 4 s 16
+;
+1998 c 321 s 7
+(Referendum Bill No. 49, approved November 3, 1998);
+1991 c 363 s 158
+. Prior:
+1984 c 112 s 1
+;
+1983 c 3 s 216
+;
+1980 c 163 s 1
+;
+1975 1st ex.s. c 270 s 6
+;
+1971 ex.s. c 296 s 2
+.]
+NOTES:
+Effective date
+—
+2018 c 53:
+&quot;This act takes effect August 1, 2018.&quot; [
+2018 c 53 s 2
+.]
+Effective date
+—
+2015 3rd sp.s. c 44:
+See note following RCW
+46.68.395
+.
+Severability
+—
+Savings
+—
+Part headings not law
+—
+2008 c 86:
+See notes following RCW
+82.14.030
+.
+Purpose
+—
+1998 c 321:
+&quot;The purpose of this act is to reallocate the general fund portion of the state's motor vehicle excise tax revenues among the taxpayers, local governments, and the state's transportation programs. By reallocating motor vehicle excise taxes, the state revenue portion can be dedicated to increased transportation funding purposes. Since the general fund currently has a budget surplus, due to a strong economy, the legislature feels that this reallocation is an appropriate short-term solution to the state's transportation needs and is a first step in meeting longer-term transportation funding needs. These reallocated funds must be used to provide relief from traffic congestion, improve freight mobility, and increase traffic safety.
+In reallocating general fund resources, the legislature also ensures that other programs funded from the general fund are not adversely impacted by the reallocation of surplus general fund revenues. The legislature also adopts this act to continue the general fund revenue and expenditure limitations contained in chapter
+43.135
+RCW after this one-time transfer of funds.
+In order to develop a long-term and comprehensive solution to the state's transportation problems, a joint committee will be created to study the state's transportation needs and the appropriate sources of revenue necessary to implement the state's long-term transportation needs as prov</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_045__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Sections 1 through 3, 5 through 21, 44, and 45 of this act take effect January 1, 1999.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_045__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Section 4 of this act takes effect July 1, 1999, and applies to registrations that are due or become due in July 1999, and thereafter.&quot; [
+1998 c 321 s 46
+(Referendum Bill No. 49, approved November 3, 1998).]
+Referral to electorate
+—
+1998 c 321 ss 1-21 and 44-46:
+&quot;The secretary of state shall submit sections 1 through 21 and 44 through 46 of this act to the people for their adoption and ratification, or rejection, at the next general election to be held in this state, in accordance with Article II, section 1 of the state Constitution and the laws adopted to facilitate its operation.&quot; [
+1998 c 321 s 49
+(Referendum Bill No. 49, approved November 3, 1998).]
+Purpose
+—
+Captions now law
+—
+1991 c 363:
+See notes following RCW
+2.32.180
+.
+Severability
+—
+Effective date
+—
+1975 1st ex.s. c 270:
+See notes following RCW
+35.58.272
+.
+Legislative finding, declaration
+—
+1971 ex.s. c 296:
+&quot;The legislature finds that adequate public transportation systems are necessary to the economic, industrial and cultural development of the urban areas of this state and the health, welfare and prosperity of persons who reside or are employed in such areas or who engage in business therein and such systems are increasingly essential to the functioning of the urban highways of the state. The legislature further finds and declares that fares and tolls for the use of public transportation systems cannot maintain such systems in solvent financial conditions and at the same time meet the need to serve those who cannot reasonably afford or use other forms of transportation. The legislature further finds and declares that additional and alternate means of financing adequate public transportation service are necessary for the cities, metropolitan municipal corporations and counties of this state which provide such service.&quot; [
+1971 ex.s. c 296 s 1
+.]
+Severability
+—
+1971 ex.s. c 296:
+&quot;If any provision of this 1971 amendatory act, or its application to any person or circumstance is held invalid, the remainder of</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

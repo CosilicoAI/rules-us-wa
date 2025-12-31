@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.200"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.200"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.200/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.200/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.200/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.200/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_200">
+        <num>RCW 74.04.200</num>
+        <heading>Standards—Established, enforced</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.200
+74.04.180
+&lt;&lt; 
+        74.04.200 &gt;&gt;
+74.04.205
+PDF
+RCW
+74.04.200
+Standards
+—
+Established, enforced.
+It shall be the duty of the department of social and health services to establish statewide standards which may vary by geographical areas to govern the granting of assistance in the several categories of this title and it shall have power to compel compliance with such standards as a condition to the receipt of state and federal funds by counties for social security purposes.
+[
+1981 1st ex.s. c 6 s 4
+;
+1981 c 8 s 4
+;
+1979 c 141 s 302
+;
+1959 c 26 s 74.04.200
+. Prior:
+1939 c 216 s 14
+; RRS s 10007-114a.]
+NOTES:
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

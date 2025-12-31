@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.550"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.550"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.550/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.550/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.550/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.550/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_550">
+        <num>RCW 82.14.550</num>
+        <heading>Manufacturing and warehousing job centers account</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.550
+82.14.545
+&lt;&lt; 
+        82.14.550 &gt;&gt;
+82.14.820
+PDF
+RCW
+82.14.550
+Manufacturing and warehousing job centers account.
+The manufacturing and warehousing job centers account is created in the state treasury. All receipts from RCW
+82.14.545
+must be deposited into the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for the purpose of mitigating the negative fiscal impacts to local taxing jurisdictions as a result of the streamlined sales and use tax agreement under this title.
+[
+2021 c 83 s 3
+.]
+NOTES:
+Findings
+—
+Effective date
+—
+2021 c 83:
+See notes following RCW
+82.14.545
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

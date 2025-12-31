@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.120"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_120">
+        <num>RCW 82.08.120</num>
+        <heading>Refunding or rebating of tax by seller prohibited—Penalty</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.08
+&gt;
+Section 82.08.120
+82.08.110
+&lt;&lt; 
+        82.08.120 &gt;&gt;
+82.08.130
+PDF
+RCW
+82.08.120
+Refunding or rebating of tax by seller prohibited
+—
+Penalty.
+Whoever, excepting as expressly authorized by this chapter, refunds, remits, or rebates to a buyer, either directly or indirectly and by whatever means, all or any part of the tax levied by this chapter shall be guilty of a misdemeanor. The violation of this section by any person holding a license granted by the state or any political subdivision thereof shall be sufficient grounds for the cancellation of the license of such person upon written notification by the department of revenue to the proper officer of the department granting the license that such person has violated the provisions of this section. Before any license shall be canceled hereunder, the licensee shall be entitled to a hearing before the department granting the license under such regulations as the department may prescribe.
+[
+1985 c 38 s 4
+;
+1975 1st ex.s. c 278 s 51
+;
+1961 c 15 s 82.08.120
+. Prior:
+1939 c 225 s 13
+;
+1935 c 180 s 27
+; RRS s 8370-27.]
+NOTES:
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

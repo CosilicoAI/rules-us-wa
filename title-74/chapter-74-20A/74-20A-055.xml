@@ -1,0 +1,716 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.055"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_055">
+        <num>RCW 74.20A.055</num>
+        <heading>Notice and finding of financial responsibility of person required to pay support—Service—Hearing—Decisions—Rules. (&lt;i&gt;Effective until April 1, 2027.&lt;/i&gt;)</heading>
+        <subsection eId="sec_74_20A_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The secretary may, if there is no order that establishes a person's support obligation or specifically relieves the person required to pay support of a support obligation or pursuant to an establishment of parentage under chapter
+26.26A
+or
+26.26B
+RCW, serve on the person or persons required to pay support and the person entitled to receive support a notice and finding of financial responsibility requiring those persons to appear and show cause in an adjudicative proceeding why the finding of responsibility and/or the amount thereof is incorrect, should not be finally ordered, but should be rescinded or modified. This notice and finding shall relate to the support debt accrued and/or accruing under this chapter and/or RCW
+26.16.205
+, including periodic payments to be made in the future. The hearing shall be held pursuant to this section, chapter
+34.05
+RCW, the Administrative Procedure Act, and the rules of the department. A person who has physical custody of a child has the same rights under this section as a parent with whom the child resides.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The notice and finding of financial responsibility shall be served in the same manner prescribed for the service of a summons in a civil action or may be served on the person required to pay support by certified mail, return receipt requested. The receipt shall be prima facie evidence of service. The notice shall be served upon the person required to pay support within sixty days from the date the state assumes responsibility for the support of the dependent child or children on whose behalf support is sought. If the notice is not served within sixty days from such date, the department shall lose the right to reimbursement of payments made after the sixty-day period and before the date of notification: PROVIDED, That if the department exercises reasonable efforts to locate the person required to pay support and is unable to do so the entire sixty-day period is tolled until such time as the person can be located. The notice may be served upon the person entitled to receive support who is the nonassistance applicant or public assistance recipient by first-class mail to the last known address. If the person entitled to receive support is not the nonassistance applicant or public assistance recipient, service shall be in the same manner as for the person required to pay support.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The notice and finding of financial responsibility shall set forth the amount the department has determined the person required to pay support owes, the support debt accrued and/or accruing, and periodic payments to be made in the future. The notice and finding shall also include:</p>
+          </content>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A statement of the name of the person entitled to receive support and the name of the child or children for whom support is sought;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A statement of the amount of periodic future support payments as to which financial responsibility is alleged;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A statement that the person required to pay support or the person entitled to receive support may object to all or any part of the notice and finding, and file an application for an adjudicative proceeding to show cause why the terms set forth in the notice should not be ordered;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A statement that, if neither the person required to pay support nor the person entitled to receive support files in a timely fashion an application for an adjudicative proceeding, the support debt and payments stated in the notice and finding, including periodic support payments in the future, shall be assessed and determined and ordered by the department and that this debt and amounts due under the notice shall be subject to collection action;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A statement that the property of the person required to pay support, without further advance notice or hearing, will be subject to lien and foreclosure, distraint, seizure and sale, order to withhold and deliver, notice of payroll deduction or other collection action to satisfy the debt and enforce the support obligation established under the notice;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A statement that the person required to pay support, and the payee under the order or the person entitled to receive support who is a parent of the child or children covered by the order, are responsible for either:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Providing health care coverage for the child if accessible coverage that can cover the child:
+(A) Is available through health insurance or public health care coverage; or
+(B) Is or becomes available to the obligated person through that person's employment or union; or</p>
+            </content>
+            <subsection eId="sec_74_20A_055__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Paying a monthly payment toward the premium if no such coverage is available, as provided under RCW
+26.09.105
+; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A statement that the support obligation under the order may be abated to ten dollars per month per order as provided in RCW
+26.09.320
+if the person required to pay support is confined in a jail, prison, or correctional facility for at least six months, or is serving a sentence greater than six months in a jail, prison, or correctional facility.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A person required to pay support or a person entitled to receive support who objects to the notice and finding of financial responsibility may file an application for an adjudicative proceeding within twenty days of the date of service of the notice or thereafter as provided under this subsection.</p>
+          </content>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the person required to pay support or the person entitled to receive support files the application within twenty days, the office of administrative hearings shall schedule an adjudicative proceeding to hear the party's or parties' objection and determine the support obligation for the entire period covered by the notice and finding of financial responsibility. The filing of the application stays collection action pending the entry of a final administrative order;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If both the person required to pay support and the person entitled to receive support fail to file an application within twenty days, the notice and finding shall become a final administrative order. The amounts for current and future support and the support debt stated in the notice are final and subject to collection, except as provided under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the person required to pay support or the person entitled to receive support files the application more than twenty days after, but within one year of the date of service, the office of administrative hearings shall schedule an adjudicative proceeding to hear the party's or parties' objection and determine the support obligation for the entire period covered by the notice and finding of financial responsibility. The filing of the application does not stay further collection action, pending the entry of a final administrative order, and does not affect any prior collection action;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the person required to pay support or the person entitled to receive support files the application more than one year after the date of service, the office of administrative hearings shall schedule an adjudicative proceeding at which the party who requested the late hearing must show good cause for failure to file a timely application. The filing of the application does not stay future collection action and does not affect prior collection action:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the presiding officer finds that good cause exists, the presiding officer shall proceed to hear the party's objection to the notice and determine the support obligation;</p>
+            </content>
+            <subsection eId="sec_74_20A_055__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the presiding officer finds that good cause does not exist, the presiding officer shall treat the application as a petition for prospective modification of the amount for current and future support established under the notice and finding. In the modification proceeding, the presiding officer shall set current and future support under chapter
+26.19
+RCW. The petitioning party need show neither good cause nor a substantial change of circumstances to justify modification of current and future support;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the support obligation was based upon imputed median net income, the grant standard, or the family need standard, the division of child support may file an application for adjudicative proceeding more than twenty days after the date of service of the notice. The office of administrative hearings shall schedule an adjudicative proceeding and provide notice of the hearing to the person required to pay support and the person entitled to receive support. The presiding officer shall determine the support obligation for the entire period covered by the notice, based upon credible evidence presented by the division of child support, the person required to pay support, or the person entitled to receive support, or may determine that the support obligation set forth in the notice is correct. The division of child support demonstrates good cause by showing that the support obligation was based upon imputed median net income, the grant standard, or the family need standard. The filing of the application by the division of child support does not stay further collection action, pending the entry of a final administrative order, and does not affect any prior collection action;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The department shall retain and/or shall not refund support money collected more than twenty days after the date of service of the notice. Money withheld as the result of collection action shall be delivered to the department. The department shall distribute such money, as provided in published rules.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If an application for an adjudicative proceeding is filed, the presiding or reviewing officer shall determine the past liability and responsibility, if any, of the person required to pay support and shall also determine the amount of periodic payments to be made in the future, which amount is not limited by the amount of any public assistance payment made to or for the benefit of the child. If deviating from the child support schedule in making these determinations, the presiding or reviewing officer shall apply the standards contained in the child support schedule and enter written findings of fact supporting the deviation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If either the person required to pay support or the person entitled to receive support fails to attend or participate in the hearing or other stage of an adjudicative proceeding, upon a showing of valid service, the presiding officer shall enter an order of default against each party who did not appear and may enter an administrative order declaring the support debt and payment provisions stated in the notice and finding of financial responsibility to be assessed and determined and subject to collection action. The parties who appear may enter an agreed settlement or consent order, which may be different than the terms of the department's notice. Any party who appears may choose to proceed to the hearing, after the conclusion of which the presiding officer or reviewing officer may enter an order that is different than the terms stated in the notice, if the obligation is supported by credible evidence presented by any party at the hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The final administrative order establishing liability and/or future periodic support payments shall be superseded upon entry of a superior court order for support to the extent the superior court order is inconsistent with the administrative order.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Debts determined pursuant to this section, accrued and not paid, are subject to collection action under this chapter without further necessity of action by a presiding or reviewing officer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The department has rule-making authority to enact rules consistent with 42 U.S.C. Sec. 652</p>
+          </content>
+          <subsection eId="sec_74_20A_055__subsec_9__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>and 42 U.S.C. Sec. 666(a)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>as amended by section 7307 of the deficit reduction act of 2005. Additionally, the department has rule-making authority to implement regulations required under 45 C.F.R. Parts 302, 303, 304, 305, and 308.
+[
+2020 c 227 s 10
+;
+2019 c 46 s 5052
+;
+2018 c 150 s 107
+;
+2009 c 476 s 7
+;
+2007 c 143 s 8
+;
+2002 c 199 s 5
+;
+1997 c 58 s 940
+;
+1996 c 21 s 1
+;
+1991 c 367 s 46
+;
+1990 1st ex.s. c 2 s 21
+;
+1989 c 175 s 152
+;
+1988 c 275 s 10
+;
+1982 c 189 s 8
+;
+1979 ex.s. c 171 s 12
+;
+1973 1st ex.s. c 183 s 25
+.]
+NOTES:
+Effective date
+—
+2020 c 227 ss 3-13:
+See note following RCW
+26.09.320
+.
+Findings
+—
+Intent
+—
+2020 c 227:
+See note following RCW
+26.09.320
+.
+Rule-making authority
+—
+2020 c 227:
+See RCW
+26.09.916
+.
+Effective date
+—
+2009 c 476:
+See note following RCW
+26.09.105
+.
+Severability
+—
+2007 c 143:
+See note following RCW
+26.18.170
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Severability
+—
+Effective date
+—
+Captions not law
+—
+1991 c 367:
+See notes following RCW
+26.09.015
+.
+Effective dates
+—
+Severability
+—
+1990 1st ex.s. c 2:
+See notes following RCW
+26.09.100
+.
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.
+Effective dates
+—
+Severability
+—
+1988 c 275:
+See notes following RCW
+26.19.001
+.
+Effective date
+—
+1982 c 189:
+See note following RCW
+34.12.020
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.
+PDF
+RCW
+74.20A.055
+Notice and finding of financial responsibility of person required to pay support
+—
+Service
+—
+Hearing
+—
+Decisions
+—
+Rules.
+(Effective April 1, 2027.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The secretary may, if there is no order that establishes a person's support obligation or specifically relieves the person required to pay support of a support obligation or pursuant to an establishment of parentage under chapter
+26.26A
+or
+26.26B
+RCW, serve on the person or persons required to pay support and the person entitled to receive support a notice and finding of financial responsibility requiring those persons to appear and show cause in an adjudicative proceeding why the finding of responsibility and/or the amount thereof is incorrect, should not be finally ordered, but should be rescinded or modified. This notice and finding shall relate to the support debt accrued and/or accruing under this chapter and/or RCW
+26.16.205
+, including periodic payments to be made in the future. The hearing shall be held pursuant to this section, chapter
+34.05
+RCW, the Administrative Procedure Act, and the rules of the department. A person who has physical custody of a child has the same rights under this section as a parent with whom the child resides.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The notice and finding of financial responsibility shall be served in the same manner prescribed for the service of a summons in a civil action or may be served on the person required to pay support by certified mail, return receipt requested. The receipt shall be prima facie evidence of service. The notice shall be served upon the person required to pay support within 60 days from the date the state assumes responsibility for the support of the dependent child or children on whose behalf support is sought. If the notice is not served within 60 days from such date, the department shall lose the right to reimbursement of payments made after the 60-day period and before the date of notification: PROVIDED, That if the department exercises reasonable efforts to locate the person required to pay support and is unable to do so the entire 60-day period is tolled until such time as the person can be located. The notice may be served upon the person entitled to receive support who is the nonassistance applicant or public assistance recipient by first-class mail to the last known address. If the person entitled to receive support is not the nonassistance applicant or public assistance recipient, service shall be in the same manner as for the person required to pay support.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The notice and finding of financial responsibility shall set forth the amount the department has determined the person required to pay support owes, the support debt accrued and/or accruing, and periodic payments to be made in the future. The notice and finding shall also include:</p>
+          </content>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A statement of the name of the person entitled to receive support and the name of the child or children for whom support is sought;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A statement of the amount of periodic future support payments as to which financial responsibility is alleged;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A statement that the person required to pay support or the person entitled to receive support may object to all or any part of the notice and finding, and file an application for an adjudicative proceeding to show cause why the terms set forth in the notice should not be ordered;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A statement that, if neither the person required to pay support nor the person entitled to receive support files in a timely fashion an application for an adjudicative proceeding, the support debt and payments stated in the notice and finding, including periodic support payments in the future, shall be assessed and determined and ordered by the department and that this debt and amounts due under the notice shall be subject to collection action;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>A statement that the property of the person required to pay support, without further advance notice or hearing, will be subject to lien and foreclosure, distraint, seizure and sale, order to withhold and deliver, notice of payroll deduction or other collection action to satisfy the debt and enforce the support obligation established under the notice;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A statement that the person required to pay support, and the payee under the order or the person entitled to receive support who is a parent of the child or children covered by the order, are responsible for either:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Providing health care coverage for the child if accessible coverage that can cover the child:
+(A) Is available through health insurance or public health care coverage; or
+(B) Is or becomes available to the obligated person through that person's employment or union; or</p>
+            </content>
+            <subsection eId="sec_74_20A_055__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Paying a monthly payment toward the premium if no such coverage is available, as provided under RCW
+26.09.105
+;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>A statement that the support obligation under the order may be abated to ten dollars per month per order as provided in RCW
+26.09.320
+if the person required to pay support is confined in a jail, prison, or correctional facility for at least six months, or is serving a sentence greater than six months in a jail, prison, or correctional facility; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_3__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>A statement that the support obligation under the order may be abated to $50 per month per child as provided in RCW
+26.09.345
+if the person required to pay support is undergoing court-ordered behavioral health treatment issued under chapter
+71.05
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A person required to pay support or a person entitled to receive support who objects to the notice and finding of financial responsibility may file an application for an adjudicative proceeding within 20 days of the date of service of the notice or thereafter as provided under this subsection.</p>
+          </content>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>If the person required to pay support or the person entitled to receive support files the application within 20 days, the office of administrative hearings shall schedule an adjudicative proceeding to hear the party's or parties' objection and determine the support obligation for the entire period covered by the notice and finding of financial responsibility. The filing of the application stays collection action pending the entry of a final administrative order;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If both the person required to pay support and the person entitled to receive support fail to file an application within 20 days, the notice and finding shall become a final administrative order. The amounts for current and future support and the support debt stated in the notice are final and subject to collection, except as provided under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the person required to pay support or the person entitled to receive support files the application more than 20 days after, but within one year of the date of service, the office of administrative hearings shall schedule an adjudicative proceeding to hear the party's or parties' objection and determine the support obligation for the entire period covered by the notice and finding of financial responsibility. The filing of the application does not stay further collection action, pending the entry of a final administrative order, and does not affect any prior collection action;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>If the person required to pay support or the person entitled to receive support files the application more than one year after the date of service, the office of administrative hearings shall schedule an adjudicative proceeding at which the party who requested the late hearing must show good cause for failure to file a timely application. The filing of the application does not stay future collection action and does not affect prior collection action:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>If the presiding officer finds that good cause exists, the presiding officer shall proceed to hear the party's objection to the notice and determine the support obligation;</p>
+            </content>
+            <subsection eId="sec_74_20A_055__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If the presiding officer finds that good cause does not exist, the presiding officer shall treat the application as a petition for prospective modification of the amount for current and future support established under the notice and finding. In the modification proceeding, the presiding officer shall set current and future support under chapter
+26.19
+RCW. The petitioning party need show neither good cause nor a substantial change of circumstances to justify modification of current and future support;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>If the support obligation was based upon imputed median net income, the grant standard, or the family need standard, the division of child support may file an application for adjudicative proceeding more than 20 days after the date of service of the notice. The office of administrative hearings shall schedule an adjudicative proceeding and provide notice of the hearing to the person required to pay support and the person entitled to receive support. The presiding officer shall determine the support obligation for the entire period covered by the notice, based upon credible evidence presented by the division of child support, the person required to pay support, or the person entitled to receive support, or may determine that the support obligation set forth in the notice is correct. The division of child support demonstrates good cause by showing that the support obligation was based upon imputed median net income, the grant standard, or the family need standard. The filing of the application by the division of child support does not stay further collection action, pending the entry of a final administrative order, and does not affect any prior collection action;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_20A_055__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The department shall retain and/or shall not refund support money collected more than 20 days after the date of service of the notice. Money withheld as the result of collection action shall be delivered to the department. The department shall distribute such money, as provided in published rules.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If an application for an adjudicative proceeding is filed, the presiding or reviewing officer shall determine the past liability and responsibility, if any, of the person required to pay support and shall also determine the amount of periodic payments to be made in the future, which amount is not limited by the amount of any public assistance payment made to or for the benefit of the child. If deviating from the child support schedule in making these determinations, the presiding or reviewing officer shall apply the standards contained in the child support schedule and enter written findings of fact supporting the deviation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If either the person required to pay support or the person entitled to receive support fails to attend or participate in the hearing or other stage of an adjudicative proceeding, upon a showing of valid service, the presiding officer shall enter an order of default against each party who did not appear and may enter an administrative order declaring the support debt and payment provisions stated in the notice and finding of financial responsibility to be assessed and determined and subject to collection action. The parties who appear may enter an agreed settlement or consent order, which may be different than the terms of the department's notice. Any party who appears may choose to proceed to the hearing, after the conclusion of which the presiding officer or reviewing officer may enter an order that is different than the terms stated in the notice, if the obligation is supported by credible evidence presented by any party at the hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The final administrative order establishing liability and/or future periodic support payments shall be superseded upon entry of a superior court order for support to the extent the superior court order is inconsistent with the administrative order.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Debts determined pursuant to this section, accrued and not paid, are subject to collection action under this chapter without further necessity of action by a presiding or reviewing officer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The department has rule-making authority to enact rules consistent with 42 U.S.C. Sec. 652</p>
+          </content>
+          <subsection eId="sec_74_20A_055__subsec_9__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>and 42 U.S.C. Sec. 666(a)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_20A_055__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>as amended by section 7307 of the deficit reduction act of 2005. Additionally, the department has rule-making authority to implement regulations required under 45 C.F.R. Parts 302, 303, 304, 305, and 308.
+[
+2025 c 272 s 10
+;
+2020 c 227 s 10
+;
+2019 c 46 s 5052
+;
+2018 c 150 s 107
+;
+2009 c 476 s 7
+;
+2007 c 143 s 8
+;
+2002 c 199 s 5
+;
+1997 c 58 s 940
+;
+1996 c 21 s 1
+;
+1991 c 367 s 46
+;
+1990 1st ex.s. c 2 s 21
+;
+1989 c 175 s 152
+;
+1988 c 275 s 10
+;
+1982 c 189 s 8
+;
+1979 ex.s. c 171 s 12
+;
+1973 1st ex.s. c 183 s 25
+.]
+NOTES:
+Effective date
+—
+2025 c 272 ss 4-12:
+See note following RCW
+26.09.345
+.
+Rule-making authority
+—
+2025 c 272:
+See note following RCW
+26.09.345
+.
+Effective date
+—
+2020 c 227 ss 3-13:
+See note following RCW
+26.09.320
+.
+Findings
+—
+Intent
+—
+2020 c 227:
+See note following RCW
+26.09.320
+.
+Rule-making authority
+—
+2020 c 227:
+See RCW
+26.09.916
+.
+Effective date
+—
+2009 c 476:
+See note following RCW
+26.09.105
+.
+Severability
+—
+2007 c 143:
+See note following RCW
+26.18.170
+.
+Short title
+—
+Part headings, captions, table of contents not law
+—
+Exemptions and waivers from federal law
+—
+Conflict with federal requirements
+—
+Severability
+—
+1997 c 58:
+See RCW
+74.08A.900
+through
+74.08A.904
+.
+Severability
+—
+Effective date
+—
+Captions not law
+—
+1991 c 367:
+See notes following RCW
+26.09.015
+.
+Effective dates
+—
+Severability
+—
+1990 1st ex.s. c 2:
+See notes following RCW
+26.09.100
+.
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.
+Effective dates
+—
+Severability
+—
+1988 c 275:
+See notes following RCW
+26.19.001
+.
+Effective date
+—
+1982 c 189:
+See note following RCW
+34.12.020
+.
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

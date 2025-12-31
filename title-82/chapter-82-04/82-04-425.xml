@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.425"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.425"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.425/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.425/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.425/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.425/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_425">
+        <num>RCW 82.04.425</num>
+        <heading>Exemptions—Accommodation sales</heading>
+        <subsection eId="sec_82_04_425__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>the amount paid by the buyer does not exceed the amount paid by the seller to his or her vendor in the acquisition of the article and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_425__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the sale is made as an accommodation to the buyer to enable him or her to fill a bona fide existing order of a customer or is made within fourteen days to reimburse in kind a previous accommodation sale by the buyer to the seller; nor to sales by a wholly owned subsidiary of a person making sales at retail which are exempt under RCW
+82.08.0262
+when the parent corporation shall have paid the tax imposed under this chapter.
+[
+2013 c 23 s 315
+;
+1980 c 37 s 78
+;
+1965 ex.s. c 173 s 9
+;
+1961 c 15 s 82.04.425
+. Prior:
+1955 c 95 s 1
+.]
+NOTES:
+Intent
+—
+1980 c 37:
+See note following RCW
+82.04.4281
+.
+Effective date
+—
+1965 ex.s. c 173:
+See note following RCW
+82.04.050
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

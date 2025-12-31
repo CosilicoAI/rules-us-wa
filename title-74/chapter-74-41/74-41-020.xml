@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.41.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.41.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.41.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_41_020">
+        <num>RCW 74.41.020</num>
+        <heading>Intent</heading>
+        <subsection eId="sec_74_41_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Provide information, relief, and support to family or other unpaid caregivers of adults with functional disabilities;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Encourage family and other nonpaid individuals to provide care for adults with functional disabilities at home, and thus offer a viable alternative to placement in a long-term care facility;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Ensure that respite care is made generally available on a sliding-fee basis to eligible participants in the program according to priorities established by the department;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Be provided in the least restrictive setting available consistent with the individually assessed needs of the adults with functional disabilities;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_020__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Include services appropriate to the needs of persons caring for individuals with dementing illnesses; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_020__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Provide unpaid family and other unpaid caregivers with services that enable them to make informed decisions about current and future care plans, solve day-to-day caregiving problems, learn essential caregiving skills, and locate services that may strengthen their capacity to provide care.
+[
+2000 c 207 s 2
+;
+1987 c 409 s 1
+;
+1984 c 158 s 2
+.]
+NOTES:
+Short title
+—
+2000 c 207:
+&quot;This act shall be known and cited as the Fred Mills act.&quot; [
+2000 c 207 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.94.090"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.090"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.94.090/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.090/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.94.090/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.94.090/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_94_090">
+        <num>RCW 82.94.090</num>
+        <heading>Applications, reports, and information subject to disclosure</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.94
+&gt;
+Section 82.94.090
+82.94.080
+&lt;&lt; 
+        82.94.090 &gt;&gt;
+82.94.900
+PDF
+RCW
+82.94.090
+Applications, reports, and information subject to disclosure.
+Applications, reports, and any other information received by the department under this chapter, except applications not approved by the department, are not confidential and are subject to disclosure.
+[
+2022 c 257 s 110
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

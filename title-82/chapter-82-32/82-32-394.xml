@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.394"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.394"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.394/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.394/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.394/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.394/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_394">
+        <num>RCW 82.32.394</num>
+        <heading>Revenues from sale or use of leaded racing fuel to be deposited into the advanced environmental mitigation revolving account</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.394
+82.32.385
+&lt;&lt; 
+        82.32.394 &gt;&gt;
+82.32.410
+PDF
+RCW
+82.32.394
+Revenues from sale or use of leaded racing fuel to be deposited into the advanced environmental mitigation revolving account.
+The department of revenue shall deposit into the advanced environmental mitigation revolving account, created in RCW
+47.12.340
+, all moneys received from the imposition on consumers of the taxes under chapters
+82.08
+and
+82.12
+RCW on the sales or use of leaded racing fuel which is exempted from the motor vehicle fuel tax under *RCW
+82.38.081
+.
+[
+1998 c 115 s 7
+.]
+NOTES:
+*Reviser's note:
+RCW
+82.38.081
+was repealed by
+2007 c 515 s 34
+.
+Intent
+—
+1998 c 115 ss 6 and 7:
+&quot;It is the intent of the legislature that leaded racing fuel be exempted from payment of the motor vehicle fuel tax, as provided in RCW
+82.38.081
+, since it is illegal for use on the public highways of the state under federal law. The legislature further intends that leaded racing fuel be subject to the retail sales and use taxes under chapters
+82.08
+and
+82.12
+RCW and that the revenue collected will be earmarked as provided in RCW
+82.32.394
+.&quot; [
+1998 c 115 s 5
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

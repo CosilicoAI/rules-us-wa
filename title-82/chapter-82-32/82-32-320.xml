@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.320"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.320/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.320/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_320">
+        <num>RCW 82.32.320</num>
+        <heading>Revenue to state treasurer—Allocation for return or payment for less than the full amount due</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.320
+82.32.310
+&lt;&lt; 
+        82.32.320 &gt;&gt;
+82.32.330
+PDF
+RCW
+82.32.320
+Revenue to state treasurer
+—
+Allocation for return or payment for less than the full amount due.
+The department of revenue, on the next business day following the receipt of any payments hereunder, shall transmit them to the state treasurer, taking his or her receipt therefor. If a return or payment is submitted with less than the full amount of all taxes, interest, and penalties due, the department may allocate payments among applicable funds so as to minimize administrative costs to the extent practicable.
+[
+1995 c 318 s 7
+;
+1975 1st ex.s. c 278 s 92
+;
+1961 c 15 s 82.32.320
+. Prior:
+1935 c 180 s 209
+; RRS s 8370-209.]
+NOTES:
+Effective date
+—
+1995 c 318:
+See note following RCW
+82.04.030
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.550"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.550"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.550/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.550/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.550/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.550/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_550">
+        <num>RCW 74.39A.550</num>
+        <heading>Long-term care industry data—Annual report</heading>
+        <subsection eId="sec_74_39A_550__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The long-term care worker supply;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_550__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The average wages of long-term care workers compared to entry-level positions in other industries;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_550__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Projections of service demands;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_550__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Geographic disparities in the supply of long-term care workers; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_550__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any race, gender, or other worker demographic data available through preexisting administrative data sources.
+[
+2023 c 424 s 9
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

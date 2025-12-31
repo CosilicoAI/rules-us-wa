@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.26.240"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.240"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.26.240/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.240/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.26.240/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.26.240/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_26_240">
+        <num>RCW 82.26.240</num>
+        <heading>Seizure and forfeiture of property—Department and board requirements</heading>
+        <subsection eId="sec_82_26_240__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In all cases of seizure of any tobacco products made subject to forfeiture under this chapter, the department or board shall proceed as provided in RCW
+82.24.135
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_26_240__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>When tobacco products are forfeited under this chapter, the department or board may:</p>
+          </content>
+          <subsection eId="sec_82_26_240__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Retain the property for official use or upon application by any law enforcement agency of this state, another state, or the District of Columbia, or of the United States for the exclusive use of enforcing this chapter or the laws of any other state or the District of Columbia or of the United States; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_26_240__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Sell the tobacco products at public auction to the highest bidder after due advertisement. Before delivering any of the goods to the successful bidder, the department or board shall require the purchaser to pay the proper amount of any tax due. The proceeds of the sale shall be first applied to the payment of all proper expenses of any investigation leading to the seizure and of the proceedings for forfeiture and sale, including expenses of seizure, maintenance of custody, advertising, and court costs. The balance of the proceeds and all money shall be deposited in the general fund of the state. Proper expenses of investigation include costs incurred by any law enforcement agency or any federal, state, or local agency.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_26_240__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department or the board may return any property seized under the provisions of this chapter when it is shown that there was no intention to violate the provisions of this chapter. When any property is returned under this section, the department or the board may return the property to the parties from whom they were seized if and when such parties have paid the proper amount of tax due under this chapter.
+[
+2005 c 180 s 21
+.]
+NOTES:
+Effective date
+—
+2005 c 180:
+See note following RCW
+82.26.105
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

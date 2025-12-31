@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.632"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.632"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.632/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.632/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.632/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.632/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_632">
+        <num>RCW 74.13.632</num>
+        <heading>School-aged youth in out-of-home care—Educational experiences and progress—Reports</heading>
+        <subsection eId="sec_74_13_632__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A university-based child welfare research entity shall include in its reporting the educational experiences and progress of students in out-of-home care with the department. This data must be disaggregated in the smallest units allowable by law that do not identify an individual student, in order to learn which of the department's offices and school districts are experiencing the greatest success and challenges in achieving quality educational outcomes with students in out-of-home care with the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_632__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>By January 1, 2015 and annually thereafter, the university-based child welfare research entity must submit a report to the legislature. To the extent possible, the report should include, but is not limited to, information on the following measures for a youth who is a dependent pursuant to chapter
+13.34
+RCW:</p>
+          </content>
+          <subsection eId="sec_74_13_632__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Aggregate scores from the Washington state kindergarten readiness assessment;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_632__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Aggregate scores from the third grade statewide student assessment in reading;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_632__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Number of youth graduating from high school with a documented plan for postsecondary education, employment, or military service;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_632__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Number of youth completing one year of postsecondary education, the equivalent of first-year student credits, or achieving a postsecondary certificate; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_632__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Number of youth who complete an associate or bachelor's degree.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_632__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The report must identify strengths and weaknesses in practice and recommend to the legislature strategy and needed resources for improvement.
+[
+2018 c 58 s 48
+;
+2013 c 182 s 7
+.]
+NOTES:
+Effective date
+—
+2018 c 58:
+See note following RCW
+28A.655.080
+.
+Findings
+—
+2013 c 182:
+See note following RCW
+13.34.030
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

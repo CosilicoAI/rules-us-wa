@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.63.005"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.63.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.63.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.63.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_63_005">
+        <num>RCW 82.63.005</num>
+        <heading>Findings—Intent to create a contract</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.63
+&gt;
+Section 82.63.005
+Beginning of Chapter
+&lt;&lt; 
+        82.63.005 &gt;&gt;
+82.63.010
+PDF
+RCW
+82.63.005
+Findings
+—
+Intent to create a contract.
+The legislature finds that high-wage, high-skilled jobs are vital to the economic health of the state's citizens, and that targeted tax incentives will encourage the formation of high-wage, high-skilled jobs. The legislature also finds that tax incentives should be subject to the same rigorous requirements for efficiency and accountability as are other expenditure programs, and that tax incentives should therefore be focused to provide the greatest possible return on the state's investment.
+The legislature also finds that high-technology businesses are a vital and growing source of high-wage, high-skilled jobs in this state, and that the high-technology sector is a key component of the state's effort to encourage economic diversification. However, the legislature finds that many high-technology businesses incur significant costs associated with research and development and pilot scale manufacturing many years before a marketable product can be produced, and that current state tax policy discourages the growth of these companies by taxing them long before they become profitable.
+The legislature further finds that stimulating growth of high-technology businesses early in their development cycle, when they are turning ideas into marketable products, will build upon the state's established high-technology base, creating additional research and development jobs and subsequent manufacturing facilities.
+For these reasons, the legislature hereby establishes a program of business and occupation tax credits for qualified research and development expenditures. The legislature also hereby establishes a tax deferral program for high-technology research and development and pilot scale manufacturing facilities. The legislature declares that these limited programs serve the vital public purposes of incenting expenditures in research and development, supporting, and sustaining as they develop new technologies and products, and creating quality employment opportunities in this state. The legislature further declares its intent to create a contract within the meaning of Article I, section 23 of the state Constitution as to those businesses that make capital investments in consideration of the tax deferral program established in this chapter.
+[
+2004 c 2 s 1
+;
+1994 sp.s. c 5 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

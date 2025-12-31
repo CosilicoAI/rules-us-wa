@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_050">
+        <num>RCW 82.24.050</num>
+        <heading>Retailer—Possession of unstamped cigarettes—Access to commercial cigarette-making machines</heading>
+        <subsection eId="sec_82_24_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>No retailer in this state may possess unstamped cigarettes within this state unless the person is also a wholesaler in possession of the cigarettes in accordance with RCW
+82.24.040
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A retailer may obtain cigarettes only from a wholesaler subject to the provisions of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Only a retailer licensed under this chapter may provide consumers with access to a commercial cigarette-making machine to make roll-your-own cigarettes. A retailer is prohibited from allowing the use of a commercial cigarette-making machine by a person unless, contemporaneously to the person's use of the machine, the retailer provides the consumer with a box or similar container to transport roll-your-own cigarettes and such box is affixed with the appropriate stamp or stamps as required under RCW
+82.24.030</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A commercial cigarette-making machine must have a secure meter that counts the number of cigarettes made, manufactured, or fabricated by the machine and that cannot be accessed, except for the sole purpose of taking meter readings, altered or reset by the machine operator.
+[
+2012 2nd sp.s. c 4 s 4
+;
+2003 c 114 s 4
+;
+1995 c 278 s 4
+;
+1990 c 216 s 3
+;
+1969 ex.s. c 214 s 2
+;
+1961 c 15 s 82.24.050
+. Prior:
+1959 c 270 s 5
+; prior: 1949 c 228 s 13, part; 1943 c 156 s 11, part; 1941 c 178 s 13, part; 1939 c 225 s 23, part; 1935 c 180 s 82, part; Rem. Supp. 1949 s 8370-82, part.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Effective date
+—
+1995 c 278:
+See note following RCW
+82.24.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

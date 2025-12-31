@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.66.010"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.66.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.66.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_66_010">
+        <num>RCW 74.66.010</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_66_010__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Custodian&quot; means the custodian, or any deputy custodian, designated by the attorney general.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Documentary material&quot; includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret the data compilations, and any product of discovery.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;False claims act investigation&quot; means any inquiry conducted by any false claims act investigator for the purpose of ascertaining whether any person is or has been engaged in any violation of this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;False claims act investigator&quot; means any attorney or investigator employed by the state attorney general who is charged with the duty of enforcing or carrying into effect any provision of this chapter, or any officer or employee of the state of Washington acting under the direction and supervision of the attorney or investigator in connection with an investigation pursuant to this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Government entity&quot; means all Washington state agencies that administer medicaid-funded programs under this title.</p>
+          </content>
+          <subsection eId="sec_74_66_010__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Knowing&quot; and &quot;knowingly&quot; mean that a person, with respect to information:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_66_010__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Has actual knowledge of the information;</p>
+            </content>
+            <subsection eId="sec_74_66_010__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Acts in deliberate ignorance of the truth or falsity of the information; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_66_010__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Acts in reckless disregard of the truth or falsity of the information.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_66_010__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Knowing&quot; and &quot;knowingly&quot; do not require proof of specific intent to defraud.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Material&quot; means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Obligation&quot; means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute or rule, or from the retention of any overpayment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Official use&quot; means any use that is consistent with the law, and the rules and policies of the attorney general, including use in connection with: Internal attorney general memoranda and reports; communications between the attorney general and a federal, state, or local government agency, or a contractor of a federal, state, or local government agency, undertaken in furtherance of an investigation or prosecution of a case; interviews of any qui tam relator or other witness; oral examinations; depositions; preparation for and response to civil discovery requests; introduction into the record of a case or proceeding; applications, motions, memoranda, and briefs submitted to a court or other tribunal; and communications with attorney general investigators, auditors, consultants and experts, the counsel of other parties, and arbitrators or mediators, concerning an investigation, case, or proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Person&quot; means any natural person, partnership, corporation, association, or other legal entity, including any local or political subdivision of a state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Product of discovery&quot; includes:</p>
+          </content>
+          <subsection eId="sec_74_66_010__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission, which is obtained by any method of discovery in any judicial or administrative proceeding of an adversarial nature;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_66_010__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Any digest, analysis, selection, compilation, or derivation of any item listed in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_66_010__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_66_010__subsec_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any index or other manner of access to any item listed in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_66_010__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Qui tam action&quot; is an action brought by a person under RCW
+74.66.050
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_66_010__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Qui tam relator&quot; or &quot;relator&quot; is a person who brings an action under RCW
+74.66.050
+.
+[
+2018 c 201 s 7023
+;
+2012 c 241 s 201
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Intent
+—
+Finding
+—
+2012 c 241:
+&quot;The legislature intends to enact a state false claims act in order to provide this state with another tool to combat medicaid fraud. The legislature finds that between 1996 and 2009 state-initiated false claims acts resulted in over five billion dollars in total recoveries to those states. The highest recoveries in those cases were from claims relating to billing fraud, off-label marketing, and withholding safety information; these cases were primarily related to the pharmaceuticals industry and hospital networks, hospitals, and medical centers. By chapter 241, Laws of 2012, the legislature does not intend to target a certain industry, profession, or retailer of medical equipment, or to place an undue burden on health care professionals. Chapter 241, Laws of 2012 is not intended to harass health care professionals, nor is intended to be used as a tool to target actions that are related to incidental errors or clerical errors, which should not be considered fraud. The intent is to use the false claims act to root out significant areas of fraud that result in higher health care costs to this state and to use the false claims act to recover state money that could and should be used to support the medicaid program.&quot; [
+2012 c 241 s 101
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

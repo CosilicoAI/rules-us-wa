@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.240"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.240"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.240/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.240/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.240/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.240/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_240">
+        <num>RCW 74.15.240</num>
+        <heading>Responsible living skills program—Eligibility</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.240
+74.15.230
+&lt;&lt; 
+        74.15.240 &gt;&gt;
+74.15.250
+PDF
+RCW
+74.15.240
+Responsible living skills program
+—
+Eligibility.
+To be eligible for placement in a responsible living skills program, the minor must be dependent under chapter
+13.34
+RCW and must have lived in a HOPE center or in a secure crisis residential center. However, if the minor's caseworker determines that placement in a responsible living skills program would be the most appropriate placement given the minor's current circumstances, prior residence in a HOPE center or secure crisis residential center before placement in a responsible living program is not required. Responsible living skills [skill] centers are intended as a placement alternative for dependent youth that the department chooses for the youth because no other services or alternative placements have been successful. Responsible living skills [skill] centers are not for dependent youth whose permanency plan includes return to home or family reunification.
+[
+2008 c 267 s 11
+;
+1999 c 267 s 14
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Severability
+—
+1999 c 267:
+See notes following RCW
+43.20A.790
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

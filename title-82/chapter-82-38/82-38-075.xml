@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.075"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.075"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.075/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.075/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.075/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.075/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_075">
+        <num>RCW 82.38.075</num>
+        <heading>Natural gas, compressed natural gas, propane—Annual license fee in lieu of special fuel tax for use in motor vehicles—Schedule—Decal or other identifying device</heading>
+        <subsection eId="sec_82_38_075__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To encourage the use of nonpolluting fuels, an annual license fee in lieu of the tax imposed by RCW
+82.38.030
+is imposed upon the use of liquefied natural gas, compressed natural gas, or propane used in any motor vehicle. The annual license fee must be based upon the following schedule and formula:
+VEHICLE TONNAGE (GVW)
+FEE
+0
+-
+6,000
+$ 45
+6,001
+-
+10,000
+$ 45
+10,001
+-
+18,000
+$ 80
+18,001
+-
+28,000
+$110
+28,001
+-
+36,000
+$150
+36,001
+and above
+$250</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To determine the annual license fee for a registration year, the appropriate dollar amount in the schedule is multiplied by the cumulative fuel tax rate per gallon of special fuel effective on July 1st of the preceding calendar year and the product is divided by 12 cents. The annual license fee must be rounded to the nearest five cents.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department, in addition to the resulting fee, must charge an additional fee of $5 as a handling charge for each license issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The vehicle tonnage fee must be prorated so the annual license will correspond with the staggered vehicle licensing system.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A decal or other identifying device issued upon payment of the annual fee must be displayed as prescribed by the department as authority to purchase this fuel.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Persons selling or dispensing natural gas or propane may not sell or dispense this fuel for their own use or the use of others into tanks of vehicles powered by this fuel which do not display a valid decal or other identifying device.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Commercial motor vehicles registered in a foreign jurisdiction under the provisions of the international registration plan are subject to the annual fee.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Motor vehicles registered in a foreign jurisdiction, except those registered under the international registration plan under chapter
+46.87
+RCW, are exempt from this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Vehicles registered in jurisdictions outside the state of Washington are exempt from this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_075__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Any person selling or dispensing liquefied natural gas, compressed natural gas, or propane into the tank of a motor vehicle powered by this fuel, except as prescribed in this chapter, is subject to the penalty provisions of this chapter.
+[
+2025 c 417 s 102
+;
+2014 c 216 s 202
+;
+2013 c 225 s 110
+;
+1983 c 212 s 1
+;
+1981 c 129 s 1
+;
+1979 c 48 s 1
+;
+1977 ex.s. c 335 s 1
+.]
+NOTES:
+Effective date
+—
+2025 c 417 ss 101-103, 406, 701-709, 808-814, 1102, 1103, and 1305:
+See note following RCW
+82.38.030
+.
+Findings
+—
+Intent
+—
+2025 c 417:
+See note following RCW
+82.38.030
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Effective date
+—
+1979 c 48:
+&quot;This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1979.&quot; [
+1979 c 48 s 2
+.]
+Effective date
+—
+1977 ex.s. c 335:
+&quot;This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1977.&quot; [
+1977 ex.s. c 335 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.290"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.290"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.290/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.290/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.290/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.290/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_290">
+        <num>RCW 82.38.290</num>
+        <heading>Disposition of funds</heading>
+        <subsection eId="sec_82_38_290__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Unless directed otherwise in this section, all taxes, fees, assessments, civil and criminal penalties, interest, and proceeds from sales of forfeited property collected under this chapter must be deposited into the motor vehicle fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_290__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The penalty imposed in RCW
+82.38.270</p>
+          </content>
+          <subsection eId="sec_82_38_290__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>must be deposited into the multimodal transportation account.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_38_290__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>One cent per gallon must be deducted from each motor vehicle fuel marine use refund claim and deposited into the coastal protection fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_290__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Fifty percent of all fines and forfeitures imposed in any criminal proceeding by any court of this state for violations of the penal provisions of this chapter must be paid to the current expense fund of the county where collected and the remainder deposited into the motor vehicle fund. All fees, fines, forfeitures, and penalties collected or assessed by a district court must be remitted as provided in chapter
+3.62
+RCW.
+[
+2013 c 225 s 129
+;
+1971 ex.s. c 175 s 30
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

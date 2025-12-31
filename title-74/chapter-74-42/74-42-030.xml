@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_030">
+        <num>RCW 74.42.030</num>
+        <heading>Resident to receive statement of rights, rules, services, and charges</heading>
+        <subsection eId="sec_74_42_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The resident's rights and responsibilities in the facility;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Rules governing resident conduct;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Services, items, and activities available in the facility; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Charges for services, items, and activities, including those not included in the facility's basic daily rate or not paid by medicaid.
+The facility shall provide this information before admission, or at the time of admission in case of emergency, and as changes occur during the resident's stay. The resident and his or her representative must be informed in writing in advance of changes in the availability or charges for services, items, or activities, or of changes in the facility's rules. Except in unusual circumstances, thirty days' advance notice must be given prior to the change. The resident or legal guardian or representative shall acknowledge in writing receipt of this information.
+The written information provided by the facility pursuant to this section, and the terms of any admission contract executed between the facility and an individual seeking admission to the facility, must be consistent with the requirements of this chapter and chapter
+18.51
+RCW and, for facilities certified under medicaid or medicare, with the applicable federal requirements.
+[
+1997 c 392 s 212
+;
+1979 ex.s. c 211 s 3
+.]
+NOTES:
+Short title
+—
+Findings
+—
+Construction
+—
+Conflict with federal requirements
+—
+Part headings and captions not law
+—
+1997 c 392:
+See notes following RCW
+74.39A.009
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

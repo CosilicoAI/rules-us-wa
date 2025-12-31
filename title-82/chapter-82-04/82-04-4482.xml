@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4482"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4482"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4482/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4482/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4482/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4482/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4482">
+        <num>RCW 82.04.4482</num>
+        <heading>Credit—Sales of electricity or gas to an aluminum smelter</heading>
+        <subsection eId="sec_82_04_4482__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who is subject to tax under this chapter on gross income from sales of electricity, natural gas, or manufactured gas made to an aluminum smelter is eligible for an exemption from the tax in the form of a credit, if the contract for sale of electricity or gas to the aluminum smelter specifies that the price charged for the electricity or gas will be reduced by an amount equal to the credit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4482__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credit is equal to the gross income from the sale of the electricity or gas to an aluminum smelter multiplied by the corresponding rate in effect at the time of the sale under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4482__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The exemption provided for in this section does not apply to amounts received from the remarketing or resale of electricity originally obtained by contract for the smelting process.
+[
+2004 c 24 s 9
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

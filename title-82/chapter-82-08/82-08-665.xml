@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.665"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.665"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.665/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.665/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.665/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.665/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_665">
+        <num>RCW 82.08.665</num>
+        <heading>Exemptions—Adaptive recreational and rehabilitation facilities. (Expires January 1, 2035.)</heading>
+        <subsection eId="sec_82_08_665__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to sales made on a federal military reservation by a nonprofit organization under Title 26 U.S.C. Sec. 501(c)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_665__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of the federal internal revenue code of 1986, as amended, as of October 1, 2024, that operates an adaptive recreational and rehabilitation facility dedicated to the assistance of disabled veterans and members of the armed forces of the United States of America.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_665__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, &quot;adaptive recreational and rehabilitation facility&quot; means a facility that provides activity modifications, assistive technologies, or other services to allow people with disabilities to participate in recreational activities, sports, or physical rehabilitation efforts.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_665__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section expires January 1, 2035.
+[
+2024 c 141 s 3
+.]
+NOTES:
+Tax preference performance statement
+—
+Effective date
+—
+2024 c 141 ss 2-4:
+See notes following RCW
+82.04.665
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

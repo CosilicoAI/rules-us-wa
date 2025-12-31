@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.390"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.390"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.390/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.390/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.390/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.390/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_390">
+        <num>RCW 74.39A.390</num>
+        <heading>Personal care services—Glove access</heading>
+        <subsection eId="sec_74_39A_390__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds and declares that universal precautions are important health and safety protections for home care clients and workers who provide direct care for those clients. The use of personal protective equipment such as gloves is an established component of universal precautions and a key tool to protect against exposure to blood-borne pathogens such as hepatitis B virus, hepatitis C virus, and human immunodeficiency virus. Most medicaid clients are eligible to receive gloves through their medicaid benefit, yet the majority of clients are not aware of or do not use this benefit and as a result do not have gloves available in the home for individual providers to use. The legislature intends to improve the availability and usage of gloves by individual providers as part of universal precautions by ensuring that medicaid clients access gloves through their medicaid benefit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_390__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For medicaid clients, the department shall coordinate with the health care authority to assist clients receiving personal care services in accessing gloves as part of their health benefit for individual providers to use in the course of providing tasks where universal precautions are warranted. The assistance by the department and the health care authority must be designed to facilitate clients being able to access gloves on a monthly basis in a cost-effective and easy to access manner and must be consistent with requirements to receive federal matching funds under medicaid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_390__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In cases where clients are not eligible to receive such gloves under medicaid, the department shall work with the health care authority to develop a methodology to ensure clients have access to gloves on a monthly basis in a cost-effective and easy to access manner.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_390__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department shall submit a brief report with data on utilization of gloves by clients who are served by individual providers to the health care committees of the legislature by December 1, 2015.
+[
+2014 c 70 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.220"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.220/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.220/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_220">
+        <num>RCW 82.32.220</num>
+        <heading>Execution of warrant—Levy upon property—Satisfaction</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.32
+&gt;
+Section 82.32.220
+82.32.215
+&lt;&lt; 
+        82.32.220 &gt;&gt;
+82.32.230
+PDF
+RCW
+82.32.220
+Execution of warrant
+—
+Levy upon property
+—
+Satisfaction.
+The department of revenue may issue an order of execution, pursuant to a filed warrant, directed to the sheriff of the county in which the warrant has been filed, commanding the sheriff to levy upon and sell the real and/or personal property of the taxpayer found within the sheriff's county, or so much thereof as may be necessary, for the payment of the amount of the warrant, plus the cost of executing the warrant, and return the warrant to the department of revenue and pay to it the money collected by virtue thereof within sixty days after the receipt of the warrant. The sheriff shall thereupon proceed upon the same in all respects and with like effect as prescribed by law with respect to execution or other process issued against rights or property upon judgments of the superior court.
+The sheriff shall be entitled to fees as provided by law for the sheriff's services in levying execution on a superior court judgment and the clerk shall be entitled to a filing fee as provided by law, which shall be added to the amount of the warrant.
+The proceeds received from any sale shall be credited upon the amount due under the warrant and when the final amount due is received, together with interest, penalties, and costs, the judgment docket shall show the claim for taxes to be satisfied and the clerk of the court shall so note upon the docket. Any surplus received from any sale of property shall be paid to the taxpayer or to any lienholder entitled thereto. If the return on the warrant shows that the same has not been satisfied in full, the amount of the deficiency shall remain the same as a judgment against the taxpayer which may be collected in the same manner as the original amount of the warrant.
+[
+1998 c 311 s 10
+;
+1983 1st ex.s. c 55 s 10
+;
+1961 c 304 s 6
+;
+1961 c 15 s 82.32.220
+. Prior:
+1955 c 389 s 39
+; prior:
+1951 1st ex.s. c 9 s 14
+; 1949 c 228 s 25, part; 1937 c 227 s 20, part; 1935 c 180 s 202, part; Rem. Supp. 1949 s 8370-202, part.]
+NOTES:
+Effective dates
+—
+1983 1st ex.s. c 55:
+See note following RCW
+82.08.010
+.
+Fee for filing tax warrant by county clerk: RCW
+36.18.020
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

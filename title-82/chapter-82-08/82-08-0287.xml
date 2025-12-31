@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0287"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0287"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0287/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0287/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0287/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0287/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0287">
+        <num>RCW 82.08.0287</num>
+        <heading>Exemptions—Sales of passenger motor vehicles as ride-sharing vehicles</heading>
+        <subsection eId="sec_82_08_0287__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by this chapter does not apply to sales of passenger motor vehicles which are to be used primarily for ride sharing or ride sharing for persons with special transportation needs, as defined in RCW
+46.74.010
+, if the vehicles are used as ride-sharing vehicles for thirty-six consecutive months beginning from the date of purchase.</p>
+          </content>
+          <subsection eId="sec_82_08_0287__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To qualify for the tax exemption, those passenger motor vehicles with three or more passengers, including the driver, used for ride sharing, must be operated either within the state's eight largest counties that are required to develop commute trip reduction plans as directed by chapter
+70A.15
+RCW, in other counties, or cities and towns within those counties, that elect to adopt and implement a commute trip reduction plan, or in other counties where the vehicle is registered with or operated by a public transportation agency. Additionally at least one of the following conditions must apply:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0287__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The vehicle must be operated by a public transportation agency for the benefit of the general public; or</p>
+            </content>
+            <subsection eId="sec_82_08_0287__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the vehicle must be used by a major employer, as defined in RCW
+70A.15.4010
+as an element of its commute trip reduction program for their employees; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0287__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>the vehicle must be owned and operated by individual employees and must be registered either with the employer as part of its commute trip reduction program or with a public transportation agency. Individual employee owned and operated motor vehicles will require certification that the vehicle is registered with a major employer or a public transportation agency. Major employers who own and operate motor vehicles for their employees must certify that the ride-sharing arrangement conforms to a carpool/vanpool element contained within their commute trip reduction program.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0287__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the ridership requirements under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0287__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

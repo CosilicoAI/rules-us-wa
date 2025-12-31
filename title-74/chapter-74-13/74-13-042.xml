@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.042"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.042"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.042/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.042/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.042/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.042/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_042">
+        <num>RCW 74.13.042</num>
+        <heading>Petition for order compelling disclosure of record or information</heading>
+        <subsection eId="sec_74_13_042__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The petition shall be filed in the juvenile court for the county in which the record or information is located or the county in which the person who is the subject of the record or information resides. If the person who is the subject of the record or information is a party to or the subject of a pending proceeding under chapter
+13.32A
+or
+13.34
+RCW, the petition shall be filed in such proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_042__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as otherwise provided in this section, the persons from whom and about whom the record or information is sought shall be served with a summons and a petition at least seven calendar days prior to a hearing on the petition. The court may order disclosure upon ex parte application of the department, without prior notice to any person, if the court finds there is reason to believe access to the record or information is necessary to determine whether the child is in imminent danger and in need of immediate protection.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_042__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The court shall grant the petition upon a showing that there is reason to believe that the record or information sought is necessary for the health, safety, or welfare of the child who is currently receiving child welfare services.
+[
+2018 c 284 s 40
+;
+2009 c 520 s 56
+;
+1995 c 311 s 14
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

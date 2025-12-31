@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9994"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9994"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9994/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9994/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.9994/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.9994/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_9994">
+        <num>RCW 82.08.9994</num>
+        <heading>Exemptions—Bottled water—Prescription use</heading>
+        <subsection eId="sec_82_08_9994__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the conditions in this section, the tax levied by RCW
+82.08.020
+does not apply to sales of bottled water dispensed or to be dispensed to patients pursuant to a prescription for use in the cure, mitigation, treatment, or prevention of disease or medical condition.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9994__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;prescription&quot; means an order, formula, or recipe issued in any form of oral, written, electronic, or other means of transmission by a duly licensed practitioner authorized by the laws of this state to prescribe.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9994__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Except for sales of bottled water delivered to the buyer in a reusable container that is not sold with the water, sellers must collect tax on sales subject to this exemption. Any buyer that has paid at least twenty-five dollars in state and local sales taxes on purchases of bottled water subject to this exemption may apply for a refund of the taxes directly from the department in a form and manner prescribed by the department. The department must deny any refund application if the amount of the refund requested is less than twenty-five dollars. No refund may be made for taxes paid more than four years after the end of the calendar year in which the tax was paid to the seller.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_9994__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>With respect to sales of bottled water delivered to the buyer in a reusable container that is not sold with the water, buyers claiming the exemption provided in this section must provide the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.
+[
+2017 3rd sp.s. c 28 s 103
+.]
+NOTES:
+Reviser's note:
+The tax preference enacted in section 103, chapter 28, Laws of 2017 3rd sp. sess. expires January 1, 2028, pursuant to the automatic expiration date in RCW
+82.32.805</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

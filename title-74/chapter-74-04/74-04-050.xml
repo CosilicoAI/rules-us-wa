@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_050">
+        <num>RCW 74.04.050</num>
+        <heading>Department to administer certain public assistance programs—Authority to administer medical services programs</heading>
+        <subsection eId="sec_74_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department is designated as the single state agency to administer the following public assistance programs:</p>
+          </content>
+          <subsection eId="sec_74_04_050__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Temporary assistance for needy families;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_050__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Child welfare services; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_04_050__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any other programs of public assistance for which provision for federal grants or funds may from time to time be made, except as otherwise provided by law.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The authority is hereby designated as the single state agency to administer the medical services programs established under chapter
+74.09
+RCW, including the state children's health insurance program, Titles XIX and XXI of the federal social security act of 1935, as amended. As the state's medicaid agency, the authority is responsible for providing reasonable oversight of all medicaid program integrity activities required by federal regulation. The authority shall establish and maintain effective internal control over any state agency that receives medicaid funding in compliance with federal regulation.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department and the authority are hereby empowered and authorized to cooperate in the administration of such federal laws, consistent with the public assistance laws of this state, as may be necessary to qualify for federal funds.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The state hereby accepts and assents to all the present provisions of the federal law under which federal grants or funds, goods, commodities, and services are extended to the state for the support of programs referenced in this section, and to such additional legislation as may subsequently be enacted as is not inconsistent with the purposes of this title, authorizing public welfare and assistance activities. The provisions of this title shall be so administered as to conform with federal requirements with respect to eligibility for the receipt of federal grants or funds.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department and the authority shall periodically make application for federal grants or funds and submit such plans, reports and data, as are required by any act of congress as a condition precedent to the receipt of federal funds for such assistance. The department and the authority shall make and enforce such rules and regulations as shall be necessary to insure compliance with the terms and conditions of such federal grants or funds.
+[
+2023 c 439 s 2
+;
+2011 1st sp.s. c 15 s 64
+;
+1981 1st ex.s. c 6 s 3
+;
+1981 c 8 s 3
+;
+1963 c 228 s 3
+;
+1959 c 26 s 74.04.050
+. Prior:
+1955 c 273 s 21
+;
+1953 c 174 s 6
+;
+1939 c 216 s 6
+; RRS s 10007-106a.]
+NOTES:
+Intent
+—
+Finding
+—
+2023 c 439:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature intends to ensure that the medicaid program is operating under sound fiscal stewardship. This requires dedicated program integrity efforts focused on paying the right dollar amount to the right provider for the right reason. Strengthening program integrity efforts helps to ensure that every medicaid dollar stretches as far as possible for those insured through medicaid.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_04_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that the health care authority is responsible for overseeing all of Washington's medicaid programs, including those administered by other state agencies. Effective oversight by the health care authority will advance the legislature's objective of ensuring that the right services are delivered to the right person at the right time with measurable outcomes.&quot; [
+2023 c 439 s 1
+.]
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

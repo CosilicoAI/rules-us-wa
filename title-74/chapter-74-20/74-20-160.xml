@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.160"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.160"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.160/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.160/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.160/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.160/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_160">
+        <num>RCW 74.20.160</num>
+        <heading>Department may disclose information to internal revenue department</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.160
+74.20.101
+&lt;&lt; 
+        74.20.160 &gt;&gt;
+74.20.210
+PDF
+RCW
+74.20.160
+Department may disclose information to internal revenue department.
+Notwithstanding the provisions of RCW
+74.04.060
+, upon approval of the department of health, education and welfare of the federal government, the department of social and health services may disclose to and keep the internal revenue department of the treasury of the United States advised of the names of all persons who are under legal obligation to support any dependent child or children and who are not doing so, to the end that the internal revenue department may have available to it the names of such persons for review in connection with income tax returns and claims of dependencies made by persons filing income tax returns.
+[
+1979 c 141 s 366
+;
+1963 c 206 s 5
+;
+1959 c 322 s 17
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

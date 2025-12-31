@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_030">
+        <num>RCW 74.13A.030</num>
+        <heading>Both continuing payments and lump sum payments authorized</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.13A
+&gt;
+Section 74.13A.030
+74.13A.025
+&lt;&lt; 
+        74.13A.030 &gt;&gt;
+74.13A.035
+PDF
+RCW
+74.13A.030
+Both continuing payments and lump sum payments authorized.
+To carry out the program authorized by RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+, the secretary may make continuing payments or lump sum payments of adoption support. In lieu of continuing payments, or in addition to them, the secretary may make one or more specific lump sum payments for or on behalf of a hard to place child either to the adoptive parents or directly to other persons to assist in correcting any condition causing such child to be hard to place for adoption.
+Consistent with a particular child's needs, continuing adoption support payments shall include, if necessary to facilitate or support the adoption of a special needs child, an amount sufficient to remove any reasonable financial barrier to adoption as determined by the secretary under RCW
+74.13A.025
+.
+After determination by the secretary of the amount of a payment or the initial amount of continuing payments, the prospective parent or parents who desire such support shall sign an agreement with the secretary providing for the payment, in the manner and at the time or times prescribed in regulations to be issued by the secretary subject to the provisions of RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+, of the amount or amounts of support so determined.
+Payments shall be subject to review as provided in RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+.
+[
+2017 3rd sp.s. c 20 s 9
+;
+1996 c 130 s 2
+;
+1985 c 7 s 137
+;
+1971 ex.s. c 63 s 6
+. Formerly RCW
+74.13.115
+.]
+NOTES:
+Construction
+—
+Competitive procurement process and contract provisions
+—
+Conflict with federal requirements and Indian Child Welfare Act of 1978
+—
+2017 3rd sp.s. c 20:
+See notes following RCW
+74.13.270
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

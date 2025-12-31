@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4463"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4463"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4463/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4463/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4463/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4463/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4463">
+        <num>RCW 82.04.4463</num>
+        <heading>Credit—Property and leasehold taxes paid on property used for manufacture of commercial airplanes. (Expires July 1, 2040.)</heading>
+        <subsection eId="sec_82_04_4463__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing the tax imposed under this chapter, a credit is allowed for property taxes and leasehold excise taxes paid during the calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The credit is equal to:
+(a)(i)(A) Property taxes paid on buildings, and land upon which the buildings are located, constructed after December 1, 2003, and used exclusively in manufacturing commercial airplanes or components of such airplanes; and
+(B) Leasehold excise taxes paid with respect to buildings constructed after January 1, 2006, the land upon which the buildings are located, or both, if the buildings are used exclusively in manufacturing commercial airplanes or components of such airplanes; and
+(C) Property taxes or leasehold excise taxes paid on, or with respect to, buildings constructed after June 30, 2008, the land upon which the buildings are located, or both, and used exclusively for aerospace product development, manufacturing tooling specifically designed for use in manufacturing commercial airplanes or their components, or in providing aerospace services, by persons not within the scope of (a)(i)(A) and (B) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and are taxable under RCW
+82.04.290</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and are taxable under RCW
+82.04.290</p>
+          </content>
+          <subsection eId="sec_82_04_4463__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An amount equal to:
+(i)(A) Property taxes paid, by persons taxable under RCW
+82.04.260</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>or
+82.04.290</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_11">
+          <num>(11)</num>
+          <subsection eId="sec_82_04_4463__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4463__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>on the applicable business activities of manufacturing commercial airplanes, components of such airplanes, or tooling specifically designed for use in the manufacturing of commercial airplanes or components of such airplanes.
+(B) The denominator of the fraction is the total taxable amount subject to the tax imposed under all manufacturing classifications in chapter
+82.04
+RCW.
+(C) For purposes of both the numerator and denominator of the fraction, the total taxable amount refers to the total taxable amount required to be reported on the person's returns for the calendar year before the calendar year in which the credit under this section is earned. The department may provide for an alternative method for calculating the numerator in cases where the tax rate provided in RCW
+82.04.260</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>for manufacturing was not in effect during the full calendar year before the calendar year in which the credit under this section is earned.
+(D) No credit is available under (b)(i)(A) or (B) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>if either the numerator or the denominator of the fraction is zero. If the fraction is greater than or equal to nine-tenths, then the fraction is rounded to one.
+(E) As used in (b)(ii)(C) of this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions in this subsection apply throughout this section, unless the context clearly indicates otherwise.</p>
+          </content>
+          <subsection eId="sec_82_04_4463__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Aerospace product development&quot; has the same meaning as provided in RCW
+82.04.4461
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4463__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Aerospace services&quot; has the same meaning given in RCW
+82.08.975
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4463__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Commercial airplane&quot; and &quot;component&quot; have the same meanings as provided in RCW
+82.32.550
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A credit earned during one calendar year may be carried over to be credited against taxes incurred in a subsequent calendar year, but may not be carried over a second year. No refunds may be granted for credits under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In addition to all other requirements under this title, a person claiming the credit under this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4463__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>This section expires July 1, 2040.
+[
+2017 c 135 s 16
+;
+2013 3rd sp.s. c 2 s 10
+;
+2010 1st sp.s. c 23 s 515
+; (2010 1st sp.s. c 23 s 514 expired June 10, 2010);
+2010 c 114 s 116
+;
+2008 c 81 s 8
+;
+2006 c 177 s 10
+;
+2005 c 514 s 501
+;
+2003 2nd sp.s. c 1 s 15
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Contingent effective date
+—
+2013 3rd sp.s. c 2:
+See RCW
+82.32.850
+.
+Findings
+—
+Intent
+—
+2013 3rd sp.s. c 2:
+See note following RCW
+82.32.850
+.
+Expiration date
+—
+2010 1st sp.s. c 23 ss 503, 505, and 514:
+See note following RCW
+82.04.4266
+.
+Effective date
+—
+2010 1st sp.s. c 23 ss 504, 506, and 515:
+See note following RCW
+82.04.4266
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.04.4292
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Findings
+—
+Savings
+—
+Effective date
+—
+2008 c 81:
+See notes following RCW
+82.08.975
+.
+Effective date
+—
+2006 c 177 ss 10 and 11:
+&quot;Sections 10 and 11 of this act take effect January 1, 2007.&quot; [
+2006 c 177 s 13
+.]
+Application
+—
+2006 c 177 s 10:
+&quot;Section 10 of this act applies with respect to leasehold excise taxes paid on or after January 1, 2007.&quot; [
+2006 c 177 s 11
+.]
+Effective date
+—
+2005 c 514 ss 501 and 1002:
+&quot;Sections 501 and 1002 of this act take effect January 1, 2006.&quot; [
+2005 c 514 s 1305
+.]
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.
+Finding
+—
+2003 2nd sp.s. c 1:
+See note following RCW
+82.04.4461
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

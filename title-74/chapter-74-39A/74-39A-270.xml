@@ -1,0 +1,335 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.270"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_270">
+        <num>RCW 74.39A.270</num>
+        <heading>Individual providers contracted with the department—Collective bargaining—Circumstances in which individual providers are considered public employees—Exceptions—Limitations</heading>
+        <subsection eId="sec_74_39A_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Solely for the purposes of collective bargaining and as expressly limited under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section, the governor is the public employer, as defined in chapter
+41.56
+RCW, of individual providers, who, solely for the purposes of collective bargaining, are public employees as defined in chapter
+41.56
+RCW. To accommodate the role of the state as payor for the community-based services provided under this chapter and to ensure coordination with state employee collective bargaining under chapter
+41.80
+RCW and the coordination necessary to implement RCW
+74.39A.300
+, the public employer shall be represented for bargaining purposes by the governor or the governor's designee appointed under chapter
+41.80
+RCW. The department shall solicit input from the developmental disabilities council, the governor's committee on disability issues and employment, the state council on aging, and other consumer advocacy organizations to obtain informed input from consumers on their interests, including impacts on consumer choice, for all issues proposed for collective bargaining under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Chapter
+41.56
+RCW governs the collective bargaining relationship between the governor and individual providers, except as otherwise expressly provided in this chapter and except as follows:</p>
+          </content>
+          <subsection eId="sec_74_39A_270__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The only unit appropriate for the purpose of collective bargaining under *RCW
+41.56.211
+is a statewide unit of all individual providers;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The showing of interest required to request an election under *RCW
+41.56.211
+is ten percent of the unit, and any intervener seeking to appear on the ballot must make the same showing of interest;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The mediation and interest arbitration provisions of *RCW
+41.56.501
+through
+41.56.535
+and
+41.56.540
+apply, except that:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>With respect to commencement of negotiations between the governor and the bargaining representative of individual providers, negotiations shall be commenced by May 1st of any year prior to the year in which an existing collective bargaining agreement expires; and</p>
+            </content>
+            <subsection eId="sec_74_39A_270__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The decision of the arbitrator is not binding on the legislature and, if the legislature does not approve the request for funds necessary to implement the compensation and fringe benefit provisions of the arbitrated collective bargaining agreement, is not binding on the authority or the state;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Individual providers do not have the right to strike; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Individual providers who are related to, or family members of, consumers or prospective consumers are not, for that reason, exempt from this chapter or chapter
+41.56
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Individual providers who are public employees solely for the purposes of collective bargaining under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section are not, for that reason, employees of the state, its political subdivisions, or an area agency on aging for any purpose. Chapter
+41.56
+RCW applies only to the governance of the collective bargaining relationship between the employer and individual providers as provided in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Consumers and prospective consumers retain the right to select, hire, supervise the work of, and terminate any individual provider providing services to them. Consumers may elect to receive long-term in-home care services from individual providers who are not referred to them by the department or a department contractor.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Except as expressly limited in this section and RCW
+74.39A.300
+, the wages, hours, and working conditions of individual providers are determined solely through collective bargaining as provided in this chapter. Except as described in RCW
+74.39A.525
+, no agency or department of the state may establish policies or rules governing the wages or hours of individual providers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Nothing in this section modifies:</p>
+          </content>
+          <subsection eId="sec_74_39A_270__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department's authority to deny individual provider contracts to individuals who will not be able to meet the needs of a consumer or to terminate contracts of individual providers who are not adequately meeting the needs of a particular consumer; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The consumer's right to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Assign hours to one or more individual providers consistent with the rules adopted under this chapter and his or her plan of care; and</p>
+            </content>
+            <subsection eId="sec_74_39A_270__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>select, hire, terminate, supervise the work of, and determine the conditions of employment for each individual provider providing services to the consumer under this chapter.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>At the request of the exclusive bargaining representative, the governor or the governor's designee appointed under chapter
+41.80
+RCW shall engage in collective bargaining, as defined in RCW
+41.56.030</p>
+          </content>
+          <subsection eId="sec_74_39A_270__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Employer contributions to the training partnership for the costs of:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_7__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Meeting all training and peer mentoring requirements under this chapter; and</p>
+            </content>
+            <subsection eId="sec_74_39A_270__subsec_7__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>other training intended to promote the career development of individual providers; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_270__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>How the department's core responsibility affects hours of work for individual providers; this subsection shall not be interpreted to require collective bargaining over an individual consumer's plan of care.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The state, the department, the area agencies on aging, or their contractors under this chapter may not be held vicariously or jointly liable for the action or inaction of any individual provider or prospective individual provider, whether or not that individual provider or prospective individual provider was included on the referral registry or referred to a consumer or prospective consumer. The existence of a collective bargaining agreement, the placement of an individual provider on the referral registry, or the development or approval of a plan of care for a consumer who chooses to use the services of an individual provider and the provision of case management services to that consumer, by the department or an area agency on aging, does not constitute a special relationship with the consumer.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_270__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Nothing in this section affects the state's responsibility with respect to unemployment insurance for individual providers. However, individual providers are not to be considered, as a result of the state assuming this responsibility, employees of the state.
+[
+2018 c 278 s 19
+;
+2017 3rd sp.s. c 24 s 1
+;
+2016 sp.s. c 30 s 1
+;
+2011 1st sp.s. c 21 s 10
+;
+2007 c 361 s 7
+;
+2007 c 278 s 3
+;
+2006 c 106 s 1
+;
+2004 c 3 s 1
+;
+2002 c 3 s 6
+(Initiative Measure No. 775, approved November 6, 2001).]
+NOTES:
+*Reviser's note:
+These RCW references have been corrected to reflect the reorganization of chapter
+41.56
+RCW by
+2025 c 290 s 2
+.
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.
+Effective date
+—
+2017 3rd sp.s. c 24:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [July 6, 2017].&quot; [
+2017 3rd sp.s. c 24 s 2
+.]
+Effective date
+—
+2016 sp.s. c 30:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 18, 2016].&quot; [
+2016 sp.s. c 30 s 4
+.]
+Overtime emergency rules
+—
+2016 sp.s. c 30:
+&quot;The department of social and health services shall immediately adopt emergency rules under RCW
+34.05.350
+to limit the number of hours per workweek that the department may pay any single provider to forty hours and to establish criteria to authorize additional hours in accordance with section 1 of this act. The emergency rules shall remain in effect until permanent rules can be adopted.&quot; [
+2016 sp.s. c 30 s 2
+.]
+Effective date
+—
+2011 1st sp.s. c 21:
+See note following RCW
+72.23.025
+.
+Effective date
+—
+2007 c 361 ss 7 and 8:
+&quot;Sections 7 and 8 of this act take effect March 1, 2008.&quot; [
+2007 c 361 s 14
+.]
+Construction
+—
+Severability
+—
+Captions not law
+—
+Short title
+—
+2007 c 361:
+See notes following RCW
+</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

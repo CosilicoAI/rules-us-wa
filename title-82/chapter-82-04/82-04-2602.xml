@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2602"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2602"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2602/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2602/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.2602/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.2602/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_2602">
+        <num>RCW 82.04.2602</num>
+        <heading>Tax on commercial airplane activities—Conditions for rate reduction</heading>
+        <subsection eId="sec_82_04_2602__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department of commerce verifies with the United States trade representative that the United States and the European Union have entered into a written agreement that resolves any world trade organization disputes involving large civil aircraft.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Such agreement expressly allows a business and occupation tax rate reduction for commercial airplane manufacturers to 0.357 percent or less.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department of commerce notifies the department in writing that the conditions of subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section are met and provides a copy of the agreement between the United States and the European Union or other document providing for the business and occupation tax rate reduction to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department of labor and industries notifies the department in writing that a significant commercial airplane manufacturer has at least a three-tenths of one percent aerospace apprenticeship utilization rate of its qualified apprenticeable workforce in Washington, as defined in RCW
+49.04.220
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Within thirty days of receiving the last of the written notices described in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the department must provide written notice to the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department, that the tax rates in RCW
+82.04.260</p>
+          </content>
+          <subsection eId="sec_82_04_2602__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>are reduced to 0.357 percent and the effective date of the rate reduction.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Any rate reduction to 0.357 percent pursuant to this section and RCW
+82.04.260</p>
+          </content>
+          <subsection eId="sec_82_04_2602__subsec_6__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>must occur on the first day of the next calendar quarter that is at least sixty days after the department receives the last of the written notices described in subsections</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>For the purpose of this section, &quot;world trade organization disputes involving large civil airplanes&quot; means any disputes filed by the United States or the European Union prior to March 25, 2020, that involve either allegations of subsidies to large civil airplanes, or allegations of taxes imposed by Washington on commercial airplanes, or both.
+[
+2020 c 165 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2020 c 165:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Over the past two decades, the legislature has taken significant action to promote a positive business environment for Washington's aerospace industry. The legislature finds that the industry plays a significant role not only in the health of Washington's economy, but also in the health of the United States economy. Moreover, the domestic aerospace industry has faced significant challenges with the large subsidies provided to international competitors.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that a commitment to the elimination of trade barriers for aerospace as well as several other vital Washington exports is important. The legislature also wishes to help bring the United States into full compliance with a recent world trade organization ruling asserting Washington's business and occupation tax rate of 0.2904 percent violates world trade organization rules. The legislature hopes this action to help bring the United States into compliance will end the threat of retaliatory tariffs against many of Washington's industries, including agricultural products, fish, wine, and intellectual property.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The legislature appreciates the state aerospace industry's commitment to complying with the world trade organization ruling by advocating for the repeal of the preferential business and occupation tax. The legislature hopes that the repeal of this Washington aerospace preference will ensure continued economic success and competitiveness for the industry as well as many other industries. The legislature further hopes that the repeal of the 0.2904 business and occupation tax will allow for the complete resolution of all trade disputes surrounding large civil aircraft.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_2602__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The legislature further finds that the people of Washington benefit from the presence of the aerospace industry in Washington state. The industry provides good wages and benefits for thousands of engineers, technicians, mechanics, and support staff working across the state. Furthermore, the legislature has a goal of preserving and growing employment in Washington state. The legislature intends that the future consideration of all tax measures will work to achieve this goal in a manner compliant with the world trade organization.&quot; [
+2020 c 165 s 1
+.]
+Effective date
+—
+2020 c 165:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 25, 2020].&quot; [
+2020 c 165 s 6
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

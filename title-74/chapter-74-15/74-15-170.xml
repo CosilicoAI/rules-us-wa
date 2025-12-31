@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.15.170"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.15.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.15.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.15.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_15_170">
+        <num>RCW 74.15.170</num>
+        <heading>Agencies, homes conducted by religious organizations—Application of chapter</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.15
+&gt;
+Section 74.15.170
+74.15.160
+&lt;&lt; 
+        74.15.170 &gt;&gt;
+74.15.180
+PDF
+RCW
+74.15.170
+Agencies, homes conducted by religious organizations
+—
+Application of chapter.
+Nothing in this chapter or the rules and regulations adopted pursuant thereto shall be construed as authorizing the supervision, regulation, or control of the remedial care or treatment of residents of any agency, children's institution, child-placing agency, maternity home, day or hourly nursery, foster home or other related institution conducted for or by members of a recognized religious sect, denomination or organization which in accordance with its creed, tenets, or principles depends for healing upon prayer in the practice of religion, nor shall the existence of any of the above conditions militate against the licensing of such a home or institution.
+[
+1967 c 172 s 21
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

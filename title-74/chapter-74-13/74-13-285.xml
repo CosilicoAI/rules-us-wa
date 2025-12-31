@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.285"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.285"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.285/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.285/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.285/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.285/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_285">
+        <num>RCW 74.13.285</num>
+        <heading>Passports—Information to be provided to foster parents</heading>
+        <subsection eId="sec_74_13_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Within available resources, the department shall prepare a passport containing all known and available information concerning the mental, physical, health, and educational status of the child for any child who has been in a foster home for ninety consecutive days or more. The passport shall contain education records obtained pursuant to RCW
+28A.150.510
+. The passport shall be provided to a foster parent at any placement of a child covered by this section. The department shall update the passport during the regularly scheduled court reviews required under chapter
+13.34
+RCW.
+New placements shall have first priority in the preparation of passports.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_285__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In addition to the requirements of subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, the department shall, within available resources, notify a foster parent before placement of a child of any known health conditions that pose a serious threat to the child and any known behavioral history that presents a serious risk of harm to the child or others.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_285__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall hold harmless the provider for any unauthorized disclosures caused by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_285__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any foster parent who receives information about a child or a child's family pursuant to this section shall keep the information confidential and shall not further disclose or disseminate the information, except as authorized by law. Such individuals shall agree in writing to keep the information that they receive confidential and shall affirm that the information will not be further disclosed or disseminated, except as authorized by law.
+[
+2018 c 284 s 47
+;
+2009 c 520 s 74
+;
+2007 c 409 s 7
+;
+2000 c 88 s 2
+;
+1997 c 272 s 5
+.]
+NOTES:
+Effective date
+—
+2007 c 409:
+See note following RCW
+13.34.096
+.
+Effective date
+—
+1997 c 272:
+See note following RCW
+74.13.031
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

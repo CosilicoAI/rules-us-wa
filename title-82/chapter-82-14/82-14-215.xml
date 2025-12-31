@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.215"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.215"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.215/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.215/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.215/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.215/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_215">
+        <num>RCW 82.14.215</num>
+        <heading>Apportionment and distribution—Withholding revenue for noncompliance</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.14
+&gt;
+Section 82.14.215
+82.14.212
+&lt;&lt; 
+        82.14.215 &gt;&gt;
+82.14.230
+PDF
+RCW
+82.14.215
+Apportionment and distribution
+—
+Withholding revenue for noncompliance.
+The governor may notify and direct the state treasurer to withhold the revenues to which the county or city is entitled under this chapter if a county or city is found to be in noncompliance pursuant to RCW
+36.70A.340
+.
+[
+1991 sp.s. c 32 s 35
+.]
+NOTES:
+Section headings not law
+—
+1991 sp.s. c 32:
+See RCW
+36.70A.902
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.100"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_100">
+        <num>RCW 74.13A.100</num>
+        <heading>Interstate agreements for adoption of children with special needs—Definitions</heading>
+        <subsection eId="sec_74_13A_100__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Adoption assistance state&quot; means the state that is signatory to an adoption assistance agreement in a particular case.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_100__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Residence state&quot; means the state where the child is living.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_100__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;State&quot; means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or a territory or possession of or administered by the United States.
+[
+1997 c 31 s 3
+. Formerly RCW
+74.13.154
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.13.152
+through
+74.13.159
+were recodified as RCW
+74.13A.090
+through
+74.13A.125
+pursuant to
+2009 c 520 s 95
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

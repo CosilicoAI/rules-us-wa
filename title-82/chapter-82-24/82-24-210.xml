@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.210"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.210/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.210/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_210">
+        <num>RCW 82.24.210</num>
+        <heading>Redemption of stamps</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.24
+&gt;
+Section 82.24.210
+82.24.190
+&lt;&lt; 
+        82.24.210 &gt;&gt;
+82.24.230
+PDF
+RCW
+82.24.210
+Redemption of stamps.
+The department of revenue may promulgate rules and regulations providing for the refund to dealers for the cost of stamps affixed to articles taxed herein, which by reason of damage become unfit for sale and are destroyed by the dealer or returned to the manufacturer or jobber. In the case of any articles to which stamps have been affixed, and which articles have been sold and shipped to a regular dealer in such articles in another state, the seller in this state shall be entitled to a refund of the actual amount of the stamps so affixed, less the affixing discount, upon condition that the seller in this state makes affidavit that the articles were sold and shipped outside of the state and that he or she has received from the purchaser outside the state a written acknowledgment that he or she has received such articles with the amount of stamps affixed thereto, together with the name and address of such purchaser. The department of revenue may redeem any unused stamps purchased from it at the face value thereof less the affixing discount. A distributor or wholesaler that has lawfully affixed stamps to cigarettes, and subsequently is unable to sell those cigarettes lawfully because the cigarettes are removed from the directory created pursuant to RCW
+70.158.030
+(2), may apply to the department for a refund of the cost of the stamps.
+[
+2013 c 23 s 320
+;
+2003 c 25 s 11
+;
+1975 1st ex.s. c 278 s 68
+;
+1961 c 15 s 82.24.210
+. Prior:
+1949 c 228 s 17
+;
+1941 c 178 s 17
+;
+1935 c 180 s 92
+; Rem. Supp. 1949 s 8370-92.]
+NOTES:
+Conflict of law
+—
+Severability
+—
+Effective date
+—
+2003 c 25:
+See RCW
+70.158.900
+and
+70.158.901
+.
+Construction
+—
+Severability
+—
+1975 1st ex.s. c 278:
+See notes following RCW
+11.08.160
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

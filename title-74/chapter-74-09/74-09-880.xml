@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.880"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.880"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.880/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.880/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.880/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.880/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_880">
+        <num>RCW 74.09.880</num>
+        <heading>Z code collection—Incentives and funding</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.880
+74.09.875
+&lt;&lt; 
+        74.09.880 &gt;&gt;
+74.09.885
+PDF
+RCW
+74.09.880
+Z code collection
+—
+Incentives and funding.
+To improve health outcomes and address health inequities, the authority shall evaluate incentive approaches and recommend funding options to increase the collection of Z codes on individual medicaid claims, in accordance with standard billing guidance and regulations.
+[
+2022 c 215 s 5
+.]
+NOTES:
+Finding
+—
+Intent
+—
+2022 c 215:
+See note following RCW
+70.320.020
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

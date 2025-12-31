@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02745"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02745"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02745/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02745/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.02745/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.02745/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_02745">
+        <num>RCW 82.08.02745</num>
+        <heading>Exemptions—Charges for labor and services or sales of tangible personal property related to farmworker housing—Exemption certificate—Rules. (Expires January 1, 2032.)</heading>
+        <subsection eId="sec_82_08_02745__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to charges made for labor and services rendered by any person in respect to the constructing, repairing, decorating, or improving of new or existing buildings or other structures, in which at least 50 percent of housing units in the development are used as farmworker housing, or to sales of tangible personal property that becomes an ingredient or component of the buildings or other structures during the course of the constructing, repairing, decorating, or improving the buildings or other structures. The exemption is provided for all housing units in the development and is available only if the buyer provides the seller with an exemption certificate in a form and manner prescribed by the department by rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The exemption provided in this section for farmworker housing provided on a year-round basis only applies if that housing is built to the current building code for single-family or multifamily dwellings according to the state building code, chapter
+19.27
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Any farmworker housing built under this section must be used according to this section for at least five consecutive years from the date the housing is approved for occupancy, or the full amount of tax otherwise due is immediately due and payable together with interest, but not penalties, from the date the housing is approved for occupancy until the date of payment. If at any time farmworker housing ceases to be used in the manner specified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the full amount of tax otherwise due is immediately due and payable with interest, but not penalties, from the date the housing ceases to be used as farmworker housing until the date of payment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The exemption provided in this section does not apply to housing built for the occupancy of an employer, family members of an employer, or persons owning stock or shares in a farm partnership or corporation business. The exemption provided in this section does not apply to housing built exclusively for workers in the United States on an H-2A visa under the United States citizenship and immigration services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If during any agricultural season in the qualifying five years under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section the housing is occupied by a farmworker who does not have an H-2A visa, then the housing will be considered not to be exclusively built for workers on an H-2A visa.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For purposes of this section and RCW
+82.12.02685
+, the following definitions apply unless the context clearly requires otherwise.</p>
+          </content>
+          <subsection eId="sec_82_08_02745__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Agricultural employer&quot; or &quot;employer&quot; has the same meaning as given in RCW
+19.30.010
+, and includes any employer engaged in aquaculture as defined in RCW
+15.85.020
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02745__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Farm work&quot; means services relating to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02745__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Cultivating the soil, raising or harvesting, or catching, netting, handling, planting, drying, packing, grading, storing, or preserving in its unmanufactured state any agricultural or aquacultural commodity;</p>
+            </content>
+            <subsection eId="sec_82_08_02745__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Delivering to storage, market, or a carrier for transportation to market or to processing any agricultural or aquacultural commodity; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_02745__subsec_6__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Working in a processing plant and directly handling agricultural or aquacultural product.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_02745__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Farmworker&quot; means a single person, or all members of a household, whether such persons are related or not, if the combined household income earned from farm work is at least $3,000 per calendar year.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02745__subsec_6__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Farmworker housing&quot; means all facilities provided by an agricultural employer, housing authority, local government, state or federal agency, nonprofit community or neighborhood-based organization that is exempt from income tax under section 501</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02745__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the internal revenue code of 1986 (26 U.S.C. Sec. 501(c)), or for-profit provider of housing for housing farmworkers on a year-round or seasonal basis, including bathing, food handling, hand washing, laundry, and toilet facilities, single-family and multifamily dwelling units and dormitories, and includes labor camps under RCW
+70.114A.110
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_02745__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Farmworker housing&quot; includes:
+(A) Housing occupied by a household with at least one member who is a farmworker; and
+(B) Housing occupied by a farmworker on a seasonal basis, where the housing is not used as farmworker housing for a portion of the year, such as when it is rented to the general public when not being used for farmworker housing.</p>
+            </content>
+            <subsection eId="sec_82_08_02745__subsec_6__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Farmworker housing&quot; does not include:
+(A) Housing regularly provided on a commercial basis to the general public;
+(B) Housing provided by a housing authority unless at least eighty percent of the occupants are farmworkers whose adjusted income is less than fifty percent of median family income, adjusted for household size, for the county where the housing is provided; and
+(C) Housing provided to farmworkers providing services related to the growing, raising, or producing of cannabis.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>This section expires January 1, 2032.
+[
+2022 c 16 s 149
+;
+2021 c 250 s 1
+;
+2014 c 140 s 18
+;
+2007 c 54 s 14
+;
+1997 c 438 s 1
+;
+1996 c 117 s 1
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Tax preference performance statement
+—
+2021 c 250:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preferences contained in sections 1 and 2, chapter 250, Laws of 2021. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to increase the supply of farmworker housing.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that new farmworker housing is developed utilizing these preferences, then the legislature intends to extend the expiration date of these tax preferences.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_02745__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2021 c 250 s 3
+.]
+Effective date
+—
+2021 c 250:
+&quot;This act takes effect October 1, 2021.&quot; [
+2021 c 250 s 4
+.]
+Severability
+—
+2007 c 54:
+See note following RCW
+82.04.050
+.
+Effective date
+—
+1997 c 438:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [May 20, 1997].&quot; [
+1997 c 438 s 3
+.]
+Effective date
+—
+1996 c 117:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [March 20, 1996].&quot; [
+1996 c 117 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

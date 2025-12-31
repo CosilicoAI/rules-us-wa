@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.355"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.355"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.355/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.355/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.355/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.355/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_355">
+        <num>RCW 82.04.355</num>
+        <heading>Exemptions—Ride sharing</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.355
+82.04.350
+&lt;&lt; 
+        82.04.355 &gt;&gt;
+82.04.360
+PDF
+RCW
+82.04.355
+Exemptions
+—
+Ride sharing.
+This chapter does not apply to any funds received in the course of ride sharing or ride sharing for persons with special transportation needs in accordance with RCW
+46.74.010
+.
+[
+2021 c 135 s 5
+;
+1999 c 358 s 8
+;
+1979 c 111 s 17
+.]
+NOTES:
+Reviser's note:
+The tax preference enacted in section 5, chapter 135, Laws of 2021 expires January 1, 2032, pursuant to the automatic expiration date established in RCW
+82.32.805
+(1)(a).
+Effective date
+—
+2021 c 135:
+See note following RCW
+46.18.285
+.
+Effective date
+—
+1999 c 358 ss 1 and 3-21:
+See note following RCW
+82.04.3651
+.
+Severability
+—
+1979 c 111:
+See note following RCW
+46.74.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

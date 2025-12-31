@@ -1,0 +1,513 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.040"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_040">
+        <num>RCW 82.04.040</num>
+        <heading>&quot;Sale,&quot; &quot;casual or isolated sale,&quot; &quot;lease or rental,&quot; &quot;adoption fee,&quot; &quot;animal care and control agency,&quot; &quot;animal rescue group,&quot; &quot;animal rescue organization,&quot; &quot;senior living community.&quot; (&lt;i&gt;Effective until January 1, 2030.&lt;/i&gt;)</heading>
+        <subsection eId="sec_82_04_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this subsection, &quot;sale&quot; means any transfer of the ownership of, title to, or possession of property for a valuable consideration and includes any activity classified as a &quot;sale at retail&quot; or &quot;retail sale&quot; under RCW
+82.04.050
+. It includes lease or rental, conditional sale contracts, and any contract under which possession of the property is given to the purchaser but title is retained by the vendor as security for the payment of the purchase price. It also includes the furnishing of food, drink, or meals for compensation whether consumed upon the premises or not. The term &quot;sale&quot; does not include the transfer of the ownership of, title to, or possession of:</p>
+          </content>
+          <subsection eId="sec_82_04_040__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An animal by an animal rescue organization in exchange for the payment of an adoption fee;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>An abandoned vehicle sold by a registered tow truck operator to a successful bidder at public auction or, if there is no successful bidder, to a licensed vehicle wrecker, hulk hauler, or scrap processor, as provided in RCW
+46.55.130
+. Nothing in this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may be construed as providing an exemption from:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The tax imposed by chapter
+82.12
+RCW on the use of an abandoned vehicle by any consumer; or</p>
+            </content>
+            <subsection eId="sec_82_04_040__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Taxes imposed under this chapter and chapter
+82.08
+RCW on automobile towing and automobile storage services provided by a registered tow truck operator; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Food, drink, or meals furnished by a senior living community to tenants as part of a rental or residency agreement for which no separate charge is made, regardless of whether the tenant is a resident for purposes of chapter
+18.20
+or
+18.390
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Casual or isolated sale&quot; means a sale made by a person who is not engaged in the business of selling the type of property involved.</p>
+          </content>
+          <subsection eId="sec_82_04_040__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Lease or rental&quot; means any transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration. A lease or rental may include future options to purchase or extend. &quot;Lease or rental&quot; includes agreements covering motor vehicles and trailers where the amount of consideration may be increased or decreased by reference to the amount realized upon sale or disposition of the property as defined in 26 U.S.C. Sec. 7701(h)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>must be used for sales and use tax purposes regardless if a transaction is characterized as a lease or rental under generally accepted accounting principles, the United States internal revenue code, Washington state's commercial code, or other provisions of federal, state, or local law.</p>
+          </content>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Lease or rental&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A transfer of possession or control of property under a security agreement or deferred payment plan that requires the transfer of title upon completion of the required payments;</p>
+            </content>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A transfer of possession or control of property under an agreement that requires the transfer of title upon completion of required payments, and payment of an option price does not exceed the greater of $100 or one percent of the total required payments; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Providing tangible personal property along with an operator for a fixed or indeterminate period of time. A condition of this exclusion is that the operator is necessary for the tangible personal property to perform as designed. For the purpose of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Adoption fee&quot; means an amount charged by an animal rescue organization to adopt an animal, except that &quot;adoption fee&quot; does not include any separately itemized charge for any incidental inanimate items provided to persons adopting an animal, including food, identification tags, collars, and leashes.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Animal care and control agency&quot; means the same as in RCW
+16.52.011
+and also includes any similar entity operating outside of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Animal rescue group&quot; means a nonprofit organization that:
+(i)(A) Is exempt from federal income taxation under 26 U.S.C. Sec. 501</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the federal internal revenue code as it exists on July 23, 2017; or
+(B) Is registered as a charity with the Washington secretary of state under chapter
+19.09
+RCW, whether such registration is required by law or voluntary;</p>
+            </content>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Has as its primary purpose the prevention of abuse, neglect, cruelty, exploitation, or homelessness of animals; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_c__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Exclusively obtains dogs, cats, or other animals for placement that are:
+(A) Stray or abandoned;
+(B) Surrendered or relinquished by animal owners or caretakers;
+(C) Transferred from other animal rescue organizations; or
+(D) Born in the care of such nonprofit organization other than through intentional breeding by the nonprofit organization.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Animal rescue organization&quot; means an animal care and control agency or an animal rescue group.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Senior living community&quot; means any facility or campus operated by a person licensed or registered under chapter
+18.20
+or
+18.390
+RCW.
+[
+2023 c 416 s 1
+;
+2019 c 357 s 2
+;
+2017 c 323 s 201
+;
+2004 c 153 s 402
+;
+2003 c 168 s 103
+;
+1961 c 15 s 82.04.040
+. Prior:
+1959 ex.s. c 5 s 1
+;
+1959 ex.s. c 3 s 1
+;
+1955 c 389 s 5
+; prior: 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+Expiration date
+—
+2023 c 416 s 1:
+&quot;Section 1 of this act expires January 1, 2030.&quot; [
+2023 c 416 s 5
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2023 c 416:
+See note following RCW
+82.12.9993
+.
+Tax preference performance statement
+—
+2019 c 357:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 2, chapter 357, Laws of 2019. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to provide tax relief to certain businesses or individuals as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to allow registered tow truck operators to recoup their expenditures associated with removing abandoned vehicles from the roads and highways of Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that the average cost of towing, storing, and disposing of an abandoned vehicle exceeds the average revenue of the sale of an abandoned vehicle by an amount greater than the value of the retail sales and use tax authorized in section 2 of this act, then the legislature intends to extend the expiration date of this tax preference.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to any data collected by the state.&quot; [
+2019 c 357 s 1
+.]
+Expiration date
+—
+2019 c 357:
+&quot;This act expires January 1, 2030.&quot; [
+2019 c 357 s 3
+.]
+Application
+—
+2017 c 323 ss 201 and 202:
+&quot;Sections 201 and 202 of this act apply both prospectively and retroactively to July 1, 2015.&quot; [
+2017 c 323 s 203
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do not apply to any provisions of this act.&quot; [
+2017 c 323 s 1101
+.]
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+PDF
+RCW
+82.04.040
+&quot;Sale,&quot; &quot;casual or isolated sale,&quot; &quot;lease or rental,&quot; &quot;adoption fee,&quot; &quot;animal care and control agency,&quot; &quot;animal rescue group,&quot; &quot;animal rescue organization,&quot; &quot;senior living community.&quot;
+(Effective January 1, 2030.)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Except as otherwise provided in this subsection, &quot;sale&quot; means any transfer of the ownership of, title to, or possession of property for a valuable consideration and includes any activity classified as a &quot;sale at retail&quot; or &quot;retail sale&quot; under RCW
+82.04.050
+. It includes lease or rental, conditional sale contracts, and any contract under which possession of the property is given to the purchaser but title is retained by the vendor as security for the payment of the purchase price. It also includes the furnishing of food, drink, or meals for compensation whether consumed upon the premises or not. The term &quot;sale&quot; does not include the transfer of the ownership of, title to, or possession of:</p>
+          </content>
+          <subsection eId="sec_82_04_040__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An animal by an animal rescue organization in exchange for the payment of an adoption fee; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Food, drink, or meals furnished by a senior living community to tenants as part of a rental or residency agreement for which no separate charge is made, regardless of whether the tenant is a resident for purposes of chapter
+18.20
+or
+18.390
+RCW.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Casual or isolated sale&quot; means a sale made by a person who is not engaged in the business of selling the type of property involved.</p>
+          </content>
+          <subsection eId="sec_82_04_040__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Lease or rental&quot; means any transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration. A lease or rental may include future options to purchase or extend. &quot;Lease or rental&quot; includes agreements covering motor vehicles and trailers where the amount of consideration may be increased or decreased by reference to the amount realized upon sale or disposition of the property as defined in 26 U.S.C. Sec. 7701(h)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>must be used for sales and use tax purposes regardless if a transaction is characterized as a lease or rental under generally accepted accounting principles, the United States internal revenue code, Washington state's commercial code, or other provisions of federal, state, or local law.</p>
+          </content>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Lease or rental&quot; does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A transfer of possession or control of property under a security agreement or deferred payment plan that requires the transfer of title upon completion of the required payments;</p>
+            </content>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A transfer of possession or control of property under an agreement that requires the transfer of title upon completion of required payments, and payment of an option price does not exceed the greater of $100 or one percent of the total required payments; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Providing tangible personal property along with an operator for a fixed or indeterminate period of time. A condition of this exclusion is that the operator is necessary for the tangible personal property to perform as designed. For the purpose of this subsection</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Adoption fee&quot; means an amount charged by an animal rescue organization to adopt an animal, except that &quot;adoption fee&quot; does not include any separately itemized charge for any incidental inanimate items provided to persons adopting an animal, including food, identification tags, collars, and leashes.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Animal care and control agency&quot; means the same as in RCW
+16.52.011
+and also includes any similar entity operating outside of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Animal rescue group&quot; means a nonprofit organization that:
+(i)(A) Is exempt from federal income taxation under 26 U.S.C. Sec. 501</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of the federal internal revenue code as it exists on July 23, 2017; or
+(B) Is registered as a charity with the Washington secretary of state under chapter
+19.09
+RCW, whether such registration is required by law or voluntary;</p>
+            </content>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Has as its primary purpose the prevention of abuse, neglect, cruelty, exploitation, or homelessness of animals; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_04_040__subsec_3__subsec_c__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Exclusively obtains dogs, cats, or other animals for placement that are:
+(A) Stray or abandoned;
+(B) Surrendered or relinquished by animal owners or caretakers;
+(C) Transferred from other animal rescue organizations; or
+(D) Born in the care of such nonprofit organization other than through intentional breeding by the nonprofit organization.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Animal rescue organization&quot; means an animal care and control agency or an animal rescue group.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_040__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Senior living community&quot; means any facility or campus operated by a person licensed or registered under chapter
+18.20
+or
+18.390
+RCW.
+[
+2023 c 416 s 2
+;
+2017 c 323 s 201
+;
+2004 c 153 s 402
+;
+2003 c 168 s 103
+;
+1961 c 15 s 82.04.040
+. Prior:
+1959 ex.s. c 5 s 1
+;
+1959 ex.s. c 3 s 1
+;
+1955 c 389 s 5
+; prior: 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+Effective date
+—
+2023 c 416 s 2:
+&quot;Section 2 of this act takes effect January 1, 2030.&quot; [
+2023 c 416 s 6
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2023 c 416:
+See note following RCW
+82.12.9993
+.
+Application
+—
+2017 c 323 ss 201 and 202:
+&quot;Sections 201 and 202 of this act apply both prospectively and retroactively to July 1, 2015.&quot; [
+2017 c 323 s 203
+.]
+Tax preference performance statement exemption
+—
+Automatic expiration date exemption
+—
+2017 c 323:
+&quot;RCW
+82.32.805
+and
+82.32.808
+do not apply to any provisions of this act.&quot; [
+2017 c 323 s 1101
+.]
+Retroactive effective date
+—
+Effective date
+—
+2004 c 153:
+See note following RCW
+82.08.0293
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

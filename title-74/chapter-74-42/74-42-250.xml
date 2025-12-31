@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.250"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.250"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.250/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.250/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.250/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.250/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_250">
+        <num>RCW 74.42.250</num>
+        <heading>Medication stop orders—Procedure for persons with developmental disabilities</heading>
+        <subsection eId="sec_74_42_250__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>When the physician's order for medication does not include a specific time limit or a specific number of dosages, the facility shall notify the physician that the medication will be stopped at a date certain unless the medication is ordered continued by the physician. The facility shall so notify the physician every thirty days.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_250__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A facility for the developmentally disabled shall have an automatic stop order on all drugs, unless such stoppage will place the patient in jeopardy.
+[
+1979 ex.s. c 211 s 25
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

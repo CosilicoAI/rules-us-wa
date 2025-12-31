@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0201"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0201/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0201/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0201">
+        <num>RCW 82.12.0201</num>
+        <heading>Dedication of taxes—Comprehensive performance audits</heading>
+        <subsection eId="sec_82_12_0201__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>shall be dedicated to funding comprehensive performance audits under RCW
+43.09.470
+. Revenue identified in this section shall be deposited in the performance audits of government account created in RCW
+43.09.475
+.
+[
+2006 c 1 s 4
+(Initiative Measure No. 900, approved November 8, 2005).]
+NOTES:
+Short title
+—
+Effective date
+—
+2006 c 1 (Initiative Measure No. 900):
+See RCW
+43.09.471
+.
+Policies and purposes
+—
+Construction
+—
+Severability
+—
+Part headings not law
+—
+2006 c 1 (Initiative Measure No. 900):
+See notes following RCW
+43.09.470
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

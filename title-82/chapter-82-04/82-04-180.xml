@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.180"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.180"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.180/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.180/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.180/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.180/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_180">
+        <num>RCW 82.04.180</num>
+        <heading>&quot;Successor.&quot;</heading>
+        <subsection eId="sec_82_04_180__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Successor&quot; means:</p>
+          </content>
+          <subsection eId="sec_82_04_180__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Any person to whom a taxpayer quitting, selling out, exchanging, or disposing of a business sells or otherwise conveys, directly or indirectly, in bulk and not in the ordinary course of the taxpayer's business, more than fifty percent of the fair market value of either the</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_180__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>tangible assets or</p>
+            </content>
+            <subsection eId="sec_82_04_180__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>intangible assets of the taxpayer; or</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_04_180__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A surviving corporation of a statutory merger.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_04_180__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any person obligated to fulfill the terms of a contract shall be deemed a successor to any contractor defaulting in the performance of any contract as to which such person is a surety or guarantor.
+[
+2003 1st sp.s. c 13 s 11
+;
+1985 c 414 s 6
+;
+1961 c 15 s 82.04.180
+. Prior:
+1955 c 389 s 19
+; prior: 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+Effective dates
+—
+2003 1st sp.s. c 13:
+See note following RCW
+82.32.045
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

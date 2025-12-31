@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02745"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02745"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02745/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02745/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02745/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02745/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_02745">
+        <num>RCW 82.12.02745</num>
+        <heading>Exemptions—Use by free hospitals of certain items</heading>
+        <subsection eId="sec_82_12_02745__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter shall not apply in respect to the use by free hospitals of items reasonably necessary for the operation of, and provision of health care by, free hospitals.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02745__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>As used in this section, &quot;free hospital&quot; means a hospital that does not charge patients for health care provided by the hospital.
+[
+1993 c 205 s 2
+.]
+NOTES:
+Effective date
+—
+1993 c 205:
+See note following RCW
+82.08.02795
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

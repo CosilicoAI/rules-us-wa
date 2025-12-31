@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.755"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.755"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.755/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.755/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.755/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.755/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_755">
+        <num>RCW 82.04.755</num>
+        <heading>Exemptions—Grants received by a nonprofit organization for the program established under RCW  70A.200.140(1)(b)(ii)</heading>
+        <subsection eId="sec_82_04_755__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply to grants received by a nonprofit organization from the matching fund competitive grant program established in RCW
+70A.200.140</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_755__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This section is not subject to the requirements of RCW
+82.32.805
+and
+82.32.808
+, and is not subject to an expiration date.
+[
+2020 c 20 s 1470
+;
+2015 c 15 s 7
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.38.040"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.040"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.38.040/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.040/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.38.040/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.38.040/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_38_040">
+        <num>RCW 74.38.040</num>
+        <heading>Scope and extent of community-based services program</heading>
+        <subsection eId="sec_74_38_040__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Access services designed to provide identification of eligible persons, assessment of individual needs, reference to the appropriate service, and follow-up service where required. These services shall include information and referral, outreach, transportation, and counseling;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Day care offered on a regular, recurrent basis. General nursing, rehabilitation, personal care, nutritional services, social casework, mental health as provided pursuant to chapter
+71.24
+RCW, and/or limited transportation services may be made available within this program;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In-home care for persons, including basic health care; performance of various household tasks and other necessary chores, or, a combination of these services;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Counseling on death for the terminally ill and care and attendance at the time of death; except, that this is not to include reimbursement for the use of life-sustaining mechanisms;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Health services which will identify health needs and which are designed to avoid institutionalization; assist in securing admission to medical institutions or other health related facilities when required; and, assist in obtaining health services from public or private agencies or providers of health services. These services shall include health screening and evaluation, in-home services, health education, and such health appliances which will further the independence and well-being of the person;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The provision of low-cost, nutritionally sound meals in central locations or in the person's home in the instance of incapacity. Also, supportive services may be provided in nutritional education, shopping assistance, diet counseling, and other services to sustain the nutritional well-being of these persons;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The provisions of services to maintain a person's home in a state of adequate repair, insofar as is possible, for their safety and comfort. These services shall be limited, but may include housing counseling, minor repair and maintenance, and moving assistance when such repair will not attain standards of health and safety, as determined by the department;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Civil legal services, as limited by RCW
+2.50.100
+, for counseling and representation in the areas of housing, consumer protection, public entitlements, property, and related fields of law;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_38_040__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Long-term care ombuds programs for residents of all long-term care facilities.
+[
+2013 c 23 s 225
+;
+1983 c 290 s 14
+;
+1977 ex.s. c 321 s 3
+; 1975-'76 2nd ex.s. c 131 s 4.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.24.295"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.295"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.24.295/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.295/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.24.295/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.24.295/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_24_295">
+        <num>RCW 82.24.295</num>
+        <heading>Exceptions—Sales by Indian retailer under cigarette tax contract</heading>
+        <subsection eId="sec_82_24_295__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The taxes imposed by this chapter do not apply to the sale, use, consumption, handling, possession, or distribution of cigarettes by an Indian retailer during the effective period of a cigarette tax contract subject to RCW
+43.06.455
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_295__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Effective July 1, 2002, wholesalers and retailers subject to the provisions of this chapter are allowed compensation for their services in affixing the stamps required under this chapter a sum computed at the rate of six dollars per one thousand stamps purchased or affixed by them.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_295__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In addition to the compensation allowed under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_24_295__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, retailers purchasing stamps for roll-your-own cigarettes are allowed additional compensation to offset the cost of the tax under chapter
+82.26
+RCW. The amount equals five cents per cigarette.
+[
+2012 2nd sp.s. c 4 s 10
+;
+2001 c 235 s 6
+.]
+NOTES:
+Effective date
+—
+2012 2nd sp.s. c 4:
+See note following RCW
+82.24.030
+.
+Intent
+—
+Finding
+—
+2001 c 235:
+See RCW
+43.06.450
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

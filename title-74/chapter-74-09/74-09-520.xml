@@ -1,0 +1,550 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.520"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.520"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.520/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.520/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.520/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.520/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_520">
+        <num>RCW 74.09.520</num>
+        <heading>Medical assistance—Care and services included—Funding limitations</heading>
+        <subsection eId="sec_74_09_520__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The term &quot;medical assistance&quot; may include the following care and services subject to rules adopted by the authority or department:</p>
+          </content>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Inpatient hospital services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>outpatient hospital services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>other laboratory and X-ray services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>nursing facility services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>physicians' services, which shall include prescribed medication and instruction on birth control devices;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>medical care, or any other type of remedial care as may be established by the secretary or director;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>home health care services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>private duty nursing services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>dental services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>physical and occupational therapy and related services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>prescribed drugs, dentures, and prosthetic devices; and eyeglasses prescribed by a physician skilled in diseases of the eye or by an optometrist, whichever the individual may select;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>personal care services, as provided in this section;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>hospice services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>other diagnostic, screening, preventive, and rehabilitative services; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_1__subsec_o">
+            <num>(o)</num>
+            <content>
+              <p>like services when furnished to a child by a school district in a manner consistent with the requirements of this chapter. For the purposes of this section, neither the authority nor the department may cut off any prescription medications, oxygen supplies, respiratory services, or other life-sustaining medical services or supplies.
+&quot;Medical assistance,&quot; notwithstanding any other provision of law, shall not include routine foot care, or dental services delivered by any health care provider, that are not mandated by Title XIX of the social security act unless there is a specific appropriation for these services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department shall adopt, amend, or rescind such administrative rules as are necessary to ensure that Title XIX personal care services are provided to eligible persons in conformance with federal regulations.</p>
+          </content>
+          <subsection eId="sec_74_09_520__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>These administrative rules shall include financial eligibility indexed according to the requirements of the social security act providing for medicaid eligibility.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The rules shall require clients be assessed as having a medical condition requiring assistance with personal care tasks. Plans of care for clients requiring health-related consultation for assessment and service planning may be reviewed by a nurse.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall determine by rule which clients have a health-related assessment or service planning need requiring registered nurse consultation or review. This definition may include clients that meet indicators or protocols for review, consultation, or visit.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall design and implement a means to assess the level of functional disability of persons eligible for personal care services under this section. The personal care services benefit shall be provided to the extent funding is available according to the assessed level of functional disability. Any reductions in services made necessary for funding reasons should be accomplished in a manner that assures that priority for maintaining services is given to persons with the greatest need as determined by the assessment of functional disability.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Effective July 1, 1989, the authority shall offer hospice services in accordance with available funds.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>For Title XIX personal care services administered by the department, the department shall contract with area agencies on aging or may contract with a federally recognized Indian tribe under RCW
+74.39A.090</p>
+          </content>
+          <subsection eId="sec_74_09_520__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To provide case management services to individuals receiving Title XIX personal care services in their own home; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To reassess and reauthorize Title XIX personal care services or other home and community services as defined in RCW
+74.39A.009
+in home or in other settings for individuals consistent with the intent of this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_5__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Who have been initially authorized by the department to receive Title XIX personal care services or other home and community services as defined in RCW
+74.39A.009
+; and</p>
+            </content>
+            <subsection eId="sec_74_09_520__subsec_5__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Who, at the time of reassessment and reauthorization, are receiving such services in their own home.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>In the event that an area agency on aging or federally recognized Indian tribe is unwilling to enter into or satisfactorily fulfill a contract or an individual consumer's need for case management services will be met through an alternative delivery system, the department is authorized to:</p>
+          </content>
+          <subsection eId="sec_74_09_520__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Obtain the services through competitive bid; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Provide the services directly until a qualified contractor can be found.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, the authority may offer medicare part D prescription drug copayment coverage to full benefit dual eligible beneficiaries.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Effective January 1, 2016, the authority shall require universal screening and provider payment for autism and developmental delays as recommended by the bright futures guidelines of the American academy of pediatrics, as they existed on August 27, 2015. This requirement is subject to the availability of funds.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, effective January 1, 2018, the authority shall require provider payment for annual depression screening for youth ages twelve through eighteen as recommended by the bright futures guidelines of the American academy of pediatrics, as they existed on January 1, 2017. Providers may include, but are not limited to, primary care providers, public health nurses, and other providers in a clinical setting. This requirement is subject to the availability of funds appropriated for this specific purpose.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, effective January 1, 2018, the authority shall require provider payment for maternal depression screening for mothers of children ages birth to six months. This requirement is subject to the availability of funds appropriated for this specific purpose.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Subject to the availability of amounts appropriated for this specific purpose, the authority shall:</p>
+          </content>
+          <subsection eId="sec_74_09_520__subsec_11__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Allow otherwise eligible reimbursement for the following related to mental health assessment and diagnosis of children from birth through five years of age:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_11__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Up to five sessions for purposes of intake and assessment, if necessary;</p>
+            </content>
+            <subsection eId="sec_74_09_520__subsec_11__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Assessments in home or community settings, including reimbursement for provider travel; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_11__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Require providers to use the current version of the DC:0-5 diagnostic classification system for mental health assessment and diagnosis of children from birth through five years of age.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Effective January 1, 2024, the authority shall require coverage for noninvasive preventive colorectal cancer screening tests assigned either a grade of A or grade of B by the United States preventive services task force and shall require coverage for colonoscopies performed as a result of a positive result from such a test.</p>
+          </content>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The authority shall require or provide payment to the hospital for any day of a hospital stay in which an adult or child patient enrolled in medical assistance, including home and community services or with a medicaid managed care organization, under this chapter:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Does not meet the criteria for acute inpatient level of care as defined by the authority;</p>
+            </content>
+            <subsection eId="sec_74_09_520__subsec_12__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Meets the criteria for discharge, as defined by the authority or department, to any appropriate placement including, but not limited to:
+(A) A nursing home licensed under chapter
+18.51
+RCW;
+(B) An assisted living facility licensed under chapter
+18.20
+RCW;
+(C) An adult family home licensed under chapter
+70.128
+RCW; or
+(D) A setting in which residential services are provided or funded by the developmental disabilities administration of the department, including supported living as defined in RCW
+71A.10.020
+; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_520__subsec_12__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Is not discharged from the hospital because placement in the appropriate location described in</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_09_520__subsec_12__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection is not available.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Pharmacy services and pharmaceuticals shall be billed by and paid to the hospital separately.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The requirements of this subsection do not alter requirements for billing or payment for inpatient care.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The authority shall adopt, amend, or rescind such administrative rules as necessary to facilitate calculation and payment of the amounts described in this subsection, including for clients of medicaid managed care organizations.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The authority shall adopt rules requiring medicaid managed care organizations to establish specific and uniform administrative and review processes for payment under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For patients meeting the criteria in (a)(ii)(A) of this subsection, hospitals must utilize swing beds or skilled nursing beds to the extent the services are available within their facility and the associated reimbursement methodology prior to the billing under the methodology in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_520__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, if the hospital determines that such swing bed or skilled nursing bed placement is appropriate for the patient's care needs, the patient is appropriate for the existing patient mix, and appropriate staffing is available.
+[
+2025 c 367 s 1
+. Prior:
+2023 c 315 s 1
+;
+2023 c 299 s 1
+;
+2022 c 255 s 4
+;
+2021 c 126 s 2
+;
+2017 c 202 s 4
+;
+2015 1st sp.s. c 8 s 2
+;
+2011 1st sp.s. c 15 s 27
+;
+2007 c 3 s 1
+;
+2004 c 141 s 2
+;
+2003 c 279 s 1
+;
+1998 c 245 s 145
+;
+1995 1st sp.s. c 18 s 39
+;
+1994 c 21 s 4
+; prior:
+1993 c 149 s 10
+;
+1993 c 57 s 1
+;
+1991 sp.s. c 8 s 9
+; prior:
+1991 c 233 s 1
+;
+1991 c 119 s 1
+; prior:
+1990 c 33 s 594
+;
+1990 c 25 s 1
+; prior:
+1989 c 427 s 10
+;
+1989 c 400 s 3
+;
+1985 c 5 s 3
+;
+1982 1st ex.s. c 19 s 4
+;
+1981 1st ex.s. c 6 s 21
+;
+1981 c 8 s 20
+;
+1979 c 141 s 344
+;
+1969 ex.s. c 173 s 11
+;
+1967 ex.s. c 30 s 5
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2017 c 202:
+See note following RCW
+74.09.495
+.
+Findings
+—
+2015 1st sp.s. c 8:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The bright futures guidelines issued by the American academy of pediatrics outline recommended well-child visit schedules and universal screening of children for autism and developmental delays. Private health plans established after March 2010 are required to comply with the bright futures guidelines as the standard for preventive services. The federal law does not require medicaid programs to follow the guidelines; however, thirty states completely cover the bright futures guidelines, six states cover all but one well-child screen, and six additional states cover all but developmental and autism screens as part of their medicaid programs.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The 2012 Washington state legislature directed the Washington state institute for public policy to assess the costs and benefits of implementing the guidelines. The research indicates that fewer than half of children with developmental delays are identified before starting school and roughly half of children with autism spectrum disorder are diagnosed only after entering school, by which time significant delays may have occurred and opportunities for treatment may have been missed. Adopting the universal screening guidelines improves early diagnosis and enables early intervention with appropriate therapies and services. The annual cost to society for caring for children with autism or developmental delays can be significant, including cost of services, special education, informal care, and lost productivity. Early intervention and access to appropriate therapies mitigate long-term societal costs and improve the health and opportunity for the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The more adverse experiences a child has, such as the burden of family economic hardship and social bias, the greater the likelihood of developmental delays and later health problems. Over forty-six percent of Washington's children have medicaid apple health for kids and have a much greater likelihood of reporting poor to very poor health compared to children who have commercial insurance. Disparities also exist in the diagnosis and initiation of treatment services for children of color. Research shows that children of color are diagnosed later and begin receiving early intervention services later. This health equity gap can be addressed by identifying and supporting children early through universal screening.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_520__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Primary care providers currently see ninety-nine percent of children between birth and three years of age and are uniquely situated to access nearly all children with universal screening.&quot; [
+2015 1st sp.s. c 8 s 1
+.]
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Conflict with federal requirements
+—
+Severability
+—
+Effective date
+—
+1995 1st sp.s. c 18:
+See notes following RCW
+74.39A.030
+.
+Conflict with federal requirements
+—
+Effective date
+—
+1994 c 21:
+See notes following RCW
+43.20B.080
+.
+Conflict with federal requirements
+—
+Severability
+—
+Effective dates
+—
+1993 c 149:
+See notes following RCW
+28A.150.390
+.
+Effective date
+—
+1991 sp.s. c 8:
+See note following RCW
+18.51.050
+.
+Purpose
+—
+Statutory references
+—
+Severability
+—
+1990 c 33:
+See RCW
+28A.900.100
+through
+28A.900.102
+.
+Intent
+—
+1989 c 400:
+See note following RCW
+28A.150.390
+.
+Effective date
+—
+1982 1st ex.s. c 19:
+See note following RCW
+74.09.035
+.
+Effective date
+—
+Severability
+—
+1981 1st ex.s. c 6:
+See notes following RCW
+74.04.005
+.
+Legislative confirmation of effect of 1994 c 21: RCW
+43.20B.090
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

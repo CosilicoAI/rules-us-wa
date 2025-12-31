@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4262"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4262"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4262/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4262/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4262/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4262/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4262">
+        <num>RCW 82.04.4262</num>
+        <heading>Exemptions—Federal small business technology transfer program</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.4262
+82.04.4261
+&lt;&lt; 
+        82.04.4262 &gt;&gt;
+82.04.4263
+PDF
+RCW
+82.04.4262
+Exemptions
+—
+Federal small business technology transfer program.
+This chapter does not apply to amounts received by any person for research and development under the federal small business technology transfer program (115 Stat. 263; 15 U.S.C. Sec. 638 et seq.).
+[
+2004 c 2 s 10
+.]
+NOTES:
+Effective date
+—
+2004 c 2 ss 9 and 10:
+See note following RCW
+82.04.4261
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

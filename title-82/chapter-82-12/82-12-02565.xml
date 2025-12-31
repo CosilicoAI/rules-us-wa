@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02565"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02565"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02565/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02565/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.02565/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.02565/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_02565">
+        <num>RCW 82.12.02565</num>
+        <heading>Exemptions—Machinery and equipment used for manufacturing, research and development, or a testing operation</heading>
+        <subsection eId="sec_82_12_02565__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of this chapter do not apply in respect to the use by a manufacturer or processor for hire of machinery and equipment used directly in a manufacturing operation or research and development operation, to the use by a person engaged in testing for a manufacturer or processor for hire of machinery and equipment used directly in a testing operation, or to the use of labor and services rendered in respect to installing, repairing, cleaning, altering, or improving the machinery and equipment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02565__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The definitions, conditions, and requirements in RCW
+82.08.02565
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_02565__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section does not apply to the use of</p>
+          </content>
+          <subsection eId="sec_82_12_02565__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>machinery and equipment used directly in the manufacturing, research and development, or testing of cannabis, useable cannabis, or cannabis-infused products, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_02565__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>labor and services rendered in respect to installing, repairing, cleaning, altering, or improving such machinery and equipment.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_02565__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The exemptions in this section do not apply to an ineligible person as defined in RCW
+82.08.02565
+.
+[
+2022 c 16 s 156
+;
+2015 3rd sp.s. c 5 s 302
+. Prior:
+2014 c 216 s 402
+;
+2014 c 140 s 14
+;
+2003 c 5 s 5
+;
+1999 c 211 s 6
+;
+1998 c 330 s 2
+;
+1996 c 247 s 3
+;
+1995 1st sp.s. c 3 s 3
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2022 c 16:
+See note following RCW
+69.50.101
+.
+Construction
+—
+2017 c 323:
+See note following RCW
+82.08.052
+.
+Effective dates
+—
+2015 3rd sp.s. c 5:
+See note following RCW
+82.08.052
+.
+Application
+—
+Conflicting laws
+—
+2015 3rd sp.s. c 5:
+See notes following RCW
+82.08.02565
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Finding
+—
+Intent
+—
+Retroactive application
+—
+Effective date
+—
+2003 c 5:
+See notes following RCW
+82.12.010
+.
+Finding
+—
+Intent
+—
+1999 c 211:
+See note following RCW
+82.08.02565
+.
+Findings
+—
+Intent
+—
+1996 c 247:
+See note following RCW
+82.08.02566
+.
+Findings
+—
+Effective date
+—
+1995 1st sp.s. c 3:
+See notes following RCW
+82.08.02565
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

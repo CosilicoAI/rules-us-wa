@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.095"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.095"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.095/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.095/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.095/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.095/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_095">
+        <num>RCW 74.13A.095</num>
+        <heading>Interstate agreements for adoption of children with special needs—Purpose</heading>
+        <subsection eId="sec_74_13A_095__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Authorize the department to enter into interstate agreements with agencies of other states for the protection of children on behalf of whom adoption assistance is being provided by the department; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_095__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Provide procedures for interstate children's adoption assistance payments, including medical payments.
+[
+1997 c 31 s 2
+. Formerly RCW
+74.13.153
+.]
+NOTES:
+*Reviser's note:
+RCW
+74.13.152
+through
+74.13.159
+were recodified as RCW
+74.13A.090
+through
+74.13A.125
+pursuant to
+2009 c 520 s 95
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

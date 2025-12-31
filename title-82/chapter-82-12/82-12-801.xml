@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.801"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.801"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.801/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.801/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.801/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.801/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_801">
+        <num>RCW 82.12.801</num>
+        <heading>Exemptions—Uses of vessel, vessel's trailer by dealer</heading>
+        <subsection eId="sec_82_12_801__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed under RCW
+82.12.020
+shall not apply to the following uses of a vessel, as defined in RCW
+88.02.310
+, by a vessel dealer registered under chapter
+88.02
+RCW:</p>
+          </content>
+          <subsection eId="sec_82_12_801__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Activities to test, set-up, repair, remodel, evaluate, or otherwise make a vessel seaworthy, if the vessel is held for sale;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_801__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Training activity of a dealer's employees, agents, or subcontractors involved in the sale of the dealer's vessels, if the vessel is held for sale;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_801__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Activities to promote the sale of the dealer's vessels, to include photography and video sessions to be used in promotional materials; traveling directly to and from promotional vessel events for the express purpose of displaying a dealer's vessels for sale, provided it is displayed on the vessel that it is, in fact, for sale and the identification of the registered vessel dealer offering the vessel for sale is also displayed on the vessel;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_801__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any vessel loaned or donated to a civic, religious, nonprofit, or educational organization for continuous periods of use not exceeding seventy-two hours, or longer if approved by the department; or to vessels loaned or donated to governmental entities;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_801__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Direct transporting, displaying, or demonstrating any vessel at a wholesale or retail vessel show;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_801__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Delivery of a vessel to a buyer, vessel manufacturer, registered vessel dealer as defined in RCW
+88.02.310
+, or to any other person involved in the manufacturing or sale of that vessel for the purpose of the manufacturing or sale of that vessel; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_12_801__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Displaying, showing, and operating a vessel for sale to a prospective buyer to include the short-term testing, operating, and examining by a prospective buyer.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_12_801__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_801__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section shall apply to any trailer or other similar apparatus used to transport, display, show, or operate a vessel, if the trailer or other similar apparatus is held for sale.
+[
+2011 c 171 s 122
+;
+1997 c 293 s 2
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2011 c 171:
+See notes following RCW
+4.24.210
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

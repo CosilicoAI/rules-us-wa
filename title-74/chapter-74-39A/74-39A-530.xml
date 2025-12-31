@@ -1,0 +1,453 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.530"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.530"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.530/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.530/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.530/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.530/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_530">
+        <num>RCW 74.39A.530</num>
+        <heading>Consumer directed employer program—Labor and administrative rates—Rate-setting board—Funding process</heading>
+        <subsection eId="sec_74_39A_530__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In addition to overtime and compensable travel time set forth in RCW
+74.39A.525
+, the initial labor rates shall be paid as described in the most recent collective bargaining agreement between the governor and the service employees international union 775, plus the hourly roll-up costs of any additional legally required benefits or labor costs, until subsequent rates can be established in accordance with this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A rate-setting board is established which is comprised of the voting members and nonvoting members to evaluate and propose changes in the rates paid to the consumer directed employer.</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The following members shall be voting members:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>One representative from the governor's office;</p>
+            </content>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>One representative from the department;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>One representative from each consumer directed employer; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>One designee from the exclusive bargaining representative of individual providers or, in the absence of an exclusive bargaining representative, a designee from the consumer directed employer workforce chosen by the employees of the consumer directed employer.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The following nine members of the board shall be nonvoting advisory members:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Four legislators, one member from each caucus of the house of representatives and the senate;</p>
+            </content>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>One representative from the state council on aging, appointed by the governor;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>One representative of an organization representing people with intellectual or developmental disabilities appointed by the governor;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>One representative of an organization representing people with physical disabilities appointed by the governor;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>One representative from the licensed home care agency industry chosen by the state's largest association of home care agencies that primarily serves state-funded clients; and
+(vi) One home care worker chosen by the state's largest organization of home care workers.</p>
+            </content>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>One home care worker chosen by the state's largest organization of home care workers.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The governor's appointments shall be made by April 1st in even-numbered years.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When the board membership has four voting members listed in subsection</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, each voting member shall have one vote. When there are five voting members due to two consumer directed employer representatives, each voting member listed in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section shall have two votes with the exception of the consumer directed employer representatives who shall have one vote. Voting members cannot split their votes. A majority of the voting members of the board constitutes a quorum for the transaction of business and is necessary for any action taken by the board.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Beginning in the year following the establishment of the initial rate under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, and in every even-numbered year thereafter, the rate-setting board shall attempt to determine a proposed labor rate, including a specific amount for health benefits by considering the factors listed in *RCW
+41.56.530</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department shall provide administrative support for the board.</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>At the commencement of the board's rate-setting activities, the voting members must first attempt to select an additional voting member, who will chair the rate-setting board and will cast a tie-breaking vote if the voting members identified in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section are unable to pass by majority vote on the labor rate.</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>On the first occasion that the voting members identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section fail to select a tie-breaking member by a majority vote, the chair member will be selected as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The voting member representing the governor's office shall request a list of five qualified arbitrators, or six if there are two consumer directed employers, from the federal mediation and conciliation service.</p>
+            </content>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>If a majority of the voting members of the board cannot agree on the selection of a neutral arbitrator from the list, the representative from the consumer directed employer who first contacted the department will strike a name from the list first. The representative from the governor's office shall then strike a name from the list, the designee from the exclusive bargaining representative or, in the absence of an exclusive bargaining representative, the designee from the consumer directed employer workforce shall strike a name from the list, if there are two consumer directed employers, the second representative will strike a name from the list, and finally the representative from the department shall strike a name from the list.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The name of the arbitrator remaining after the final strike shall be the chair member of the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>If that person is not willing or available to be the chair member, the second to last person remaining on the list shall be asked to be the chair member. If the second to last person is not willing or available, the third to last person shall be asked to be the chair member. This process of selecting an arbitrator shall be continued until a chair member of the board is appointed.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>On the next occasion that the voting members identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section fail to select a chair member by a majority vote, the chair member will be selected using the method described in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection except that the order of board members striking names from the list, described in (b)</p>
+            </content>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_b__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>of this subsection, shall be reversed.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>On each successive occasion that the voting members identified in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section fail to select a chair member by a majority vote, the order of voting members striking names from the list will continue to alternate between the order described in (b)</p>
+            </content>
+            <subsection eId="sec_74_39A_530__subsec_2__subsec_a__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If an agreement on a proposed labor rate, an administrative rate, or both, is not reached by a majority of the voting members of the rate-setting board prior to July 1st, then:</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The labor rate shall be determined by the vote of the chair member, who was selected in accordance with subsections</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The administrative rate shall be determined by the department.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>After the rates have been determined in accordance with subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section, they shall be submitted to the director of the office of financial management by October 1st prior to the legislative session during which the requests are to be considered for review. If the director of the office of financial management certifies them as being feasible financially for the state, the governor shall include a request for funds necessary to implement the proposed rates as part of the governor's budget document submitted under RCW
+43.88.030
+and
+43.88.060
+. The legislature shall approve or reject the request for funds as a whole.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>If the legislature rejects the request under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this section, the matter shall return to the rate-setting board established under this section for further consideration. Until the legislature approves a request for funds under this section, the current labor rate shall stay in effect.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The labor rate approved by the legislature shall be an hourly rate paid to the consumer directed employer. The labor rate shall be used exclusively for paying the wages, associated taxes, and benefits of individual providers. The consumer directed employer shall have full discretion to set wages and benefits for individual providers, except as provided in:</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section;</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>any specific legislative appropriation requirement; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>a collective bargaining agreement, if applicable.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The labor rate shall include a specific hourly amount that the consumer directed employer may use only for health benefits for individual providers.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>The department shall make a one-time transfer of funds totaling the full amount of previously unclaimed paid time off to the consumer directed employer, and shall transfer all associated liabilities for payment of unclaimed paid time off to the consumer directed employer. This amount shall be accounted for as a labor rate payment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>The department shall have the authority to modify the labor rate and the administrative rate between the rate-setting board's rate-setting activities without convening the rate-setting board or following the preceding rate-setting process, subject to the following conditions:</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department finds the changes to the rates necessary to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_12__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Recognize changes to the department's required expenditures or the consumer directed employer's required costs associated with changes to tax rates, required employer contributions, mileage rate allowances, and utilization of overtime to comply with RCW
+74.39A.525
+; or</p>
+            </content>
+            <subsection eId="sec_74_39A_530__subsec_12__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Comply with a significant change in state or federal rule or law that would impact the consumer directed employer's ability to operate;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Changes to the rates shall not exceed two percent of the combined labor and administrative rates; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Any increase to the rates is contingent on appropriation of adequate funds by the legislature.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_39A_530__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>For the purpose of this section:</p>
+          </content>
+          <subsection eId="sec_74_39A_530__subsec_13__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Labor rate&quot; is defined as that portion of the consumer directed employer's hourly rate that is to be used by the consumer directed employer to compensate its workers, including wages, benefits, and any associated taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_39A_530__subsec_13__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Administrative rate&quot; is defined as that portion of the consumer directed employer's hourly rate that is to be used by the consumer directed employer to perform its administrative duties including losses for bad debt, compensation for business and occupation taxes on the labor and administrative rates, and all other costs associated with operating as the consumer directed employer.
+[
+2021 c 186 s 2
+;
+2018 c 278 s 27
+.]
+NOTES:
+*Reviser's note:
+This RCW reference has been corrected to reflect the reorganization of chapter
+41.56
+RCW by
+2025 c 290 s 2
+.
+Findings
+—
+Intent
+—
+2018 c 278:
+See note following RCW
+74.39A.500
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.44.060"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.44.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.44.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.44.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_44_060">
+        <num>RCW 82.44.060</num>
+        <heading>Tax requirements—Payment of tax based on registration year—Transfer of ownership</heading>
+        <subsection eId="sec_82_44_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any locally imposed excise tax:</p>
+          </content>
+          <subsection eId="sec_82_44_060__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is due at the time of registration of a vehicle;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_060__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Must be paid in full before any registration certificate or license tab may be issued;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_060__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Is in addition to any other vehicle license fees required by law;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_060__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Must be collected by the department, county auditor or other agent, or subagent appointed by the director of licensing before issuing the registration certificate;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_060__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Must be collected for each registration year; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_44_060__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Must be levied for one full registration year beginning on the date of the calendar year designated by the department and ending on the same date of the next succeeding calendar year. For vehicles registered under chapter
+46.87
+RCW, proportional registration, and for vehicle dealer plates issued under chapter
+46.70
+RCW, the registration year is the period provided in those chapters. However, the tax shall in no case be less than two dollars except for proportionally registered vehicles.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_44_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A vehicle is deemed registered for the first time in this state when the vehicle was not previously registered by this state for the registration year immediately preceding the registration year in which the application for registration is made or when the vehicle has been registered in another jurisdiction subsequent to any prior registration in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_44_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>An additional tax may not be imposed under this chapter on any vehicle when the certificate of title is being transferred if the tax has already been paid for the registration year or fraction of a registration year in which transfer of ownership occurs.
+[
+2010 c 161 s 911
+;
+2006 c 318 s 3
+;
+1990 c 42 s 304
+;
+1981 c 222 s 12
+;
+1979 c 158 s 233
+; 1975-'76 2nd ex.s. c 54 s 2;
+1975 1st ex.s. c 118 s 14
+;
+1963 c 199 s 4
+;
+1961 c 15 s 82.44.060
+. Prior:
+1957 c 269 s 15
+;
+1955 c 139 s 25
+;
+1943 c 144 s 6
+; Rem. Supp. 1943 s 6312-120; prior:
+1937 c 228 s 5
+.]
+NOTES:
+Effective date
+—
+Intent
+—
+Legislation to reconcile chapter 161, Laws of 2010 and other amendments made during the 2010 legislative session
+—
+2010 c 161:
+See notes following RCW
+46.04.013
+.
+Purpose
+—
+Effective dates
+—
+Application
+—
+Implementation
+—
+1990 c 42:
+See notes following RCW
+46.68.090
+.
+Effective date
+—
+1975-'76 2nd ex.s. c 54:
+&quot;This 1976 amendatory act shall take effect on January 1, 1977.&quot; [1975-'76 2nd ex.s. c 54 s 3.]
+Effective date
+—
+Severability
+—
+1975 1st ex.s. c 118:
+See notes following RCW
+46.16A.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

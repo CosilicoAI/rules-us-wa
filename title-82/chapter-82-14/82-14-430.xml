@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.430"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.430"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.430/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.430/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.430/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.430/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_430">
+        <num>RCW 82.14.430</num>
+        <heading>Sales and use tax for regional transportation investment district</heading>
+        <subsection eId="sec_82_14_430__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If approved by the majority of the voters within its boundaries voting on the ballot proposition, a regional transportation investment district may impose a sales and use tax of up to 0.1 percent of the selling price or value of the article used in the case of a use tax. The tax authorized by this section is in addition to the tax authorized by RCW
+82.14.030
+and must be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the taxing district. Motor vehicles are exempt from the sales and use tax imposed under this subsection.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_430__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If approved by the majority of the voters within its boundaries voting on the ballot proposition, a regional transportation investment district may impose a tax on the use of a motor vehicle within a regional transportation investment district. The tax applies to those persons who reside within the regional transportation investment district. The rate of the tax may not exceed 0.1 percent of the value of the motor vehicle. The tax authorized by this subsection is in addition to the tax authorized under RCW
+82.14.030
+and must be imposed and collected at the time a taxable event under RCW
+82.08.020</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_430__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or
+82.12.020
+takes place. All revenue received under this subsection must be deposited in the local sales and use tax account and distributed to the regional transportation investment district according to RCW
+82.14.050
+. The following provisions apply to the use tax in this subsection:</p>
+          </content>
+          <subsection eId="sec_82_14_430__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Where persons are taxable under chapter
+82.08
+RCW, the seller must collect the use tax from the buyer using the collection provisions of RCW
+82.08.050
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_430__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Where persons are taxable under chapter
+82.12
+RCW, the use tax must be collected using the provisions of RCW
+82.12.045
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_430__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Motor vehicle&quot; has the meaning provided in RCW
+46.04.320
+, but does not include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_430__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Farm tractors or farm vehicles as defined in RCW
+46.04.180
+and
+46.04.181
+, unless the farm tractor or farm vehicle is for use in the production of cannabis;</p>
+            </content>
+            <subsection eId="sec_82_14_430__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Off-road vehicles as defined in RCW
+46.04.365
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_430__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Nonhighway vehicles as defined in RCW
+46.09.310
+; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_14_430__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Snowmobiles as defined in RCW
+46.04.546
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_14_430__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Person&quot; has the meaning given in RCW
+82.04.030
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_430__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The value of a motor vehicle must be determined under RCW
+82.12.010
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_430__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Except as specifically stated in this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_430__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>In addition to fulfilling the notice requirements under RCW
+82.14.055</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

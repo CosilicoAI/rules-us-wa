@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.320"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.320/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08A.320/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08A.320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08A_320">
+        <num>RCW 74.08A.320</num>
+        <heading>Wage subsidy program</heading>
+        <subsection eId="sec_74_08A_320__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The employer has terminated the employment of any current employee or otherwise caused an involuntary reduction of its workforce in order to fill the vacancy so created with the participant; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08A_320__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>the participant displaces or partially displaces current employees. Employers providing positions created under this section shall meet the requirements of chapter
+49.46
+RCW. This section shall not diminish or result in the infringement of obligations or rights under chapters
+41.06
+, 41.56, and
+49.36
+RCW and the national labor relations act, 29 U.S.C. Ch. 7. The department shall establish such local and statewide advisory boards, including business and labor representatives, as it deems appropriate to assist in the implementation of the wage subsidy program. Once the recipient is hired, the wage subsidy shall be authorized for up to nine months.
+[
+2010 c 273 s 5
+;
+1997 c 58 s 325
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

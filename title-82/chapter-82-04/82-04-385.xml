@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.385"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.385"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.385/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.385/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.385/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.385/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_385">
+        <num>RCW 82.04.385</num>
+        <heading>Exemptions—Operation of sheltered workshops</heading>
+        <subsection eId="sec_82_04_385__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>providing gainful employment or rehabilitation services to persons with disabilities as an interim step in the rehabilitation process for those who cannot be readily absorbed in the competitive labor market or during such time as employment opportunities for them in the competitive labor market do not exist; or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_385__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>providing evaluation and work adjustment services for persons with disabilities.
+[
+2020 c 274 s 68
+. Prior:
+1988 c 176 s 915
+;
+1988 c 13 s 1
+;
+1972 ex.s. c 134 s 1
+;
+1970 ex.s. c 81 s 3
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

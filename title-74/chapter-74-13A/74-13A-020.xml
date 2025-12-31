@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.020"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_020">
+        <num>RCW 74.13A.020</num>
+        <heading>Adoption support program administration—Rules and regulations—Disbursements from general fund, criteria—Limits</heading>
+        <subsection eId="sec_74_13A_020__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The secretary shall issue rules and regulations to assist in the administration of the program of adoption support authorized by RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_020__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Disbursements from the appropriations available from the general fund shall be made pursuant to such rules and regulations and pursuant to agreements conforming thereto to be made by the secretary with parents for the purpose of supporting the adoption of children in, or likely to be placed in, foster homes or child caring institutions who are found by the secretary to be difficult to place in adoption because of physical or other reasons; including, but not limited to, disabilities, emotional disturbance, ethnic background, language, race, color, age, or sibling grouping.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_020__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Such agreements shall meet the following criteria:</p>
+          </content>
+          <subsection eId="sec_74_13A_020__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The child whose adoption is to be supported pursuant to such agreement shall be or have been a child hard to place in adoption.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_020__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Such agreement must relate to a child who was or is residing in a foster home or child-caring institution or a child who, in the judgment of the secretary, is both eligible for, and likely to be placed in, either a foster home or a child-caring institution.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_020__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Such agreement shall provide that adoption support shall not continue beyond the time that the adopted child reaches eighteen years of age, becomes emancipated, dies, or otherwise ceases to need support. If the secretary finds that continuing dependency of such child after such child reaches eighteen years of age warrants the continuation of support pursuant to RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+the secretary may do so, subject to all the provisions of RCW
+26.33.320
+and
+74.13A.005
+through
+74.13A.080
+, including annual review of the amount of such support.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_020__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Any prospective parent who is to be a party to such agreement shall be a person who has the character, judgment, sense of responsibility, and disposition which make him or her suitable as an adoptive parent of such child.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13A_020__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>At least six months before an adoption is finalized under chapter
+26.33
+RCW and RCW
+74.13A.005
+through
+74.13A.080
+, the department must provide to the prospective adoptive parent, in writing, information describing the limits of the adoption support program including the following information:</p>
+          </content>
+          <subsection eId="sec_74_13A_020__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The limits on monthly cash payments to adoptive families;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_020__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The limits on the availability of children's mental health services and the funds with which to pay for these services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_020__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The process for accessing mental health services for children receiving adoption support services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_020__subsec_4__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The limits on the one-time cash payments to adoptive families for expenses related to their adopted children; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13A_020__subsec_4__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>That payment for residential or group care is not available for adopted children under the adoption support program.
+[
+2020 c 274 s 63
+. Prior:
+2009 c 520 s 66
+;
+2009 c 491 s 9
+;
+1990 c 285 s 7
+;
+1985 c 7 s 135
+;
+1982 c 118 s 4
+;
+1979 ex.s. c 67 s 8
+;
+1971 ex.s. c 63 s 4
+. Formerly RCW
+74.13.109
+.]
+NOTES:
+Findings
+—
+Purpose
+—
+Severability
+—
+1990 c 285:
+See notes following RCW
+74.04.005
+.
+Severability
+—
+1979 ex.s. c 67:
+See note following RCW
+19.28.351
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

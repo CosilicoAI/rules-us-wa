@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0264"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0264"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0264/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0264/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0264/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0264/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0264">
+        <num>RCW 82.12.0264</num>
+        <heading>Exemptions—Use of dual-controlled motor vehicles by school for driver training</heading>
+        <subsection eId="sec_82_12_0264__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>the University of Washington, Washington State University, the regional universities, The Evergreen State College and the state community colleges or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0264__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>any public, private or parochial school accredited by either the state board of education or by the University of Washington (the state accrediting station) or</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0264__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>any public vocational school meeting the standards, courses and requirements established and prescribed or approved in accordance with the Community College Act of 1967 (chapter 8, Laws of 1967 first extraordinary session).
+[
+1980 c 37 s 63
+. Formerly RCW
+82.12.030</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

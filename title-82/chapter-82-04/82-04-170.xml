@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.170"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.170"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.170/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.170/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.170/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.170/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_170">
+        <num>RCW 82.04.170</num>
+        <heading>&quot;Tuition fee.&quot;</heading>
+        <subsection eId="sec_82_04_170__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and accredited by an accrediting association recognized by the United States secretary of education, and offering to students an educational program of a general academic nature or those institutions which are not operated for profit and which are privately endowed under a deed of trust to offer instruction in trade, industry, and agriculture, but not including specialty schools, business colleges, other trade schools, or similar institutions.
+[
+1993 sp.s. c 18 s 37
+;
+1993 c 181 s 13
+;
+1992 c 206 s 1
+;
+1985 c 135 s 1
+;
+1961 c 15 s 82.04.170
+. Prior:
+1955 c 389 s 18
+; prior: 1949 c 228 s 2, part; 1945 c 249 s 1, part; 1943 c 156 s 2, part; 1941 c 178 s 2, part; 1939 c 225 s 2, part; 1937 c 227 s 2, part; 1935 c 180 s 5, part; Rem. Supp. 1949 s 8370-5, part.]
+NOTES:
+Reviser's note:
+This section was amended by 1993 c 181 s 13 and by 1993 sp.s. c 18 s 37, each without reference to the other. Both amendments are incorporated in the publication of this section under RCW
+1.12.025</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

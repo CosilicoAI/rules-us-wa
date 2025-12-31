@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.419"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.419"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.419/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.419/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.419/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.419/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_419">
+        <num>RCW 82.04.419</num>
+        <heading>Exemptions—County, city, town, school district, or fire district activity</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.419
+82.04.418
+&lt;&lt; 
+        82.04.419 &gt;&gt;
+82.04.4201
+PDF
+RCW
+82.04.419
+Exemptions
+—
+County, city, town, school district, or fire district activity.
+This chapter shall not apply to any county, city, town, school district, or fire district activity, regardless of how financed, other than a utility or enterprise activity as defined by the state auditor pursuant to RCW
+35.33.111
+and
+36.40.220
+and upon which the tax imposed pursuant to this chapter had previously applied. Nothing contained in this section shall limit the authority of the legislature to authorize the imposition of such tax prospectively upon such activities as the legislature shall specifically designate.
+[
+1983 1st ex.s. c 66 s 3
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

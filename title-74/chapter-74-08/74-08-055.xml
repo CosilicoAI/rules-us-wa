@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.055"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_055">
+        <num>RCW 74.08.055</num>
+        <heading>Verification of applications—Electronic applications—Penalty</heading>
+        <subsection eId="sec_74_08_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each applicant for or recipient of public assistance shall complete and sign a physical application or, if available, electronic application for assistance which shall contain or be verified by a written declaration that it is signed under the penalties of perjury. The department may make electronic applications available. The secretary, by rule and regulation, may require that any other forms filled out by applicants or recipients of public assistance shall contain or be verified by a written declaration that it is made under the penalties of perjury and such declaration shall be in lieu of any oath otherwise required, and each applicant shall be so informed at the time of the signing. The application and signature verification shall be in accordance with federal requirements for that program.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any applicant for or recipient of public assistance who willfully makes and signs any application, statement, other paper, or electronic record which contains or is verified by a written declaration that it is made under the penalties of perjury and which he or she does not believe to be true and correct as to every material matter is guilty of a class B felony punishable according to chapter
+9A.20
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_055__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>As used in this section:</p>
+          </content>
+          <subsection eId="sec_74_08_055__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Electronic record&quot; means a record created, generated, sent, communicated, received, or stored by electronic means.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_08_055__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Sign&quot; includes signing by physical signature, if available, or electronic signature. An application must contain a signature in either physical or, if available, electronic form.
+[
+2020 c 57 s 89
+;
+2009 c 201 s 1
+;
+2003 c 53 s 366
+;
+1979 c 141 s 323
+;
+1959 c 26 s 74.08.055
+. Prior:
+1953 c 174 s 27
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2003 c 53:
+See notes following RCW
+2.48.180
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

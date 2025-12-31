@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.645"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.645"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.645/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.645/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.645/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.645/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_645">
+        <num>RCW 74.09.645</num>
+        <heading>Opioid use disorder—Coverage without prior authorization</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.645
+74.09.640
+&lt;&lt; 
+        74.09.645 &gt;&gt;
+74.09.650
+PDF
+RCW
+74.09.645
+Opioid use disorder
+—
+Coverage without prior authorization.
+All medicaid contracted managed care organizations shall provide coverage without prior authorization of at least one federal food and drug administration approved product for the treatment of opioid use disorder in the drug classes opioid agonists, opioid antagonists, and opioid partial agonists.
+[
+2023 c 51 s 46
+;
+2019 c 314 s 38
+.]
+NOTES:
+Declaration
+—
+2019 c 314:
+See note following RCW
+18.22.810
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

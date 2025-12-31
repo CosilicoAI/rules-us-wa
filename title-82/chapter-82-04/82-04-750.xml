@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.750"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.750"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.750/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.750/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.750/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.750/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_750">
+        <num>RCW 82.04.750</num>
+        <heading>Exemptions—Restaurant employee meals</heading>
+        <subsection eId="sec_82_04_750__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This chapter does not apply in respect to meals provided by a restaurant without specific charge to its employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_750__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, the definitions in RCW
+82.08.9995
+apply.
+[
+2015 c 86 s 302
+;
+2011 c 55 s 1
+.]
+NOTES:
+Effective date
+—
+2011 c 55:
+See note following RCW
+82.08.9995
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

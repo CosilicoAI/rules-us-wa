@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.120"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_120">
+        <num>RCW 74.09.120</num>
+        <heading>Purchases of services, care, supplies—Nursing homes—Veterans' homes—Institutions for persons with intellectual disabilities—Institutions for mental diseases</heading>
+        <subsection eId="sec_74_09_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The department shall purchase nursing home care by contract and payment for the care shall be in accordance with the provisions of chapter
+74.46
+RCW and rules adopted by the department. No payment shall be made to a nursing home which does not permit inspection by the authority and the department of every part of its premises and an examination of all records, including financial records, methods of administration, general and special dietary programs, the disbursement of drugs and methods of supply, and any other records the authority or the department deems relevant to the regulation of nursing home operations, enforcement of standards for resident care, and payment for nursing home services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department may purchase nursing home care by contract in veterans' homes operated by the state department of veterans affairs and payment for the care shall be in accordance with the provisions of chapter
+74.46
+RCW and rules adopted by the department under the authority of RCW
+74.46.800
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department may purchase care in institutions for persons with intellectual disabilities, also known as intermediate care facilities for persons with intellectual disabilities. The department shall establish rules for reasonable accounting and reimbursement systems for such care. Institutions for persons with intellectual disabilities include licensed nursing homes, public institutions, licensed assisted living facilities with fifteen beds or less, and hospital facilities certified as intermediate care facilities for persons with intellectual disabilities under the federal medicaid program to provide health, habilitative, or rehabilitative services and twenty-four hour supervision for persons with intellectual disabilities or related conditions and includes in the program &quot;active treatment&quot; as federally defined.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_120__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department may purchase care in institutions for mental diseases by contract. The department shall establish rules for reasonable accounting and reimbursement systems for such care. Institutions for mental diseases are certified under the federal medicaid program and primarily engaged in providing diagnosis, treatment, or care to persons with mental diseases, including medical attention, nursing care, and related services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_120__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Both the department and the authority may each purchase all other services provided under this chapter or other applicable law by contract or at rates established by the department or the authority respectively.
+[
+2018 c 201 s 7007
+;
+2012 c 10 s 60
+;
+2011 1st sp.s. c 15 s 9
+;
+2010 c 94 s 23
+;
+1998 c 322 s 45
+;
+1993 sp.s. c 3 s 8
+;
+1992 c 8 s 1
+;
+1989 c 372 s 15
+;
+1983 1st ex.s. c 67 s 44
+;
+1981 2nd ex.s. c 11 s 6
+;
+1981 1st ex.s. c 2 s 11
+; (1980 c 177 s 84 repealed by 1983 1st ex.s. c 67 s 48);
+1975 1st ex.s. c 213 s 1
+;
+1967 ex.s. c 30 s 1
+;
+1959 c 26 s 74.09.120
+. Prior:
+1955 c 273 s 13
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Effective date
+—
+2018 c 201:
+See notes following RCW
+41.05.018
+.
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Purpose
+—
+2010 c 94:
+See note following RCW
+44.04.280
+.
+Effective date
+—
+1993 sp.s. c 3:
+See note following RCW
+72.36.140
+.
+Findings
+—
+1993 sp.s. c 3:
+See RCW
+72.36.1601
+.
+Effective dates
+—
+1983 1st ex.s. c 67:
+See note following RCW
+74.46.475
+.
+Severability
+—
+Effective dates
+—
+1981 1st ex.s. c 2:
+See notes following RCW
+18.51.010
+.
+Conflict with federal requirements and this section: RCW
+74.46.840
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

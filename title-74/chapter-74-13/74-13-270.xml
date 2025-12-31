@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.270"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.270"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.270/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.270/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.270/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.270/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_270">
+        <num>RCW 74.13.270</num>
+        <heading>Respite care</heading>
+        <subsection eId="sec_74_13_270__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature recognizes the need for temporary short-term relief for foster parents who care for children with emotional, mental, or physical disabilities. For purposes of this section, respite care means appropriate, temporary, short-term care for these foster children placed with licensed foster parents. The purpose of this care is to give the foster parents temporary relief from the stresses associated with the care of these foster children. The department shall design a program of respite care that will minimize disruptions to the child and will serve foster parents within these priorities, based on input from foster parents, foster parent associations, and reliable research if available.</p>
+          </content>
+          <subsection eId="sec_74_13_270__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For the purposes of this section, and subject to funding appropriated specifically for this purpose, short-term support shall include case aides who provide temporary assistance to foster parents as needed with the overall goal of supporting the parental efforts of the foster parents except that this assistance shall not include overnight assistance. The department shall contract with nonprofit community-based organizations in each region to establish a statewide pool of individuals to provide the support described in this subsection. These individuals shall be employees or volunteers with the nonprofit community-based organization and shall have the appropriate training, background checks, and qualifications as determined by the department. Short-term support as described in this subsection shall be available to all licensed foster parents in the state as funding is available and shall be phased in by geographic region. To obtain the assistance of a case aide for this purpose, the foster parent may request the services from the nonprofit community-based organization and the nonprofit community-based organization may offer assistance to licensed foster families. If the requests for the short-term support provided in this subsection exceed the funding available, the nonprofit community-based organization shall have discretion to determine the assignment of case aides. The nonprofit community-based organization shall report all short-term support provided under this subsection to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_270__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Costs associated with case aides as described in this subsection shall not be included in the forecast.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_270__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Pursuant to RCW
+41.06.142
+, performance-based contracting under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_270__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection is expressly mandated by the legislature and is not subject to the processes set forth in RCW
+41.06.142
+.
+[
+2024 c 156 s 1
+;
+2019 c 470 s 29
+;
+2017 3rd sp.s. c 20 s 1
+;
+1990 c 284 s 8
+.]
+NOTES:
+Construction
+—
+Competitive procurement process and contract provisions
+—
+2017 3rd sp.s. c 20:
+&quot;Pursuant to RCW
+41.06.142</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

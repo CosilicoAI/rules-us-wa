@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.044"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.044"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.044/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.044/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.044/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.044/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_044">
+        <num>RCW 74.08.044</num>
+        <heading>Need for personal and special care—Licensing—Rules and regulations</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.08
+&gt;
+Section 74.08.044
+74.08.043
+&lt;&lt; 
+        74.08.044 &gt;&gt;
+74.08.045
+PDF
+RCW
+74.08.044
+Need for personal and special care
+—
+Licensing
+—
+Rules and regulations.
+The department is authorized to promulgate rules and regulations establishing eligibility for alternate living arrangements, and license the same, including minimum standards of care, based upon need for personal care and supervision beyond the level of board and room only, but less than the level of care required in a hospital or a nursing facility as defined in the federal social security act.
+[
+1991 sp.s. c 8 s 5
+; 1975-'76 2nd ex.s. c 52 s 1;
+1969 ex.s. c 172 s 11
+.]
+NOTES:
+Effective date
+—
+1991 sp.s. c 8:
+See note following RCW
+18.51.050
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

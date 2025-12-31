@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.41.050"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.41.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.41.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_41_050">
+        <num>RCW 74.41.050</num>
+        <heading>Family caregiver long-term care information and support services—Respite services, evaluation of need, caregiver abilities</heading>
+        <subsection eId="sec_74_41_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Administering a program of family caregiver long-term care information and support services;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>negotiating rates of payment, administering sliding-fee scales to enable eligible participants to participate in paying for respite care, and arranging for respite care information, training, and other support services; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>developing an evidence-based tailored caregiver assessment and referral tool. In evaluating the need for respite services, consideration shall be given to the mental and physical ability of the caregiver to perform necessary caregiver functions.
+[
+2008 c 146 s 4
+;
+2000 c 207 s 4
+;
+1989 c 427 s 8
+;
+1987 c 409 s 4
+;
+1984 c 158 s 5
+.]
+NOTES:
+Findings
+—
+Intent
+—
+Severability
+—
+2008 c 146:
+See notes following RCW
+74.41.040
+.
+Short title
+—
+2000 c 207:
+See note following RCW
+74.41.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

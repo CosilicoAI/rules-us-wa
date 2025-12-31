@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.260"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.260"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.260/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.260/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.260/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.260/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_260">
+        <num>RCW 74.42.260</num>
+        <heading>Drug storage, security, inventory</heading>
+        <subsection eId="sec_74_42_260__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The facility shall store drugs under proper conditions of sanitation, temperature, light, moisture, ventilation, segregation, and security. Poisons, drugs used externally, and drugs taken internally shall be stored on separate shelves or in separate cabinets at all locations. When medication is stored in a refrigerator containing other items, the medication shall be kept in a separate compartment with proper security. All drugs shall be kept under lock and key unless an authorized individual is in attendance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_260__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The facility shall meet the drug security requirements of federal and state laws that apply to storerooms, pharmacies, and living units.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_260__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If there is a drug storeroom separate from the pharmacy, the facility shall keep a perpetual inventory of receipts and issues of all drugs from that storeroom.
+[
+1979 ex.s. c 211 s 26
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

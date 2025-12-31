@@ -1,0 +1,421 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0496"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0496"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0496/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0496/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0496/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0496/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_0496">
+        <num>RCW 82.16.0496</num>
+        <heading>Credit—Clean alternative fuel commercial vehicles—Alternative fuel vehicle infrastructure</heading>
+        <subsection eId="sec_82_16_0496__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person who is taxable under this chapter is allowed, subject to the maximum annual credit per category in subsection</p>
+          </content>
+          <subsection eId="sec_82_16_0496__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, a credit against the tax imposed in this chapter for the lesser of $25,000 or 50 percent of the costs of converting a commercial vehicle to be principally powered by a clean alternative fuel with a United States environmental protection agency certified conversion.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The total credits under subsection</p>
+          </content>
+          <subsection eId="sec_82_16_0496__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this section may not exceed the lesser of $250,000 or 25 vehicles per person per calendar year.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A person may not receive credit under this section for amounts claimed as credits under chapter
+82.04
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Credits are available on a first-in-time basis.</p>
+          </content>
+          <subsection eId="sec_82_16_0496__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed under this section, and RCW
+82.04.4496
+, during any calendar year to exceed $6,000,000. The department must provide notification on its website monthly on the amount of credits that have been applied for, the amount issued, and the amount remaining before the statewide annual limit is reached. In addition, the department must provide written notice to any person who has applied to claim tax credits in excess of the limitation in this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed beginning July 15, 2015, under this section and RCW
+82.04.4496
+to exceed $32,500,000. The department must provide notification on its website monthly on the total amount of credits that have been applied for, the amount issued, and the amount remaining before the statewide limit is reached. In addition, the department must provide written notice to any person who has applied to claim tax credits in excess of the limitation in this subsection.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>For the purposes of the limits provided in this section, a credit must be counted against such limits for the calendar year in which the credit is earned.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>To claim a credit under this section a person must electronically file with the department all returns, forms, and any other information required by the department, in an electronic format as provided or approved by the department. No refunds may be granted for credits under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>To claim a credit under this section, the person applying must:</p>
+          </content>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Complete an application for the credit which must include:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The name, business address, and tax identification number of the applicant;</p>
+            </content>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A quote or unexecuted copy of the purchase requisition or order for the vehicle, infrastructure, infrastructure components, infrastructure construction, or infrastructure installation;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The type of alternative fuel to be used by the vehicle or supported by the infrastructure;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The incremental cost of the alternative fuel system for vehicle credits;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>The anticipated delivery date of the vehicle, the anticipated delivery date of the infrastructure or infrastructure components, the anticipated construction completion date of the infrastructure, or the anticipated installation completion date of the infrastructure;
+(vi) The estimated annual fuel use of the vehicle in the anticipated duties or the estimated annual fuel to be supplied by the infrastructure;
+(vii) The gross weight of each vehicle for vehicle credits;
+(viii) For leased vehicles, a copy of the lease contract that includes the gross capitalized cost, residual value, and name of the lessee; and
+(ix) Any other information deemed necessary by the department to support administration or reporting of the program.</p>
+            </content>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>The estimated annual fuel use of the vehicle in the anticipated duties or the estimated annual fuel to be supplied by the infrastructure;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_v__subsec_vii">
+              <num>(vii)</num>
+              <content>
+                <p>The gross weight of each vehicle for vehicle credits;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_v__subsec_viii">
+              <num>(viii)</num>
+              <content>
+                <p>For leased vehicles, a copy of the lease contract that includes the gross capitalized cost, residual value, and name of the lessee; and
+(ix) Any other information deemed necessary by the department to support administration or reporting of the program.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Within 15 days of notice of credit availability from the department, provide notice of intent to claim the credit including:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A copy of the order for the vehicle or infrastructure-related item, including the total cost for the vehicle or infrastructure-related item;</p>
+            </content>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The anticipated delivery date of the vehicle or infrastructure or infrastructure component, which must be within one year of acceptance of the credit;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The anticipated construction or installation completion date of the infrastructure, which must be within two years of acceptance of the credit; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>Any other information deemed necessary by the department to support administration or reporting of the program.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Provide final documentation within 30 days of receipt of the vehicle or infrastructure or infrastructure components or of completion of construction or installation of the infrastructure, including:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A copy of the final invoice for the vehicle or infrastructure-related items;</p>
+            </content>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>A copy of the factory build sheet or equivalent documentation;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The vehicle identification number of each vehicle;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The incremental cost of the alternative fuel system for vehicle credits;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>Attestations signed by both the seller and purchaser of the vehicle attesting that the incremental cost of the alternative fuel system includes only the costs necessary for the vehicle to run on alternative fuel and no other vehicle options, equipment, or costs; and
+(vi) Any other information deemed necessary by the department to support administration or reporting of the program.</p>
+            </content>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_v__subsec_vi">
+              <num>(vi)</num>
+              <content>
+                <p>Any other information deemed necessary by the department to support administration or reporting of the program.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>A person applying for credit under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this section may apply for multiple vehicles on the same application, but the application must include the required information for each vehicle included in the application. A separate application is required for infrastructure-related items, but all infrastructure-related items at a single location may be included in a single application provided the required information for each infrastructure-related item is included in the application.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>To administer the credits, the department must, at a minimum:</p>
+          </content>
+          <subsection eId="sec_82_16_0496__subsec_10__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide notification on its website monthly of the amount of credits that have been applied for, claimed, and the amount remaining before the statewide annual limit and total limit are reached;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_10__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Within 15 days of receipt of the application, notify persons applying of the availability of tax credits in the year in which the vehicles or infrastructure applied for are anticipated to be delivered, constructed, or installed;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_10__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Within 15 days of receipt of the notice of intent to claim the tax credit, notify the applicant of the approval, denial, or missing information in their notice; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_10__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Within 15 days of receipt of final documentation, review the documentation and notify the person applying of the acceptance of their final documentation.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>If a person fails to supply the information as required in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>of this section, the department must deny the application.</p>
+          </content>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Taxpayers are only eligible for a credit under this section based on:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Sales or leases of new commercial vehicles and qualifying used commercial vehicles with propulsion units that are principally powered by a clean alternative fuel;</p>
+            </content>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Costs to modify a commercial vehicle, including sales of tangible personal property incorporated into the vehicle and labor or service expenses incurred in modifying the vehicle, to be principally powered by a clean alternative fuel; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_16_0496__subsec_8__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Sales of alternative fuel vehicle infrastructure or infrastructure components, or the cost of construction or installation of alternative fuel vehicle infrastructure.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A credit is earned when the purchaser or the lessee takes receipt of the qualifying commercial vehicle or infrastructure-related item, the vehicle conversion is complete, or the construction or installation of the infrastructure is complete.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>The definitions in RCW
+82.04.4496
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>A credit earned during one calendar year may be carried over to be credited against taxes incurred in the subsequent calendar year, but may not be carried over a second year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0496__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>Credits may be earned under this section from January 1, 2016, until the maximum total credit amount in subsection</p>
+          </content>
+          <subsection eId="sec_82_16_0496__subsec_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section is reached, except for credits for leased vehicles, which may be earned from July 1, 2016, until the maximum total credit amount in subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0496__subsec_15__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this section is reached.
+[
+2022 c 182 s 308
+;
+2019 c 287 s 13
+;
+2017 c 116 s 2
+;
+2016 c 29 s 2
+;
+2015 3rd sp.s. c 44 s 412
+.]
+NOTES:
+Intent
+—
+Effective date
+—
+2022 c 182:
+See notes following RCW
+70A.65.240
+.
+Effective date
+—
+2019 c 287 ss 8 and 13:
+See note following RCW
+82.04.4496
+.
+Tax preference performance statement
+—
+2019 c 287 ss 8-14:
+See note following RCW
+82.04.4496
+.
+Findings
+—
+Intent
+—
+2019 c 287:
+See note following RCW
+28B.30.903
+.
+Effective date
+—
+2017 c 116:
+See note following RCW
+82.04.4496
+.
+Effective date
+—
+2015 3rd sp.s. c 44:
+See note following RCW
+46.68.395
+.
+Short title
+—
+Findings
+—
+Tax preference performance statement
+—
+2015 3rd sp.s. c 44 ss 411 and 412:
+See note following RCW
+82.04.4496
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

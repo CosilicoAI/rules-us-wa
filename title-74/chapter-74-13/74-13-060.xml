@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13.060"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.060"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13.060/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.060/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13.060/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13.060/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13_060">
+        <num>RCW 74.13.060</num>
+        <heading>Secretary as custodian of funds of person placed with department or its agent—Authority—Limitations—Termination</heading>
+        <subsection eId="sec_74_13_060__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The secretary or his or her designees or delegatees shall be the custodian without compensation of such moneys and other funds of any person which may come into the possession of the secretary during the period such person is placed with the department or an entity with which it has entered into a performance-based contract pursuant to chapter
+74.13
+RCW. As such custodian, the secretary shall have authority to disburse moneys from the person's funds for the following purposes only and subject to the following limitations:</p>
+          </content>
+          <subsection eId="sec_74_13_060__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For such personal needs of such person as the secretary may deem proper and necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_13_060__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Against the amount of public assistance otherwise payable to such person. This includes applying, as reimbursement, any benefits, payments, funds, or accrual paid to or on behalf of said person from any source against the amount of public assistance expended on behalf of said person during the period for which the benefits, payments, funds or accruals were paid.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_13_060__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>All funds held by the secretary as custodian may be deposited in a single fund, the receipts and expenditures therefrom to be accurately accounted for by him or her on an individual basis. Whenever, the funds belonging to any one person exceed the sum of five hundred dollars, the secretary may deposit said funds in a savings and loan association account on behalf of that particular person.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_060__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When the conditions of placement no longer exist and public assistance is no longer being provided for such person, upon a showing of legal competency and proper authority, the secretary shall deliver to such person, or the parent, person, or agency legally responsible for such person, all funds belonging to the person remaining in his or her possession as custodian, together with a full and final accounting of all receipts and expenditures made therefrom.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13_060__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The appointment of a guardian for the estate of such person shall terminate the secretary's authority as custodian of said funds upon receipt by the secretary of a certified copy of letters of guardianship. Upon the guardian's request, the secretary shall immediately forward to such guardian any funds of such person remaining in the secretary's possession together with full and final accounting of all receipts and expenditures made therefrom.
+[
+2009 c 520 s 59
+;
+1971 ex.s. c 169 s 7
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

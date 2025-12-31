@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.385"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.385"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.385/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.385/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.385/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.385/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_385">
+        <num>RCW 82.38.385</num>
+        <heading>Rules</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.38
+&gt;
+Section 82.38.385
+82.38.380
+&lt;&lt; 
+        82.38.385 &gt;&gt;
+82.38.390
+PDF
+RCW
+82.38.385
+Rules.
+The department and the state patrol must adopt rules necessary to implement RCW
+82.38.360
+through
+82.38.380
+.
+[
+2013 c 225 s 136
+;
+2003 c 358 s 12
+.]
+NOTES:
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.
+Captions not law
+—
+2003 c 358:
+See note following RCW
+82.38.270
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

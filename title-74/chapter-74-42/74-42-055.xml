@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.055"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_055">
+        <num>RCW 74.42.055</num>
+        <heading>Discrimination against medicaid recipients prohibited</heading>
+        <subsection eId="sec_74_42_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The purpose of this section is to prohibit discrimination against medicaid recipients by nursing homes which have contracted with the department to provide skilled or intermediate nursing care services to medicaid recipients.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A nursing facility shall readmit a resident, who has been hospitalized or on therapeutic leave, immediately to the first available bed in a semiprivate room if the resident:</p>
+          </content>
+          <subsection eId="sec_74_42_055__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Requires the services provided by the facility; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_055__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is eligible for medicaid nursing facility services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It shall be unlawful for any nursing home which has a medicaid contract with the department:</p>
+          </content>
+          <subsection eId="sec_74_42_055__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>To require, as a condition of admission, assurance from the patient or any other person that the patient is not eligible for or will not apply for medicaid;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_055__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>To deny or delay admission or readmission of a person to a nursing home because of his or her status as a medicaid recipient;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_055__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>To transfer a patient, except from a private room to another room within the nursing home, because of his or her status as a medicaid recipient;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_055__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>To transfer a patient to another nursing home because of his or her status as a medicaid recipient;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_055__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>To discharge a patient from a nursing home because of his or her status as a medicaid recipient; or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_055__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>To charge any amounts in excess of the medicaid rate from the date of eligibility, except for any supplementation permitted by the department pursuant to RCW
+18.51.070
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any nursing home which has a medicaid contract with the department shall maintain one list of names of persons seeking admission to the facility, which is ordered by the date of request for admission. This information shall be retained for one year from the month admission was requested. However, except as provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, a nursing facility is permitted to give preferential admission to individuals who seek admission from an assisted living facility, licensed under chapter
+18.20
+RCW, or from independent retirement housing, provided the nursing facility is owned by the same entity that owns the assisted living facility or independent housing which are located within the same proximate geographic area; and provided further, the purpose of such preferential admission is to allow continued provision of:</p>
+          </content>
+          <subsection eId="sec_74_42_055__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Culturally or faith-based services, or</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_055__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>services provided by a continuing care retirement community as defined in RCW
+70.38.025
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The department may assess monetary penalties of a civil nature, not to exceed three thousand dollars for each violation of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Because it is a matter of great public importance to protect senior citizens who need medicaid services from discriminatory treatment in obtaining long-term health care, any violation of this section shall be construed for purposes of the application of the consumer protection act, chapter
+19.86
+RCW, to constitute an unfair or deceptive act or practice or unfair method of competition in the conduct of trade or commerce.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>It is not an act of discrimination under this chapter to refuse to admit a patient if admitting that patient would prevent the needs of the other patients residing in that facility from being met at that facility, or if the facility's refusal is consistent with subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_055__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section.
+[
+2012 c 10 s 69
+;
+2004 c 34 s 1
+;
+1987 c 476 s 30
+;
+1985 c 284 s 3
+.]
+NOTES:
+Application
+—
+2012 c 10:
+See note following RCW
+18.20.010
+.
+Effective date
+—
+2004 c 34:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 22, 2004].&quot; [
+2004 c 34 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

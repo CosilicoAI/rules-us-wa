@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.640"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.640"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.640/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.640/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.640/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.640/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_640">
+        <num>RCW 74.42.640</num>
+        <heading>Quality assurance committee</heading>
+        <subsection eId="sec_74_42_640__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To ensure the proper delivery of services and the maintenance and improvement in quality of care through self-review, each facility may maintain a quality assurance committee that, at a minimum, includes:</p>
+          </content>
+          <subsection eId="sec_74_42_640__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The director of nursing services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_640__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A physician designated by the facility; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_640__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Three other members from the staff of the facility.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>When established, the quality assurance committee shall meet at least quarterly to identify issues that may adversely affect quality of care and services to residents and to develop and implement plans of action to correct identified quality concerns or deficiencies in the quality of care provided to residents.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To promote quality of care through self-review without the fear of reprisal, and to enhance the objectivity of the review process, the department shall not require, and the long-term care ombuds program shall not request, disclosure of any quality assurance committee records or reports, unless the disclosure is related to the committee's compliance with this section, if:</p>
+          </content>
+          <subsection eId="sec_74_42_640__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The records or reports are not maintained pursuant to statutory or regulatory mandate; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_640__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The records or reports are created for and collected and maintained by the committee.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The department may request only information related to the quality assurance committee that may be necessary to determine whether a facility has a quality assurance committee and that it is operating in compliance with this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Good faith attempts by the committee to identify and correct quality deficiencies shall not be used as a basis for imposing sanctions.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If the facility offers the department documents generated by, or for, the quality assurance committee as evidence of compliance with nursing facility requirements, the documents are protected as quality assurance committee documents under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>of this section when in the possession of the department. The department is not liable for an inadvertent disclosure, a disclosure related to a required federal or state audit, or disclosure of documents incorrectly marked as quality assurance committee documents by the facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Information and documents, including the analysis of complaints and incident reports, created specifically for, and collected and maintained by, a quality assurance committee are not subject to discovery or introduction into evidence in any civil action, and no person who was in attendance at a meeting of such committee or who participated in the creation, collection, or maintenance of information or documents specifically for the committee shall be permitted or required to testify in any civil action as to the content of such proceedings or the documents and information prepared specifically for the committee. This subsection does not preclude:</p>
+          </content>
+          <subsection eId="sec_74_42_640__subsec_7__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In any civil action, the discovery of the identity of persons involved in the care that is the basis of the civil action whose involvement was independent of any quality improvement committee activity; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_640__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>in any civil action, the testimony of any person concerning the facts which form the basis for the institution of such proceedings of which the person had personal knowledge acquired independently of their participation in the quality assurance committee activities.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>A quality assurance committee under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, RCW
+18.20.390
+,
+70.41.200
+,
+4.24.250
+, or
+43.70.510
+may share information and documents, including the analysis of complaints and incident reports, created specifically for, and collected and maintained by, the committee, with one or more other quality assurance committees created under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, RCW
+18.20.390
+,
+70.41.200
+,
+4.24.250
+, or
+43.70.510
+for the improvement of the quality of care and services rendered to nursing facility residents. Information and documents disclosed by one quality assurance committee to another quality assurance committee and any information and documents created or maintained as a result of the sharing of information and documents shall not be subject to the discovery process and confidentiality shall be respected as required by subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>of this section, RCW
+18.20.390</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Information and documents, including the analysis of complaints and incident reports, created specifically for, and collected and maintained by, a quality assurance committee are exempt from disclosure under chapter
+42.56
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Notwithstanding any records created for the quality assurance committee, the facility shall fully set forth in the resident's records, available to the resident, the department, and others as permitted by law, the facts concerning any incident of injury or loss to the resident, the steps taken by the facility to address the resident's needs, and the resident outcome.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>A facility operated as part of a hospital licensed under chapter
+70.41
+RCW may maintain a quality assurance committee in accordance with this section which shall be subject to the provisions of subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>through</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_640__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>of this section or may conduct quality improvement activities for the facility through a quality improvement committee under RCW
+70.41.200
+which shall be subject to the provisions of RCW
+70.41.200</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

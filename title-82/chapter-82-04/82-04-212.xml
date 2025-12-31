@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.212"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.212"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.212/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.212/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.212/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.212/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_212">
+        <num>RCW 82.04.212</num>
+        <heading>&quot;Retail store or outlet.&quot;</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.212
+82.04.210
+&lt;&lt; 
+        82.04.212 &gt;&gt;
+82.04.213
+PDF
+RCW
+82.04.212
+&quot;Retail store or outlet.&quot;
+&quot;Retail store or outlet&quot; does not mean a device or apparatus through which sales are activated by coin deposits but the phrase shall include automats or business establishments retailing diversified goods primarily through the use of such devices or apparatus.
+[
+1961 c 15 s 82.04.212
+. Prior:
+1959 c 232 s 1
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

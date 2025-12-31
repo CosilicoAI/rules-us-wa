@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.457"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.457"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.457/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.457/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.457/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.457/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_457">
+        <num>RCW 82.14.457</num>
+        <heading>Sales and use tax for digital goods—Apportionment</heading>
+        <subsection eId="sec_82_14_457__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A business or other organization that is entitled under RCW
+82.12.0208</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_457__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>to apportion the amount of state use tax on the use of digital goods, digital codes, digital automated services, prewritten computer software, or services defined as a retail sale in *RCW
+82.04.050</p>
+          </content>
+          <subsection eId="sec_82_14_457__subsec_7__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>is also entitled to apportion the amount of local use taxes imposed under the authority of this chapter and RCW
+81.104.170
+on the use of such products or services.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_457__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To ensure that the tax base for state and local use taxes is identical, the measure of local use taxes apportioned under this section must be the same as the measure of state use tax apportioned under RCW
+82.12.0208</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_457__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>This section does not affect the sourcing of local use taxes.
+[
+2020 c 139 s 25
+;
+2017 c 323 s 527
+;
+2009 c 535 s 703
+.]
+NOTES:
+*
+Reviser's note:
+RCW
+82.04.050
+was amended by 2025 c 422 s 101, changing subsection</p>
+          </content>
+          <subsection eId="sec_82_14_457__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

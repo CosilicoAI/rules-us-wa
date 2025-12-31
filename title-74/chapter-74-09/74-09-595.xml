@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.595"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.595"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.595/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.595/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.595/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.595/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_595">
+        <num>RCW 74.09.595</num>
+        <heading>Medical assistance for institutionalized persons—Due process procedures</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.595
+74.09.585
+&lt;&lt; 
+        74.09.595 &gt;&gt;
+74.09.597
+PDF
+RCW
+74.09.595
+Medical assistance for institutionalized persons
+—
+Due process procedures.
+The department or authority, as appropriate, shall in compliance with section 1924 of the social security act adopt procedures which provide due process for institutionalized or community spouses who request a fair hearing as to the valuation of resources, the amount of the community spouse resource allowance, or the monthly maintenance needs allowance.
+[
+2011 1st sp.s. c 15 s 38
+;
+1989 c 87 s 8
+.]
+NOTES:
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Effective dates
+—
+1989 c 87:
+See note following RCW
+74.09.510
+.
+Captions not law
+—
+1989 c 87:
+See note following RCW
+74.09.565
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

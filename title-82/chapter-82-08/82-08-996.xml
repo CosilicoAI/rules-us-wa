@@ -1,0 +1,252 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.996"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.996"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.996/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.996/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.996/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.996/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_996">
+        <num>RCW 82.08.996</num>
+        <heading>Exemptions—Battery-powered electric marine propulsion systems—Qualifying vessels. (Expires July 1, 2030.)</heading>
+        <subsection eId="sec_82_08_996__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by RCW
+82.08.020
+does not apply to:</p>
+          </content>
+          <subsection eId="sec_82_08_996__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The sale of new battery-powered electric marine propulsion systems with continuous power greater than fifteen kilowatts;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The sale of new vessels equipped with propulsion systems that qualify under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection;
+(c)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The sale of batteries and battery packs used to exclusively power electric marine propulsion systems or hybrid electric marine propulsion systems, if such systems operate with a continuous power greater than fifteen kilowatts;</p>
+            </content>
+            <subsection eId="sec_82_08_996__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The sale of or charge made for labor and services rendered in respect to installing, repairing, altering, or improving batteries or battery packs that qualify under</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>of this subsection;
+(d)</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The sale of new shoreside batteries purchased and installed for the purpose of reducing grid demand when charging electric and hybrid vessels;</p>
+            </content>
+            <subsection eId="sec_82_08_996__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>The sale of or charge made for labor and services rendered in respect to installing, repairing, altering, or improving shoreside batteries;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_996__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>The sale of or charge made for labor and services rendered in respect to installing, constructing, repairing, or improving shoreside batteries infrastructure; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_996__subsec_1__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>The sale of tangible personal property that will become a component of shoreside batteries infrastructure.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Sellers may make tax exempt sales under this section only if the buyer provides the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this section:</p>
+          </content>
+          <subsection eId="sec_82_08_996__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Battery&quot; means a secondary battery or storage cell that can be charged, discharged into a load, and recharged many times; and includes one of several different combinations of electrode materials and electrolytes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Battery pack&quot; means a group of any number of secondary or rechargeable batteries within a casing and used as a power source for battery-powered electric marine propulsion systems or hybrid electric marine propulsion systems;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Battery-powered electric marine propulsion system&quot; means a fully electric outboard or inboard motor used by vessels, the sole source of propulsive power of which is the energy stored in the battery packs. The term includes required accessories, such as throttles, displays, and battery packs;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Hybrid electric marine propulsion system&quot; means a propulsion system that includes two or more sources of propulsion in one design, one of which must be electric;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Shoreside batteries&quot; means batteries installed at a dock or similar location to provide an electric charge to a vessel powered by an electric marine propulsion system;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Shoreside batteries infrastructure&quot; means the shoreside battery bank, charging apparatus, and emergency services generator; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_996__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Vessel&quot; includes every watercraft, other than a seaplane, used or capable of being used as a means of transportation on the water.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section expires July 1, 2030.
+[
+2020 c 341 s 1
+;
+2019 c 287 s 21
+.]
+NOTES:
+Effective date
+—
+2020 c 341:
+&quot;This act takes effect July 1, 2020.&quot; [
+2020 c 341 s 4
+.]
+Tax preference performance statement
+—
+2020 c 341 ss 1 and 2; 2019 c 287 ss 21 and 22:
+&quot;This section is the tax preference performance statement for the tax preferences contained in sections 1 and 2, chapter 341, Laws of 2020 and sections 21 and 22, chapter 287, Laws of 2019. The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature categorizes the tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to increase the use of electric vessels in Washington. It is the legislature's intent to establish a sales and use tax exemption on certain electric vessels in order to reduce the price charged to customers for electric vessels and to create and retain jobs associated with electric marine battery manufacturing and the construction of new electric ferries in Washington.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To measure the effectiveness of the tax preferences in sections 1 and 2, chapter 341, Laws of 2020 and sections 21 and 22, chapter 287, Laws of 2019 in achieving the public policy objectives described in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee must evaluate the number of electric vessels titled in the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If a review finds that jobs in Washington associated with electric marine battery manufacturing and the construction of new electric ferries using electric battery power are created and retained, then the legislature intends to extend the expiration date of these tax preferences.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the reviews in subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_996__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the department of licensing and the department of revenue must provide data needed for the joint legislative audit and review committee analysis. In addition to the data source described under this subsection, the joint legislative audit and review committee may use any other data it deems necessary.&quot; [
+2020 c 341 s 3
+;
+2019 c 287 s 20
+.]
+Effective date
+—
+2019 c 287 ss 1-7, 12, and 14-23:
+See note following RCW
+28B.30.903
+.
+Findings
+—
+Intent
+—
+2019 c 287:
+See note following RCW
+28B.30.903
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

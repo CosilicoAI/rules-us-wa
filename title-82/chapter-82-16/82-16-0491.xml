@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0491"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0491"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0491/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0491/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.16.0491/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.16.0491/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_16_0491">
+        <num>RCW 82.16.0491</num>
+        <heading>Credit—Contributions to an electric utility rural economic development revolving fund</heading>
+        <subsection eId="sec_82_16_0491__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The following definitions apply to this section:</p>
+          </content>
+          <subsection eId="sec_82_16_0491__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Qualifying project&quot; means a project designed to achieve job creation or business retention, to add or upgrade nonelectrical infrastructure, to add or upgrade health and safety facilities, to accomplish energy and water use efficiency improvements, including renewable energy development, or to add or upgrade emergency services in any designated qualifying rural area.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0491__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Qualifying rural area&quot; means:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0491__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A rural county as defined in RCW
+82.14.370
+; or</p>
+            </content>
+            <subsection eId="sec_82_16_0491__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Any geographic area in the state that receives electricity from a light and power business with twelve thousand or fewer customers.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_16_0491__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Electric utility rural economic development revolving fund&quot; means a fund devoted exclusively to funding qualifying projects in qualifying rural areas.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0491__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Local board&quot; is</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_16_0491__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>a board of directors with at least, but not limited to, three members representing local businesses and community groups who have been appointed by the sponsoring electric utility to oversee and direct the activities of the electric utility rural economic development revolving fund; or</p>
+            </content>
+            <subsection eId="sec_82_16_0491__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a board of directors of an existing associate development organization serving the qualifying rural area who have been designated by the sponsoring electrical utility to oversee and direct the activities of the electric utility rural economic development revolving fund.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A light and power business shall be allowed a credit against taxes due under this chapter in an amount equal to fifty percent of contributions made in any fiscal year directly to an electric utility rural economic development revolving fund. The credit shall be taken in a form and manner as required by the department. The credit under this section shall not exceed twenty-five thousand dollars per fiscal year per light and power business. The credit may not exceed the tax that would otherwise be due under this chapter. Refunds shall not be granted in the place of credits. Expenditures not used to earn a credit in one fiscal year may not be used to earn a credit in subsequent years, except that this limitation does not apply to expenditures made between January 1, 2004, and March 31, 2004, which expenditures may be used to earn a credit through December 30, 2004.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The right to earn tax credits under this section expires June 30, 2011.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To qualify for the credit in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section, the light and power business shall establish, or have a local board establish with the business's contribution, an electric utility rural economic development revolving fund which is governed by a local board whose members shall reside or work in the qualifying rural area served by the light and power business. Expenditures from the electric utility rural economic development revolving fund shall be made solely on qualifying projects, and the local board shall have authority to determine all criteria and conditions for the expenditure of funds from the electric utility rural economic development revolving fund, and for the terms and conditions of repayment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Any funds repaid to the electric utility rural economic development revolving fund by recipients shall be made available for additional qualifying projects.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If at any time the electric utility rural economic development revolving fund is dissolved, any moneys claimed as a tax credit under this section shall either be granted to a qualifying project or refunded to the state within two years of termination.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The total amount of credits that may be used in any fiscal year shall not exceed three hundred fifty thousand dollars in any fiscal year. The department shall allow the use of earned credits on a first-come, first-served basis. Unused earned credits may be carried over to subsequent years.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The following provisions apply to expenditures under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section made between January 1, 2004, and March 31, 2004:</p>
+          </content>
+          <subsection eId="sec_82_16_0491__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Credits earned from such expenditures are not considered in computing the statewide limitation set forth in subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>of this section for the period July 1, 2004, through December 31, 2004; and</p>
+          </content>
+          <subsection eId="sec_82_16_0491__subsec_7__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the fiscal year ending June 30, 2005, the credit allowed under this section for light and power businesses making expenditures is limited to thirty-seven thousand five hundred dollars.
+[
+2008 c 131 s 4
+;
+2004 c 238 s 1
+;
+1999 c 311 s 402
+.]
+NOTES:
+Effective date
+—
+2008 c 131:
+See note following RCW
+43.160.020
+.
+Finding
+—
+2004 c 238:
+&quot;</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that accountability and effectiveness are important aspects of setting tax policy. In order to make policy choices regarding the best use of limited state resources the legislature needs information to evaluate whether the stated goals of legislation were achieved.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_16_0491__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The goal of the tax credit available to light and power businesses for contributing to an electric utility rural economic development revolving fund in RCW
+82.16.0491
+is to support qualifying projects that create or retain jobs, add or upgrade health and safety facilities, facilitate energy and water conservation, or develop renewable sources of energy in a qualified area. The goal of this tax credit is achieved when the investment of the revolving funds established under RCW
+82.16.0491
+have generated capital investment in an amount of four million seven hundred fifty thousand dollars or more within a five-year period.&quot; [
+2004 c 238 s 2
+.]
+Effective date
+—
+2004 c 238:
+&quot;This act takes effect July 1, 2004.&quot; [
+2004 c 238 s 3
+.]
+Findings
+—
+Intent
+—
+1999 c 311:
+&quot;The legislature finds that it is necessary to employ multiple approaches to revitalize the economy of Washington state's rural areas. The legislature also finds that where possible, Washington state should develop programs which can complement other private, state, and federal programs. It is the intent of section 402 of this act to complement such rural economic development efforts by creating a public utility tax offset program to help establish locally based electric utility revolving fund programs to be used for economic development and job creation.&quot; [
+1999 c 311 s 401
+.]
+Part headings and subheadings not law
+—
+Effective date
+—
+Severability
+—
+1999 c 311:
+See notes following RCW
+82.14.370
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.010"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.010/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.010/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_010">
+        <num>RCW 82.38.010</num>
+        <heading>Statement of purpose</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.38
+&gt;
+Section 82.38.010
+Beginning of Chapter
+&lt;&lt; 
+        82.38.010 &gt;&gt;
+82.38.020
+PDF
+RCW
+82.38.010
+Statement of purpose.
+The purpose of this chapter is to impose a tax upon fuels used for the propulsion of motor vehicles upon the highways of this state.
+[
+2013 c 225 s 101
+;
+1979 c 40 s 1
+;
+1971 ex.s. c 175 s 2
+.]
+NOTES:
+Effective date
+—
+2015 c 228; 2013 c 225:
+&quot;Section 110, chapter 225, Laws of 2013 takes effect July 1, 2015. Sections 101 through 109, 111 through 304, and 306 through 647, chapter 225, Laws of 2013 take effect July 1, 2016.&quot; [
+2015 c 228 s 40
+;
+2013 c 225 s 650
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

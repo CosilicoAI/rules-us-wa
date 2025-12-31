@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.04.033"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.033"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.04.033/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.033/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.04.033/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.04.033/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_04_033">
+        <num>RCW 74.04.033</num>
+        <heading>Notification of availability of basic health plan</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.04
+&gt;
+Section 74.04.033
+74.04.025
+&lt;&lt; 
+        74.04.033 &gt;&gt;
+74.04.040
+PDF
+RCW
+74.04.033
+Notification of availability of basic health plan.
+The department shall notify any applicant for public assistance who resides in a local area served by the Washington basic health plan and is under sixty-five years of age of the availability of basic health care coverage to qualified enrollees in the Washington basic health plan under chapter
+70.47
+RCW, unless the Washington basic health plan administrator has notified the department of a closure of enrollment in the area. The department shall maintain a supply of Washington basic health plan enrollment application forms, which shall be provided in reasonably necessary quantities by the administrator, in each appropriate community service office for the use of persons wishing to apply for enrollment in the Washington basic health plan.
+[
+1987 1st ex.s. c 5 s 18
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.08.900"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.900"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.08.900/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.900/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.08.900/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.08.900/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_08_900">
+        <num>RCW 74.08.900</num>
+        <heading>Limited application</heading>
+        <subsection eId="sec_74_08_900__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+74.08.070
+was repealed by
+1989 c 175 s 185
+.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_08_900__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Chapter
+74.50
+RCW was repealed by
+2019 c 325 s 6004
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

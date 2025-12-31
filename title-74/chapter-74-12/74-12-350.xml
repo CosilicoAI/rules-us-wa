@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.12.350"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.350"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.12.350/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.350/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.12.350/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.12.350/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_12_350">
+        <num>RCW 74.12.350</num>
+        <heading>Child's income set aside for future needs—Irrevocable trusts—Educational accounts</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.12
+&gt;
+Section 74.12.350
+74.12.340
+&lt;&lt; 
+        74.12.350 &gt;&gt;
+74.12.361
+PDF
+RCW
+74.12.350
+Child's income set aside for future needs
+—
+Irrevocable trusts
+—
+Educational accounts.
+The department of social and health services is hereby authorized to promulgate rules and regulations in conformity with the provisions of Public Law 87-543 to allow all or any portion of a dependent child's earned or other income to be set aside for the identifiable future needs of the dependent child which will make possible the realization of the child's maximum potential as an independent and useful citizen.
+The transfer into, or accumulation of, a child's income or resources in an irrevocable trust account is hereby allowed. The amount allowable is four thousand dollars. The department will provide income assistance recipients with clear and simple information on how to set up educational accounts, including how to assure that the accounts comply with federal law by being adequately earmarked for future educational use, and are irrevocable.
+[
+1994 c 299 s 31
+;
+1979 c 141 s 354
+;
+1963 c 226 s 1
+.]
+NOTES:
+Intent
+—
+Finding
+—
+Severability
+—
+Conflict with federal requirements
+—
+1994 c 299:
+See notes following RCW
+74.12.400
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

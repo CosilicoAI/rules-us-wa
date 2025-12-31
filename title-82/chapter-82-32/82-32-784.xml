@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.784"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.784"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.784/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.784/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.784/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.784/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_784">
+        <num>RCW 82.32.784</num>
+        <heading>Reseller's permit—Information required</heading>
+        <subsection eId="sec_82_32_784__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Reseller permits issued by the department, as provided under RCW
+82.32.780
+and
+82.32.783
+, will be in a form prescribed by the department, which may include an electronic form. Reseller permits must contain the following information:</p>
+          </content>
+          <subsection eId="sec_82_32_784__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A unique identifying number assigned by the department;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The name and address of the permit holder;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The type of business engaged in;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The date the permit was issued, renewed, or reinstated by the department; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The expiration date of the permit.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_784__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Reseller permits may also contain such other information as required by the department, including, but not limited to:</p>
+          </content>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The categories of items or services to be purchased for resale or that are otherwise to be purchased at wholesale;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The date that the permit was provided to the seller;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>A statement that the items or services purchased either:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Are purchased for resale in the regular course of business; or</p>
+            </content>
+            <subsection eId="sec_82_32_784__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>are otherwise purchased at wholesale;</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A statement that the permit holder acknowledges that misuse of [a] reseller permit or reseller permit number subjects the permit holder to revocation of the reseller permit, penalties as provided in RCW
+82.32.290
+and
+82.32.291
+, in addition to the tax, interest, and any other penalties imposed by law;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Instructions for renewing the permit;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>A statement that the department is authorized to obtain information concerning the permit holder's purchase of items or services under the permit from the seller to verify whether the permit holder was authorized to purchase such items or services without payment of retail sales tax; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_784__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The signature of the permit holder, unless a copy of the permit is provided to the seller in a format other than paper.
+[
+2010 c 112 s 4
+.]
+NOTES:
+Retroactive application
+—
+2010 c 112:
+See note following RCW
+82.32.780
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

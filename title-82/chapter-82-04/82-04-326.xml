@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.326"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.326"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.326/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.326/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.326/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.326/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_326">
+        <num>RCW 82.04.326</num>
+        <heading>Exemptions—Qualified organ procurement organizations</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.04
+&gt;
+Section 82.04.326
+82.04.324
+&lt;&lt; 
+        82.04.326 &gt;&gt;
+82.04.327
+PDF
+RCW
+82.04.326
+Exemptions
+—
+Qualified organ procurement organizations.
+This chapter does not apply to amounts received by a qualified organ procurement organization under 42 U.S.C. Sec. 273(b) in effect as of January 1, 2001, to the extent that the amounts are exempt from federal income tax.
+[
+2002 c 113 s 1
+.]
+NOTES:
+Effective date
+—
+2002 c 113:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 22, 2002].&quot; [
+2002 c 113 s 4
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

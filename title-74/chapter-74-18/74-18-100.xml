@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.18.100"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.100"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.18.100/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.100/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.18.100/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.18.100/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_18_100">
+        <num>RCW 74.18.100</num>
+        <heading>Rehabilitation council for the blind—Director to consult</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.18
+&gt;
+Section 74.18.100
+74.18.090
+&lt;&lt; 
+        74.18.100 &gt;&gt;
+74.18.110
+PDF
+RCW
+74.18.100
+Rehabilitation council for the blind
+—
+Director to consult.
+It shall be the duty of the director to consult in a timely manner with the rehabilitation council for the blind on the matters enumerated in RCW
+74.18.090
+. The director shall provide appropriate departmental resources for the use of the rehabilitation council in conducting its official business.
+[
+2000 c 57 s 4
+;
+1983 c 194 s 10
+.]</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

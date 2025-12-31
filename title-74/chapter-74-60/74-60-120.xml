@@ -1,0 +1,298 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.60.120"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.60.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.60.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.60.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_60_120">
+        <num>RCW 74.60.120</num>
+        <heading>Direct supplemental payments to hospitals</heading>
+        <subsection eId="sec_74_60_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>For each calendar year, beginning January 1, 2024, or upon satisfaction of the applicable conditions in RCW
+74.60.150</p>
+          </content>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection, should be paid under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, and funds that cannot be paid under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection, shall be paid under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For inpatient fee-for-service payments for medicaid prospective payment hospitals other than psychiatric or rehabilitation hospitals, $21,800,000 per calendar year plus federal matching funds;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For outpatient fee-for-service payments for medicaid prospective payment hospitals other than psychiatric or rehabilitation hospitals, $12,400,000 per calendar year plus federal matching funds;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>For inpatient fee-for-service payments for psychiatric hospitals, $875,000 per calendar year plus federal matching funds;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>For inpatient fee-for-service payments for rehabilitation hospitals, $225,000 per calendar year plus federal matching funds;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For inpatient fee-for-service payments for border hospitals, $250,000 per calendar year plus federal matching funds; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>For outpatient fee-for-service payments for border hospitals, $250,000 per calendar year plus federal matching funds.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the amount of inpatient or outpatient payments under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, when combined with federal matching funds, exceeds the upper payment limit, payments to each category of hospital in subsection</p>
+          </content>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section must be reduced proportionately to a level where the total payment amount is consistent with the upper payment limit. If funds in excess of the upper payment limit cannot be paid under RCW
+74.60.130
+and if the payment amount in excess of the upper payment limit exceeds $15,000,000, the authority shall increase the medicaid prospective payment system hospital outpatient hospital payment rate, for hospitals using the safety net funding and federal matching funds that would otherwise have been used to fund the payments under subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section that exceed the upper payment limit. By January 1st of each year, annually, the authority shall provide to the Washington state hospital association an upper payment limit analysis using the latest available claims data for the historic periods in the calculation. If the analysis shows the payments are projected to exceed the upper payment limit by at least $15,000,000, the authority shall initiate an outpatient rate increase effective July 1st of that year.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The amount of such fee-for-service inpatient payments to individual hospitals within each of the categories identified in subsection</p>
+          </content>
+          <subsection eId="sec_74_60_120__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>of this section must be determined by:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Totaling the inpatient fee-for-service claims payments and inpatient managed care encounter rate payments for each hospital during the base year;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Totaling the inpatient fee-for-service claims payments and inpatient managed care encounter rate payments for all hospitals during the base year; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Using the amounts calculated under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection to determine an individual hospital's percentage of the total amount to be distributed to each category of hospital.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The amount of such fee-for-service outpatient payments to individual hospitals within each of the categories identified in subsection</p>
+          </content>
+          <subsection eId="sec_74_60_120__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_4__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this section must be determined by:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Totaling the outpatient fee-for-service claims payments and outpatient managed care encounter rate payments for each hospital during the base year;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Totaling the outpatient fee-for-service claims payments and outpatient managed care encounter rate payments for all hospitals during the base year; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Using the amounts calculated under</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_60_120__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection to determine an individual hospital's percentage of the total amount to be distributed to each category of hospital.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Sixty calendar days before the first payment in each subsequent calendar year, the authority shall provide each hospital and the Washington state hospital association with an explanation of how the amounts due to each hospital under this section were calculated.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Payments must be made in quarterly installments on or about the last day of every quarter, provided that if initial payments are delayed due to federal approval, the initial payment shall include all amounts due from January 1, 2024.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_60_120__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Payments under this section are supplemental to all other payments and do not reduce any other payments to hospitals.
+[
+2023 c 430 s 11
+;
+2019 c 318 s 7
+;
+2017 c 228 s 8
+;
+2015 2nd sp.s. c 5 s 7
+;
+2014 c 143 s 2
+;
+2013 2nd sp.s. c 17 s 11
+;
+2010 1st sp.s. c 30 s 13
+.]
+NOTES:
+Contingent effective date
+—
+2023 c 430:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2019 c 318:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2017 c 228:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2015 2nd sp.s. c 5:
+See note following RCW
+74.60.005
+.
+Effective date
+—
+2014 c 143:
+See note following RCW
+74.60.030
+.
+Effective date
+—
+2013 2nd sp.s. c 17:
+See note following RCW
+74.60.005
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

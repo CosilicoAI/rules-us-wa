@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.66.005"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.66.005/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.66.005/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.66.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_66_005">
+        <num>RCW 74.66.005</num>
+        <heading>Short title</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.66
+&gt;
+Section 74.66.005
+Beginning of Chapter
+&lt;&lt; 
+        74.66.005 &gt;&gt;
+74.66.010
+PDF
+RCW
+74.66.005
+Short title.
+This chapter may be known and cited as the medicaid fraud false claims act.
+[
+2012 c 241 s 214
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2012 c 241:
+See note following RCW
+74.66.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

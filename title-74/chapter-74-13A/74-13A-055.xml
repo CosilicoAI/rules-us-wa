@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.055"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.055/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.13A.055/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.13A.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_13A_055">
+        <num>RCW 74.13A.055</num>
+        <heading>Voluntary amendments to agreements—Procedure when adoptive parties disagree</heading>
+        <subsection eId="sec_74_13A_055__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>RCW
+74.13.100
+through
+74.13.145
+were recodified as RCW
+74.13A.005
+through
+74.13A.080
+pursuant to
+2009 c 520 s 95
+.
+**</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_13A_055__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>RCW
+74.13.124
+was recodified as RCW
+74.13A.050
+pursuant to
+2009 c 520 s 95
+.
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

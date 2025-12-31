@@ -1,0 +1,555 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0206"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0206"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0206/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0206/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.0206/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.0206/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_0206">
+        <num>RCW 82.08.0206</num>
+        <heading>Credits—Working families—Eligible low-income persons—Penalties. (Contingent expiration date.)</heading>
+        <subsection eId="sec_82_08_0206__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A working families' tax credit, funded by sales and use tax imposed, is provided to eligible low-income persons for calendar years beginning on or after January 1, 2022. The credit is refundable and is calculated as provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of the credit in this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>&quot;Eligible low-income person&quot; means an individual who:
+(A) Is eligible for the credit provided in Title 26 U.S.C. Sec. 32 of the internal revenue code;
+(B) Properly files a federal income tax return for the prior federal tax year, and was a Washington resident during the year for which the credit is claimed; and
+(C) Has paid either retail sales tax under this chapter or use tax under chapter
+82.12
+RCW, or both. There is a rebuttable presumption that a person paid either retail sales tax under this chapter or use tax under chapter
+82.12
+RCW, or both, if they were a Washington resident during the year for which the credit is claimed.</p>
+            </content>
+            <subsection eId="sec_82_08_0206__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>&quot;Eligible low-income person&quot; also means an individual who meets the requirements provided in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Income&quot; means earned income as defined by Title 26 U.S.C. Sec. 32 of the internal revenue code.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Individual&quot; means an individual or an individual and that individual's spouse if they file a federal joint income tax return.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Internal revenue code&quot; means the United States internal revenue code of 1986, as amended, as of June 9, 2022, or such subsequent date as the department may provide by rule consistent with the purpose of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Maximum qualifying income&quot; means the maximum federally adjusted gross income for the prior federal tax year.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>&quot;Qualifying child&quot; means a qualifying child as defined by Title 26 U.S.C. Sec. 32 of the internal revenue code, except the child may have a valid individual taxpayer identification number in lieu of a social security number.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>&quot;Washington resident&quot; means an individual who is physically present and residing in this state for at least 183 days. &quot;Washington resident&quot; also includes an individual who is not physically present and residing in this state for at least 183 days but is the spouse of a Washington resident. For purposes of this subsection, &quot;day&quot; means a calendar day or any portion of a calendar day.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection, for calendar year 2023 and thereafter, the working families' tax credit refund amount for the prior calendar year is:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>$300 for eligible persons with no qualifying children;</p>
+            </content>
+            <subsection eId="sec_82_08_0206__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>$600 for eligible persons with one qualifying child;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0206__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>$900 for eligible persons with two qualifying children; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0206__subsec_2__subsec_i__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>$1,200 for eligible persons with three or more qualifying children.</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Except as provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>of this subsection, the refund amounts provided in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection will be reduced, rounded to the nearest dollar, as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>For eligible persons with no qualifying children, beginning at $2,500 of income below the federal phase-out income for the prior federal tax year, by 18 percent per additional dollar of income until the minimum credit amount as specified in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection is reached.</p>
+            </content>
+            <subsection eId="sec_82_08_0206__subsec_2__subsec_c__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>For eligible persons with one qualifying child, beginning at $5,000 of income below the federal phase-out income for the prior federal tax year, by 12 percent per additional dollar of income until the minimum credit amount as specified in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection is reached.</p>
+            </content>
+            <subsection eId="sec_82_08_0206__subsec_2__subsec_c__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>For eligible persons with two qualifying children, beginning at $5,000 of income below the federal phase-out income for the prior federal tax year, by 15 percent per additional dollar of income until the minimum credit amount as specified in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection is reached.
+(iv) For eligible persons with three or more qualifying children, beginning at $5,000 of income below the federal phase-out income for the prior federal tax year, by 18 percent per additional dollar of income until the minimum credit amount as specified in</p>
+            </content>
+            <subsection eId="sec_82_08_0206__subsec_2__subsec_c__subsec_iv">
+              <num>(iv)</num>
+              <content>
+                <p>For eligible persons with three or more qualifying children, beginning at $5,000 of income below the federal phase-out income for the prior federal tax year, by 18 percent per additional dollar of income until the minimum credit amount as specified in</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>of this subsection is reached.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the refund for an eligible person as calculated in this section is greater than zero cents, but less than $50, the refund amount is $50.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The refund amounts in this section shall be adjusted for inflation every year beginning January 1, 2024, based upon changes in the consumer price index that are published by November 15th of the previous year for the most recent 12-month period. The adjusted refund amounts must be rounded to the nearest $5.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>For purposes of this section, &quot;consumer price index&quot; means, for any 12-month period, the average consumer price index for that 12-month period for the Seattle, Washington area for urban wage earners and clerical workers, all items, compiled by the bureau of labor statistics, United States department of labor.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The percentage rate of remittance reductions in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection must be adjusted every year beginning January 1, 2023, based on calculations by the department that result in the minimum credit being received at the maximum qualifying income level.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The working families' tax credit shall be administered as provided in this subsection.</p>
+          </content>
+          <subsection eId="sec_82_08_0206__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The refund paid under this section will be paid to eligible filers who apply pursuant to this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Application must be made to the department in a form and manner determined by the department. If the application process is initially done electronically, the department must provide a paper application upon request. The application must include any information and documentation as required by the department. The department may use the information provided by the individual to calculate the refund amount. Income reported on the application may be rounded to the nearest dollar.</p>
+            </content>
+            <subsection eId="sec_82_08_0206__subsec_4__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>An individual applying for the credit under this section must keep records necessary for the department to verify eligibility under this section. Any information provided by the individual is subject to audit verification by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_0206__subsec_4__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>In addition to information provided on the application, the department may verify that an individual qualifies as a Washington resident through the use of automated verification tools or other reasonable means.
+(iv)(A) Except as provided in</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>for up to three additional years. A person must complete an application to claim this refund within the three calendar years after the end of the calendar year in which the federal income tax return for that tax year was legally due for federal income tax purposes, without regard to any federal extension.
+(II) If a person seeks to increase the amount of a refund that has been made under this subsection</p>
+          </content>
+          <subsection eId="sec_82_08_0206__subsec_4__subsec_v">
+            <num>(v)</num>
+            <content>
+              <p>A person may not claim a credit on behalf of a deceased individual. No individual may claim a credit under this section for any year in a disallowance period under Title 26 U.S.C. Sec. 32(k)</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of the internal revenue code or for any year for which the individual is ineligible to claim the credit in Title 26 U.S.C. Sec. 32 of the internal revenue code by reason of Title 26 U.S.C. Sec. 32(k)</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of the internal revenue code.</p>
+          </content>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The department shall protect the privacy and confidentiality of personal data of refund recipients in accordance with chapter
+82.32
+RCW.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department shall, in conjunction with other agencies or organizations, design and implement a public information campaign to inform potentially eligible persons of the existence of, and requirements for, the credit provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The department must work with the internal revenue service of the United States to administer the credit on an automatic basis as soon as practicable.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Receipt of a refund under this section may not be used in eligibility determinations for any state income support programs or in making public charge determinations.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The department may adopt rules necessary to implement this section. This includes establishing a date by which applications will be accepted, with the aim of accepting applications as soon as possible.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The department must review the application and determine eligibility for the working families' tax credit based on information provided by the applicant and through audit and other administrative records, including, when it deems it necessary, verification through information from the internal revenue service of the United States, other federal agencies, Washington state agencies, third-party entities, or other persons. The department may accept a signed attestation in a form and manner determined by the department from an individual to presumptively validate that an individual meets all the eligibility requirements as provided in this section. The signed attestation is subject to audit verification by the department to validate an individual's eligibility for the working families' tax credit.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>If, upon review of internal revenue service data or other information obtained by the department, it appears that an individual received a refund that the individual was not entitled to, or received a larger refund than the individual was entitled to, the department may assess against the individual the overpaid amount. The department may also assess such overpaid amount against the individual's spouse if the refund in question was based on both spouses filing a joint federal income tax return for the year for which the refund was claimed.</p>
+          </content>
+          <subsection eId="sec_82_08_0206__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Interest as provided under RCW
+82.32.050
+applies to assessments authorized under this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>starting six months after the date the department issued the assessment until the amount due under this subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>is paid in full to the department. Except as otherwise provided in this subsection, penalties may not be assessed on amounts due under this subsection.</p>
+          </content>
+          <subsection eId="sec_82_08_0206__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>If an amount due under this subsection is not paid in full by the date due, or the department issues a warrant for the collection of amounts due under this subsection, the department may assess the applicable penalties under RCW
+82.32.090
+. Penalties under this subsection</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>may not be made due until six months after the department's issuance of the assessment.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>If the department finds by clear, cogent, and convincing evidence that an individual knowingly submitted, caused to be submitted, or consented to the submission of, a fraudulent claim for refund under this section, the department must assess a penalty of 50 percent of the overpaid amount. This penalty is in addition to any other applicable penalties assessed in accordance with</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_0206__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of this subsection</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>If, within the period allowed for refunds under RCW
+82.32.060
+, the department finds that an individual received a lesser refund than the individual was entitled to, the department must remit the additional amount due under this section to the individual.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Interest does not apply to refunds provided under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Chapter
+82.32
+RCW applies to the administration of this section.
+[
+2024 c 3 s 1
+. Prior:
+2023 c 456 s 1
+;
+2023 c 374 s 10
+; prior:
+2022 c 41 s 1
+;
+2022 c 33 s 1
+;
+2021 c 195 s 2
+;
+2008 c 325 s 2
+.]
+NOTES:
+Retroactive application
+—
+2024 c 3:
+&quot;This act applies both prospectively and retroactively to January 1, 2023.&quot; [
+2024 c 3 s 2
+.]
+Automatic expiration date exemption
+—
+2023 c 456:
+&quot;RCW
+82.32.805
+does not apply to this act.&quot; [
+2023 c 456 s 4
+.]
+Effective date
+—
+2023 c 456:
+&quot;This act takes effect January 1, 2024.&quot; [
+2023 c 456 s 5
+.]
+Findings
+—
+Intent
+—
+2021 c 195:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Many Washington families do not earn enough annually to keep pace with increasing health care, child care, housing, and other essential expenses.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Amidst rising cost of living across the state, the regressive nature of Washington's tax code puts an additional strain on households already struggling to meet their basic needs. Washington's tax system is the most upside down and regressive in the nation, allowing those who earn the most to pay the least percentage of their income in taxes. As a percentage of household income, low-income Washingtonians, who are disproportionately Black, American Indian and Alaska Native, Latinx, Native Hawaiian and Pacific Islander, and multiracial Washingtonians, pay six times more in taxes than our wealthiest residents.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Eligibility for the working families' tax exemption is based on eligibility for the federal earned income tax credit, a refundable tax credit for working individuals and families whose earnings are below an income threshold. Since its establishment in 1975, the earned income tax credit has increased family income, reduced child poverty, and improved health, educational, and career outcomes for children in low-income families. Taxpayers filing with an individual tax identification number and their families, however, are excluded from receiving the federal credit and its corollary benefits to health and well-being, despite paying local, state, and federal taxes.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Since its establishment in 1975, the earned income tax credit has also had a positive impact on local businesses because it puts more money in the hands of low-income working people who spend the money on immediate needs, such as groceries, transportation, rent, and health care. The credit has been shown to have a multiplier effect to support local businesses, generating an estimated $1.50 to $2.00 in local economic activity for every dollar received by beneficiaries.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Therefore, it is the public policy objective of the legislature to stimulate local economic activity, advance racial equity, and promote economic stability and well-being for lower-income working people, including individual tax identification number filers, by updating and simplifying the structure of the working families' tax exemption.&quot; [
+2021 c 195 s 1
+.]
+Automatic expiration date exemption
+—
+2021 c 195:
+&quot;The provisions of RCW
+82.32.805
+do not apply to this act.&quot; [
+2021 c 195 s 3
+.]
+Contingent expiration date
+—
+Tax preference performance statement
+—
+2023 c 456 s 1
+; 2021 c 195 s 2:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This section is the tax preference performance statement for the tax preference contained in section 2, chapter 195, Laws of 2021 and section 1, chapter 456, Laws of 2023. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for the preferential tax treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature categorizes this tax preference as one intended to provide tax relief for certain individuals as indicated in RCW
+82.32.808</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>It is the legislature's specific public policy objective to allow low-income and middle-income workers to recover some or all of the sales tax they pay to support state and local government as a way to increase their economic security and to decrease the regressivity of our state tax code. It is the legislature's intent to provide a sales and use tax credit, in the form of a remittance, to low-income and middle-income working families.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The joint legislative audit and review committee shall review this preference in 2028 and every 10 years thereafter. If a review finds that the working families' tax credit does not provide meaningful financial relief to low-income and middle-income households, RCW
+82.08.0206
+expires at the end of the calendar year two years after the adoption of the final report containing that finding. The joint legislative audit and review committee shall provide written notice of the expiration date of RCW
+82.08.0206
+to the department of revenue, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the joint legislative audit and review committee. In its review of the program, the joint legislative audit and review committee should use at least the following metrics: Size of the benefit per household, number of household beneficiaries statewide, and demographic information of beneficiaries to include family size, income level, race and ethnicity, and geographic location.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>In order to obtain the data necessary to perform the review in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_0206__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of this section, the joint legislative audit and review committee may refer to the remittance data prepared by the department of revenue.&quot; [
+2023 c 456 s 3
+;
+2021 c 195 s 4
+.]
+Findings
+—
+Intent
+—
+2008 c 325:
+&quot;The legislature finds that many Washington families do not earn enough annually to keep pace with increasing health care, child care, and work-related expenses. Because the state relies so heavily on sales tax revenue, families in Washington with the lowest incomes pay proportionately four or five times as much in state taxes as the most affluent households. The legislature finds that higher-income families are able to recover some of the sales and use taxes that they pay to support state and local government through the federal income tax deduction for sales and use taxes, but that lower-income people, who are not able to itemize, receive no benefit. Therefore, it is the intent of the legislature to provide a sales and use tax exemption, in the form of a remittance, to lower-income working families in Washington, and to use the federal earned income tax credit as a proxy for the amount of sales tax paid.&quot; [
+2008 c 325 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

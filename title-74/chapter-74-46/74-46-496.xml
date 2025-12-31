@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.46.496"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.496"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.46.496/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.496/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.46.496/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.46.496/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_46_496">
+        <num>RCW 74.46.496</num>
+        <heading>Case mix weights—Determination</heading>
+        <subsection eId="sec_74_46_496__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Each case mix classification group shall be assigned a case mix weight. The case mix weight for each resident of a nursing facility for each calendar quarter or six-month period during a calendar year shall be based on data from resident assessment instruments completed for the resident and weighted by the number of days the resident was in each case mix classification group. Days shall be counted as provided in this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_46_496__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The case mix weights shall be based on finalized case mix weights as published by the centers for medicare and medicaid services in the federal register.
+[
+2024 c 246 s 3
+;
+2011 1st sp.s. c 7 s 5
+;
+2010 1st sp.s. c 34 s 10
+;
+2006 c 258 s 4
+;
+1998 c 322 s 23
+.]
+NOTES:
+Purpose
+—
+Findings
+—
+Intent
+—
+Severability
+—
+Effective date
+—
+2011 1st sp.s. c 7:
+See RCW
+74.48.005
+,
+74.48.900
+, and
+74.48.901
+.
+Analysis
+—
+2011 1st sp.s. c 7:
+See note following RCW
+74.46.485
+.
+Effective date
+—
+2010 1st sp.s. c 34:
+See note following RCW
+74.46.010
+.
+Effective date
+—
+2006 c 258:
+See note following RCW
+74.46.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

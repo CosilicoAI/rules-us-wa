@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.007"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.007"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.007/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.007/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.39A.007/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.39A.007/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_39A_007">
+        <num>RCW 74.39A.007</num>
+        <heading>Purpose and intent</heading>
+        <subsection eId="sec_74_39A_007__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Long-term care services administered by the department of social and health services include a balanced array of health, social, and supportive services that promote individual choice, dignity, and the highest practicable level of independence;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_007__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Home and community-based services be developed, expanded, or maintained in order to meet the needs of consumers and to maximize effective use of limited resources;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_007__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Long-term care services be responsive and appropriate to individual need and also cost-effective for the state;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_007__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Nursing home care is provided in such a manner and in such an environment as will promote maintenance or enhancement of the quality of life of each resident and timely discharge to a less restrictive care setting when appropriate; and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_39A_007__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>State health planning for nursing home bed supply take into account increased availability of other home and community-based service options.
+[
+1993 c 508 s 2
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

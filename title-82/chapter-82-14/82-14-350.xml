@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.350"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.350"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.350/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.350/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.350/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.350/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_350">
+        <num>RCW 82.14.350</num>
+        <heading>Sales and use tax for juvenile detention facilities and jails—Colocation</heading>
+        <subsection eId="sec_82_14_350__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A county legislative authority in a county with a population of less than one million may submit an authorizing proposition to the county voters, and if the proposition is approved by a majority of persons voting, fix and impose a sales and use tax in accordance with the terms of this chapter for the purposes designated in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_350__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_350__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The tax authorized in this section shall be in addition to any other taxes authorized by law and shall be collected from those persons who are taxable by the state under chapters
+82.08
+and
+82.12
+RCW upon the occurrence of any taxable event within the county. The rate of tax shall equal one-tenth of one percent of the selling price in the case of a sales tax, or value of the article used, in the case of a use tax.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_350__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Moneys received from any tax imposed under this section shall be used solely for the purpose of providing funds for costs associated with financing, design, acquisition, construction, equipping, operating, maintaining, remodeling, repairing, reequipping, and improvement of juvenile detention facilities and jails.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_350__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Counties are authorized to develop joint ventures to colocate juvenile detention facilities and to colocate jails.
+[
+1995 2nd sp.s. c 10 s 1
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

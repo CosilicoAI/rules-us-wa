@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.32.765"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.765"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.32.765/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.765/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.32.765/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.32.765/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_32_765">
+        <num>RCW 82.32.765</num>
+        <heading>Local revitalization financing—Reporting requirements</heading>
+        <subsection eId="sec_82_32_765__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A sponsoring local government receiving a project award under RCW
+39.104.100
+must provide a report to the department by March 1st of each year beginning March 1st after the project award has been approved. The report must contain the following information:</p>
+          </content>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The amounts of local property tax allocation revenues received in the preceding calendar year broken down by sponsoring local government and participating taxing district;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The amount of state property tax allocation revenues estimated to have been received by the state in the preceding calendar year;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The amount of local sales and use tax and other revenue from local public sources dedicated by any participating local government used for the payment of bonds under RCW
+39.104.110
+and public improvement costs within the revitalization area on a pay-as-you-go basis in the preceding calendar year;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>The amount of local sales and use tax dedicated by the sponsoring local government, as it relates to the sponsoring local government's local sales and use tax increment, used for the payment of bonds under RCW
+39.104.110
+and public improvement costs within the revitalization area on a pay-as-you-go basis;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The amounts, other than those listed in</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>of this subsection, from local public sources, broken down by type or source, used for payment of bonds under RCW
+39.104.110
+or public improvement costs within the revitalization area on a pay-as-you-go basis in the preceding calendar year;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The anticipated date when bonds under RCW
+39.104.110
+are expected to be retired;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>The names of any businesses locating within the revitalization area as a result of the public improvements undertaken by the sponsoring local government and financed in whole or in part with local revitalization financing;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>An estimate of the cumulative number of permanent jobs created in the revitalization area as a result of the public improvements undertaken by the sponsoring local government and financed in whole or in part with local revitalization financing;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>An estimate of the average wages and benefits received by all employees of businesses locating within the revitalization area as a result of the public improvements undertaken by the sponsoring local government and financed in whole or in part with local revitalization financing;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>A list of public improvements financed by bonds issued under RCW
+39.104.110
+and the date on which the bonds are anticipated to be retired;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>That the sponsoring local government is in compliance with RCW
+39.104.030
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>At least once every three years, updated estimates of the amounts of state and local sales and use tax increments estimated to have been received since the approval of the project award under RCW
+39.104.100
+;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>The amount of revenues from local public sources that</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>were expended in prior years for the payment of bonds under RCW
+39.104.110
+and public improvement costs within the revitalization area on a pay-as-you-go basis in prior calendar years that were in excess of the project award amount for that year and are carried forward for dedication in future years,</p>
+            </content>
+            <subsection eId="sec_82_32_765__subsec_1__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>are deemed dedicated to payment of bonds or public improvement costs in the calendar year for which the report is prepared, and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_32_765__subsec_1__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>remain available for dedication in future years; and</p>
+              </content>
+            </subsection>
+          </subsection>
+          <subsection eId="sec_82_32_765__subsec_1__subsec_n">
+            <num>(n)</num>
+            <content>
+              <p>Any other information required by the department to enable the department to fulfill its duties under this chapter and RCW
+82.14.510
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_32_765__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The department must make a report available to the public and the legislature by June 1st of each year. The report must include a summary of the information provided to the department by sponsoring local governments under subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_32_765__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section.
+[
+2016 c 207 s 5
+;
+2010 c 164 s 10
+;
+2009 c 270 s 501
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

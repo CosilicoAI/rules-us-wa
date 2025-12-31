@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.995"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.995"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.995/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.995/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.995/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.995/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_995">
+        <num>RCW 82.08.995</num>
+        <heading>Exemptions—Certain limited purpose public corporations, commissions, and authorities</heading>
+        <subsection eId="sec_82_08_995__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax imposed by RCW
+82.08.020
+does not apply to sales of personal property and services provided by a public corporation, commission, or authority created under RCW
+35.21.660
+or
+35.21.730
+to an eligible entity.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_995__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this section, &quot;eligible entity&quot; means a limited liability company, a limited partnership, or a single asset entity, described in RCW
+82.04.615
+.
+[
+2009 c 535 s 514
+;
+2007 c 381 s 2
+.]
+NOTES:
+Intent
+—
+Construction
+—
+2009 c 535:
+See notes following RCW
+82.04.192
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

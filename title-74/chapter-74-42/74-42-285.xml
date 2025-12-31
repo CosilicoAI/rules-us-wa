@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.42.285"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.285"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.42.285/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.285/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.42.285/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.42.285/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_42_285">
+        <num>RCW 74.42.285</num>
+        <heading>Immunizations—Rules</heading>
+        <subsection eId="sec_74_42_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Long-term care facilities shall:</p>
+          </content>
+          <subsection eId="sec_74_42_285__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Provide access on-site or make available elsewhere for all residents to obtain the influenza virus immunization on an annual basis;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_285__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Require that each resident, or the resident's legal representative, upon admission to the facility, be informed verbally and in writing of the benefits of receiving the influenza virus immunization and, if not previously immunized against pneumococcal disease, the benefits of the pneumococcal immunization.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_285__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>As used in this section, &quot;long-term care facility&quot; is limited to nursing homes licensed under chapter
+18.51
+RCW.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_285__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department of social and health services shall adopt rules to implement this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_285__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>This section and rules adopted under this section shall not apply to nursing homes conducted for those who rely exclusively upon treatment by nonmedical religious healing methods, including prayer.
+[
+2002 c 256 s 2
+.]
+NOTES:
+Intent
+—
+Findings
+—
+2002 c 256:
+&quot;It is the intent of the legislature to ensure that long-term care facilities are safe.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_42_285__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The long-term care resident immunization act is intended to:</p>
+          </content>
+          <subsection eId="sec_74_42_285__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Prevent and reduce the occurrence and severity of the influenza virus and pneumococcal disease by increasing the use of immunizations licensed by the food and drug administration;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_285__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Avoid pain, suffering, and deaths that may result from the influenza virus and pneumococcal disease;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_285__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Improve the well-being and quality of life of residents of long-term care facilities; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_285__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Reduce avoidable costs associated with treating the influenza virus and pneumococcal disease.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_42_285__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The legislature finds that:</p>
+          </content>
+          <subsection eId="sec_74_42_285__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Recent studies show that it is important to immunize older citizens against the influenza virus and pneumococcal disease;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_285__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The centers for disease control and prevention recommend individuals living in long-term care facilities and those over age sixty-five receive immunizations against the influenza virus and pneumococcal disease;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_285__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The influenza virus and pneumococcal disease have been identified as leading causes of death for citizens over age sixty-five; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_42_285__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Immunizations licensed by the food and drug administration are readily available and effective in reducing and preventing the severity of the influenza virus and pneumococcal disease.&quot; [
+2002 c 256 s 1
+.]
+Short title
+—
+2002 c 256:
+&quot;This act may be known and cited as the long-term care resident immunization act of 2002.&quot; [
+2002 c 256 s 3
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

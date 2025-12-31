@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.597"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.597"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.597/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.597/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.597/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.597/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_597">
+        <num>RCW 74.09.597</num>
+        <heading>Medical assistance—Durable medical equipment and medical supplies—Providers</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.09
+&gt;
+Section 74.09.597
+74.09.595
+&lt;&lt; 
+        74.09.597 &gt;&gt;
+74.09.600
+PDF
+RCW
+74.09.597
+Medical assistance
+—
+Durable medical equipment and medical supplies
+—
+Providers.
+The following must be medicare providers in order to be paid under the medicaid program: Providers of durable medical equipment and related supplies and providers of medical supplies and related services.
+[
+2012 c 241 s 105
+.]
+NOTES:
+Intent
+—
+Finding
+—
+2012 c 241:
+See note following RCW
+74.66.010
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

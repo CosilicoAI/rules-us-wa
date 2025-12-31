@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.120"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.120"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.120/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.120/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20A.120/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20A.120/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20A_120">
+        <num>RCW 74.20A.120</num>
+        <heading>Banks, savings and loan associations, credit unions—Service on main office or branch, effect—Collection actions against community bank account, right to adjudicative proceeding</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20A
+&gt;
+Section 74.20A.120
+74.20A.110
+&lt;&lt; 
+        74.20A.120 &gt;&gt;
+74.20A.130
+PDF
+RCW
+74.20A.120
+Banks, savings and loan associations, credit unions
+—
+Service on main office or branch, effect
+—
+Collection actions against community bank account, right to adjudicative proceeding.
+A lien, order to withhold and deliver, or any other notice or document authorized by this chapter or chapter
+26.23
+RCW may be served on the main office of a bank, savings and loan association, or credit union or on a branch office of such financial institution. Service on the main office shall be effective to attach the deposits of a responsible parent in the financial institution and compensation payable for personal services due the responsible parent from the financial institution. Service on a branch office shall be effective to attach the deposits, accounts, credits, or other personal property of the responsible parent, excluding compensation payable for personal services, in the possession or control of the particular branch served.
+If the department initiates collection action under this chapter against a community bank account, the debtor or the debtor's spouse, upon service on the department of a timely application, has a right to an adjudicative proceeding governed by chapter
+34.05
+RCW, the Administrative Procedure Act, to establish that the funds in the account, or a portion of those funds, were the earnings of the nonobligated spouse, and are exempt from the satisfaction of the child support obligation of the debtor pursuant to RCW
+26.16.200
+.
+[
+1989 c 360 s 30
+;
+1989 c 175 s 155
+;
+1983 1st ex.s. c 41 s 3
+;
+1971 ex.s. c 164 s 12
+.]
+NOTES:
+Reviser's note:
+This section was amended by 1989 c 175 s 155 and by 1989 c 360 s 30, each without reference to the other. Both amendments are incorporated in the publication of this section pursuant to RCW
+1.12.025
+(2). For rule of construction, see RCW
+1.12.025
+(1).
+Effective date
+—
+1989 c 175:
+See note following RCW
+34.05.010
+.
+Severability
+—
+1983 1st ex.s. c 41:
+See note following RCW
+26.09.060
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

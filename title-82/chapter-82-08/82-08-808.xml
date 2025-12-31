@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.08.808"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.808"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.08.808/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.808/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.08.808/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.08.808/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_08_808">
+        <num>RCW 82.08.808</num>
+        <heading>Exemptions—Sales of medical supplies, chemicals, or materials to comprehensive cancer centers</heading>
+        <subsection eId="sec_82_08_808__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The tax levied by RCW
+82.08.020
+does not apply to the sale of medical supplies, chemicals, or materials to a comprehensive cancer center. The exemption in this section does not apply to the sale of construction materials, office equipment, building equipment, administrative supplies, or vehicles.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_08_808__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_08_808__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Comprehensive cancer center&quot; has the meaning provided in RCW
+82.04.4265
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_808__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Chemical&quot; means any catalyst, solvent, water, acid, oil, or other additive that physically or chemically interacts with blood, bone, or tissue.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_808__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Materials&quot; means any item of tangible personal property, including, but not limited to, bags, packs, collecting sets, filtering materials, testing reagents, antisera, and refrigerants used or consumed in performing research on, procuring, testing, processing, storing, packaging, distributing, or using blood, bone, or tissue.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_808__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Research&quot; means basic and applied research that has as its objective the design, development, refinement, testing, marketing, or commercialization of a product, service, or process.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_808__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Medical supplies&quot; means any item of tangible personal property, including any repair and replacement parts for such tangible personal property, used by a comprehensive cancer center for the purpose of performing research on, procuring, testing, processing, storing, packaging, distributing, or using blood, bone, or tissue. The term includes tangible personal property used to:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_08_808__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Provide preparatory treatment of blood, bone, or tissue;</p>
+            </content>
+            <subsection eId="sec_82_08_808__subsec_2__subsec_i__subsec_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Control, guide, measure, tune, verify, align, regulate, test, or physically support blood, bone, or tissue; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_82_08_808__subsec_2__subsec_i__subsec_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Protect the health and safety of employees or others present during research on, procuring, testing, processing, storing, packaging, distributing, or using blood, bone, or tissue.
+[
+2005 c 514 s 402
+.]
+NOTES:
+Effective date
+—
+2005 c 514 ss 401-403:
+See note following RCW
+82.04.4265
+.
+Part headings not law
+—
+Severability
+—
+2005 c 514:
+See notes following RCW
+82.12.808
+.</p>
+              </content>
+            </subsection>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

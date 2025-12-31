@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.38.072"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.072"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.38.072/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.072/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.38.072/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.38.072/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_38_072">
+        <num>RCW 82.38.072</num>
+        <heading>Dyed special fuel—Penalties</heading>
+        <subsection eId="sec_82_38_072__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Unless the use is exempt from the special fuel tax, or expressly authorized by the federal internal revenue code and this chapter, a person having dyed special fuel in the fuel supply tank of a motor vehicle that is licensed or required to be licensed is subject to a civil penalty of $10 for each gallon of dyed special fuel placed into the supply tank of the motor vehicle, or $1,000, whichever is greater. The penalties must be collected and administered under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_072__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person who maintains dyed special fuel in bulk storage for an intended sale or use in violation of this chapter is subject to a civil penalty of $10 for each gallon of dyed special fuel, or $1,000, whichever is greater, currently and previously maintained in bulk storage by the person. The department may make an assessment based upon the calculated capacity of the bulk storage, which is presumptive unless evidence is provided supporting a lower quantity of dyed special fuel actually maintained in violation of this chapter. The penalties must be collected and administered under this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_072__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of enforcement of this section, the director, the director's agents, the Washington state patrol, or other commercial vehicle safety alliance-certified officers may inspect, collect, and secure samples of special fuel used in the propulsion of a vehicle operated upon the highways of this state, or in any bulk storage device transported upon the highways of this state, to detect the presence of dye or other chemical compounds.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_072__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>RCW
+43.05.110
+does not apply to the civil penalties imposed under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_072__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>If one or more violations have been assessed under this section within the previous five years from the violation date, the civil penalties under subsections</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_072__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_072__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this section must be multiplied by the number of previously assessed violations plus one.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_38_072__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Assessments under this section are subject to the provisions of RCW
+82.38.170
+.
+[
+2024 c 1 s 5
+;
+2013 c 225 s 204
+.]
+NOTES:
+Effective date
+—
+2024 c 1:
+See note following RCW
+46.87.020
+.
+Effective date
+—
+2013 c 225:
+See note following RCW
+82.38.010
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

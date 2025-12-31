@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4339"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4339"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4339/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4339/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4339/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4339/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4339">
+        <num>RCW 82.04.4339</num>
+        <heading>Deductions—Salmon recovery grants</heading>
+        <subsection eId="sec_82_04_4339__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing tax there may be deducted from the measure of tax amounts received by a nonprofit organization from the United States or any instrumentality thereof, the state of Washington or any municipal corporation or political subdivision thereof, or an Indian tribe as defined in RCW
+43.06.523
+, as salmon recovery grants.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4339__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For the purposes of this section, the following definitions apply:</p>
+          </content>
+          <subsection eId="sec_82_04_4339__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Nonprofit organization&quot; has the same meaning as in RCW
+82.04.3651
+.</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_04_4339__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Salmon recovery grant&quot; means, solely for the purposes of this section, financial assistance provided to primarily benefit the public as a whole by renewing, restoring, or protecting, by human intervention, salmon ecosystems or salmon habitats in this state, whether or not such financial assistance furthers the regulatory activities of the grantor.
+[
+2021 c 143 s 1
+;
+2004 c 241 s 1
+.]
+NOTES:
+Automatic expiration date and tax preference performance statement exemption
+—
+2021 c 143:
+&quot;The provisions of RCW
+82.32.805
+and
+82.32.808
+do not apply to this act.&quot; [
+2021 c 143 s 6
+.]
+Effective date
+—
+2021 c 143:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 26, 2021].&quot; [
+2021 c 143 s 7
+.]
+Effective date
+—
+2004 c 241:
+&quot;This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [March 31, 2004].&quot; [
+2004 c 241 s 2
+.]</p>
+            </content>
+          </subsection>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

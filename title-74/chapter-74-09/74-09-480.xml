@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.480"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.480"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.480/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.480/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.480/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.480/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_480">
+        <num>RCW 74.09.480</num>
+        <heading>Performance measures—Provider rate increases—Report</heading>
+        <subsection eId="sec_74_09_480__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The authority, in collaboration with the department of health, department of social and health services, health carriers, local public health jurisdictions, children's health care providers including pediatricians, family practitioners, *advanced registered nurse practitioners, certified nurse midwives, and pediatric subspecialists, community and migrant health centers, parents, and other purchasers, shall establish a concise set of explicit performance measures that can indicate whether children enrolled in the program are receiving health care through an established and effective medical home, and whether the overall health of enrolled children is improving. Such indicators may include, but are not limited to:</p>
+          </content>
+          <subsection eId="sec_74_09_480__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Childhood immunization rates;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_480__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Well child care utilization rates, including the use of behavioral and oral health screening, and validated, structured developmental screens using tools, that are consistent with nationally accepted pediatric guidelines and recommended administration schedule, once funding is specifically appropriated for this purpose;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_480__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Care management for children with chronic illnesses;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_480__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Emergency room utilization;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_480__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Visual acuity and eye health;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_480__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Preventive oral health service utilization; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_480__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Children's mental health status. In defining these measures the authority shall be guided by the measures provided in RCW
+71.36.025
+.
+Performance measures and targets for each performance measure must be established and monitored each biennium, with a goal of achieving measurable, improved health outcomes for the children of Washington state each biennium.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_480__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Beginning in calendar year 2009, targeted provider rate increases shall be linked to quality improvement measures established under this section. The authority, in conjunction with those groups identified in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_480__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, shall develop parameters for determining criteria for increased payment, alternative payment methodologies, or other incentives for those practices and health plans that incorporate evidence-based practice and achieve sustained improvement with respect to the measures.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_480__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The department shall provide a report to the governor and the legislature related to provider performance on these measures, as well as the information collected under RCW
+74.09.475
+, beginning in September 2010 for 2007 through 2009 and the authority shall provide the report biennially thereafter.
+[
+2023 c 51 s 42
+;
+2017 c 294 s 4
+;
+2011 1st sp.s. c 15 s 22
+;
+2009 c 463 s 4
+;
+2007 c 5 s 4
+.]
+NOTES:
+*Reviser's note:
+The term &quot;advanced registered nurse practitioner&quot; was changed to &quot;advanced practice registered nurse&quot; by 2024 c 239 s 1, effective June 30, 2027.
+Findings
+—
+2017 c 294:
+See note following RCW
+74.09.475
+.
+Effective date
+—
+Findings
+—
+Intent
+—
+Report
+—
+Agency transfer
+—
+References to head of health care authority
+—
+Draft legislation
+—
+2011 1st sp.s. c 15:
+See notes following RCW
+74.09.010
+.
+Findings
+—
+Intent
+—
+Short title
+—
+2009 c 463:
+See notes following RCW
+74.09.470
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.45.020"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.020"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.45.020/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.020/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.45.020/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.45.020/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_45_020">
+        <num>RCW 82.45.020</num>
+        <heading>&quot;Seller&quot; defined</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 82
+&gt;
+Chapter 82.45
+&gt;
+Section 82.45.020
+82.45.010
+&lt;&lt; 
+        82.45.020 &gt;&gt;
+82.45.030
+PDF
+RCW
+82.45.020
+&quot;Seller&quot; defined.
+As used in this chapter the term &quot;seller,&quot; unless otherwise indicated by the context, shall mean any individual, receiver, assignee, trustee in bankruptcy, trust, estate, firm, copartnership, joint venture, club, company, joint stock company, business trust, municipal corporation, quasi municipal corporation, corporation, association, society, or any group of individuals acting as a unit, whether mutual, cooperative, fraternal, nonprofit or otherwise; but it shall not include the United States or the state of Washington.
+[
+1980 c 154 s 1
+;
+1969 ex.s. c 223 s 28A.45.020
+. Prior:
+1951 1st ex.s. c 11 s 6
+. Formerly RCW
+28A.45.020
+,
+28.45.020
+.]
+NOTES:
+Purpose
+—
+Effective dates
+—
+Savings
+—
+Disposition of certain funds
+—
+Severability
+—
+1980 c 154:
+See notes following chapter digest.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

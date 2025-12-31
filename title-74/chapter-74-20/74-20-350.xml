@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.20.350"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.350"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.20.350/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.350/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.20.350/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.20.350/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_20_350">
+        <num>RCW 74.20.350</num>
+        <heading>Costs and attorneys' fees</heading>
+        <content>
+          <p>Print
+RCWs
+&gt;
+Title 74
+&gt;
+Chapter 74.20
+&gt;
+Section 74.20.350
+74.20.340
+&lt;&lt; 
+        74.20.350 &gt;&gt;
+74.20.360
+PDF
+RCW
+74.20.350
+Costs and attorneys' fees.
+In order to facilitate and ensure compliance with Title IV-D of the federal social security act, now existing or hereafter amended, wherein the state is required to undertake to establish parentage of such children as are born out of wedlock, the secretary of social and health services may pay the reasonable and proper fees of attorneys admitted to practice before the courts of this state, who are engaged in private practice for the purpose of maintaining actions under chapter
+26.26A
+or
+26.26B
+RCW on behalf of such children, to the end that parent and child relationships be determined and financial support obligations be established by superior court order. The secretary or the secretary's designee shall make the determination in each case as to which cases shall be referred for representation by such private attorneys. The secretary may advance, pay, or reimburse for payment of, such reasonable costs as may be attendant to an action under chapter
+26.26A
+or
+26.26B
+RCW. The representation by a private attorney shall be only on behalf of the subject child, the custodial natural parent, and the child's personal representative or guardian ad litem, and shall not in any manner be, or be construed to be, in representation of the department of social and health services or the state of Washington, such representation being restricted to that provided pursuant to chapters
+43.10
+and
+36.27
+RCW.
+[
+2019 c 46 s 5049
+;
+1979 ex.s. c 171 s 19
+.]
+NOTES:
+Severability
+—
+1979 ex.s. c 171:
+See note following RCW
+74.20.300
+.</p>
+        </content>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

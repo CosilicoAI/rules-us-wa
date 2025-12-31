@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.09.885"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.885"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.09.885/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.885/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.09.885/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.09.885/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_09_885">
+        <num>RCW 74.09.885</num>
+        <heading>Apple health and homes program—Definitions</heading>
+        <subsection eId="sec_74_09_885__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Community support services&quot; means active search and promotion of access to, and choice of, appropriate, safe, and affordable housing and ongoing supports to assure ongoing successful tenancy. The term includes, but is not limited to, services to medical assistance clients who are homeless or at risk of becoming homeless through outreach, engagement, and coordination of services with shelter and housing. The term includes benefits offered through the foundational community supports program established pursuant to the authority's federal waiver, entitled &quot;medicaid transformation project,&quot; as amended and reauthorized.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Community support services provider&quot; means a local entity that contracts with a coordinating entity to provide community support services. A community support services provider may also separately perform the functions of a housing provider.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Coordinating entity&quot; means one or more organizations, including medicaid managed care organizations, under contract with the authority to coordinate community support services as required under RCW
+74.09.886
+and
+74.09.888
+. There may only be one coordinating entity per regional service area.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of commerce.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Homeless person&quot; has the same meaning as in RCW
+43.185C.010
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Housing provider&quot; means a public or private organization that supplies permanent supportive housing units consistent with RCW
+36.70A.030
+to meet the housing needs of homeless persons. A housing provider may supply permanent supportive housing in a site-based or scattered site arrangement using a variety of public, private, philanthropic, or tenant-based sources of funds to cover operating costs or rent. A housing provider may also perform the functions of a community support services provider.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Office&quot; means the office of apple health and homes created in RCW
+43.330.181
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Program&quot; means the apple health and homes program established in RCW
+74.09.886
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Permanent supportive housing&quot; has the same meaning as in RCW
+36.70A.030
+.
+[
+2022 c 216 s 2
+.]
+NOTES:
+Findings
+—
+Intent
+—
+2022 c 216:
+&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The legislature finds that:</p>
+          </content>
+          <subsection eId="sec_74_09_885__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The epidemic of homelessness apparent in communities throughout Washington is creating immense suffering. It is threatening the health of homeless families and individuals, sapping their human potential, eroding public confidence, and undermining the shared values that have driven our state's prosperity, including public safety and access to public streets, parks, and facilities;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_885__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In seeking to identify the causes of this epidemic, a large proportion of those unsheltered also suffer from serious behavioral health or physical health conditions that will inevitably grow worse without timely and effective health care;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_885__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Housing is an indispensable element of effective health care. Stable housing is a prerequisite to addressing behavioral health needs and lack of housing is a precursor to poor health outcomes;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_885__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A home, health care, and wellness are fundamental for Washington residents;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_885__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Reducing homelessness is a priority of the people of Washington state and that reducing homelessness through policy alignment and reform lessens fiscal impact to the state and improves the economic vitality of our businesses;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_885__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>The impact of this epidemic is falling most heavily on those communities that already suffer the most serious health disparities: Black, indigenous, people of color, and historically marginalized and underserved communities. It is a moral imperative to shelter chronically homeless populations; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_09_885__subsec_1__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Washington state has many of the tools needed to address this challenge, including a network of safety net health and behavioral health care providers in both urban and rural areas, an effective system of health care coverage through apple health, and excellent public and nonprofit affordable housing providers. Yet far too many homeless families and individuals are going without the housing and health care resources they need because these tools have yet to be combined in an effective way across the state.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_09_885__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>It is the intent of the legislature to treat chronic homelessness as a medical condition and that the apple health and homes act address the needs of chronically homeless populations by pairing a health care problem with a health care solution.&quot; [
+2022 c 216 s 1
+.]
+Short title
+—
+2022 c 216:
+&quot;This act may be known and cited as the apple health and homes act.&quot; [
+2022 c 216 s 10
+.]</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

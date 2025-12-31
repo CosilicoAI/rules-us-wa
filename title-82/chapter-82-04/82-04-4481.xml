@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4481"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4481"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4481/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4481/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.04.4481/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.04.4481/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_04_4481">
+        <num>RCW 82.04.4481</num>
+        <heading>Credit—Property taxes paid by aluminum smelter</heading>
+        <subsection eId="sec_82_04_4481__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In computing the tax imposed under this chapter, a credit is allowed for all property taxes paid during the calendar year on property owned by a direct service industrial customer and reasonably necessary for the purposes of an aluminum smelter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4481__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A person claiming the credit under this section is subject to all the requirements of chapter
+82.32
+RCW. A credit earned during one calendar year may be carried over to be credited against taxes incurred in the subsequent calendar year, but may not be carried over a second year. Credits carried over must be applied to tax liability before new credits. No refunds may be granted for credits under this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4481__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Credits may not be claimed under this section for property taxes levied for collection in 2027 and thereafter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_04_4481__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A person claiming the credit provided in this section must file a complete annual tax performance report with the department under RCW
+82.32.534
+.
+[
+2017 c 135 s 18
+;
+2015 3rd sp.s. c 6 s 503
+;
+2011 c 174 s 302
+. Prior:
+2010 1st sp.s. c 2 s 2
+;
+2010 c 114 s 118
+;
+2006 c 182 s 2
+;
+2004 c 24 s 8
+.]
+NOTES:
+Effective date
+—
+2017 c 135:
+See note following RCW
+82.32.534
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Findings
+—
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 502-506:
+See note following RCW
+82.04.2909
+.
+Application
+—
+Finding
+—
+Intent
+—
+2010 c 114:
+See notes following RCW
+82.32.534
+.
+Intent
+—
+Effective date
+—
+2004 c 24:
+See notes following RCW
+82.04.2909
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

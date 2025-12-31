@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0207"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0207"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0207/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0207/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.0207/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.0207/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_0207">
+        <num>RCW 82.12.0207</num>
+        <heading>Exemptions—Adapted housing—Disabled veterans—Construction</heading>
+        <subsection eId="sec_82_12_0207__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An eligible purchaser who has paid the tax levied by RCW
+82.12.020
+on materials incorporated as an ingredient or component of adapted housing is eligible for an exemption from all or a portion of that tax in the form of a remittance.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_0207__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>All of the eligibility requirements, conditions, limitations, and definitions in RCW
+82.08.0207
+apply to this section.
+[
+2017 c 176 s 3
+.]
+NOTES:
+Reviser's note:
+The tax preference enacted in section 3, chapter 176, Laws of 2017 expires January 1, 2028, pursuant to the automatic expiration date in RCW
+82.32.805</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

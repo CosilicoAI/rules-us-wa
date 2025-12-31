@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/74.41.030"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.030"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/74.41.030/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.030/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/74.41.030/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/74.41.030/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_74_41_030">
+        <num>RCW 74.41.030</num>
+        <heading>Definitions</heading>
+        <subsection eId="sec_74_41_030__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Family caregiver long-term care information and support services&quot; means providing long-term care information and support services to unpaid family and other unpaid caregivers of adults with functional disabilities, including but not limited to providing:</p>
+          </content>
+          <subsection eId="sec_74_41_030__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Information about available public and private long-term care support services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_41_030__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>assistance in gaining access to an array of appropriate long-term care family caregiver services;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_41_030__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>promotion and implementation of support groups;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_41_030__subsec_1__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>caregiver training to assist the nonpaid caregivers in making decisions and solving challenges relating to their caregiving roles;</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_41_030__subsec_1__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>respite care services; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_74_41_030__subsec_1__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>additional supportive long-term care services that may include but not be limited to translating/interpreter services, specialized transportation, coordination of health care services, help purchasing needed supplies, durable goods, or equipment, and other forms of information and support necessary to maintain the unpaid caregiving activity.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_74_41_030__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Respite care services&quot; means relief care for families or other caregivers of adults with functional disabilities, eligibility for which shall be determined by the department by rule. The services provide temporary care or supervision of adults with functional disabilities in substitution for the caregiver. The term includes adult day services.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_030__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Eligible participant for family caregiver long-term care information and support services&quot; means an adult who needs substantially continuous care or supervision by reason of his or her functional disability and may be at risk of placement into a long-term care facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_030__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Eligible participant for respite care services&quot; means an adult who needs substantially continuous care or supervision by reason of his or her functional disability and is also assessed as requiring placement into a long-term care facility in the absence of an unpaid family or other unpaid caregiver.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_030__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Unpaid caregiver&quot; means a spouse, relative, or friend who has primary responsibility for the care of an adult with a functional disability and who does not receive financial compensation for the care. To be eligible for respite care and for family caregiver support services, the caregiver is considered the client.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_030__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Adult day services&quot; means nonmedical services to persons who live with their families, cannot be left unsupervised, and are at risk of being placed in a twenty-four-hour care facility if their families do not receive some relief from constant care.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_74_41_030__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Department&quot; means the department of social and health services.
+[
+2000 c 207 s 3
+;
+1987 c 409 s 2
+;
+1984 c 158 s 3
+.]
+NOTES:
+Short title
+—
+2000 c 207:
+See note following RCW
+74.41.020
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

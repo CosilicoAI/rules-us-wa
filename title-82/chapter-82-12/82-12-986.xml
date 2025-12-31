@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.12.986"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.986"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.12.986/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.986/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.12.986/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.12.986/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_12_986">
+        <num>RCW 82.12.986</num>
+        <heading>Exemptions—Eligible server equipment—Eligible power infrastructure—Computer data centers. (Expires July 1, 2053.)</heading>
+        <subsection eId="sec_82_12_986__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A qualifying business or a qualifying tenant is not eligible for the exemption under this section unless the department issued an exemption certificate to the qualifying business or a qualifying tenant for the exemption provided in RCW
+82.08.986
+.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_986__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The definitions and requirements in RCW
+82.08.986
+apply to this section.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_986__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The exemption provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_986__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section does not apply to the use of eligible server equipment and eligible power infrastructure, and the labor and services provided in subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_986__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this section, if first used by qualifying businesses or qualifying tenants on or after July 1, 2048.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_12_986__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>This section expires July 1, 2053.
+[
+2022 c 267 s 4
+;
+2015 3rd sp.s. c 6 s 303
+;
+2012 2nd sp.s. c 6 s 304
+;
+2010 1st sp.s. c 23 s 1602
+;
+2010 1st sp.s. c 1 s 3
+.]
+NOTES:
+Tax preference performance statement
+—
+2022 c 267 ss 3-6:
+See note following RCW
+82.08.986
+.
+Findings
+—
+Intent
+—
+2022 c 267:
+See note following RCW
+82.08.986
+.
+Effective dates
+—
+2015 3rd sp.s. c 6:
+See note following RCW
+82.04.4266
+.
+Tax preference performance statement
+—
+2015 3rd sp.s. c 6 ss 302 and 303:
+See note following RCW
+82.08.986
+.
+Intent
+—
+Finding
+—
+2012 2nd sp.s. c 6 ss 302, 303, and 304:
+See note following RCW
+82.08.986
+.
+Existing rights, liabilities, or obligations
+—
+Effective dates
+—
+Contingent effective dates
+—
+2012 2nd sp.s. c 6:
+See notes following RCW
+82.04.29005
+.
+Effective date
+—
+2010 1st sp.s. c 23:
+See note following RCW
+82.32.655
+.
+Findings
+—
+Intent
+—
+2010 1st sp.s. c 23:
+See notes following RCW
+82.04.220
+.
+Intent
+—
+Finding
+—
+Effective date
+—
+2010 1st sp.s. c 1:
+See notes following RCW
+82.08.986
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

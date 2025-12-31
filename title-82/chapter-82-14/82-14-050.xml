@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#wa-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-wa/act/rcw/82.14.050"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.050"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRcountry value="us-wa"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-wa/act/rcw/82.14.050/eng"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.050/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#wa-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-wa/act/rcw/82.14.050/eng/akn"/>
+          <FRBRuri value="/us-wa/act/rcw/82.14.050/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="wa-legislature" href="/ontology/organization/us-wa/legislature" showAs="Washington State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_82_14_050">
+        <num>RCW 82.14.050</num>
+        <heading>Administration and collection—Local sales and use tax account</heading>
+        <subsection eId="sec_82_14_050__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The counties, cities, and transportation authorities under RCW
+82.14.045
+, public facilities districts under chapters
+36.100
+and
+35.57
+RCW, public transportation benefit areas under RCW
+82.14.440
+, regional transportation investment districts, and transportation benefit districts under chapter
+36.73
+RCW must contract, prior to the effective date of a resolution or ordinance imposing a sales and use tax, the administration and collection to the state department of revenue, which must deduct a percentage amount, as provided by contract, not to exceed two percent of the taxes collected for administration and collection expenses incurred by the department. The remainder of any portion of any tax authorized by this chapter that is collected by the department of revenue must be deposited by the state department of revenue in the local sales and use tax account hereby created in the state treasury. Beginning January 1, 2013, the department of revenue must make deposits in the local sales and use tax account on a monthly basis on the last business day of the month in which distributions required in</p>
+          </content>
+          <subsection eId="sec_82_14_050__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this subsection are due. Moneys in the local sales and use tax account may be withdrawn only for:</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_050__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Distribution to counties, cities, transportation authorities, public facilities districts, public transportation benefit areas, regional transportation investment districts, and transportation benefit districts imposing a sales and use tax; and</p>
+            </content>
+          </subsection>
+          <subsection eId="sec_82_14_050__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Making refunds of taxes imposed under the authority of this chapter and RCW
+81.104.170
+and exempted under RCW
+82.08.962
+,
+82.12.962
+,
+82.08.02565
+,
+82.12.02565
+,
+82.08.025661
+, or
+82.12.025661
+.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_050__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>All administrative provisions in chapters
+82.03
+, 82.08, 82.12, and
+82.32
+RCW, as they now exist or may hereafter be amended, insofar as they are applicable to state sales and use taxes, are applicable to taxes imposed pursuant to this chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_050__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Counties, cities, transportation authorities, public facilities districts, and regional transportation investment districts may not conduct independent sales or use tax audits of sellers registered under the streamlined sales tax agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_050__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Except as provided in RCW
+43.08.190
+and subsection</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>of this section, all earnings of investments of balances in the local sales and use tax account must be credited to the local sales and use tax account and distributed to the counties, cities, transportation authorities, public facilities districts, public transportation benefit areas, regional transportation investment districts, and transportation benefit districts monthly.</p>
+          </content>
+        </subsection>
+        <subsection eId="sec_82_14_050__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Beginning January 1, 2013, the state treasurer must determine the amount of earnings on investments that would have been credited to the local sales and use tax account if the collections had been deposited in the account over the prior month. When distributions are made under subsection</p>
+          </content>
+          <subsection eId="sec_82_14_050__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this section, the state treasurer must transfer this amount from the state general fund to the local sales and use tax account and must distribute such sums to the counties, cities, transportation authorities, public facilities districts, public transportation benefit areas, regional transportation investment districts, and transportation benefit districts.</p>
+            </content>
+          </subsection>
+        </subsection>
+        <subsection eId="sec_82_14_050__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Repayment of deferred local sales and use taxes due under RCW
+82.32.558
+is subject to the requirements of RCW
+82.32.559
+.
+[
+2021 c 178 s 2
+;
+2016 c 191 s 4
+;
+2014 c 216 s 403
+;
+2012 1st sp.s. c 9 s 1
+;
+2009 c 469 s 107
+;
+2005 c 336 s 20
+. Prior:
+2003 c 168 s 201
+;
+2003 c 83 s 208
+;
+2002 c 56 s 406
+;
+1999 c 165 s 14
+;
+1991 sp.s. c 13 s 34
+;
+1991 c 207 s 2
+;
+1990 2nd ex.s. c 1 s 201
+;
+1985 c 57 s 81
+;
+1981 2nd ex.s. c 4 s 10
+;
+1971 ex.s. c 296 s 3
+;
+1970 ex.s. c 94 s 6
+.]
+NOTES:
+Effective date
+—
+2016 c 191:
+See note following RCW
+82.08.025661
+.
+Effective date
+—
+Findings
+—
+Tax preference performance statement
+—
+2014 c 216:
+See notes following RCW
+82.38.030
+.
+Effective date
+—
+2009 c 469:
+See note following RCW
+82.08.962
+.
+Effective date
+—
+2005 c 336:
+See note following RCW
+36.73.015
+.
+Effective dates
+—
+Part headings not law
+—
+2003 c 168:
+See notes following RCW
+82.08.010
+.
+Findings
+—
+Intent
+—
+Captions, part headings not law
+—
+Severability
+—
+Effective date
+—
+2003 c 83:
+See notes following RCW
+36.57A.200
+.
+Effective dates
+—
+Severability
+—
+1991 sp.s. c 13:
+See notes following RCW
+18.08.240
+.
+Applicability
+—
+1990 2nd ex.s. c 1 ss 201-204:
+&quot;Sections 201 through 204 of this act shall not be effective for earnings on balances prior to July 1, 1990, regardless of when a distribution is made.&quot; [
+1990 2nd ex.s. c 1 s 205
+.]
+Severability
+—
+1990 2nd ex.s. c 1:
+See note following RCW
+82.14.300
+.
+Effective date
+—
+1985 c 57:
+See note following RCW
+18.04.105
+.
+Severability
+—
+1981 2nd ex.s. c 4:
+See note following RCW
+43.30.325
+.
+Legislative finding, declaration
+—
+Severability
+—
+1971 ex.s. c 296:
+See notes following RCW
+82.14.045
+.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
